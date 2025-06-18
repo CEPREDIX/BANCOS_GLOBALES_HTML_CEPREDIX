@@ -1,0 +1,158 @@
+[
+  {
+    "question": "¿Cuál es la clasificación morfológica correcta de la palabra \"biblioteca\"?",
+    "options": [
+      "Sustantivo común, femenino, singular",
+      "Adjetivo calificativo, femenino, singular",
+      "Verbo transitivo, tercera persona, singular",
+      "Adverbio de lugar",
+      "No puedo identificar la respuesta"
+    ],
+    "tags": ["Clases de palabras", "Morfología"],
+    "hint": "Nombres de lugares",
+    "explanation": "\"Biblioteca\" es un sustantivo común que designa un lugar, y es femenino y singular."
+  },
+  {
+    "question": "En la oración \"El profesor corrige los ejercicios\", ¿cuál es el núcleo del sujeto?",
+    "options": [
+      "Profesor",
+      "Ejercicios",
+      "Corrige",
+      "El",
+      "No puedo identificar la respuesta"
+    ],
+    "tags": ["Análisis sintáctico", "Sujeto"],
+    "hint": "Sujeto explícito",
+    "explanation": "El núcleo del sujeto es \"profesor\", que es el sustantivo principal que realiza la acción."
+  },
+  {
+    "question": "¿Cuál de las siguientes palabras es un adverbio de modo?",
+    "options": [
+      "Rápidamente",
+      "Aquí",
+      "Muy",
+      "Ella",
+      "No puedo identificar la respuesta"
+    ],
+    "tags": ["Clases de palabras", "Adverbios"],
+    "hint": "Cómo se realiza la acción",
+    "explanation": "\"Rápidamente\" indica la manera en que se realiza la acción, por lo que es un adverbio de modo."
+  },
+  {
+    "question": "En el análisis morfológico, ¿qué función cumple la palabra \"que\" en la oración \"El libro que compré es interesante\"?",
+    "options": [
+      "Pronombre relativo",
+      "Conjunción copulativa",
+      "Adverbio interrogativo",
+      "Determinante posesivo",
+      "No puedo identificar la respuesta"
+    ],
+    "tags": ["Análisis morfológico", "Pronombres"],
+    "hint": "Relaciona oraciones",
+    "explanation": "\"Que\" en esta oración introduce una proposición subordinada y funciona como pronombre relativo."
+  },
+  {
+    "question": "¿Cuál es la categoría gramatical de la palabra \"corriendo\" en \"Está corriendo en el parque\"?",
+    "options": [
+      "Verbo en gerundio",
+      "Adjetivo calificativo",
+      "Sustantivo común",
+      "Adverbio temporal",
+      "No puedo identificar la respuesta"
+    ],
+    "tags": ["Morfología", "Verbos"],
+    "hint": "Forma no personal del verbo",
+    "explanation": "\"Corriendo\" es una forma verbal no personal que indica una acción en progreso, es un gerundio."
+  },
+  {
+    "question": "Son preposiciones en español:",
+    "options": [
+      "A, con, para, por",
+      "Y, o, pero, sino",
+      "Grande, pequeño, rápido, lento",
+      "Allí, aquí, allá",
+      "No puedo identificar la respuesta"
+    ],
+    "tags": ["Clases de palabras", "Preposiciones"],
+    "hint": "Relación entre elementos",
+    "explanation": "Las preposiciones relacionan palabras o grupos dentro de la oración y \"a\", \"con\", \"para\", \"por\" son preposiciones."
+  },
+  {
+    "question": "En la oración \"Aunque llueva, iremos al parque\", el término \"Aunque\" funciona como:",
+    "options": [
+      "Conjunción concesiva",
+      "Adverbio de negación",
+      "Pronombre interrogativo",
+      "Determinante demostrativo",
+      "No puedo identificar la respuesta"
+    ],
+    "tags": ["Análisis sintáctico", "Conjunciones"],
+    "hint": "Contraste o concesión",
+    "explanation": "\"Aunque\" introduce una oración concesiva que expresa una objeción que no impide la acción principal."
+  },
+  {
+    "question": "Complete: El ______ es el conjunto de palabras que realiza una función sintáctica dentro de la oración y puede contener núcleo y modificadores.",
+    "options": [
+      "Sintagma",
+      "Verbo",
+      "Predicado",
+      "Adjetivo",
+      "No puedo identificar la respuesta"
+    ],
+    "tags": ["Análisis sintáctico", "Conceptos"],
+    "hint": "Unidad mínima con función",
+    "explanation": "El sintagma es un conjunto de palabras que forman una unidad funcional en la oración."
+  },
+  {
+    "question": "Complete: Los sustantivos pueden clasificarse en ______ y ______, según si designan cosas concretas o abstractas.",
+    "options": [
+      "concretos, abstractos",
+      "comunes, propios",
+      "contables, incontables",
+      "individuales, colectivos",
+      "No puedo identificar la respuesta"
+    ],
+    "tags": ["Clasificación de palabras", "Sustantivos"],
+    "hint": "Tipos por referencia",
+    "explanation": "Los sustantivos pueden ser concretos, que designan objetos reales, o abstractos, que expresan ideas o sentimientos."
+  },
+  {
+    "question": "Relacione correctamente: A) Sustantivo, B) Adjetivo, C) Verbo; I) Corre, II) Rápido, III) Casa",
+    "options": [
+      "A-III; B-II; C-I",
+      "A-I; B-III; C-II",
+      "A-II; B-I; C-III",
+      "A-III; B-I; C-II",
+      "No puedo identificar la respuesta"
+    ],
+    "tags": ["Análisis morfológico", "Relaciones"],
+    "hint": "Clases gramaticales básicas",
+    "explanation": "\"Casa\" es un sustantivo, \"Rápido\" es un adjetivo y \"Corre\" es un verbo."
+  },
+  {
+    "question": "Complete: En el análisis sintáctico, el ______ es el elemento que indica la acción realizada o el estado del sujeto.",
+    "options": [
+      "núcleo del predicado",
+      "sujeto",
+      "complemento directo",
+      "determinante",
+      "No puedo identificar la respuesta"
+    ],
+    "tags": ["Análisis sintáctico", "Predicado"],
+    "hint": "Centro de la acción",
+    "explanation": "El núcleo del predicado es el verbo principal que expresa la acción o estado del sujeto."
+  },
+  {
+    "question": "Complete: El análisis morfológico estudia la estructura interna de las palabras y sus ______ dentro de la oración.",
+    "options": [
+      "funciones sintácticas",
+      "oraciones subordinadas",
+      "clases semánticas",
+      "tipos de textos",
+      "No puedo identificar la respuesta"
+    ],
+    "tags": ["Análisis morfológico", "Sintaxis"],
+    "hint": "Relación con la oración",
+    "explanation": "El análisis morfológico examina cómo las palabras se forman y qué función desempeñan en la oración."
+  }
+]
