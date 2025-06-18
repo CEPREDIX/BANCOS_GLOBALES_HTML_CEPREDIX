@@ -6,7 +6,7 @@
       { "text": "Adjetivo calificativo, femenino, singular", "correct": false },
       { "text": "Verbo transitivo, tercera persona, singular", "correct": false },
       { "text": "Adverbio de lugar", "correct": false },
-      { "text": "No puedo identificar la respuesta", "correct": false }
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
     "tags": ["Clases de palabras", "Morfología"],
     "hint": "Nombres de lugares",
@@ -19,7 +19,7 @@
       { "text": "Ejercicios", "correct": false },
       { "text": "Corrige", "correct": false },
       { "text": "El", "correct": false },
-      { "text": "No puedo identificar la respuesta", "correct": false }
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
     "tags": ["Análisis sintáctico", "Sujeto"],
     "hint": "Sujeto explícito",
@@ -32,7 +32,7 @@
       { "text": "Aquí", "correct": false },
       { "text": "Muy", "correct": false },
       { "text": "Ella", "correct": false },
-      { "text": "No puedo identificar la respuesta", "correct": false }
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
     "tags": ["Clases de palabras", "Adverbios"],
     "hint": "Cómo se realiza la acción",
@@ -45,7 +45,7 @@
       { "text": "Conjunción copulativa", "correct": false },
       { "text": "Adverbio interrogativo", "correct": false },
       { "text": "Determinante posesivo", "correct": false },
-      { "text": "No puedo identificar la respuesta", "correct": false }
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
     "tags": ["Análisis morfológico", "Pronombres"],
     "hint": "Relaciona oraciones",
@@ -58,7 +58,7 @@
       { "text": "Adjetivo calificativo", "correct": false },
       { "text": "Sustantivo común", "correct": false },
       { "text": "Adverbio temporal", "correct": false },
-      { "text": "No puedo identificar la respuesta", "correct": false }
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
     "tags": ["Morfología", "Verbos"],
     "hint": "Forma no personal del verbo",
@@ -71,7 +71,7 @@
       { "text": "Y, o, pero, sino", "correct": false },
       { "text": "Grande, pequeño, rápido, lento", "correct": false },
       { "text": "Allí, aquí, allá", "correct": false },
-      { "text": "No puedo identificar la respuesta", "correct": false }
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
     "tags": ["Clases de palabras", "Preposiciones"],
     "hint": "Relación entre elementos",
@@ -84,7 +84,7 @@
       { "text": "Adverbio de negación", "correct": false },
       { "text": "Pronombre interrogativo", "correct": false },
       { "text": "Determinante demostrativo", "correct": false },
-      { "text": "No puedo identificar la respuesta", "correct": false }
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
     "tags": ["Análisis sintáctico", "Conjunciones"],
     "hint": "Contraste o concesión",
@@ -97,7 +97,7 @@
       { "text": "Verbo", "correct": false },
       { "text": "Predicado", "correct": false },
       { "text": "Adjetivo", "correct": false },
-      { "text": "No puedo identificar la respuesta", "correct": false }
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
     "tags": ["Análisis sintáctico", "Conceptos"],
     "hint": "Unidad mínima con función",
@@ -110,7 +110,7 @@
       { "text": "comunes, propios", "correct": false },
       { "text": "contables, incontables", "correct": false },
       { "text": "individuales, colectivos", "correct": false },
-      { "text": "No puedo identificar la respuesta", "correct": false }
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
     "tags": ["Clasificación de palabras", "Sustantivos"],
     "hint": "Tipos por referencia",
@@ -123,7 +123,7 @@
       { "text": "A-I; B-III; C-II", "correct": false },
       { "text": "A-II; B-I; C-III", "correct": false },
       { "text": "A-III; B-I; C-II", "correct": false },
-      { "text": "No puedo identificar la respuesta", "correct": false }
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
     "tags": ["Análisis morfológico", "Relaciones"],
     "hint": "Clases gramaticales básicas",
@@ -136,7 +136,7 @@
       { "text": "sujeto", "correct": false },
       { "text": "complemento directo", "correct": false },
       { "text": "determinante", "correct": false },
-      { "text": "No puedo identificar la respuesta", "correct": false }
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
     "tags": ["Análisis sintáctico", "Predicado"],
     "hint": "Centro de la acción",
@@ -149,7 +149,7 @@
       { "text": "oraciones subordinadas", "correct": false },
       { "text": "clases semánticas", "correct": false },
       { "text": "tipos de textos", "correct": false },
-      { "text": "No puedo identificar la respuesta", "correct": false }
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
     "tags": ["Análisis morfológico", "Sintaxis"],
     "hint": "Relación con la oración",
