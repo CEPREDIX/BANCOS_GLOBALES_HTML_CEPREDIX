@@ -2,11 +2,11 @@
   {
     "question": "¿Cuál es la clasificación morfológica correcta de la palabra \"biblioteca\"?",
     "options": [
-      "Sustantivo común, femenino, singular",
-      "Adjetivo calificativo, femenino, singular",
-      "Verbo transitivo, tercera persona, singular",
-      "Adverbio de lugar",
-      "No puedo identificar la respuesta"
+      { "text": "Sustantivo común, femenino, singular", "correct": true },
+      { "text": "Adjetivo calificativo, femenino, singular", "correct": false },
+      { "text": "Verbo transitivo, tercera persona, singular", "correct": false },
+      { "text": "Adverbio de lugar", "correct": false },
+      { "text": "No puedo identificar la respuesta", "correct": false }
     ],
     "tags": ["Clases de palabras", "Morfología"],
     "hint": "Nombres de lugares",
@@ -15,11 +15,11 @@
   {
     "question": "En la oración \"El profesor corrige los ejercicios\", ¿cuál es el núcleo del sujeto?",
     "options": [
-      "Profesor",
-      "Ejercicios",
-      "Corrige",
-      "El",
-      "No puedo identificar la respuesta"
+      { "text": "Profesor", "correct": true },
+      { "text": "Ejercicios", "correct": false },
+      { "text": "Corrige", "correct": false },
+      { "text": "El", "correct": false },
+      { "text": "No puedo identificar la respuesta", "correct": false }
     ],
     "tags": ["Análisis sintáctico", "Sujeto"],
     "hint": "Sujeto explícito",
@@ -28,11 +28,11 @@
   {
     "question": "¿Cuál de las siguientes palabras es un adverbio de modo?",
     "options": [
-      "Rápidamente",
-      "Aquí",
-      "Muy",
-      "Ella",
-      "No puedo identificar la respuesta"
+      { "text": "Rápidamente", "correct": true },
+      { "text": "Aquí", "correct": false },
+      { "text": "Muy", "correct": false },
+      { "text": "Ella", "correct": false },
+      { "text": "No puedo identificar la respuesta", "correct": false }
     ],
     "tags": ["Clases de palabras", "Adverbios"],
     "hint": "Cómo se realiza la acción",
@@ -41,11 +41,11 @@
   {
     "question": "En el análisis morfológico, ¿qué función cumple la palabra \"que\" en la oración \"El libro que compré es interesante\"?",
     "options": [
-      "Pronombre relativo",
-      "Conjunción copulativa",
-      "Adverbio interrogativo",
-      "Determinante posesivo",
-      "No puedo identificar la respuesta"
+      { "text": "Pronombre relativo", "correct": true },
+      { "text": "Conjunción copulativa", "correct": false },
+      { "text": "Adverbio interrogativo", "correct": false },
+      { "text": "Determinante posesivo", "correct": false },
+      { "text": "No puedo identificar la respuesta", "correct": false }
     ],
     "tags": ["Análisis morfológico", "Pronombres"],
     "hint": "Relaciona oraciones",
@@ -54,11 +54,11 @@
   {
     "question": "¿Cuál es la categoría gramatical de la palabra \"corriendo\" en \"Está corriendo en el parque\"?",
     "options": [
-      "Verbo en gerundio",
-      "Adjetivo calificativo",
-      "Sustantivo común",
-      "Adverbio temporal",
-      "No puedo identificar la respuesta"
+      { "text": "Verbo en gerundio", "correct": true },
+      { "text": "Adjetivo calificativo", "correct": false },
+      { "text": "Sustantivo común", "correct": false },
+      { "text": "Adverbio temporal", "correct": false },
+      { "text": "No puedo identificar la respuesta", "correct": false }
     ],
     "tags": ["Morfología", "Verbos"],
     "hint": "Forma no personal del verbo",
@@ -67,11 +67,11 @@
   {
     "question": "Son preposiciones en español:",
     "options": [
-      "A, con, para, por",
-      "Y, o, pero, sino",
-      "Grande, pequeño, rápido, lento",
-      "Allí, aquí, allá",
-      "No puedo identificar la respuesta"
+      { "text": "A, con, para, por", "correct": true },
+      { "text": "Y, o, pero, sino", "correct": false },
+      { "text": "Grande, pequeño, rápido, lento", "correct": false },
+      { "text": "Allí, aquí, allá", "correct": false },
+      { "text": "No puedo identificar la respuesta", "correct": false }
     ],
     "tags": ["Clases de palabras", "Preposiciones"],
     "hint": "Relación entre elementos",
@@ -80,11 +80,11 @@
   {
     "question": "En la oración \"Aunque llueva, iremos al parque\", el término \"Aunque\" funciona como:",
     "options": [
-      "Conjunción concesiva",
-      "Adverbio de negación",
-      "Pronombre interrogativo",
-      "Determinante demostrativo",
-      "No puedo identificar la respuesta"
+      { "text": "Conjunción concesiva", "correct": true },
+      { "text": "Adverbio de negación", "correct": false },
+      { "text": "Pronombre interrogativo", "correct": false },
+      { "text": "Determinante demostrativo", "correct": false },
+      { "text": "No puedo identificar la respuesta", "correct": false }
     ],
     "tags": ["Análisis sintáctico", "Conjunciones"],
     "hint": "Contraste o concesión",
@@ -93,11 +93,11 @@
   {
     "question": "Complete: El ______ es el conjunto de palabras que realiza una función sintáctica dentro de la oración y puede contener núcleo y modificadores.",
     "options": [
-      "Sintagma",
-      "Verbo",
-      "Predicado",
-      "Adjetivo",
-      "No puedo identificar la respuesta"
+      { "text": "Sintagma", "correct": true },
+      { "text": "Verbo", "correct": false },
+      { "text": "Predicado", "correct": false },
+      { "text": "Adjetivo", "correct": false },
+      { "text": "No puedo identificar la respuesta", "correct": false }
     ],
     "tags": ["Análisis sintáctico", "Conceptos"],
     "hint": "Unidad mínima con función",
@@ -106,11 +106,11 @@
   {
     "question": "Complete: Los sustantivos pueden clasificarse en ______ y ______, según si designan cosas concretas o abstractas.",
     "options": [
-      "concretos, abstractos",
-      "comunes, propios",
-      "contables, incontables",
-      "individuales, colectivos",
-      "No puedo identificar la respuesta"
+      { "text": "concretos, abstractos", "correct": true },
+      { "text": "comunes, propios", "correct": false },
+      { "text": "contables, incontables", "correct": false },
+      { "text": "individuales, colectivos", "correct": false },
+      { "text": "No puedo identificar la respuesta", "correct": false }
     ],
     "tags": ["Clasificación de palabras", "Sustantivos"],
     "hint": "Tipos por referencia",
@@ -119,11 +119,11 @@
   {
     "question": "Relacione correctamente: A) Sustantivo, B) Adjetivo, C) Verbo; I) Corre, II) Rápido, III) Casa",
     "options": [
-      "A-III; B-II; C-I",
-      "A-I; B-III; C-II",
-      "A-II; B-I; C-III",
-      "A-III; B-I; C-II",
-      "No puedo identificar la respuesta"
+      { "text": "A-III; B-II; C-I", "correct": true },
+      { "text": "A-I; B-III; C-II", "correct": false },
+      { "text": "A-II; B-I; C-III", "correct": false },
+      { "text": "A-III; B-I; C-II", "correct": false },
+      { "text": "No puedo identificar la respuesta", "correct": false }
     ],
     "tags": ["Análisis morfológico", "Relaciones"],
     "hint": "Clases gramaticales básicas",
@@ -132,11 +132,11 @@
   {
     "question": "Complete: En el análisis sintáctico, el ______ es el elemento que indica la acción realizada o el estado del sujeto.",
     "options": [
-      "núcleo del predicado",
-      "sujeto",
-      "complemento directo",
-      "determinante",
-      "No puedo identificar la respuesta"
+      { "text": "núcleo del predicado", "correct": true },
+      { "text": "sujeto", "correct": false },
+      { "text": "complemento directo", "correct": false },
+      { "text": "determinante", "correct": false },
+      { "text": "No puedo identificar la respuesta", "correct": false }
     ],
     "tags": ["Análisis sintáctico", "Predicado"],
     "hint": "Centro de la acción",
@@ -145,11 +145,11 @@
   {
     "question": "Complete: El análisis morfológico estudia la estructura interna de las palabras y sus ______ dentro de la oración.",
     "options": [
-      "funciones sintácticas",
-      "oraciones subordinadas",
-      "clases semánticas",
-      "tipos de textos",
-      "No puedo identificar la respuesta"
+      { "text": "funciones sintácticas", "correct": true },
+      { "text": "oraciones subordinadas", "correct": false },
+      { "text": "clases semánticas", "correct": false },
+      { "text": "tipos de textos", "correct": false },
+      { "text": "No puedo identificar la respuesta", "correct": false }
     ],
     "tags": ["Análisis morfológico", "Sintaxis"],
     "hint": "Relación con la oración",
