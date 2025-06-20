@@ -624,7 +624,7 @@
     "explanation": "«Ante» y «bajo» son preposiciones que introducen complementos."
   },
   {
-    "question": "En la oración «______ quiero que ______ aquí mañana», los espacios deben completarse con la forma del verbo «estar» en subjuntivo y el pronombre personal correspondiente para expresar deseo:",
+    "question": "En la oración «______ que ______ aquí mañana», los espacios deben completarse con la forma del verbo «estar» en subjuntivo y el pronombre personal correspondiente para expresar deseo:",
     "options": [
       { "text": "Espero, esté", "correct": true },
       { "text": "Espero, estés mañana", "correct": false },
