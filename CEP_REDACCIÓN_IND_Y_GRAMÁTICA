@@ -806,7 +806,7 @@
     "explanation": "La interjección y signos marcan exclamación."
   },
   {
-    "question": "En «Luchó ______ venció», la conjunción adversativa omitida es «pero».",
+    "question": "En «Luchó ______ venció», la conjunción adversativa omitida es: .",
     "options": [
       { "text": "pero", "correct": true },
       { "text": "y sin embargo", "correct": false },
