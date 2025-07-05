@@ -1,0 +1,563 @@
+[
+  {
+    "question": "¿Qué significa eucarionte?",
+    "options": [
+      {"text": "Con núcleo verdadero", "correct": true},
+      {"text": "Sin núcleo verdadero", "correct": false},
+      {"text": "Sin núcleo definido", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Célula vegetal",
+    "explanation": "Las células con núcleo verdadero se denominan eucariontes."
+  },
+  {
+    "question": "¿Quién descubrió las células al estudiar un pedazo de corcho en 1665?",
+    "options": [
+      {"text": "Robert Hooke", "correct": true},
+      {"text": "Leeuwenhoek", "correct": false},
+      {"text": "Robert Brown", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Tejido suberoso",
+    "explanation": "Robert Hooke descubrió las células muertas al observar corcho."
+  },
+  {
+    "question": "Completa: La teoría celular fue ampliada por R. Virchow en 1855 quien añadió: <<______>>, lo que significa que toda célula proviene de otra célula.",
+    "options": [
+      {"text": "Omnis cellulae é cellulae", "correct": true},
+      {"text": "Omnis organismus é cellulae", "correct": false},
+      {"text": "Cellula est unitas vitae", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Frase en latín",
+    "explanation": "Virchow completó la teoría celular con este principio fundamental."
+  },
+  {
+    "question": "Relaciona correctamente: A) Procariota, B) Eucariota, C) Teoría celular; I) Carece de envoltura nuclear, II) Presenta núcleo verdadero, III) Todos los organismos están constituidos por células",
+    "options": [
+      {"text": "A-I; B-II; C-III", "correct": true},
+      {"text": "A-II; B-I; C-III", "correct": false},
+      {"text": "A-III; B-II; C-I", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Organización celular",
+    "explanation": "Las procariotas carecen de núcleo, las eucariotas lo tienen, y la teoría celular establece que todos los organismos están formados por células."
+  },
+  {
+    "question": "Son organelos exclusivos de la célula vegetal:",
+    "options": [
+      {"text": "Pared celular, plastidios, vacuola", "correct": true},
+      {"text": "Centriolos, lisosomas, glucocalix", "correct": false},
+      {"text": "Mitocondrias, ribosomas, núcleo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Estructuras de soporte y almacenamiento",
+    "explanation": "La célula vegetal tiene estructuras únicas como pared celular y plastidios."
+  },
+  {
+    "question": "¿Cuál es la función principal de los carbohidratos en las células?",
+    "options": [
+      {"text": "Principalmente obtención de energía", "correct": true},
+      {"text": "Almacenamiento de información genética", "correct": false},
+      {"text": "Formación de membranas celulares", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Moléculas orgánicas",
+    "explanation": "Los carbohidratos son la principal fuente de energía celular."
+  },
+  {
+    "question": "¿Qué científico descubrió el núcleo celular al estudiar la epidermis de la orquídea en 1831?",
+    "options": [
+      {"text": "Robert Brown", "correct": true},
+      {"text": "Matías Schleiden", "correct": false},
+      {"text": "Theodor Schwann", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Estructura celular",
+    "explanation": "Robert Brown fue el primero en describir el núcleo celular."
+  },
+  {
+    "question": "Completa: El ______ es el organelo responsable de la síntesis de proteínas, proceso que se denomina ______.",
+    "options": [
+      {"text": "ribosoma, traducción", "correct": true},
+      {"text": "retículo endoplásmico, transcripción", "correct": false},
+      {"text": "aparato de Golgi, secreción", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "ARN mensajero",
+    "explanation": "Los ribosomas leen el ARNm y ensamblan proteínas mediante traducción."
+  },
+  {
+    "question": "¿Cuál es la diferencia principal entre células procariotas y eucariotas?",
+    "options": [
+      {"text": "Presencia de envoltura nuclear", "correct": true},
+      {"text": "Tamaño de los ribosomas", "correct": false},
+      {"text": "Presencia de mitocondrias", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Organización del material genético",
+    "explanation": "Las eucariotas tienen núcleo verdadero con membrana nuclear, las procariotas no."
+  },
+  {
+    "question": "Relaciona las fases de la mitosis con sus características: A) Profase, B) Metafase, C) Anafase; I) Cromosomas en placa ecuatorial, II) Separación de cromátidas, III) Condensación de cromosomas",
+    "options": [
+      {"text": "A-III; B-I; C-II", "correct": true},
+      {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-II; B-III; C-I", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Orden secuencial",
+    "explanation": "La mitosis sigue un orden definido: condensación, alineación y separación cromosómica."
+  },
+  {
+    "question": "¿Qué organelo celular se describe como <<procesador, empaquetador, distribuidor y secretor de las células>>?",
+    "options": [
+      {"text": "Aparato de Golgi", "correct": true},
+      {"text": "Retículo endoplásmico", "correct": false},
+      {"text": "Lisosoma", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Sistema de endomembranas",
+    "explanation": "El Golgi modifica, clasifica y empaqueta proteínas para su distribución."
+  },
+  {
+    "question": "Son características de la respiración aerobia:",
+    "options": [
+      {"text": "Utiliza oxígeno, ocurre en mitocondria, produce 38 ATP", "correct": true},
+      {"text": "No utiliza oxígeno, ocurre en citosol, produce 2 ATP", "correct": false},
+      {"text": "Utiliza oxígeno, ocurre en cloroplastos, produce 36 ATP", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Organismos evolucionados",
+    "explanation": "La respiración aerobia es altamente eficiente y depende del oxígeno."
+  },
+  {
+    "question": "¿Qué científico formuló junto con Theodor Schwann la teoría celular en 1838-39?",
+    "options": [
+      {"text": "Matías Schleiden", "correct": true},
+      {"text": "Rudolf Virchow", "correct": false},
+      {"text": "Ernst Haeckel", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Botánico alemán",
+    "explanation": "Schleiden (botánico) y Schwann (zoólogo) establecieron los postulados de la teoría celular."
+  },
+  {
+    "question": "Completa: En la fase ______ de la fotosíntesis se consume agua y se libera oxígeno, mientras que en la fase ______ se consume CO2 y se sintetiza glucosa.",
+    "options": [
+      {"text": "luminosa, oscura", "correct": true},
+      {"text": "oscura, luminosa", "correct": false},
+      {"text": "clara, oscura", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Cloroplasto",
+    "explanation": "La fotosíntesis tiene dos fases con funciones y localizaciones distintas en el cloroplasto."
+  },
+  {
+    "question": "¿Qué tipo de ARN transporta aminoácidos a los ribosomas durante la síntesis de proteínas?",
+    "options": [
+      {"text": "ARNt (ARN de transferencia)", "correct": true},
+      {"text": "ARNm (ARN mensajero)", "correct": false},
+      {"text": "ARNr (ARN ribosómico)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Hoja de trébol",
+    "explanation": "El ARNt tiene la función específica de llevar aminoácidos al sitio de síntesis proteica."
+  },
+  {
+    "question": "Relaciona los científicos con sus descubrimientos: A) Mendel, B) Watson y Crick, C) Margulis; I) Leyes de la herencia, II) Estructura del ADN, III) Teoría endosimbiótica",
+    "options": [
+      {"text": "A-I; B-II; C-III", "correct": true},
+      {"text": "A-II; B-III; C-I", "correct": false},
+      {"text": "A-III; B-I; C-II", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Contribuciones históricas",
+    "explanation": "Cada científico hizo contribuciones fundamentales en diferentes áreas de la biología."
+  },
+  {
+    "question": "¿Cuál es el balance energético total de la respiración aerobia por molécula de glucosa?",
+    "options": [
+      {"text": "38 ATP", "correct": true},
+      {"text": "2 ATP", "correct": false},
+      {"text": "36 ATP", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Eficiencia metabólica",
+    "explanation": "La respiración aerobia produce 38 ATP considerando glucólisis, ciclo de Krebs y cadena respiratoria."
+  },
+  {
+    "question": "Son características del reino Monera:",
+    "options": [
+      {"text": "Organismos procariotas, unicelulares, reproducción por bipartición", "correct": true},
+      {"text": "Organismos eucariotas, pluricelulares, reproducción sexual", "correct": false},
+      {"text": "Organismos autótrofos, con pared celular de quitina", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Bacterias",
+    "explanation": "El reino Monera incluye organismos procariotas como bacterias y cianobacterias."
+  },
+  {
+    "question": "¿Qué enzima degrada la glucosa a glucosa-6-fosfato para iniciar la glucólisis?",
+    "options": [
+      {"text": "Hexocinasa", "correct": true},
+      {"text": "ATP sintasa", "correct": false},
+      {"text": "ADN polimerasa", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Primer paso metabólico",
+    "explanation": "La hexocinasa cataliza el primer paso irreversible de la glucólisis."
+  },
+  {
+    "question": "Completa: La ______ es un proceso anabólico endergónico donde la energía luminosa se transforma en energía ______.",
+    "options": [
+      {"text": "fotosíntesis, química", "correct": true},
+      {"text": "respiración, lumínica", "correct": false},
+      {"text": "fermentación, eléctrica", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Organismos autótrofos",
+    "explanation": "La fotosíntesis transforma energía lumínica en energía química almacenada en moléculas orgánicas."
+  },
+  {
+    "question": "¿Qué estructura celular mantiene la forma de la célula y facilita el transporte intracelular?",
+    "options": [
+      {"text": "Citoesqueleto", "correct": true},
+      {"text": "Membrana plasmática", "correct": false},
+      {"text": "Pared celular", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Proteínas fibrilares",
+    "explanation": "El citoesqueleto está formado por microtúbulos, microfilamentos y filamentos intermedios."
+  },
+  {
+    "question": "Relaciona los tipos de mutación con sus ejemplos: A) Genómica, B) Cromosómica, C) Génica; I) Polidactilia, II) Síndrome del maullido del gato, III) Albinismo",
+    "options": [
+      {"text": "A-I; B-II; C-III", "correct": true},
+      {"text": "A-II; B-III; C-I", "correct": false},
+      {"text": "A-III; B-I; C-II", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Nivel de alteración genética",
+    "explanation": "Las mutaciones genómicas afectan el número de cromosomas, las cromosómicas a fragmentos y las génicas a bases específicas."
+  },
+  {
+    "question": "¿Qué postulado de la teoría celular fue añadido por Rudolf Virchow?",
+    "options": [
+      {"text": "Toda célula proviene de otra célula preexistente", "correct": true},
+      {"text": "Los organismos están constituidos por células", "correct": false},
+      {"text": "La célula es la unidad funcional de los seres vivos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Latinismo",
+    "explanation": "Virchow completó la teoría celular con el principio <<Omnis cellula e cellula>>."
+  },
+  {
+    "question": "Son organelos presentes tanto en células animales como vegetales:",
+    "options": [
+      {"text": "Mitocondrias, ribosomas, retículo endoplásmico", "correct": true},
+      {"text": "Cloroplastos, vacuola, pared celular", "correct": false},
+      {"text": "Centriolos, lisosomas, glucocalix", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Estructuras compartidas",
+    "explanation": "Algunos organelos son comunes a ambos tipos celulares, mientras otros son exclusivos."
+  },
+  {
+    "question": "¿Qué ocurre durante la fase luminosa de la fotosíntesis?",
+    "options": [
+      {"text": "Fotólisis del agua, formación de ATP y NADPH", "correct": true},
+      {"text": "Fijación de CO2, síntesis de glucosa", "correct": false},
+      {"text": "Liberación de glucosa, consumo de ATP", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Membrana tilacoidal",
+    "explanation": "La fase luminosa ocurre en los tilacoides y produce energía química (ATP y NADPH)."
+  },
+  {
+    "question": "Completa: La ______ es la <<moneda energética celular>> porque presenta ______ de alta energía.",
+    "options": [
+      {"text": "ATP, enlaces fosfato", "correct": true},
+      {"text": "glucosa, enlaces carbono", "correct": false},
+      {"text": "NADH, electrones", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Metabolismo energético",
+    "explanation": "El ATP almacena energía en sus enlaces fosfato, que pueden hidrolizarse cuando se necesita energía."
+  },
+  {
+    "question": "¿Qué tipo de división celular reduce a la mitad el número de cromosomas?",
+    "options": [
+      {"text": "Meiosis", "correct": true},
+      {"text": "Mitosis", "correct": false},
+      {"text": "Bipartición", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Células sexuales",
+    "explanation": "La meiosis es una división reduccional que produce gametos haploides."
+  },
+  {
+    "question": "Relaciona los tipos de ARN con sus funciones: A) ARNm, B) ARNr, C) ARNt; I) Transporta aminoácidos, II) Forma parte de los ribosomas, III) Lleva información genética",
+    "options": [
+      {"text": "A-III; B-II; C-I", "correct": true},
+      {"text": "A-I; B-III; C-II", "correct": false},
+      {"text": "A-II; B-I; C-III", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Síntesis proteica",
+    "explanation": "Cada tipo de ARN tiene una función específica en el proceso de traducción."
+  },
+  {
+    "question": "¿Qué estructura celular contiene las enzimas para degradar sustancias tóxicas formando agua oxigenada?",
+    "options": [
+      {"text": "Peroxisoma", "correct": true},
+      {"text": "Lisosoma", "correct": false},
+      {"text": "Vacuola", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Detoxificación celular",
+    "explanation": "Los peroxisomas contienen catalasa y otras enzimas oxidativas."
+  },
+  {
+    "question": "Son postulados de la teoría celular:",
+    "options": [
+      {"text": "Todos los organismos están constituidos por células, la célula es la unidad básica, toda célula proviene de otra", "correct": true},
+      {"text": "Las células tienen núcleo, realizan mitosis, contienen ADN", "correct": false},
+      {"text": "Las células son procariotas o eucariotas, tienen organelos, se reproducen", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Fundamentos de la biología celular",
+    "explanation": "La teoría celular establece principios fundamentales sobre la organización de los seres vivos."
+  },
+  {
+    "question": "¿Qué ocurre durante la profase I de la meiosis que no ocurre en la mitosis?",
+    "options": [
+      {"text": "Crossing-over o recombinación genética", "correct": true},
+      {"text": "Condensación de cromosomas", "correct": false},
+      {"text": "Formación del huso acromático", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Variabilidad genética",
+    "explanation": "El crossing-over en la profase I permite el intercambio de material genético entre cromosomas homólogos."
+  },
+  {
+    "question": "Completa: La ______ es un proceso catabólico ______ que libera energía al degradar moléculas complejas.",
+    "options": [
+      {"text": "respiración, exergónico", "correct": true},
+      {"text": "fotosíntesis, endergónico", "correct": false},
+      {"text": "fermentación, isotérmico", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Degradación de glucosa",
+    "explanation": "La respiración es un proceso catabólico que libera energía almacenada en moléculas orgánicas."
+  },
+  {
+    "question": "¿Qué científico descubrió los protozoarios al observar una gota de agua estancada en 1674?",
+    "options": [
+      {"text": "Leeuwenhoek", "correct": true},
+      {"text": "Hooke", "correct": false},
+      {"text": "Schleiden", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Microscopio primitivo",
+    "explanation": "Leeuwenhoek fue el primero en observar microorganismos vivos con sus lentes."
+  },
+  {
+    "question": "Relaciona los organelos con sus funciones: A) Mitocondria, B) Cloroplasto, C) Núcleo; I) Fotosíntesis, II) Respiración celular, III) Almacenamiento de ADN",
+    "options": [
+      {"text": "A-II; B-I; C-III", "correct": true},
+      {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-III; B-I; C-II", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Funciones celulares clave",
+    "explanation": "Cada organelo tiene funciones metabólicas y estructurales específicas en la célula."
+  },
+  {
+    "question": "¿Qué característica diferencia a la célula animal de la vegetal?",
+    "options": [
+      {"text": "Presencia de centriolos y lisosomas", "correct": true},
+      {"text": "Presencia de cloroplastos y mitocondrias", "correct": false},
+      {"text": "Ausencia de membrana plasmática", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Estructuras exclusivas",
+    "explanation": "Las células animales tienen estructuras únicas como centriolos, mientras las vegetales tienen pared celular y plastidios."
+  },
+  {
+    "question": "Son ejemplos de fermentación:",
+    "options": [
+      {"text": "Alcohólica y láctica", "correct": true},
+      {"text": "Aerobia y anaerobia", "correct": false},
+      {"text": "Glucolítica y cetónica", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Procesos sin oxígeno",
+    "explanation": "La fermentación es un proceso anaerobio que produce diferentes compuestos finales según el organismo."
+  },
+  {
+    "question": "¿Qué estructura celular contiene la información genética en células procariotas?",
+    "options": [
+      {"text": "Nucleoide", "correct": true},
+      {"text": "Núcleo", "correct": false},
+      {"text": "Plásmido", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "ADN bacteriano",
+    "explanation": "Las procariotas no tienen núcleo verdadero, su ADN está en una región llamada nucleoide."
+  },
+  {
+    "question": "Completa: La ______ es la fase del ciclo celular donde se duplica el ADN, mientras que la ______ es donde se reparten las estructuras celulares.",
+    "options": [
+      {"text": "interfase, división", "correct": true},
+      {"text": "profase, telofase", "correct": false},
+      {"text": "síntesis, citocinesis", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Etapas ordenadas",
+    "explanation": "El ciclo celular tiene fases ordenadas de crecimiento, replicación y división."
+  },
+  {
+    "question": "¿Qué teoría explica el origen de las células eucariotas a partir de la asociación simbiótica de procariotas?",
+    "options": [
+      {"text": "Teoría endosimbiótica de Margulis", "correct": true},
+      {"text": "Teoría celular de Schleiden y Schwann", "correct": false},
+      {"text": "Teoría quimiosintética de Oparin-Haldane", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Origen de mitocondrias y cloroplastos",
+    "explanation": "Margulis propuso que algunos organelos eucariotas surgieron por endosimbiosis de bacterias."
+  },
+  {
+    "question": "Relaciona los procesos metabólicos con sus características: A) Fotosíntesis, B) Respiración aerobia, C) Fermentación; I) Produce 2 ATP, II) Libera oxígeno, III) Produce 38 ATP",
+    "options": [
+      {"text": "A-II; B-III; C-I", "correct": true},
+      {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-III; B-I; C-II", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Balance energético",
+    "explanation": "Cada proceso metabólico tiene productos característicos y diferente rendimiento energético."
+  },
+  {
+    "question": "¿Qué organelo contiene enzimas hidrolíticas para digerir partículas extrañas o componentes celulares dañados?",
+    "options": [
+      {"text": "Lisosoma", "correct": true},
+      {"text": "Ribosoma", "correct": false},
+      {"text": "Vacuola", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Sistema digestivo celular",
+    "explanation": "Los lisosomas son vesículas con enzimas digestivas para degradar materiales."
+  },
+  {
+    "question": "Son características de la mitosis:",
+    "options": [
+      {"text": "División somática, células diploides idénticas, una división nuclear", "correct": true},
+      {"text": "División gamética, células haploides, dos divisiones nucleares", "correct": false},
+      {"text": "Recombinación genética, células no idénticas, crossing-over", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Crecimiento y reparación",
+    "explanation": "La mitosis produce células genéticamente idénticas para crecimiento y mantenimiento tisular."
+  },
+  {
+    "question": "¿Qué estructura celular está formada por microtúbulos y permite el movimiento celular?",
+    "options": [
+      {"text": "Cilios y flagelos", "correct": true},
+      {"text": "Retículo endoplásmico", "correct": false},
+      {"text": "Membrana nuclear", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "9+2",
+    "explanation": "Cilios y flagelos tienen estructura de microtúbulos para movilidad celular."
+  },
+  {
+    "question": "Completa: La ______ ocurre en el citosol y degrada glucosa a ______, mientras que el ______ ocurre en la mitocondria y completa la oxidación.",
+    "options": [
+      {"text": "glucólisis, piruvato, ciclo de Krebs", "correct": true},
+      {"text": "fosforilación, acetil-CoA, ciclo de Calvin", "correct": false},
+      {"text": "fermentación, lactato, ciclo de Cori", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Rutas metabólicas",
+    "explanation": "La glucólisis y el ciclo de Krebs son etapas secuenciales de la respiración celular."
+  },
+  {
+    "question": "¿Qué científico propuso que el núcleo era el vehículo de la herencia en 1866?",
+    "options": [
+      {"text": "Ernst Haeckel", "correct": true},
+      {"text": "Gregor Mendel", "correct": false},
+      {"text": "Walter Sutton", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Biogénesis",
+    "explanation": "Haeckel reconoció tempranamente el papel del núcleo en la herencia."
+  },
+  {
+    "question": "Relaciona los tipos de transporte celular con sus características: A) Difusión simple, B) Transporte activo, C) Ósmosis; I) Movimiento de agua, II) Contra gradiente, III) A favor de gradiente sin proteínas",
+    "options": [
+      {"text": "A-III; B-II; C-I", "correct": true},
+      {"text": "A-I; B-III; C-II", "correct": false},
+      {"text": "A-II; B-I; C-III", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Membrana plasmática",
+    "explanation": "Cada tipo de transporte tiene mecanismos y requerimientos energéticos distintos."
+  },
+  {
+    "question": "¿Qué estructura del núcleo es responsable de la síntesis de los ribosomas?",
+    "options": [
+      {"text": "Nucléolo", "correct": true},
+      {"text": "Cromatina", "correct": false},
+      {"text": "Envoltura nuclear", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "ARN ribosómico",
+    "explanation": "El nucléolo es una región especializada en la producción de componentes ribosómicos."
+  },
+  {
+    "question": "Son características del ARN mensajero:",
+    "options": [
+      {"text": "Lineal, lleva información genética, sintetizado en el núcleo", "correct": true},
+      {"text": "Estructura globular, forma ribosomas, contiene anticodones", "correct": false},
+      {"text": "Hoja de trébol, transporta aminoácidos, sintetizado en citoplasma", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Transcripción",
+    "explanation": "El ARNm lleva la información del ADN nuclear a los ribosomas para la síntesis proteica."
+  },
+  {
+    "question": "¿Qué proceso metabólico es característico de organismos autótrofos?",
+    "options": [
+      {"text": "Fotosíntesis", "correct": true},
+      {"text": "Respiración aerobia", "correct": false},
+      {"text": "Fermentación láctica", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Clorofila",
+    "explanation": "Los autótrofos sintetizan sus propios nutrientes usando energía lumínica o química."
+  },
+  {
+    "question": "Completa: La ______ es la fase de la meiosis donde ocurre el crossing-over, mientras que la ______ es donde se separan cromosomas homólogos.",
+    "options": [
+      {"text": "profase I, anafase I", "correct": true},
+      {"text": "metafase II, telofase II", "correct": false},
+      {"text": "interfase, profase II", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Recombinación genética",
+    "explanation": "La meiosis tiene dos divisiones con eventos genéticos únicos en cada fase."
+  },
+  {
+    "question": "¿Qué teoría evolutiva combina los principios de Darwin con la genética mendeliana?",
+    "options": [
+      {"text": "Teoría sintética", "correct": true},
+      {"text": "Teoría de Lamarck", "correct": false},
+      {"text": "Teoría de Oparin-Haldane", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Neodarwinismo",
+    "explanation": "La teoría sintética integra selección natural con mecanismos genéticos de herencia."
+  }
+]
