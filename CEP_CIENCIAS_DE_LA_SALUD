@@ -1,0 +1,695 @@
+[
+  {
+    "question": "Según la OMS, ¿cuál es la definición de salud?",
+    "options": [
+      {"text": "Estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades.", "correct": true},
+      {"text": "Ausencia de enfermedades o dolencias en el organismo humano, considerando solo el aspecto biológico.", "correct": false},
+      {"text": "Equilibrio entre el cuerpo y la mente, aunque existan algunas condiciones médicas leves o crónicas.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Enfoque holístico.",
+    "explanation": "La OMS define salud como un estado de completo bienestar en todas las dimensiones, no solo la ausencia de enfermedad."
+  },
+  {
+    "question": "¿Cuál es el componente de la tríada ecológica que se refiere a las características propias del agente que pueden causar enfermedad?",
+    "options": [
+      {"text": "Agente causal", "correct": true},
+      {"text": "Huésped", "correct": false},
+      {"text": "Ambiente", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Factor activo.",
+    "explanation": "El agente causal es el elemento de la tríada ecológica capaz de provocar enfermedad por sus características intrínsecas."
+  },
+  {
+    "question": "¿Qué tipo de prevención se enfoca en evitar la progresión de una enfermedad ya establecida?",
+    "options": [
+      {"text": "Prevención terciaria", "correct": true},
+      {"text": "Prevención primaria", "correct": false},
+      {"text": "Prevención secundaria", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Rehabilitación.",
+    "explanation": "La prevención terciaria busca minimizar las consecuencias de enfermedades ya presentes mediante tratamiento y rehabilitación."
+  },
+  {
+    "question": "Completa la definición: La historia natural de la enfermedad según la OPS es el \"______ de una enfermedad sin ______\"",
+    "options": [
+      {"text": "curso, intervención médica", "correct": true},
+      {"text": "origen, tratamiento adecuado", "correct": false},
+      {"text": "desarrollo, factores ambientales", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Evolución espontánea.",
+    "explanation": "La historia natural de la enfermedad describe su evolución cuando no hay intervención médica que la modifique."
+  },
+  {
+    "question": "Relaciona los tipos de leucocitos con su función principal: A) Neutrófilos, B) Linfocitos B, C) Eosinófilos; I) Producen anticuerpos, II) Fagocitan bacterias, III) Defienden contra parásitos",
+    "options": [
+      {"text": "A-II; B-I; C-III", "correct": true},
+      {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-III; B-II; C-I", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Especialización celular.",
+    "explanation": "Los neutrófilos fagocitan bacterias, los linfocitos B producen anticuerpos y los eosinófilos actúan contra parásitos."
+  },
+  {
+    "question": "¿Cuál de estas células es responsable de la producción de plaquetas?",
+    "options": [
+      {"text": "Megacariocitos", "correct": true},
+      {"text": "Eritrocitos", "correct": false},
+      {"text": "Monocitos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Médula ósea.",
+    "explanation": "Los megacariocitos son células grandes de la médula ósea que se fragmentan para formar plaquetas."
+  },
+  {
+    "question": "¿Qué característica principal distingue a los virus de otros agentes infecciosos?",
+    "options": [
+      {"text": "Requieren células huésped para replicarse", "correct": true},
+      {"text": "Tienen metabolismo propio independiente", "correct": false},
+      {"text": "Poseen pared celular como las bacterias", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Parásitos obligados.",
+    "explanation": "Los virus son parásitos intracelulares obligados que necesitan maquinaria celular para replicarse."
+  },
+  {
+    "question": "Son ejemplos de agentes físicos en la tríada ecológica:",
+    "options": [
+      {"text": "Radiación ultravioleta, trauma mecánico", "correct": true},
+      {"text": "Toxinas bacterianas, venenos", "correct": false},
+      {"text": "Hongos patógenos, virus", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Energías y fuerzas.",
+    "explanation": "Los agentes físicos incluyen diversas formas de energía (radiación, calor) y fuerzas mecánicas que pueden causar daño."
+  },
+  {
+    "question": "¿Cuál es la diferencia principal entre signo y síntoma?",
+    "options": [
+      {"text": "El signo es objetivo y medible, el síntoma es subjetivo", "correct": true},
+      {"text": "El síntoma siempre precede al signo en una enfermedad", "correct": false},
+      {"text": "Los signos son exclusivos de enfermedades crónicas", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Percepción vs. observación.",
+    "explanation": "Los signos son hallazgos objetivos que el médico observa o mide, mientras los síntomas son las percepciones subjetivas del paciente."
+  },
+  {
+    "question": "Durante el período prodrómico de una enfermedad:",
+    "options": [
+      {"text": "Aparecen síntomas inespecíficos antes de la enfermedad manifiesta", "correct": true},
+      {"text": "El paciente está completamente asintomático", "correct": false},
+      {"text": "Se presentan las características definitivas de la patología", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Advertencia temprana.",
+    "explanation": "El prodrómico es la fase donde aparecen señales generales (malestar, fiebre) antes de los síntomas específicos."
+  },
+  {
+    "question": "¿Qué tipo de agente infeccioso es el Plasmodium falciparum?",
+    "options": [
+      {"text": "Parásito protozoario", "correct": true},
+      {"text": "Bacteria intracelular", "correct": false},
+      {"text": "Virus ARN", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Malaria.",
+    "explanation": "Plasmodium es un género de protozoos parásitos que causan malaria, transmitidos por mosquitos Anopheles."
+  },
+  {
+    "question": "¿Cuál es la función principal de los eritrocitos?",
+    "options": [
+      {"text": "Transportar oxígeno a los tejidos", "correct": true},
+      {"text": "Defender contra infecciones bacterianas", "correct": false},
+      {"text": "Participar en la coagulación sanguínea", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Hemoglobina.",
+    "explanation": "Los glóbulos rojos contienen hemoglobina que se une al oxígeno en los pulmones y lo libera en los tejidos."
+  },
+  {
+    "question": "En la etapa subclínica de una enfermedad:",
+    "options": [
+      {"text": "No hay manifestaciones evidentes pero ya existen cambios patológicos", "correct": true},
+      {"text": "Los síntomas son claramente reconocibles por el paciente", "correct": false},
+      {"text": "Solo se detecta mediante pruebas genéticas", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Silenciosa.",
+    "explanation": "La fase subclínica ocurre cuando hay cambios fisiopatológicos pero no síntomas evidentes, detectable solo con pruebas."
+  },
+  {
+    "question": "¿Qué caracteriza a los basófilos entre los leucocitos?",
+    "options": [
+      {"text": "Contienen gránulos con histamina y heparina", "correct": true},
+      {"text": "Son los más abundantes en sangre periférica", "correct": false},
+      {"text": "Maduran en el timo como los linfocitos T", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Alergias.",
+    "explanation": "Los basófilos liberan mediadores como histamina en reacciones alérgicas e inflamatorias."
+  },
+  {
+    "question": "Son ejemplos de agentes químicos en la tríada ecológica:",
+    "options": [
+      {"text": "Plomo, cianuro, pesticidas", "correct": true},
+      {"text": "Vibrio cholerae, radiación gamma", "correct": false},
+      {"text": "Traumatismo por accidente, Aspergillus", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Toxicología.",
+    "explanation": "Los agentes químicos incluyen sustancias tóxicas naturales o sintéticas que pueden causar daño a la salud."
+  },
+  {
+    "question": "¿Qué nivel de prevención representa la vacunación?",
+    "options": [
+      {"text": "Prevención primaria", "correct": true},
+      {"text": "Prevención secundaria", "correct": false},
+      {"text": "Prevención terciaria", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Antes de la enfermedad.",
+    "explanation": "Las vacunas son prevención primaria porque evitan la aparición de enfermedades en personas sanas."
+  },
+  {
+    "question": "¿Cuál es la función principal de las células NK (Natural Killer)?",
+    "options": [
+      {"text": "Destruir células tumorales e infectadas por virus", "correct": true},
+      {"text": "Producir anticuerpos específicos", "correct": false},
+      {"text": "Fagocitar bacterias extracelulares", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Inmunidad innata.",
+    "explanation": "Las células NK son linfocitos de la inmunidad innata que reconocen y destruyen células anormales sin necesidad de anticuerpos."
+  },
+  {
+    "question": "Completa la oración: Los monocitos al migrar a los tejidos se transforman en ______ que tienen capacidad de ______",
+    "options": [
+      {"text": "macrófagos, fagocitar", "correct": true},
+      {"text": "linfocitos, producir citocinas", "correct": false},
+      {"text": "neutrófilos, formar pus", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Tejido conjuntivo.",
+    "explanation": "Los monocitos circulantes se diferencian en macrófagos tisulares, células fagocíticas profesionales."
+  },
+  {
+    "question": "¿Qué característica distingue a los hongos patógenos de otros microorganismos?",
+    "options": [
+      {"text": "Poseen pared celular de quitina", "correct": true},
+      {"text": "Carecen de material genético propio", "correct": false},
+      {"text": "Se replican solo dentro de células huésped", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Estructura rígida.",
+    "explanation": "Los hongos tienen pared celular con quitina, a diferencia de bacterias (peptidoglicano) o virus (sin pared)."
+  },
+  {
+    "question": "¿Cuál es el rango normal de temperatura corporal en adultos?",
+    "options": [
+      {"text": "36.5-37.5°C", "correct": true},
+      {"text": "35.0-36.0°C", "correct": false},
+      {"text": "38.0-39.0°C", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Febril.",
+    "explanation": "La temperatura corporal normal oscila alrededor de 37°C, considerándose fiebre por encima de 38°C."
+  },
+  {
+    "question": "Relaciona los tipos de linfocitos T con su función: A) CD4+, B) CD8+, C) Treg; I) Citotoxicidad, II) Regulación inmune, III) Coordinación respuesta",
+    "options": [
+      {"text": "A-III; B-I; C-II", "correct": true},
+      {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-II; B-III; C-I", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Subpoblaciones especializadas.",
+    "explanation": "Los Th (CD4+) coordinan la respuesta, los Tc (CD8+) son citotóxicos, y los Treg modulan la inmunidad."
+  },
+  {
+    "question": "¿Qué nivel de prevención se aplica mediante el tamizaje de enfermedades?",
+    "options": [
+      {"text": "Prevención secundaria", "correct": true},
+      {"text": "Prevención primaria", "correct": false},
+      {"text": "Prevención terciaria", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Detección temprana.",
+    "explanation": "El tamizaje es prevención secundaria porque busca identificar enfermedades en etapas tempranas antes de síntomas."
+  },
+  {
+    "question": "¿Qué tipo de agente infeccioso es el Trypanosoma cruzi?",
+    "options": [
+      {"text": "Parásito protozoario", "correct": true},
+      {"text": "Bacteria gramnegativa", "correct": false},
+      {"text": "Virus ADN", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Enfermedad de Chagas.",
+    "explanation": "Trypanosoma cruzi es un protozoo flagelado transmitido por chinches que causa la enfermedad de Chagas."
+  },
+  {
+    "question": "¿Cuál es la función principal de los eosinófilos?",
+    "options": [
+      {"text": "Defensa contra parásitos y modulación de alergias", "correct": true},
+      {"text": "Fagocitosis de bacterias piógenas", "correct": false},
+      {"text": "Producción de anticuerpos IgE", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Reacciones de hipersensibilidad.",
+    "explanation": "Los eosinófilos contienen proteínas tóxicas contra helmintos y modulan reacciones alérgicas."
+  },
+  {
+    "question": "En el modelo de la tríada ecológica, el huésped se refiere a:",
+    "options": [
+      {"text": "El organismo susceptible que aloja al agente patógeno", "correct": true},
+      {"text": "El vector que transmite la enfermedad", "correct": false},
+      {"text": "El ambiente donde se desarrolla la patología", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Susceptibilidad.",
+    "explanation": "El huésped es el individuo con características que lo hacen susceptible a la acción del agente patógeno."
+  },
+  {
+    "question": "¿Qué caracteriza al período de estado de una enfermedad?",
+    "options": [
+      {"text": "Manifestación plena de signos y síntomas característicos", "correct": true},
+      {"text": "Primeras señales inespecíficas de la patología", "correct": false},
+      {"text": "Desaparición gradual de las manifestaciones clínicas", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Clímax sintomático.",
+    "explanation": "El período de estado es cuando la enfermedad muestra su máxima expresión sintomática típica."
+  },
+  {
+    "question": "¿Qué tipo de leucocito es el principal responsable de la respuesta inflamatoria aguda?",
+    "options": [
+      {"text": "Neutrófilos", "correct": true},
+      {"text": "Linfocitos B", "correct": false},
+      {"text": "Basófilos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Pus.",
+    "explanation": "Los neutrófilos son los primeros en llegar a sitios de infección o daño, fagocitando bacterias y liberando mediadores."
+  },
+  {
+    "question": "Completa: Los linfocitos B se diferencian en ______ que producen ______ específicos contra antígenos",
+    "options": [
+      {"text": "células plasmáticas, anticuerpos", "correct": true},
+      {"text": "macrófagos, citocinas", "correct": false},
+      {"text": "células T citotóxicas, perforinas", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Inmunidad humoral.",
+    "explanation": "Los linfocitos B activados se diferencian en células plasmáticas productoras de anticuerpos específicos."
+  },
+  {
+    "question": "¿Qué tipo de agente infeccioso es el Mycobacterium tuberculosis?",
+    "options": [
+      {"text": "Bacteria ácido-alcohol resistente", "correct": true},
+      {"text": "Virus con envoltura lipídica", "correct": false},
+      {"text": "Hongos dimórficos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "BAAR.",
+    "explanation": "Mycobacterium es un género de bacterias con pared rica en lípidos que las hace resistentes a la tinción ordinaria."
+  },
+  {
+    "question": "¿Qué caracteriza a la etapa clínica de una enfermedad?",
+    "options": [
+      {"text": "Presencia de signos y síntomas evidentes", "correct": true},
+      {"text": "Cambios patológicos solo detectables con pruebas", "correct": false},
+      {"text": "Período de incubación sin manifestaciones", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Diagnóstico clínico.",
+    "explanation": "La etapa clínica es cuando la enfermedad produce manifestaciones objetivas y subjetivas reconocibles."
+  },
+  {
+    "question": "¿Qué tipo de agente es el asbesto en la tríada ecológica?",
+    "options": [
+      {"text": "Agente físico-químico", "correct": true},
+      {"text": "Agente biológico", "correct": false},
+      {"text": "Agente mecánico puro", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Fibrosis pulmonar.",
+    "explanation": "El asbesto es un mineral fibroso que actúa como agente físico-químico causante de enfermedades pulmonares."
+  },
+  {
+    "question": "¿Cuál es el rango normal de frecuencia cardíaca en adultos en reposo?",
+    "options": [
+      {"text": "60-100 latidos por minuto", "correct": true},
+      {"text": "40-60 latidos por minuto", "correct": false},
+      {"text": "100-120 latidos por minuto", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Bradicardia vs taquicardia.",
+    "explanation": "La frecuencia cardíaca normal en reposo oscila entre 60-100 lpm, considerándose bradicardia o taquicardia valores fuera."
+  },
+  {
+    "question": "Relaciona los tipos de prevención con ejemplos: A) Primaria, B) Secundaria, C) Terciaria; I) Mamografía, II) Rehabilitación post-ACV, III) Cloración del agua",
+    "options": [
+      {"text": "A-III; B-I; C-II", "correct": true},
+      {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-II; B-III; C-I", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Niveles de intervención.",
+    "explanation": "Clorar agua previene enfermedades (primaria), mamografía detecta cáncer temprano (secundaria), rehabilitación minimiza secuelas (terciaria)."
+  },
+  {
+    "question": "¿Qué caracteriza a los linfocitos T en comparación con los B?",
+    "options": [
+      {"text": "Reconocen antígenos presentados por MHC y median inmunidad celular", "correct": true},
+      {"text": "Producen grandes cantidades de anticuerpos circulantes", "correct": false},
+      {"text": "Se diferencian exclusivamente en médula ósea", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "MHC restringidos.",
+    "explanation": "Los linfocitos T reconocen antígenos presentados por moléculas MHC y coordinan la respuesta inmune celular."
+  },
+  {
+    "question": "¿Qué tipo de agente infeccioso es el Candida albicans?",
+    "options": [
+      {"text": "Hongos oportunistas", "correct": true},
+      {"text": "Bacterias grampositivas", "correct": false},
+      {"text": "Virus oncogénicos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Micosis.",
+    "explanation": "Candida es un género de levaduras que pueden volverse patógenas en condiciones de inmunosupresión."
+  },
+  {
+    "question": "¿Qué caracteriza al período de incubación de una enfermedad infecciosa?",
+    "options": [
+      {"text": "Tiempo entre exposición al patógeno y aparición de síntomas", "correct": true},
+      {"text": "Fase donde los síntomas alcanzan máxima intensidad", "correct": false},
+      {"text": "Etapa final de recuperación o cronicidad", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Multiplicación silenciosa.",
+    "explanation": "El período de incubación es cuando el patógeno se multiplica sin producir síntomas evidentes aún."
+  },
+  {
+    "question": "¿Qué tipo de agente es el ruido industrial en la tríada ecológica?",
+    "options": [
+      {"text": "Agente físico", "correct": true},
+      {"text": "Agente químico", "correct": false},
+      {"text": "Agente biológico", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Contaminación acústica.",
+    "explanation": "El ruido excesivo es un agente físico que puede causar pérdida auditiva y estrés."
+  },
+  {
+    "question": "¿Cuál es el rango normal de presión arterial sistólica en adultos?",
+    "options": [
+      {"text": "90-120 mmHg", "correct": true},
+      {"text": "60-90 mmHg", "correct": false},
+      {"text": "130-160 mmHg", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Hipertensión.",
+    "explanation": "La presión sistólica normal es <120 mmHg, considerándose hipertensión valores sostenidos ≥130 mmHg."
+  },
+  {
+    "question": "Relaciona los componentes de la tríada ecológica con ejemplos: A) Agente, B) Huésped, C) Ambiente; I) Edad avanzada, II) Agua contaminada, III) Vibrio cholerae",
+    "options": [
+      {"text": "A-III; B-I; C-II", "correct": true},
+      {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-II; B-III; C-I", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Modelo causal.",
+    "explanation": "Vibrio es el agente, la edad afecta susceptibilidad (huésped), y agua contaminada es factor ambiental."
+  },
+  {
+    "question": "¿Qué caracteriza a los linfocitos B de memoria?",
+    "options": [
+      {"text": "Persisten tras infección para responder rápidamente a reexposición", "correct": true},
+      {"text": "Secretan grandes cantidades de IgM durante infección aguda", "correct": false},
+      {"text": "Destruyen células infectadas mediante perforinas", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Memoria inmunológica.",
+    "explanation": "Los linfocitos B de memoria permiten respuestas más rápidas y eficientes ante reinfecciones por el mismo patógeno."
+  },
+  {
+    "question": "¿Qué tipo de agente infeccioso es el Trichuris trichiura?",
+    "options": [
+      {"text": "Parásito helminto", "correct": true},
+      {"text": "Bacteria anaerobia", "correct": false},
+      {"text": "Protozoo flagelado", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Tricocéfalo.",
+    "explanation": "Trichuris es un nematodo parásito intestinal conocido como tricocéfalo que causa tricuriasis."
+  },
+  {
+    "question": "¿Qué caracteriza al período de convalecencia de una enfermedad?",
+    "options": [
+      {"text": "Recuperación gradual después del período agudo", "correct": true},
+      {"text": "Primeras manifestaciones clínicas leves", "correct": false},
+      {"text": "Fase asintomática previa a síntomas", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Restablecimiento.",
+    "explanation": "La convalecencia es la etapa de recuperación donde el organismo se restablece tras la enfermedad aguda."
+  },
+  {
+    "question": "¿Qué tipo de agente es el benceno en la tríada ecológica?",
+    "options": [
+      {"text": "Agente químico", "correct": true},
+      {"text": "Agente físico", "correct": false},
+      {"text": "Agente biológico", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Leucemia.",
+    "explanation": "El benceno es un compuesto orgánico volátil con efectos carcinogénicos, especialmente sobre médula ósea."
+  },
+  {
+    "question": "¿Cuál es el rango normal de frecuencia respiratoria en adultos?",
+    "options": [
+      {"text": "12-20 respiraciones por minuto", "correct": true},
+      {"text": "8-10 respiraciones por minuto", "correct": false},
+      {"text": "25-30 respiraciones por minuto", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Taquipnea.",
+    "explanation": "La frecuencia respiratoria normal en adultos es 12-20 rpm, considerándose taquipnea valores superiores."
+  },
+  {
+    "question": "Relaciona los tipos de agentes infecciosos con ejemplos: A) Virus, B) Bacterias, C) Hongos; I) Mycobacterium, II) Influenza, III) Aspergillus",
+    "options": [
+      {"text": "A-II; B-I; C-III", "correct": true},
+      {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-III; B-I; C-II", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Clasificación microbiana.",
+    "explanation": "Influenza es virus, Mycobacterium es bacteria, y Aspergillus es hongo filamentoso."
+  },
+  {
+    "question": "¿Qué caracteriza a los neutrófilos en banda?",
+    "options": [
+      {"text": "Formas inmaduras que aumentan en infecciones bacterianas agudas", "correct": true},
+      {"text": "Células especializadas en respuesta alérgica", "correct": false},
+      {"text": "Variedad de linfocitos que producen interleucinas", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Desviación izquierda.",
+    "explanation": "Los neutrófilos en banda son formas inmaduras liberadas ante demanda aumentada, como en infecciones bacterianas."
+  },
+  {
+    "question": "¿Qué tipo de agente infeccioso es el Treponema pallidum?",
+    "options": [
+      {"text": "Bacteria espiroqueta", "correct": true},
+      {"text": "Virus de ADN", "correct": false},
+      {"text": "Protozoo apicomplexa", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Sífilis.",
+    "explanation": "Treponema pallidum es una bacteria espiralada del orden Spirochaetales, agente causal de la sífilis."
+  },
+  {
+    "question": "¿Qué caracteriza al período de resolución de una enfermedad?",
+    "options": [
+      {"text": "Desaparición de síntomas y retorno a la normalidad", "correct": true},
+      {"text": "Primeros signos de alerta antes de síntomas específicos", "correct": false},
+      {"text": "Fase de máxima intensidad sintomática", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Curación.",
+    "explanation": "El período de resolución marca el final de la enfermedad con desaparición de manifestaciones clínicas."
+  },
+  {
+    "question": "¿Qué tipo de agente es el radón en la tríada ecológica?",
+    "options": [
+      {"text": "Agente físico (radiación)", "correct": true},
+      {"text": "Agente químico volátil", "correct": false},
+      {"text": "Agente biológico", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Gas noble.",
+    "explanation": "El radón es un gas radiactivo natural que emite partículas alfa, considerado carcinógeno pulmonar."
+  },
+  {
+    "question": "¿Cuál es el rango normal de saturación de oxígeno en sangre arterial?",
+    "options": [
+      {"text": "95-100%", "correct": true},
+      {"text": "85-90%", "correct": false},
+      {"text": "75-80%", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Hipoxemia.",
+    "explanation": "La saturación normal de O2 en sangre arterial es ≥95%, considerándose hipoxemia valores <90%."
+  },
+  {
+    "question": "Relaciona los tipos de agentes con ejemplos: A) Biológicos, B) Físicos, C) Químicos; I) Radiación UV, II) Plomo, III) Virus del dengue",
+    "options": [
+      {"text": "A-III; B-I; C-II", "correct": true},
+      {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-II; B-III; C-I", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Naturaleza del agente.",
+    "explanation": "El dengue es biológico, la radiación UV es física, y el plomo es un agente químico tóxico."
+  },
+  {
+    "question": "¿Qué caracteriza a los linfocitos T citotóxicos (CD8+)?",
+    "options": [
+      {"text": "Destruyen células infectadas o tumorales mediante perforinas y granzimas", "correct": true},
+      {"text": "Producen anticuerpos contra patógenos extracelulares", "correct": false},
+      {"text": "Fagocitan bacterias recubiertas de anticuerpos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "MHC I.",
+    "explanation": "Los linfocitos Tc reconocen antígenos presentados por MHC I y eliminan células alteradas mediante mecanismos citotóxicos."
+  },
+  {
+    "question": "¿Qué tipo de agente infeccioso es el Entamoeba histolytica?",
+    "options": [
+      {"text": "Protozoo parásito", "correct": true},
+      {"text": "Bacteria anaerobia", "correct": false},
+      {"text": "Hongos oportunista", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Disentería amebiana.",
+    "explanation": "Entamoeba histolytica es un protozoo que invade el colon causando amebiasis intestinal y abscesos hepáticos."
+  },
+  {
+    "question": "¿Qué caracteriza a la etapa de secuelas en la historia natural de la enfermedad?",
+    "options": [
+      {"text": "Lesiones o disfunciones permanentes tras la resolución", "correct": true},
+      {"text": "Primeros síntomas inespecíficos de alerta", "correct": false},
+      {"text": "Período de máxima contagiosidad", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Daño residual.",
+    "explanation": "Las secuelas son alteraciones permanentes que persisten después que la enfermedad activa ha terminado."
+  },
+  {
+    "question": "¿Qué tipo de agente es el trauma por accidente de tránsito en la tríada ecológica?",
+    "options": [
+      {"text": "Agente mecánico", "correct": true},
+      {"text": "Agente químico", "correct": false},
+      {"text": "Agente biológico", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Energía cinética.",
+    "explanation": "Los accidentes representan agentes mecánicos donde fuerzas físicas causan lesiones tisulares."
+  },
+  {
+    "question": "¿Cuál es el rango normal de leucocitos en sangre periférica?",
+    "options": [
+      {"text": "4,000-11,000 células/μL", "correct": true},
+      {"text": "1,000-3,000 células/μL", "correct": false},
+      {"text": "12,000-20,000 células/μL", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Leucocitosis.",
+    "explanation": "El recuento normal de glóbulos blancos es 4,000-11,000/μL, pudiendo aumentar en infecciones (leucocitosis)."
+  },
+  {
+    "question": "Relaciona los términos con sus definiciones: A) Signo, B) Síntoma, C) Síndrome; I) Conjunto de síntomas y signos característicos, II) Manifestación objetiva medible, III) Percepción subjetiva del paciente",
+    "options": [
+      {"text": "A-II; B-III; C-I", "correct": true},
+      {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-III; B-I; C-II", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Semiología médica.",
+    "explanation": "Signo es objetivo (fiebre), síntoma es subjetivo (dolor), y síndrome es un conjunto característico (ej. síndrome nefrótico)."
+  },
+  {
+    "question": "¿Qué caracteriza a las plaquetas (trombocitos)?",
+    "options": [
+      {"text": "Fragmentos celulares derivados de megacariocitos esenciales para coagulación", "correct": true},
+      {"text": "Células nucleadas que fagocitan complejos antígeno-anticuerpo", "correct": false},
+      {"text": "Leucocitos granulares que liberan histamina", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Hemostasia.",
+    "explanation": "Las plaquetas son fragmentos citoplasmáticos que forman tapones hemostáticos y liberan factores de coagulación."
+  },
+  {
+    "question": "¿Qué tipo de agente infeccioso es el Schistosoma mansoni?",
+    "options": [
+      {"text": "Parásito trematodo", "correct": true},
+      {"text": "Bacteria intracelular", "correct": false},
+      {"text": "Virus ARN", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Esquistosomiasis.",
+    "explanation": "Schistosoma es un gusano platelminto que causa esquistosomiasis, transmitido por caracoles acuáticos."
+  },
+  {
+    "question": "¿Qué caracteriza al período de latencia en enfermedades crónicas?",
+    "options": [
+      {"text": "Tiempo prolongado entre exposición y aparición de síntomas", "correct": true},
+      {"text": "Fase inicial con síntomas leves no específicos", "correct": false},
+      {"text": "Etapa de máxima actividad patológica", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Silencio clínico.",
+    "explanation": "El período de latencia en enfermedades crónicas puede durar años sin manifestaciones antes de síntomas evidentes."
+  },
+  {
+    "question": "¿Qué tipo de agente es el monóxido de carbono en la tríada ecológica?",
+    "options": [
+      {"text": "Agente químico", "correct": true},
+      {"text": "Agente físico", "correct": false},
+      {"text": "Agente biológico", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Hipoxia.",
+    "explanation": "El CO es un gas tóxico que compite con el O2 por la hemoglobina, causando hipoxia tisular."
+  },
+  {
+    "question": "¿Cuál es el rango normal de hemoglobina en mujeres adultas?",
+    "options": [
+      {"text": "12-16 g/dL", "correct": true},
+      {"text": "8-11 g/dL", "correct": false},
+      {"text": "17-20 g/dL", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Anemia.",
+    "explanation": "La hemoglobina normal en mujeres es 12-16 g/dL, considerándose anemia valores <12 g/dL."
+  },
+  {
+    "question": "Relaciona las etapas de la historia natural de la enfermedad con características: A) Prepatogénica, B) Patogénica subclínica, C) Patogénica clínica; I) Interacción agente-huésped sin síntomas, II) Enfermedad establecida con manifestaciones, III) Factores de riesgo presentes",
+    "options": [
+      {"text": "A-III; B-I; C-II", "correct": true},
+      {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-II; B-III; C-I", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Secuencia temporal.",
+    "explanation": "La etapa prepatogénica tiene factores de riesgo, la subclínica tiene cambios biológicos sin síntomas, y la clínica muestra manifestaciones."
+  }
+]
