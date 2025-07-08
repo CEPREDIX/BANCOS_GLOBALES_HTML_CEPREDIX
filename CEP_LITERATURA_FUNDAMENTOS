@@ -1,0 +1,379 @@
+[
+  {
+    "question": "¿Cuál es la principal función del texto periodístico que se centra en informar sobre hechos recientes y relevantes?",
+    "options": [
+      {"text": "Función referencial", "correct": true},
+      {"text": "Función apelativa", "correct": false},
+      {"text": "Función poética", "correct": false},
+      {"text": "Función expresiva", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Relacionada con la transmisión objetiva de información.",
+    "explanation": "La función referencial busca transmitir información de manera objetiva, típica del texto informativo."
+  },
+  {
+    "question": "¿Cómo se denomina el recurso literario que consiste en atribuir características de un objeto a otro basándose en una semejanza entre ambos?",
+    "options": [
+      {"text": "Metáfora", "correct": true},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Sinécdoque", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Expresión que compara sin usar \"como\" o \"así como\".",
+    "explanation": "La metáfora es una figura retórica que establece una comparación implícita entre dos elementos."
+  },
+  {
+    "question": "¿En qué tipo de estructura textual se presenta primero la idea general y luego se desarrollan los detalles?",
+    "options": [
+      {"text": "Analizante", "correct": true},
+      {"text": "Sintetizante", "correct": false},
+      {"text": "Descriptiva", "correct": false},
+      {"text": "Argumentativa", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Se inicia con una afirmación general.",
+    "explanation": "La estructura analizante comienza con una tesis o idea general y luego la desarrolla."
+  },
+  {
+    "question": "¿Qué propiedad textual garantiza que las ideas estén conectadas y formen un todo coherente?",
+    "options": [
+      {"text": "Coherencia", "correct": true},
+      {"text": "Cohesión", "correct": false},
+      {"text": "Adecuación", "correct": false},
+      {"text": "Claridad", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Relación lógica entre las ideas de un texto.",
+    "explanation": "La coherencia se refiere a la conexión lógica y sentido global de un texto."
+  },
+  {
+    "question": "¿Cuál es la unidad básica de medida en la métrica poética relacionada con el número de sílabas en un verso?",
+    "options": [
+      {"text": "Metro", "correct": true},
+      {"text": "Rima", "correct": false},
+      {"text": "Ritmo", "correct": false},
+      {"text": "Verso", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Depende del conteo de sílabas en cada línea.",
+    "explanation": "El metro es la medida que se basa en el número de sílabas en un verso."
+  },
+  {
+    "question": "¿Qué tipo de rima se produce cuando coinciden todas las letras desde la última vocal acentuada hasta el final del verso?",
+    "options": [
+      {"text": "Rima consonante", "correct": true},
+      {"text": "Rima asonante", "correct": false},
+      {"text": "Rima libre", "correct": false},
+      {"text": "Rima cruzada", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Incluye tanto vocales como consonantes en su coincidencia.",
+    "explanation": "La rima consonante implica coincidencia total desde la última vocal acentuada."
+  },
+  {
+    "question": "¿Qué elemento caracteriza al personaje principal que enfrenta el conflicto en una obra dramática?",
+    "options": [
+      {"text": "Protagonista", "correct": true},
+      {"text": "Antagonista", "correct": false},
+      {"text": "Secundario", "correct": false},
+      {"text": "Ambiental", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Es quien impulsa la acción principal de la obra.",
+    "explanation": "El protagonista es el personaje central que enfrenta el conflicto narrativo."
+  },
+  {
+    "question": "¿Cuál es el objetivo principal de una tragedia según sus características clásicas?",
+    "options": [
+      {"text": "Provocar temor y compasión en el espectador", "correct": true},
+      {"text": "Divertir y entretener al público", "correct": false},
+      {"text": "Ofrecer una crítica social ácida", "correct": false},
+      {"text": "Representar conflictos cotidianos de forma ligera", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Sentimientos profundos hacia el destino inevitable del héroe.",
+    "explanation": "Una tragedia busca provocar temor y compasión en el espectador mediante el destino trágico del protagonista."
+  },
+  {
+    "question": "¿Cuál es la propiedad textual que garantiza la relación entre el mensaje y el contexto comunicativo?",
+    "options": [
+      {"text": "Adecuación", "correct": true},
+      {"text": "Coherencia", "correct": false},
+      {"text": "Cohesión", "correct": false},
+      {"text": "Claridad", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Adaptación del mensaje al propósito y situación.",
+    "explanation": "La adecuación se refiere a cómo el texto se ajusta al contexto, propósito y audiencia."
+  },
+  {
+    "question": "¿Qué movimiento literario surgió como reacción al Romanticismo y se caracteriza por mostrar la realidad de forma objetiva y detallada?",
+    "options": [
+      {"text": "Realismo", "correct": true},
+      {"text": "Modernismo", "correct": false},
+      {"text": "Simbolismo", "correct": false},
+      {"text": "Vanguardismo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Busca retratar la vida tal cual es, sin idealizaciones.",
+    "explanation": "El Realismo se opone al Romanticismo y busca representar la realidad de forma objetiva."
+  },
+  {
+    "question": "¿Qué parte del cuerpo se menciona en la frase: \"Tú eras el huracán, y yo la alta torre que desafia su poder. ¡Tenías que estrellarte o abatirme!... ¡No podías ser!\"?",
+    "options": [
+      {"text": "Torre", "correct": true},
+      {"text": "Poder", "correct": false},
+      {"text": "Huracán", "correct": false},
+      {"text": "Alta", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Elemento arquitectónico utilizado como metáfora.",
+    "explanation": "La palabra \"torre\" se usa como metáfora para representar firmeza ante un conflicto emocional."
+  },
+  {
+    "question": "¿Qué figura literaria se utiliza en el verso: \"Ella me quiso, a veces yo también la quería.\"?",
+    "options": [
+      {"text": "Repetición", "correct": true},
+      {"text": "Paradoja", "correct": false},
+      {"text": "Ironía", "correct": false},
+      {"text": "Antítesis", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Uso intencional de palabras similares para enfatizar una idea.",
+    "explanation": "La repetición se usa para resaltar sentimientos encontrados dentro del poema."
+  },
+  {
+    "question": "¿Cuál es el género literario que se escribe principalmente en forma de diálogo entre personajes?",
+    "options": [
+      {"text": "Dramático", "correct": true},
+      {"text": "Lírico", "correct": false},
+      {"text": "Épico", "correct": false},
+      {"text": "Narrativo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Se representa en escena y no solo se narra.",
+    "explanation": "El género dramático se compone de diálogos entre personajes destinados a ser representados."
+  },
+  {
+    "question": "¿Qué tipo de ficha contiene datos sobre artículos publicados en revistas o periódicos?",
+    "options": [
+      {"text": "Hemerográfica", "correct": true},
+      {"text": "Bibliográfica", "correct": false},
+      {"text": "De trabajo", "correct": false},
+      {"text": "De resumen", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Se enfoca en fuentes de prensa escrita.",
+    "explanation": "Las fichas hemerográficas registran artículos de medios impresos como revistas y periódicos."
+  },
+  {
+    "question": "¿Cuál es la función principal del editorial en un medio de comunicación?",
+    "options": [
+      {"text": "Presentar opiniones institucionales sobre temas relevantes", "correct": true},
+      {"text": "Informar sobre eventos recientes sin emitir juicios", "correct": false},
+      {"text": "Entretener al lector con historias ficticias", "correct": false},
+      {"text": "Publicar anuncios comerciales de interés público", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Expresa posturas oficiales del medio editorial.",
+    "explanation": "El editorial expone las opiniones oficiales de un medio de comunicación sobre temas importantes."
+  },
+  {
+    "question": "¿Cuál es la diferencia fundamental entre una novela y un cuento?",
+    "options": [
+      {"text": "La extensión y complejidad de la trama", "correct": true},
+      {"text": "Que uno es ficción y el otro no", "correct": false},
+      {"text": "Que uno tiene múltiples personajes y el otro solo uno", "correct": false},
+      {"text": "Que uno siempre está escrito en prosa y el otro en verso", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Relacionada con el desarrollo narrativo.",
+    "explanation": "La novela suele tener mayor extensión y estructura más compleja que el cuento."
+  },
+  {
+    "question": "¿Qué tipo de texto busca provocar risa pero también reflexionar sobre aspectos humanos?",
+    "options": [
+      {"text": "Comedia", "correct": true},
+      {"text": "Tragedia", "correct": false},
+      {"text": "Farsa", "correct": false},
+      {"text": "Drama", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Género teatral que mezcla humor y crítica social.",
+    "explanation": "La comedia busca hacer reír, pero también invita a la reflexión sobre situaciones sociales."
+  },
+  {
+    "question": "¿Cuál es el propósito de una reseña crítica?",
+    "options": [
+      {"text": "Evaluar una obra incluyendo una opinión fundamentada", "correct": true},
+      {"text": "Describir una obra sin emitir juicio alguno", "correct": false},
+      {"text": "Promover comercialmente una obra", "correct": false},
+      {"text": "Dar una explicación histórica del autor", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Implica análisis y valoración personal.",
+    "explanation": "La reseña crítica combina descripción e interpretación con una opinión evaluativa."
+  },
+  {
+    "question": "¿Qué figura literaria se ejemplifica en la frase: \"Los grandes ojos fijos\"?",
+    "options": [
+      {"text": "Epíteto", "correct": true},
+      {"text": "Anáfora", "correct": false},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Destaca una característica distintiva de un elemento.",
+    "explanation": "El epíteto describe una cualidad sobresaliente de algo o alguien."
+  },
+  {
+    "question": "¿Qué movimiento literario se caracteriza por el uso de la imaginación y la exaltación de los sentimientos?",
+    "options": [
+      {"text": "Romanticismo", "correct": true},
+      {"text": "Realismo", "correct": false},
+      {"text": "Modernismo", "correct": false},
+      {"text": "Vanguardismo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Se opone al racionalismo y valora lo subjetivo.",
+    "explanation": "El Romanticismo prioriza la emoción, la libertad individual y el idealismo frente al racionalismo."
+  },
+  {
+    "question": "¿Cuál es el tipo de estructura textual que presenta la idea principal al final como conclusión?",
+    "options": [
+      {"text": "Sintetizante", "correct": true},
+      {"text": "Analizante", "correct": false},
+      {"text": "Argumentativa", "correct": false},
+      {"text": "Descriptiva", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "La idea general se revela después del desarrollo.",
+    "explanation": "La estructura sintetizante introduce la tesis al final del texto como resultado del contenido previo."
+  },
+  {
+    "question": "¿Qué elemento del texto periodístico responde a la pregunta \"¿qué pasó?\"?",
+    "options": [
+      {"text": "Hecho ocurrido", "correct": true},
+      {"text": "Forma de los hechos", "correct": false},
+      {"text": "Tiempo", "correct": false},
+      {"text": "Lugar", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Evento principal que se comunica.",
+    "explanation": "El hecho ocurrido es el núcleo informativo de la noticia."
+  },
+  {
+    "question": "¿Cuál es el término que describe la reproducción exacta de las palabras de un autor dentro de otro texto?",
+    "options": [
+      {"text": "Cita textual", "correct": true},
+      {"text": "Resumen", "correct": false},
+      {"text": "Parafrasis", "correct": false},
+      {"text": "Comentario", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Debe mantenerse fiel al original, incluyendo puntuación.",
+    "explanation": "La cita textual reproduce las palabras exactas de una fuente, manteniendo su formato original."
+  },
+  {
+    "question": "¿Qué tipo de ficha se utiliza para registrar ideas centrales de un texto con tus propias palabras?",
+    "options": [
+      {"text": "De contenido", "correct": true},
+      {"text": "Textual", "correct": false},
+      {"text": "Bibliográfica", "correct": false},
+      {"text": "Hemerográfica", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Implica reformular la información.",
+    "explanation": "Las fichas de contenido registran ideas principales con palabras propias."
+  },
+  {
+    "question": "¿Cuál es la principal diferencia entre una farsa y una comedia?",
+    "options": [
+      {"text": "La farsa carece de profundidad y su humor es burdo", "correct": true},
+      {"text": "La farsa siempre termina en muerte", "correct": false},
+      {"text": "La farsa incluye música y danza", "correct": false},
+      {"text": "La farsa solo se presenta en carnavales", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Está relacionada con el estilo y nivel de crítica social.",
+    "explanation": "La farsa se diferencia por su humor simple y superficial sin crítica profunda."
+  },
+  {
+    "question": "¿Qué tipo de rima se da cuando solo coinciden las vocales finales del verso?",
+    "options": [
+      {"text": "Asonante", "correct": true},
+      {"text": "Consonante", "correct": false},
+      {"text": "Libre", "correct": false},
+      {"text": "Cruzada", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Solo involucra sonidos vocálicos.",
+    "explanation": "La rima asonante ocurre cuando coinciden las vocales finales del verso."
+  },
+  {
+    "question": "¿Cuál es la propiedad que asegura que un texto tenga una correcta conexión entre oraciones?",
+    "options": [
+      {"text": "Cohesión", "correct": true},
+      {"text": "Coherencia", "correct": false},
+      {"text": "Adecuación", "correct": false},
+      {"text": "Claridad", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Uso de conectores y marcas lingüísticas.",
+    "explanation": "La cohesión se refiere a cómo las partes del texto están bien unidas mediante recursos lingüísticos."
+  },
+  {
+    "question": "¿Cuál es la figura que consiste en nombrar algo usando otra palabra que está relacionada indirectamente?",
+    "options": [
+      {"text": "Metonimia", "correct": true},
+      {"text": "Símil", "correct": false},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Sinécdoque", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Relación de cercanía entre conceptos.",
+    "explanation": "La metonimia sustituye un término por otro relacionado de manera contextual."
+  },
+  {
+    "question": "¿Qué tipo de texto tiene como finalidad informar sobre hechos recientes de interés público?",
+    "options": [
+      {"text": "Periodístico", "correct": true},
+      {"text": "Poético", "correct": false},
+      {"text": "Dramático", "correct": false},
+      {"text": "Narrativo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["LITERATURA"],
+    "hint": "Usado comúnmente en noticias y reportajes.",
+    "explanation": "El texto periodístico tiene como propósito primordial informar sobre acontecimientos recientes."
+  }
+]
