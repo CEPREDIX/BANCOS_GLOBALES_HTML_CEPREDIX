@@ -5,7 +5,7 @@
       {"text": "280", "correct": true},
       {"text": "320", "correct": false},
       {"text": "250", "correct": false},
-      {"text": "El resultado es 300 según mis cálculos preliminares", "correct": false},
+      {"text": "300", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Establece una ecuación proporcional",
@@ -17,7 +17,7 @@
       {"text": "90 km/h", "correct": true},
       {"text": "85 km/h", "correct": false},
       {"text": "92 km/h", "correct": false},
-      {"text": "La velocidad promedio es 95 km/h considerando los tiempos", "correct": false},
+      {"text": "95 km/h", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Calcula distancias parciales primero",
@@ -29,7 +29,7 @@
       {"text": "50", "correct": true},
       {"text": "45", "correct": false},
       {"text": "55", "correct": false},
-      {"text": "Exactamente 48 números cumplen esta condición", "correct": false},
+      {"text": "48", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Calcula divisibles por 6 y resta los divisibles por 18",
@@ -63,10 +63,10 @@
   {
     "question": "Si 3^a = 27 y 5^b = 125, ¿cuál es el valor de a^b + b^a?",
     "options": [
-      {"text": "17", "correct": true},
+      {"text": "54", "correct": true},
       {"text": "12", "correct": false},
       {"text": "20", "correct": false},
-      {"text": "El cálculo correcto da 19 según mis notas", "correct": false},
+      {"text": "23", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Resuelve primero los exponentes",
@@ -79,7 +79,7 @@
       {"text": "123", "correct": true},
       {"text": "63", "correct": false},
       {"text": "183", "correct": false},
-      {"text": "El número buscado es 243 según mis cálculos", "correct": false},
+      {"text": "243", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Usa el MCM y suma el residuo común",
@@ -91,7 +91,7 @@
       {"text": "32 años", "correct": true},
       {"text": "20 años", "correct": false},
       {"text": "40 años", "correct": false},
-      {"text": "Se requiere 30 años para quintuplicarse", "correct": false},
+      {"text": "30 años", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Interés proporcional al tiempo",
@@ -103,7 +103,7 @@
       {"text": "33.33%", "correct": true},
       {"text": "25%", "correct": false},
       {"text": "40%", "correct": false},
-      {"text": "El porcentaje exacto es 30%", "correct": false},
+      {"text": "30%", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Convierte todo a fracciones",
@@ -115,7 +115,7 @@
       {"text": "126 minutos", "correct": true},
       {"text": "84 minutos", "correct": false},
       {"text": "168 minutos", "correct": false},
-      {"text": "El adelanto total es 100 minutos aproximadamente", "correct": false},
+      {"text": "100 minutos", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Calcula ciclos completos de 4 horas",
@@ -127,7 +127,7 @@
       {"text": "37", "correct": true},
       {"text": "35", "correct": false},
       {"text": "39", "correct": false},
-      {"text": "El número central es 41 según mi ecuación", "correct": false},
+      {"text": "41", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Representa los números como n, n+2, n+4",
@@ -139,7 +139,7 @@
       {"text": "80", "correct": true},
       {"text": "40", "correct": false},
       {"text": "60", "correct": false},
-      {"text": "El valor correcto de A es 90", "correct": false},
+      {"text": "90", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Establece ecuaciones simultáneas",
@@ -151,7 +151,7 @@
       {"text": "35", "correct": true},
       {"text": "20", "correct": false},
       {"text": "30", "correct": false},
-      {"text": "En un pentágono convexo con diagonales hay 25 triángulos", "correct": false},
+      {"text": "25", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Combinatoria de vértices e intersecciones",
@@ -163,7 +163,7 @@
       {"text": "52", "correct": true},
       {"text": "48", "correct": false},
       {"text": "56", "correct": false},
-      {"text": "La suma de cuadrados da 50 según álgebra", "correct": false},
+      {"text": "50", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Usa la identidad algebraica fundamental",
@@ -175,7 +175,7 @@
       {"text": "24 horas", "correct": true},
       {"text": "12 horas", "correct": false},
       {"text": "8 horas", "correct": false},
-      {"text": "El tiempo requerido es 10 horas", "correct": false},
+      {"text": "10", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Calcula tasas combinadas de llenado",
@@ -211,7 +211,7 @@
       {"text": "17", "correct": true},
       {"text": "-1", "correct": false},
       {"text": "7", "correct": false},
-      {"text": "El resultado es 15 según operaciones", "correct": false},
+      {"text": "15", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Resuelve primero las ecuaciones exponenciales",
@@ -247,7 +247,7 @@
       {"text": "10", "correct": true},
       {"text": "20", "correct": false},
       {"text": "9", "correct": false},
-      {"text": "Se requieren 11 cortes para completar", "correct": false},
+      {"text": "11", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Considera la forma circular del objeto",
@@ -259,7 +259,7 @@
       {"text": "64", "correct": true},
       {"text": "72", "correct": false},
       {"text": "56", "correct": false},
-      {"text": "El valor calculado es 68", "correct": false},
+      {"text": "68", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Encuentra el número completo primero",
@@ -271,7 +271,7 @@
       {"text": "1 hora", "correct": true},
       {"text": "1.5 horas", "correct": false},
       {"text": "2 horas", "correct": false},
-      {"text": "El tiempo requerido es 45 minutos", "correct": false},
+      {"text": "45", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Suma inversas de tiempos",
@@ -283,7 +283,7 @@
       {"text": "8", "correct": true},
       {"text": "7", "correct": false},
       {"text": "9", "correct": false},
-      {"text": "El número central es 10 según ecuaciones", "correct": false},
+      {"text": "10", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Representa como n-1, n, n+1",
@@ -295,7 +295,7 @@
       {"text": "3", "correct": true},
       {"text": "7", "correct": false},
       {"text": "9", "correct": false},
-      {"text": "El último dígito es 1 según patrón cíclico", "correct": false},
+      {"text": "1", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Analiza la ciclicidad de las potencias de 7",
@@ -307,7 +307,7 @@
       {"text": "125 cm³", "correct": true},
       {"text": "100 cm³", "correct": false},
       {"text": "216 cm³", "correct": false},
-      {"text": "El volumen es 64 cm³ según cálculo", "correct": false},
+      {"text": "64 cm³", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Área superficial = 6 × lado²",
@@ -319,7 +319,7 @@
       {"text": "48", "correct": true},
       {"text": "50", "correct": false},
       {"text": "60", "correct": false},
-      {"text": "El resultado es 45 según regla de tres", "correct": false},
+      {"text": "45", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Encuentra el número original primero",
@@ -367,7 +367,7 @@
       {"text": "15", "correct": true},
       {"text": "10", "correct": false},
       {"text": "20", "correct": false},
-      {"text": "Se requieren 18 obreros exactamente", "correct": false},
+      {"text": "18", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Relación inversamente proporcional",
@@ -379,7 +379,7 @@
       {"text": "12 cm²", "correct": true},
       {"text": "10 cm²", "correct": false},
       {"text": "15 cm²", "correct": false},
-      {"text": "El área es 14.14 cm² según fórmula", "correct": false},
+      {"text": "14.14 cm²", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Usa fórmula de Herón",
@@ -391,7 +391,7 @@
       {"text": "3 y 5 simultáneamente", "correct": true},
       {"text": "2 y 5", "correct": false},
       {"text": "3 y 10", "correct": false},
-      {"text": "5 y 15 exclusivamente", "correct": false},
+      {"text": "5 y 15", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Descomposición en factores primos",
@@ -403,7 +403,7 @@
       {"text": "3:2", "correct": true},
       {"text": "2:3", "correct": false},
       {"text": "4:3", "correct": false},
-      {"text": "La proporción es 5:3 según análisis", "correct": false},
+      {"text": "5:3", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Iguala las expresiones porcentuales",
@@ -415,7 +415,7 @@
       {"text": "75", "correct": true},
       {"text": "90", "correct": false},
       {"text": "60", "correct": false},
-      {"text": "Existen 80 números que cumplen", "correct": false},
+      {"text": "80", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "MCM de 3 y 4, calcula entre 100 y 999",
@@ -427,7 +427,7 @@
       {"text": "80 km/h", "correct": true},
       {"text": "60 km/h", "correct": false},
       {"text": "100 km/h", "correct": false},
-      {"text": "La velocidad inicial es 90 km/h", "correct": false},
+      {"text": "90 km/h", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Establece ecuaciones con tiempo",
@@ -451,7 +451,7 @@
       {"text": "21 : 10", "correct": true},
       {"text": "15 : 14", "correct": false},
       {"text": "6 : 7", "correct": false},
-      {"text": "La proporción es 10 : 21 según combinación", "correct": false},
+      {"text": "10 : 21", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Encuentra un término común para b",
@@ -475,7 +475,7 @@
       {"text": "500π/3 cm³", "correct": true},
       {"text": "100π cm³", "correct": false},
       {"text": "250π/3 cm³", "correct": false},
-      {"text": "El volumen es 400π/3 cm³", "correct": false},
+      {"text": "400π/3 cm³", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Usa área para encontrar radio",
