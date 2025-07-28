@@ -1,27 +1,5 @@
 [
   {
-    "question": "¿Qué elemento del modelo de la comunicación es el encargado de transmitir el mensaje?",
-    "options": [
-      {"text": "Canal", "correct": true},
-      {"text": "Emisor", "correct": false},
-      {"text": "Receptor", "correct": false},
-      {"text": "Código", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "tags": ["GENERAL"],
-    "hint": "Medio físico en que la información viaja de un punto a otro.",
-    "explanation": "El canal es el medio por el cual se transmite el mensaje, como el aire, el papel o internet."
-  }
-]
-
-
-
-
-
-
-***** BANCO DEN PREGUNTAS *****
-[
-  {
     "question": "¿Qué tipo de texto relata historias, eventos o hechos reales o ficticios?",
     "options": [
       {"text": "Texto narrativo", "correct": true},
