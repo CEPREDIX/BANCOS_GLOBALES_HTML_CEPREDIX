@@ -8,7 +8,7 @@
       { "text": "Conjunción subordinante causal", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Pronombre que señala sin acompañar.",
     "explanation": "En la oración, «este» sustituye al nombre del individuo, por lo que actúa como pronombre demostrativo."
   },
@@ -21,7 +21,7 @@
       { "text": "Interjección enfática", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Acompaña al sustantivo.",
     "explanation": "«Este» antecede y determina al sustantivo «sombrero», por lo que funciona como determinante demostrativo."
   },
@@ -34,7 +34,7 @@
       { "text": "Verbo irregular en subjuntivo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Punto cardinal convertido en nombre.",
     "explanation": "Aquí «Este» nombra de manera sustantivada la región geográfica, actuando como sustantivo."
   },
@@ -47,7 +47,7 @@
       { "text": "Adverbio modal enfático", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Subjuntivo presente.",
     "explanation": "«Esté» es la primera o tercera persona del singular del presente de subjuntivo del verbo «estar»."
   },
@@ -60,7 +60,7 @@
       { "text": "Pronombre indefinido neutro", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Equivale a «solamente».",
     "explanation": "En este contexto, «solo» restringe la cantidad y funciona como adverbio de cantidad."
   },
@@ -73,7 +73,7 @@
       { "text": "Sustantivo abstracto referencial", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Describe al sustantivo viajero.",
     "explanation": "«Solo» concuerda con el sujeto tácito y describe su estado de compañía, por lo que es adjetivo."
   },
@@ -86,7 +86,7 @@
       { "text": "Interjección desiderativa prolongada", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Equivale a «único».",
     "explanation": "Aquí «solo» significa «único», por lo que funciona como adjetivo numeral."
   },
@@ -99,7 +99,7 @@
       { "text": "Adjetivo cuantificador extendido", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Equivale a «pero».",
     "explanation": "«Mas» introduce un contraste, actuando como conjunción adversativa equivalente a «pero»."
   },
@@ -112,7 +112,7 @@
       { "text": "Sustantivo común incontable", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Incremento cuantitativo.",
     "explanation": "«Más» modifica al sustantivo «tiempo» expresando cantidad adicional, por lo que es adverbio."
   },
@@ -125,7 +125,7 @@
       { "text": "Determinante indefinido plural", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Objeto lingüístico matemático.",
     "explanation": "Aquí «más» nombra el símbolo de la aritmética, funcionando como sustantivo."
   },
@@ -138,7 +138,7 @@
       { "text": "Adjetivo indefinido plural", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Inclusión enfática.",
     "explanation": "«Aun» sin tilde equivale a «incluso», modificando a «los expertos», por lo que es adverbio de inclusión."
   },
@@ -151,7 +151,7 @@
       { "text": "Interjección suspensiva prolongada", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Todavía.",
     "explanation": "«Aún» con tilde tiene significado temporal equivalente a «todavía», actuando como adverbio."
   },
@@ -164,7 +164,7 @@
       { "text": "Determinante interrogativo acentuado", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Condición hipotética.",
     "explanation": "En esta oración, «si» introduce la proposición condicional subordinada, por lo que es conjunción."
   },
@@ -177,7 +177,7 @@
       { "text": "Sustantivo con significado de aprobación", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Respuesta afirmativa.",
     "explanation": "«Sí» con tilde funciona como adverbio que expresa afirmación."
   },
@@ -190,7 +190,7 @@
       { "text": "Preposición inseparable", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Reflexividad enfática.",
     "explanation": "«Sí» actúa como pronombre reflexivo de tercera persona indicado con preposición «por»."
   },
@@ -203,7 +203,7 @@
       { "text": "Artículo definido neutro", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Verbo pronominal.",
     "explanation": "«Se» refleja la acción del sujeto sobre sí mismo en un verbo reflexivo."
   },
@@ -216,7 +216,7 @@
       { "text": "Conjunción final", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Agente omitido.",
     "explanation": "«Se» convierte el verbo en pasiva refleja donde el agente no se menciona."
   },
@@ -229,7 +229,7 @@
       { "text": "Adverbio modal enfático", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Indicativo, primera persona.",
     "explanation": "«Sé» es la primera persona del singular del presente de indicativo del verbo «saber»."
   },
@@ -242,7 +242,7 @@
       { "text": "Conjunción ilativa extensa", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Objeto indirecto.",
     "explanation": "«Te» funciona como pronombre objeto de segunda persona, complemento del verbo «ayudar»."
   },
@@ -255,7 +255,7 @@
       { "text": "Conjunción condicional añadida", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Infusión.",
     "explanation": "«Té» con tilde nombra la bebida, funcionando como sustantivo."
   },
@@ -268,7 +268,7 @@
       { "text": "Sustantivo neutro referencial", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Función comparativa.",
     "explanation": "«Como» introduce un complemento comparativo «ingeniero», actuando como preposición."
   },
@@ -281,7 +281,7 @@
       { "text": "Pronombre relativo en tono exclamativo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Pregunta directa.",
     "explanation": "«Cómo» con tilde introduce una interrogación, funcionando como adverbio interrogativo."
   },
@@ -294,7 +294,7 @@
       { "text": "Pronombre reflexivo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Equivale a la forma en que.",
     "explanation": "«Como» introduce una subordinada adverbial comparativa explicando la manera."
   },
@@ -307,7 +307,7 @@
       { "text": "Determinante demostrativo con tilde", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Enlace subordinante.",
     "explanation": "«Que» introduce una proposición subordinada sustantiva completiva de «creo»."
   },
@@ -320,7 +320,7 @@
       { "text": "Interjección optativa", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Recupera antecedente.",
     "explanation": "«Que» sustituye al antecedente «libro» y funciona como pronombre relativo."
   },
@@ -333,7 +333,7 @@
       { "text": "Artículo determinado plural", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Intensifica sustantivo.",
     "explanation": "«Qué» con tilde modifica a «sorpresa» aportando énfasis, actuando como adjetivo exclamativo."
   },
@@ -346,7 +346,7 @@
       { "text": "Sustantivo abstracto causalidad", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Pregunta de causa.",
     "explanation": "«Por qué» con espacio y tilde introduce interrogación sobre la causa."
   },
@@ -359,7 +359,7 @@
       { "text": "Preposición + pronombre interrogativo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Se articula con «el».",
     "explanation": "«Porqué» es un sustantivo que significa «la razón», y admite determinante «el»."
   },
@@ -372,7 +372,7 @@
       { "text": "Adverbio de afirmación", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Explica la causa.",
     "explanation": "«Porque» introduce la causa de la acción, por lo tanto es conjunción causal."
   },
@@ -385,7 +385,7 @@
       { "text": "Conjunción comparativa", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Procedencia.",
     "explanation": "«De» introduce el complemento de procedencia «Madrid», actuando como preposición."
   },
@@ -398,7 +398,7 @@
       { "text": "Artículo determinado", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Subjuntivo.",
     "explanation": "«Dé» es la primera o tercera persona singular del presente del subjuntivo del verbo «dar»."
   },
@@ -411,7 +411,7 @@
       { "text": "Conjunción condicional resumitiva", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Posesión.",
     "explanation": "«Mi» acompaña al sustantivo indicando posesión, por lo tanto es determinante posesivo."
   },
@@ -424,7 +424,7 @@
       { "text": "Interjección dubitativa", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Complemento de preposición.",
     "explanation": "«Mí» es un pronombre de primera persona usado tras preposición."
   },
@@ -437,7 +437,7 @@
       { "text": "Adverbio de modo terminativo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Indica posesión.",
     "explanation": "«Tu» acompaña al sustantivo «casa» indicando pertenencia."
   },
@@ -450,7 +450,7 @@
       { "text": "Conjunción condicional compuesta", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Sujeto explícito.",
     "explanation": "«Tú» actúa como sujeto de la oración, por lo que es pronombre personal tónico."
   },
@@ -463,7 +463,7 @@
       { "text": "Sustantivo común incontable", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Acompaña al sustantivo.",
     "explanation": "«El» introduce al sustantivo «coche», por lo tanto es artículo determinado."
   },
@@ -476,7 +476,7 @@
       { "text": "Adverbio de lugar", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Sujeto masculino.",
     "explanation": "«Él» con tilde funciona como pronombre personal que ejerce de sujeto."
   },
@@ -489,7 +489,7 @@
       { "text": "Conjunción adversativa", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Punto cardinal sustantivado.",
     "explanation": "«Norte» nombra el punto cardinal y funciona como sustantivo."
   },
@@ -502,7 +502,7 @@
       { "text": "Determinante indefinido", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Temporalidad.",
     "explanation": "«Antes» modifica el verbo indicando tiempo, por lo que es adverbio."
   },
@@ -515,7 +515,7 @@
       { "text": "Conjunción causal", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Ubicación espacial.",
     "explanation": "«Sobre» introduce el complemento circunstancial de lugar."
   },
@@ -528,7 +528,7 @@
       { "text": "Determinante demostrativo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Expresión espontánea.",
     "explanation": "«Ay» expresa sentimiento súbito; es interjección."
   },
@@ -541,7 +541,7 @@
       { "text": "Pronombre relativo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Contraste.",
     "explanation": "«Pero» une dos proposiciones contrapuestas, actuando como conjunción adversativa."
   },
@@ -554,7 +554,7 @@
       { "text": "Derecha, adelante prolongadamente", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Circunstancia temporal.",
     "explanation": "«Hoy» y «mañana» expresan momentos en el tiempo, ambos son adverbios de tiempo."
   },
@@ -567,7 +567,7 @@
       { "text": "Antes, después sin embargo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Oponen ideas.",
     "explanation": "«Pero» y «aunque» introducen contraste; ambas son conjunciones adversativas."
   },
@@ -580,7 +580,7 @@
       { "text": "Adelante, encima siempre", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Señalan distancia.",
     "explanation": "«Este» y «aquellos» acompañan al sustantivo indicando proximidad o lejanía."
   },
@@ -593,7 +593,7 @@
       { "text": "Aquello, eso solamente", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Funcionan como sujeto.",
     "explanation": "«Tú» y «él» pueden actuar como sujetos explícitos; son pronombres personales tónicos."
   },
@@ -606,7 +606,7 @@
       { "text": "¿Qué?, ¡vaya sorpresa!", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Expresiones súbitas.",
     "explanation": "«Eh» y «ay» expresan llamada y dolor respectivamente, son interjecciones genuinas."
   },
@@ -619,7 +619,7 @@
       { "text": "Quizás, entonces", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Enlazan sintagmas.",
     "explanation": "«Ante» y «bajo» son preposiciones que introducen complementos."
   },
@@ -632,7 +632,7 @@
       { "text": "Quiero, haya estado", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Deseo y presencia.",
     "explanation": "La forma correcta es «Espero que esté aquí mañana»; se combina el verbo principal y el subjuntivo."
   },
@@ -645,7 +645,7 @@
       { "text": "posicional, tú determinante", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Pronombre vs determinante.",
     "explanation": "El acento diacrítico separa «tú» (pronombre) de «tu» (determinante posesivo)."
   },
@@ -658,7 +658,7 @@
       { "text": "Aquel, inmediata, estemos", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Señalan distancia.",
     "explanation": "«Este», «esa» y «aquellos» varían en proximidad y cumplen función pronominal demostrativa."
   },
@@ -671,7 +671,7 @@
       { "text": "determinante demostrativo, verbo nominal", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Relación de pertenencia.",
     "explanation": "Los determinantes posesivos anteceden al nombre para mostrar pertenencia."
   },
@@ -684,7 +684,7 @@
       { "text": "Cómo, cómo pregunta", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Interrogativo acentuado.",
     "explanation": "El adverbio interrogativo «cómo» lleva tilde en preguntas directas."
   },
@@ -697,7 +697,7 @@
       { "text": "siempre, demasiado tarde", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Valor temporal vs inclusivo.",
     "explanation": "Con tilde expresa tiempo (todavía); sin tilde expresa concesión o inclusión (incluso)."
   },
@@ -710,7 +710,7 @@
       { "text": "resultar siendo ahora", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Atributo.",
     "explanation": "«Parecer» admite atributos igual que «ser» y «estar»."
   },
@@ -723,7 +723,7 @@
       { "text": "cualquiera demasiado extensa", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Cantidad vs pregunta.",
     "explanation": "«Cuanto» sin tilde es relativo; con tilde («cuánto») es interrogativo o exclamativo."
   },
@@ -736,7 +736,7 @@
       { "text": "ley-s", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Plural irregular.",
     "explanation": "Los sustantivos terminados en -y precedida de vocal cambian a «i» antes de «es»: «leyes»."
   },
@@ -749,7 +749,7 @@
       { "text": "quieres, querer así", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Futuro desconocido.",
     "explanation": "La forma futura «querrá» del verbo «querer» expresa posibilidad futura."
   },
@@ -762,7 +762,7 @@
       { "text": "Clasificación incorrecta aleatoria", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Agrupación vocálica.",
     "explanation": "El diptongo agrupa dos vocales en una sílaba, como en «cielo»."
   },
@@ -775,7 +775,7 @@
       { "text": "pluralidades extensas variadas", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Grupo en singular.",
     "explanation": "Los sustantivos colectivos nombran conjuntos en singular."
   },
@@ -788,7 +788,7 @@
       { "text": "posesivos variantes numerosas", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Incertidumbre.",
     "explanation": "Los pronombres indefinidos refieren de manera imprecisa."
   },
@@ -801,7 +801,7 @@
       { "text": "partícula optativa prolongada", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Signos de exclamación.",
     "explanation": "La interjección y signos marcan exclamación."
   },
@@ -814,7 +814,7 @@
       { "text": "mas pero incluso", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Contraste elidido.",
     "explanation": "«Pero» contrapone las oraciones: «Luchó pero venció»."
   },
@@ -827,7 +827,7 @@
       { "text": "construió demasiado rápido", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Irregularidad ortográfica.",
     "explanation": "En tercera persona singular la «i» se convierte en «y»: «construyó»."
   },
@@ -840,7 +840,7 @@
       { "text": "de, él mismo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Economía lingüística.",
     "explanation": "«Del» se forma uniendo «de» + «el»."
   },
@@ -853,7 +853,7 @@
       { "text": "participio largo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Sufijo adverbial.",
     "explanation": "Se coloca -mente sobre la forma femenina singular del adjetivo: «rápidamente»."
   },
@@ -866,7 +866,7 @@
       { "text": "A-III; B-II; C-I largo extendido", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Clases gramaticales.",
     "explanation": "«Nosotros» es pronombre personal, «allí» adverbio de lugar y «entre» preposición."
   },
@@ -879,7 +879,7 @@
       { "text": "A-I; B-II; C-III más extensa tal vez", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Función sintáctica.",
     "explanation": "«Mucho» es adverbio de cantidad, «porque» conjunción causal, «¡oh!» interjección."
   },
@@ -892,7 +892,7 @@
       { "text": "A-II; B-III; C-I prolongada", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Reconoce la categoría.",
     "explanation": "«Jauría» nombra un conjunto, «rápido» califica, «parecer» es copulativo."
   },
@@ -905,7 +905,7 @@
       { "text": "A-II; B-I; C-III más larga que la correcta", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Identidad y referencia.",
     "explanation": "«Su» determina posesión, «ese» señala sin nombre, «María» es nombre propio."
   },
@@ -918,7 +918,7 @@
       { "text": "A-III; B-I; C-II evidentemente más larga", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Contraste y enlace.",
     "explanation": "«Sin embargo» es conjunción adversativa, «sí» adverbio afirmativo, «que» pronombre relativo."
   },
@@ -931,7 +931,7 @@
       { "text": "A-I; B-III; C-II extensa contraste", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["MORFOLOGÍA"],
+    "tags": ["GENERAL"],
     "hint": "Ordenación lógica.",
     "explanation": "«¡Vaya!» expresa sorpresa, «bajo» indica posición, «el» es artículo determinado."
   }
