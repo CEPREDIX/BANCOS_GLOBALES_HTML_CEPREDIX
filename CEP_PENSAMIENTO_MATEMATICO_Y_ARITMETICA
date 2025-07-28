@@ -8,6 +8,7 @@
       {"text": "300", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Establece una ecuación proporcional",
     "explanation": "0.15x = 0.35 × 120 → 0.15x = 42 → x = 42 / 0.15 = 280"
   },
@@ -20,6 +21,7 @@
       {"text": "95 km/h", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Calcula distancias parciales primero",
     "explanation": "Distancia 1: 80 × 0.75 = 60 km; Distancia 2: 100 × 1.5 = 150 km; Total distancia: 210 km; Total tiempo: 2.25 h; Velocidad promedio: 210 / 2.25 = 90 km/h"
   },
@@ -32,6 +34,7 @@
       {"text": "48", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Calcula divisibles por 6 y resta los divisibles por 18",
     "explanation": "Divisibles por 6: (498-102)/6 + 1 = 67; Divisibles por 18: (486-108)/18 + 1 = 22; Resultado: 67 - 22 = 45? (Corrección: Primer divisible por 6 es 102, último 498 → (498-102)/6 + 1 = 66+1=67? 102+66*6=102+396=498 → 67 números. Divisibles por 18: 108 a 486 → (486-108)/18 + 1 = 21+1=22 → 67-22=45. Error en cálculo original. Respuesta correcta es 45. Disculpas, corregiré:",
     "explanation": "Divisibles por 6: ⌊500/6⌋ - ⌊99/6⌋ = 83 - 16 = 67; Divisibles por 18: ⌊500/18⌋ - ⌊99/18⌋ = 27 - 5 = 22; Resultado: 67 - 22 = 45 (respuesta correcta)"
@@ -45,6 +48,7 @@
       {"text": "1, impar, divisor", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Propiedades especiales de números fundamentales",
     "explanation": "El 2 es el único número par primo y es el menor de los números primos."
   },
@@ -57,6 +61,7 @@
       {"text": "A-I; B-III; C-II", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Definiciones básicas de teoría de números",
     "explanation": "MCD es el mayor divisor común, MCM es el menor múltiplo común, y los primos tienen exactamente dos divisores."
   },
@@ -69,8 +74,8 @@
       {"text": "23", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Resuelve primero los exponentes",
-    "explanation": "3^a = 27 → a=3; 5^b = 125 → b=3; 3^3 + 3^3 = 27 + 27? No: a^b + b^a = 3^3 + 3^3 = 27+27=54? Error: a^b = 3^3=27, b^a=3^3=27 → 27+27=54. Pero 125 es 5^3, sí b=3. Disculpas, error en planteamiento. Corrijo:",
     "explanation": "3^a=27 → a=3; 5^b=125 → b=3; a^b + b^a = 3^3 + 3^3 = 27 + 27 = 54? Pero esto contradice la respuesta. Revisar: si b=3, b^a = 3^3=27. La suma es 27+27=54. Pero la respuesta marcada como correcta es 17. Error en el problema original. Corrijo el problema:"
   },
   {
@@ -82,6 +87,7 @@
       {"text": "243", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Usa el MCM y suma el residuo común",
     "explanation": "MCM de 5,6,8 es 120. El número es 120 + 3 = 123."
   },
@@ -94,6 +100,7 @@
       {"text": "30 años", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Interés proporcional al tiempo",
     "explanation": "Duplicar: 100% interés en 8 años. Quintuplicar: 400% interés. Tiempo: (400/100) × 8 = 32 años."
   },
@@ -106,6 +113,7 @@
       {"text": "30%", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Convierte todo a fracciones",
     "explanation": "150% de 0.6 = 1.5 × 0.6 = 0.9; 1/3 de 0.9 = 0.3; 0.3 como porcentaje de 0.9? No: la pregunta es qué porcentaje es 0.3 del valor original? Mejor: (1/3) / (150% × 0.6) × 100%? Simplificar: (1/3) de (1.5 × 0.6) = (1/3)×0.9 = 0.3. Pero 0.3 es el valor, no el porcentaje. La pregunta es: qué porcentaje es [1/3 del 150% de 0.6] de ¿qué? Falta referencia. Suponer: qué porcentaje representa esa cantidad respecto al valor inicial? Valor inicial no definido. Reinterpretar: la expresión completa es un valor, y preguntan qué porcentaje representa ese valor de... no está especificado. Problema mal formulado. Corrijo:"
   },
@@ -118,6 +126,7 @@
       {"text": "100 minutos", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Calcula ciclos completos de 4 horas",
     "explanation": "7 días = 168 horas; 168 / 4 = 42 ciclos; 42 × 3 min = 126 minutos"
   },
@@ -130,6 +139,7 @@
       {"text": "41", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Representa los números como n, n+2, n+4",
     "explanation": "n + (n+2) + (n+4) = 111 → 3n + 6 = 111 → 3n = 105 → n = 35; Intermedio: 37"
   },
@@ -142,6 +152,7 @@
       {"text": "90", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Establece ecuaciones simultáneas",
     "explanation": "0.2A = 0.4B → A = 2B; A + B = 120 → 2B + B = 120 → 3B = 120 → B=40, A=80"
   },
@@ -154,6 +165,7 @@
       {"text": "25", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Combinatoria de vértices e intersecciones",
     "explanation": "En un pentágono convexo con todas sus diagonales, se forman 35 triángulos (combinación de 5 vértices tomados de 3 en 3 menos algunos casos especiales, pero en realidad son más por las intersecciones). Cálculo estándar: para pentágono regular son 35 triángulos."
   },
@@ -166,6 +178,7 @@
       {"text": "50", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Usa la identidad algebraica fundamental",
     "explanation": "(a+b)^2 = a^2 + 2ab + b^2 → 100 = a^2 + b^2 + 48 → a^2 + b^2 = 52"
   },
@@ -178,6 +191,7 @@
       {"text": "10", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Calcula tasas combinadas de llenado",
     "explanation": "Tasa A: 1/4 dep/h; B: 1/6 dep/h; C: -1/8 dep/h; Suma: 1/4 + 1/6 - 1/8 = (6+4-3)/24 = 7/24; Tiempo: 24/7 horas ≈ 3.428 h? Error: 7/24 dep/h → tiempo = 1 / (7/24) = 24/7 horas ≈ 3.428 h, pero la respuesta dice 24 horas. Inconsistencia. Corrijo:"
   },
@@ -190,6 +204,7 @@
       {"text": "Infinitos, pares e impares, múltiplos de tres", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Características fundamentales en teoría de números",
     "explanation": "Los primos son infinitos, mayores que 1, y solo divisibles por 1 y sí mismos."
   },
@@ -202,6 +217,7 @@
       {"text": "π, área, radio, 3.1416", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Constante fundamental en geometría circular",
     "explanation": "π se define como la relación entre la longitud de la circunferencia y su diámetro."
   },
@@ -214,6 +230,7 @@
       {"text": "15", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Resuelve primero las ecuaciones exponenciales",
     "explanation": "2^x = 16 → x=4; 3^y = 81 → y=4; 4^4 - 4^4 = 256 - 256 = 0? Pero 17 no coincide. Error: x^y - y^x = 4^4 - 4^4 = 0. Respuesta debería ser 0. Inconsistencia. Corrijo problema:"
   },
@@ -226,6 +243,7 @@
       {"text": "A-III; B-II; C-I", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Patrones fundamentales de secuencias numéricas",
     "explanation": "Fibonacci: cada término es suma de dos anteriores; PA: diferencia constante; PG: razón constante."
   },
@@ -238,6 +256,7 @@
       {"text": "El costo original era 450 según análisis", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Establece ecuaciones con precios relativos",
     "explanation": "Sea C costo, P precio venta: P = 1.2C; Si vende a 0.9P = 0.9(1.2C) = 1.08C (8% ganancia, no 10% pérdida). Planteamiento correcto: Precio venta = 1.2C; Si vende a 0.9 × (1.2C) = 1.08C → 8% sobre costo, pero dice 10% pérdida, que sería 0.9C. Entonces: 0.9P = 0.9C? No. La pérdida se refiere sobre costo. Si vende a 10% más barato que el precio de venta original: 0.9P = 0.9 × 1.2C = 1.08C, pero si esto representa 10% pérdida sobre costo, entonces 1.08C = 0.9C? Imposible. Error en interpretación. Corrijo:"
   },
@@ -250,6 +269,7 @@
       {"text": "11", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Considera la forma circular del objeto",
     "explanation": "En un círculo, número de cortes = longitud total / longitud por parte = 20 / 2 = 10"
   },
@@ -262,6 +282,7 @@
       {"text": "68", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Encuentra el número completo primero",
     "explanation": "0.3x = 0.5 × 48 → 0.3x = 24 → x = 80; 80% de 80 = 64"
   },
@@ -274,6 +295,7 @@
       {"text": "45", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Suma inversas de tiempos",
     "explanation": "1/2 + 1/3 + 1/6 = 3/6 + 2/6 + 1/6 = 6/6 = 1 depósito/hora → 1 hora"
   },
@@ -286,6 +308,7 @@
       {"text": "10", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Representa como n-1, n, n+1",
     "explanation": "(n-1)^2 + n^2 + (n+1)^2 = 194 → n^2 - 2n + 1 + n^2 + n^2 + 2n + 1 = 194 → 3n^2 + 2 = 194 → 3n^2 = 192 → n^2 = 64 → n=8"
   },
@@ -298,6 +321,7 @@
       {"text": "1", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Analiza la ciclicidad de las potencias de 7",
     "explanation": "Potencias de 7: 7,9,3,1,... ciclo cada 4. 2023 mod 4 = 3 → tercer elemento del ciclo: 3"
   },
@@ -310,6 +334,7 @@
       {"text": "64 cm³", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Área superficial = 6 × lado²",
     "explanation": "6l^2 = 150 → l^2 = 25 → l=5 cm; Volumen = 5^3 = 125 cm³"
   },
@@ -322,6 +347,7 @@
       {"text": "45", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Encuentra el número original primero",
     "explanation": "1.25x = 150 → x = 120; 40% de 120 = 48"
   },
@@ -334,6 +360,7 @@
       {"text": "π, φ, 0.101001000...", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Números que no pueden expresarse como fracción exacta",
     "explanation": "√2, π, e son irracionales, mientras las otras opciones incluyen racionales."
   },
@@ -346,6 +373,7 @@
       {"text": "Logaritmo, exponente, constante", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Propiedad fundamental de los números reales",
     "explanation": "El recíproco de x es 1/x, y su producto es 1."
   },
@@ -358,6 +386,7 @@
       {"text": "A-II; B-I; C-III", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Leyes básicas de operaciones algebraicas",
     "explanation": "Conmutativa: orden no altera suma/producto; Asociativa: agrupación no altera; Distributiva: factor común."
   },
@@ -370,6 +399,7 @@
       {"text": "18", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Relación inversamente proporcional",
     "explanation": "5 obreros × 12 días = 60 obreros-día; 60 / 4 días = 15 obreros"
   },
@@ -382,6 +412,7 @@
       {"text": "14.14 cm²", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Usa fórmula de Herón",
     "explanation": "Semiperímetro s = (5+5+6)/2 = 8; Área = √[8(8-5)(8-5)(8-6)] = √(8×3×3×2) = √144 = 12 cm²"
   },
@@ -394,6 +425,7 @@
       {"text": "5 y 15", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Descomposición en factores primos",
     "explanation": "15 = 3 × 5, por lo tanto debe ser múltiplo de ambos factores primos."
   },
@@ -406,6 +438,7 @@
       {"text": "5:3", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Iguala las expresiones porcentuales",
     "explanation": "0.4A = 0.6B → A/B = 0.6/0.4 = 3/2 → A:B = 3:2"
   },
@@ -418,6 +451,7 @@
       {"text": "80", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "MCM de 3 y 4, calcula entre 100 y 999",
     "explanation": "Divisible por 12 = divisible por 3 y 4. Primer número: 108, último: 996; (996-108)/12 + 1 = 888/12 + 1 = 74 + 1 = 75"
   },
@@ -430,6 +464,7 @@
       {"text": "90 km/h", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Establece ecuaciones con tiempo",
     "explanation": "Sea v velocidad original, t tiempo: v = 200/t; (v+20) = 200/(t-0.5); Resolver: 200/(t-0.5) - 200/t = 20; 200t - 200(t-0.5) = 20t(t-0.5); 100 = 20t^2 - 10t; 20t^2 - 10t - 100 = 0; 2t^2 - t - 10 = 0; t = [1 ± √81]/4 = [1+9]/4 = 2.5 h; v = 200/2.5 = 80 km/h"
   },
@@ -442,6 +477,7 @@
       {"text": "División, multiplicación", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Operaciones matemáticas fundamentales",
     "explanation": "La raíz es inversa de la potencia, el logaritmo es inverso de la exponencial."
   },
@@ -454,6 +490,7 @@
       {"text": "10 : 21", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Encuentra un término común para b",
     "explanation": "a/b = 3/5, b/c = 7/2; a/c = (a/b) × (b/c) = (3/5) × (7/2) = 21/10"
   },
@@ -466,6 +503,7 @@
       {"text": "A-I; B-III; C-II", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Relaciona matemáticos con sus contribuciones",
     "explanation": "Pitágoras: triángulos rectángulos; Tales: rectas paralelas; Euler: fórmula para poliedros."
   },
@@ -478,6 +516,7 @@
       {"text": "400π/3 cm³", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Usa área para encontrar radio",
     "explanation": "Área = 4πr² = 100π → r² = 25 → r=5 cm; Volumen = (4/3)πr³ = (4/3)π125 = 500π/3 cm³"
   },
@@ -490,6 +529,7 @@
       {"text": "93", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Recuerda el orden de operaciones: paréntesis, exponentes, multiplicación/división, suma/resta.",
     "explanation": "Primero se resuelve el paréntesis (6-2=4), luego la potencia (3^4=81) y la multiplicación (5×4=20). Finalmente, 81 + 20 = 101."
   },
@@ -502,6 +542,7 @@
       {"text": "80", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Busca el mínimo común múltiplo de los tres números.",
     "explanation": "60 es divisible entre 2 (30), 3 (20) y 5 (12). Es el mínimo número que cumple las tres condiciones."
   },
@@ -514,6 +555,7 @@
       {"text": "60 km/h", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Velocidad = Distancia / Tiempo",
     "explanation": "240 km dividido entre 3 horas = 80 km/h."
   },
@@ -526,6 +568,7 @@
       {"text": "45", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Calcula primero el 25%, luego aumenta el resultado en 10%.",
     "explanation": "25% de 200 = 50. 10% de 50 = 5. 50 + 5 = 55."
   },
@@ -538,6 +581,7 @@
       {"text": "25 días", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Es una relación inversamente proporcional.",
     "explanation": "5 trabajadores × 12 días = 60 días-hombre. 60 días-hombre / 3 trabajadores = 20 días."
   },
@@ -550,6 +594,7 @@
       {"text": "16", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Encuentra los divisores comunes y elige el mayor.",
     "explanation": "Los divisores comunes de 36 y 48 son 1, 2, 3, 4, 6, 12. El mayor es 12."
   },
@@ -562,6 +607,7 @@
       {"text": "44", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Observa la diferencia entre números consecutivos.",
     "explanation": "La serie sigue el patrón n² + n: 1²+1=2, 2²+2=6, 3²+3=12, etc. El siguiente es 6²+6=42."
   },
@@ -574,6 +620,7 @@
       {"text": "10 cm", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Área = base × altura",
     "explanation": "48 cm² ÷ 6 cm = 8 cm."
   },
@@ -586,6 +633,7 @@
       {"text": "20", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Desarrolla primero los cuadrados.",
     "explanation": "(10)^2 - (49 + 9) = 100 - 58 = 42."
   },
@@ -598,6 +646,7 @@
       {"text": "7/16", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Convierte el decimal a fracción simplificada.",
     "explanation": "0.375 = 375/1000 = 3/8 al simplificar."
   },
@@ -610,6 +659,7 @@
       {"text": "30%", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Calcula la diferencia y relaciónala con el valor original.",
     "explanation": "Diferencia: 50-40=10. (10/40)×100 = 25%."
   },
@@ -622,6 +672,7 @@
       {"text": "48", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Lista los múltiplos de cada número y busca el menor común.",
     "explanation": "Múltiplos de 8: 8,16,24... Múltiplos de 12: 12,24... El primer común es 24."
   },
@@ -634,6 +685,7 @@
       {"text": "$80", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Calcula primero el precio unitario.",
     "explanation": "$60 ÷ 3 = $20 por libro. 5 × $20 = $100."
   },
@@ -646,6 +698,7 @@
       {"text": "11/12", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Encuentra un denominador común para sumar las fracciones.",
     "explanation": "MCD=6. 3/6 + 2/6 + 1/6 = 6/6 = 1."
   },
@@ -658,6 +711,7 @@
       {"text": "27", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Un número primo solo es divisible por 1 y sí mismo.",
     "explanation": "17 solo es divisible por 1 y 17. Los otros tienen más divisores."
   },
@@ -670,6 +724,7 @@
       {"text": "100°", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "La suma de ángulos internos en un triángulo es 180°.",
     "explanation": "180° - 45° - 45° = 90°."
   },
@@ -682,6 +737,7 @@
       {"text": "7", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Resuelve primero la operación dentro del valor absoluto.",
     "explanation": "-7 + 3 = -4. El valor absoluto de -4 es 4."
   },
@@ -694,6 +750,7 @@
       {"text": "65", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Un múltiplo de 9 es divisible entre 9 sin residuo.",
     "explanation": "63 ÷ 9 = 7 exactamente. Los otros números no son divisibles exactamente por 9."
   },
@@ -706,6 +763,7 @@
       {"text": "6.5", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "0.75 es equivalente a 3/4.",
     "explanation": "0.75 × 8 = 6, o (3/4) × 8 = 6."
   },
@@ -718,6 +776,7 @@
       {"text": "36 cm³", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Volumen del cubo = arista³.",
     "explanation": "3 cm × 3 cm × 3 cm = 27 cm³."
   },
@@ -730,6 +789,7 @@
       {"text": "XLXI", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "En números romanos, 40 es XL y 9 es IX.",
     "explanation": "49 = 40 (XL) + 9 (IX) = XLIX."
   },
@@ -742,6 +802,7 @@
       {"text": "30 m", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Primero encuentra la longitud de un lado.",
     "explanation": "Área = lado² → lado = √25 = 5 m. Perímetro = 4 × 5 = 20 m."
   },
@@ -754,6 +815,7 @@
       {"text": "0.901", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Realiza las operaciones paso a paso de izquierda a derecha.",
     "explanation": "1 - 0.1 = 0.9; 0.9 + 0.01 = 0.91; 0.91 - 0.001 = 0.909."
   },
@@ -766,6 +828,7 @@
       {"text": "49", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Debe ser divisible entre 2 y 3 simultáneamente.",
     "explanation": "54 es divisible entre 2 (es par) y entre 3 (5+4=9, divisible entre 3)."
   },
@@ -778,6 +841,7 @@
       {"text": "14", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "12 × 12 = ?",
     "explanation": "12 × 12 = 144, por lo tanto √144 = 12."
   },
@@ -790,6 +854,7 @@
       {"text": "6", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "¿A qué potencia debes elevar 2 para obtener 16?",
     "explanation": "2^4 = 2 × 2 × 2 × 2 = 16, por lo tanto x = 4."
   },
@@ -802,6 +867,7 @@
       {"text": "42", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "7! = 7 × 6 × 5!. Simplifica antes de multiplicar.",
     "explanation": "7! / (5! × 2!) = (7 × 6 × 5!) / (5! × 2) = (7 × 6)/2 = 42/2 = 21."
   },
@@ -814,6 +880,7 @@
       {"text": "36", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Calcula porcentajes sucesivamente.",
     "explanation": "30% de 400 = 120. 20% de 120 = 24."
   },
@@ -826,6 +893,7 @@
       {"text": "8", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "El prefijo 'hept-' se relaciona con el número 7.",
     "explanation": "Un heptágono es un polígono de 7 lados."
   },
@@ -838,6 +906,7 @@
       {"text": "30°", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "La manecilla horaria se mueve 0.5° por minuto.",
     "explanation": "A las 3:00 son 90°. En 15 minutos, la manecilla horaria avanza 7.5° (15 × 0.5), mientras el minutero está en 90°. Diferencia: 90° - 82.5° = 7.5°."
   },
@@ -850,6 +919,7 @@
       {"text": "5", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Sigue el orden de operaciones: paréntesis, exponentes, multiplicación, resta.",
     "explanation": "(5) × 4 - 25 = 20 - 25 = -5."
   },
@@ -862,6 +932,7 @@
       {"text": "85", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Un cuadrado perfecto es el resultado de un entero multiplicado por sí mismo.",
     "explanation": "8 × 8 = 64. Los otros números no son cuadrados perfectos."
   },
@@ -874,6 +945,7 @@
       {"text": "15", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Resuelve primero para x, luego suma 5.",
     "explanation": "4x = 20 → x = 5. x + 5 = 10."
   },
@@ -886,6 +958,7 @@
       {"text": "600°", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Fórmula: 180° × (n - 2), donde n es el número de lados.",
     "explanation": "Pentágono tiene 5 lados: 180° × (5-2) = 540°."
   },
@@ -898,6 +971,7 @@
       {"text": "Indefinido", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Considera la serie geométrica infinita.",
     "explanation": "0.999... es exactamente igual a 1, como puede demostrarse con series infinitas o álgebra simple."
   },
@@ -910,6 +984,7 @@
       {"text": "62.8 cm²", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Área del círculo = π × r².",
     "explanation": "3.14 × (5 cm)² = 3.14 × 25 = 78.5 cm²."
   },
@@ -922,6 +997,7 @@
       {"text": "5400", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "1 hora = 3600 segundos, 30 minutos = 1800 segundos.",
     "explanation": "2 horas = 7200 segundos, media hora = 1800 segundos. Total: 9000 segundos."
   },
@@ -934,6 +1010,7 @@
       {"text": "1337", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Un número capicúa se lee igual de izquierda a derecha y viceversa.",
     "explanation": "1331 se lee igual en ambos sentidos. 1221 también sería correcto, pero no está entre las opciones."
   },
@@ -946,6 +1023,7 @@
       {"text": "60", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Usa la fórmula para la suma de los primeros n números naturales: n(n+1)/2.",
     "explanation": "10 × 11 / 2 = 55."
   },
@@ -958,6 +1036,7 @@
       {"text": "1110", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "10 en decimal es 8 + 2 en binario.",
     "explanation": "8 (2³) se representa como 1000, 2 (2¹) como 10. Sumados: 1010."
   },
@@ -970,6 +1049,7 @@
       {"text": "0.0008", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Elevar un decimal al cubo lo hace más pequeño.",
     "explanation": "0.2 × 0.2 × 0.2 = 0.008."
   },
@@ -982,6 +1062,7 @@
       {"text": "10", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Es el elemento esencial para la respiración.",
     "explanation": "El oxígeno tiene 8 protones en su núcleo, por lo tanto su número atómico es 8."
   },
@@ -994,6 +1075,7 @@
       {"text": "12", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Resuelve primero la suma dentro de la raíz.",
     "explanation": "√(25) = 5."
   },
@@ -1006,6 +1088,7 @@
       {"text": "8", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Usa la regla de tres simple.",
     "explanation": "3 × 10 = 6 × x → 30 = 6x → x = 5."
   },
@@ -1018,6 +1101,7 @@
       {"text": "0", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Es el único número par que es primo.",
     "explanation": "2 es el primer número primo (divisible solo por 1 y sí mismo) y el único par."
   },
@@ -1030,6 +1114,7 @@
       {"text": "4", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Un cubo tiene 6 caras, 12 aristas y ___ vértices.",
     "explanation": "Un cubo tiene 8 vértices (esquinas donde se encuentran 3 aristas)."
   },
@@ -1042,6 +1127,7 @@
       {"text": "5/16", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Encuentra un denominador común (16) y suma.",
     "explanation": "4/16 + 2/16 + 1/16 = 7/16."
   },
@@ -1054,6 +1140,7 @@
       {"text": "11", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Cada número es la suma de los dos anteriores.",
     "explanation": "Serie de Fibonacci: 5 + 8 = 13."
   },
@@ -1066,6 +1153,7 @@
       {"text": "800", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Calcula primero las potencias, luego resta.",
     "explanation": "1000 - 100 = 900."
   }
