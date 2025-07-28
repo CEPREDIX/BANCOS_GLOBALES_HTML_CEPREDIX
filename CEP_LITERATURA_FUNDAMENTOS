@@ -8,7 +8,7 @@
       {"text": "Función expresiva", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Relacionada con la transmisión objetiva de información.",
     "explanation": "La función referencial busca transmitir información de manera objetiva, típica del texto informativo."
   },
@@ -21,7 +21,7 @@
       {"text": "Sinécdoque", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Expresión que compara sin usar \"como\" o \"así como\".",
     "explanation": "La metáfora es una figura retórica que establece una comparación implícita entre dos elementos."
   },
@@ -34,7 +34,7 @@
       {"text": "Argumentativa", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Se inicia con una afirmación general.",
     "explanation": "La estructura analizante comienza con una tesis o idea general y luego la desarrolla."
   },
@@ -47,7 +47,7 @@
       {"text": "Claridad", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Relación lógica entre las ideas de un texto.",
     "explanation": "La coherencia se refiere a la conexión lógica y sentido global de un texto."
   },
@@ -60,7 +60,7 @@
       {"text": "Verso", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Depende del conteo de sílabas en cada línea.",
     "explanation": "El metro es la medida que se basa en el número de sílabas en un verso."
   },
@@ -73,7 +73,7 @@
       {"text": "Rima cruzada", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Incluye tanto vocales como consonantes en su coincidencia.",
     "explanation": "La rima consonante implica coincidencia total desde la última vocal acentuada."
   },
@@ -86,7 +86,7 @@
       {"text": "Ambiental", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Es quien impulsa la acción principal de la obra.",
     "explanation": "El protagonista es el personaje central que enfrenta el conflicto narrativo."
   },
@@ -99,7 +99,7 @@
       {"text": "Representar conflictos cotidianos de forma ligera", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Sentimientos profundos hacia el destino inevitable del héroe.",
     "explanation": "Una tragedia busca provocar temor y compasión en el espectador mediante el destino trágico del protagonista."
   },
@@ -112,7 +112,7 @@
       {"text": "Claridad", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Adaptación del mensaje al propósito y situación.",
     "explanation": "La adecuación se refiere a cómo el texto se ajusta al contexto, propósito y audiencia."
   },
@@ -125,7 +125,7 @@
       {"text": "Vanguardismo", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Busca retratar la vida tal cual es, sin idealizaciones.",
     "explanation": "El Realismo se opone al Romanticismo y busca representar la realidad de forma objetiva."
   },
@@ -138,7 +138,7 @@
       {"text": "Alta", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Elemento arquitectónico utilizado como metáfora.",
     "explanation": "La palabra \"torre\" se usa como metáfora para representar firmeza ante un conflicto emocional."
   },
@@ -151,7 +151,7 @@
       {"text": "Antítesis", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Uso intencional de palabras similares para enfatizar una idea.",
     "explanation": "La repetición se usa para resaltar sentimientos encontrados dentro del poema."
   },
@@ -164,7 +164,7 @@
       {"text": "Narrativo", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Se representa en escena y no solo se narra.",
     "explanation": "El género dramático se compone de diálogos entre personajes destinados a ser representados."
   },
@@ -177,7 +177,7 @@
       {"text": "De resumen", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Se enfoca en fuentes de prensa escrita.",
     "explanation": "Las fichas hemerográficas registran artículos de medios impresos como revistas y periódicos."
   },
@@ -190,7 +190,7 @@
       {"text": "Publicar anuncios comerciales de interés público", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Expresa posturas oficiales del medio editorial.",
     "explanation": "El editorial expone las opiniones oficiales de un medio de comunicación sobre temas importantes."
   },
@@ -203,7 +203,7 @@
       {"text": "Que uno siempre está escrito en prosa y el otro en verso", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Relacionada con el desarrollo narrativo.",
     "explanation": "La novela suele tener mayor extensión y estructura más compleja que el cuento."
   },
@@ -216,7 +216,7 @@
       {"text": "Drama", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Género teatral que mezcla humor y crítica social.",
     "explanation": "La comedia busca hacer reír, pero también invita a la reflexión sobre situaciones sociales."
   },
@@ -229,7 +229,7 @@
       {"text": "Dar una explicación histórica del autor", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Implica análisis y valoración personal.",
     "explanation": "La reseña crítica combina descripción e interpretación con una opinión evaluativa."
   },
@@ -242,7 +242,7 @@
       {"text": "Hipérbole", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Destaca una característica distintiva de un elemento.",
     "explanation": "El epíteto describe una cualidad sobresaliente de algo o alguien."
   },
@@ -255,7 +255,7 @@
       {"text": "Vanguardismo", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Se opone al racionalismo y valora lo subjetivo.",
     "explanation": "El Romanticismo prioriza la emoción, la libertad individual y el idealismo frente al racionalismo."
   },
@@ -268,7 +268,7 @@
       {"text": "Descriptiva", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "La idea general se revela después del desarrollo.",
     "explanation": "La estructura sintetizante introduce la tesis al final del texto como resultado del contenido previo."
   },
@@ -281,7 +281,7 @@
       {"text": "Lugar", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Evento principal que se comunica.",
     "explanation": "El hecho ocurrido es el núcleo informativo de la noticia."
   },
@@ -294,7 +294,7 @@
       {"text": "Comentario", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Debe mantenerse fiel al original, incluyendo puntuación.",
     "explanation": "La cita textual reproduce las palabras exactas de una fuente, manteniendo su formato original."
   },
@@ -307,7 +307,7 @@
       {"text": "Hemerográfica", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Implica reformular la información.",
     "explanation": "Las fichas de contenido registran ideas principales con palabras propias."
   },
@@ -320,7 +320,7 @@
       {"text": "La farsa solo se presenta en carnavales", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Está relacionada con el estilo y nivel de crítica social.",
     "explanation": "La farsa se diferencia por su humor simple y superficial sin crítica profunda."
   },
@@ -333,7 +333,7 @@
       {"text": "Cruzada", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Solo involucra sonidos vocálicos.",
     "explanation": "La rima asonante ocurre cuando coinciden las vocales finales del verso."
   },
@@ -346,7 +346,7 @@
       {"text": "Claridad", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Uso de conectores y marcas lingüísticas.",
     "explanation": "La cohesión se refiere a cómo las partes del texto están bien unidas mediante recursos lingüísticos."
   },
@@ -359,7 +359,7 @@
       {"text": "Sinécdoque", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Relación de cercanía entre conceptos.",
     "explanation": "La metonimia sustituye un término por otro relacionado de manera contextual."
   },
@@ -372,7 +372,7 @@
       {"text": "Narrativo", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["LITERATURA"],
+    "tags": ["GENERAL"],
     "hint": "Usado comúnmente en noticias y reportajes.",
     "explanation": "El texto periodístico tiene como propósito primordial informar sobre acontecimientos recientes."
   }
