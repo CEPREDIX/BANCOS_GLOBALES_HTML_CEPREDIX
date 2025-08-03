@@ -375,5 +375,615 @@
     "tags": ["GENERAL"],
     "hint": "Usado comúnmente en noticias y reportajes.",
     "explanation": "El texto periodístico tiene como propósito primordial informar sobre acontecimientos recientes."
+  },{
+    "question": "¿Qué propiedad del texto garantiza que las ideas estén conectadas lógicamente y formen una unidad significativa?",
+    "options": [
+      {"text": "Coherencia", "correct": true},
+      {"text": "Adecuación", "correct": false},
+      {"text": "Propósito comunicativo", "correct": false},
+      {"text": "Disposición espacial", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "La relación lógica entre ideas",
+    "explanation": "La coherencia es la propiedad que asegura la conexión lógica entre las ideas de un texto, formando una unidad significativa."
+  },
+  {
+    "question": "La función lingüística predominante en el texto periodístico es:",
+    "options": [
+      {"text": "Referencial", "correct": true},
+      {"text": "Emotiva o expresiva de manera predominante", "correct": false},
+      {"text": "Conativa o apelativa como principal característica", "correct": false},
+      {"text": "Poética con elementos estéticos destacados", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Transmisión objetiva de información",
+    "explanation": "El texto periodístico prioriza la función referencial al presentar hechos de manera objetiva."
+  },
+  {
+    "question": "El desenlace fatal donde el protagonista enfrenta consecuencias devastadoras es característico de:",
+    "options": [
+      {"text": "Tragedia", "correct": true},
+      {"text": "Comedia con elementos humorísticos", "correct": false},
+      {"text": "Tragicomedia con final ambiguo", "correct": false},
+      {"text": "Farsa con desenlace absurdo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Obra con final catastrófico",
+    "explanation": "La tragedia se define por su desenlace funesto donde el héroe sufre un destino devastador."
+  },
+  {
+    "question": "Son autores representativos del realismo literario:",
+    "options": [
+      {"text": "Benito Pérez Galdós y Rafael Delgado", "correct": true},
+      {"text": "Juan Ramón Jiménez y Enrique González Martínez", "correct": false},
+      {"text": "José de Espronceda y Manuel Payno", "correct": false},
+      {"text": "Gustave Flaubert y Oscar Wilde simultáneamente", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Representantes ibéricos del siglo XIX",
+    "explanation": "Pérez Galdós (España) y Delgado (México) son figuras clave del realismo literario en español."
+  },
+  {
+    "question": "El análisis intratextual de un poema incluye principalmente:",
+    "options": [
+      {"text": "Estudio del metro, rima y figuras retóricas", "correct": true},
+      {"text": "Contexto histórico y biografía del autor", "correct": false},
+      {"text": "Influencias literarias y corrientes estéticas", "correct": false},
+      {"text": "Comparación con otras obras del mismo periodo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Elementos internos de la estructura poética",
+    "explanation": "El análisis intratextual se centra en componentes formales como métrica, rima y recursos literarios."
+  },
+  {
+    "question": "________ es un género literario que desarrolla acciones a través del diálogo directo entre ________, mostrando conflictos humanos.",
+    "options": [
+      {"text": "El texto dramático, personajes", "correct": true},
+      {"text": "La lírica, las metáforas", "correct": false},
+      {"text": "La épica, narradores omniscientes", "correct": false},
+      {"text": "La narrativa, descripciones detalladas", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Representación escénica",
+    "explanation": "El texto dramático se construye mediante diálogos entre personajes que desarrollan acciones conflictivas."
+  },
+  {
+    "question": "En la ficha ________ se registran datos de artículos de periódicos, mientras que la ficha ________ organiza información de libros.",
+    "options": [
+      {"text": "hemerográfica, bibliográfica", "correct": true},
+      {"text": "bibliográfica, de trabajo", "correct": false},
+      {"text": "de trabajo, hemerográfica", "correct": false},
+      {"text": "documental, textual", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Tipos de registro documental",
+    "explanation": "Las fichas hemerográficas documentan publicaciones periódicas y las bibliográficas registran libros."
+  },
+  {
+    "question": "Relaciona cada género literario con su característica esencial: A) Épico, B) Lírico, C) Dramático; I) Expresión de emociones, II) Narración de hazañas, III) Representación dialógica",
+    "options": [
+      {"text": "A-II; B-I; C-III", "correct": true},
+      {"text": "A-III; B-II; C-I", "correct": false},
+      {"text": "A-I; B-III; C-II", "correct": false},
+      {"text": "A-II; B-III; C-I", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Funciones distintivas",
+    "explanation": "El género épico narra hazañas (II), el lírico expresa emociones (I) y el dramático se representa mediante diálogos (III)."
+  },
+  {
+    "question": "La ________ implica reelaborar un texto con palabras propias manteniendo su significado original, siendo un proceso de carácter ________.",
+    "options": [
+      {"text": "paráfrasis, interpretativo", "correct": true},
+      {"text": "cita textual, descriptivo", "correct": false},
+      {"text": "resumen, expositivo", "correct": false},
+      {"text": "comentario, argumentativo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Reformulación textual",
+    "explanation": "La paráfrasis reinterpreta un contenido conservando su esencia mediante nuevas expresiones."
+  },
+  {
+    "question": "En el texto periodístico, la selección y ________ de información determinan la relevancia de los hechos, mientras que la ________ puede generar énfasis o manipulación.",
+    "options": [
+      {"text": "jerarquización, reiteración", "correct": true},
+      {"text": "omisión, adecuación", "correct": false},
+      {"text": "organización, coherencia", "correct": false},
+      {"text": "documentación, cabalidad", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Procesos editoriales",
+    "explanation": "La jerarquización prioriza contenidos y la reiteración puede enfatizar o sesgar información."
+  },
+  {
+    "question": "¿Qué elemento NO corresponde al análisis intratextual del poema?",
+    "options": [
+      {"text": "Contexto histórico del autor", "correct": true},
+      {"text": "Esquema métrico del verso", "correct": false},
+      {"text": "Patrón de rimas consonantes", "correct": false},
+      {"text": "Uso de metáforas y símiles", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Enfoque interno vs. externo",
+    "explanation": "El contexto histórico pertenece al análisis contextual, no al intratextual que examina elementos formales internos."
+  },
+  {
+    "question": "La ________ se caracteriza por finales felices y situaciones cotidianas, mientras que la ________ presenta héroes con destinos catastróficos.",
+    "options": [
+      {"text": "comedia, tragedia", "correct": true},
+      {"text": "farsa, tragicomedia", "correct": false},
+      {"text": "tragedia, comedia", "correct": false},
+      {"text": "tragicomedia, farsa", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Contraste de géneros dramáticos",
+    "explanation": "La comedia resuelve conflictos con final positivo y la tragedia culmina en desenlace fatal para el protagonista."
+  },
+  {
+    "question": "Son características del cuento literario:",
+    "options": [
+      {"text": "Brevedad, unidad de efecto y final sorpresivo", "correct": true},
+      {"text": "Desarrollo extenso de personajes y múltiples tramas", "correct": false},
+      {"text": "Estructura dialógica y acotaciones escénicas", "correct": false},
+      {"text": "Versificación y recursos fonéticos destacados", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Narrativa concentrada",
+    "explanation": "El cuento se distingue por su brevedad, efecto único concentrado y desenlaces impactantes."
+  },
+  {
+    "question": "La ________ exige que el texto sea completo y autosuficiente, mientras que la ________ requiere adaptación al contexto comunicativo.",
+    "options": [
+      {"text": "cabalidad, adecuación", "correct": true},
+      {"text": "coherencia, disposición espacial", "correct": false},
+      {"text": "organización textual, coherencia", "correct": false},
+      {"text": "propósito, cabalidad", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Propiedades textuales complementarias",
+    "explanation": "La cabalidad asegura la autosuficiencia del texto y la adecuación lo adapta a su contexto específico."
+  },
+  {
+    "question": "¿Qué opción describe CORRECTAMENTE el propósito del texto periodístico?",
+    "options": [
+      {"text": "Informar hechos reales, opinar sobre actualidad y persuadir al lector", "correct": true},
+      {"text": "Expresar emociones subjetivas mediante recursos estéticos", "correct": false},
+      {"text": "Desarrollar conflictos humanos a través de acciones escénicas", "correct": false},
+      {"text": "Explorar fantasías mediante narraciones extensas y complejas", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Funciones informativo-persuasivas",
+    "explanation": "El periodismo combina información objetiva con opinión y persuasión en sus diversos formatos."
+  },
+  {
+    "question": "El ________ es un género épico moderno que desarrolla tramas complejas con ________ múltiples y evolución psicológica.",
+    "options": [
+      {"text": "novela, personajes", "correct": true},
+      {"text": "cuento, finales", "correct": false},
+      {"text": "poema, símbolos", "correct": false},
+      {"text": "drama, diálogos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Narrativa extensa",
+    "explanation": "La novela, como forma épica contemporánea, construye mundos complejos con personajes multidimensionales."
+  },
+  {
+    "question": "Relaciona cada técnica de investigación con su definición: A) Resumen, B) Cita textual, C) Comentario; I) Reproducción exacta entre comillas, II) Síntesis objetiva, III) Interpretación crítica",
+    "options": [
+      {"text": "A-II; B-I; C-III", "correct": true},
+      {"text": "A-III; B-I; C-II", "correct": false},
+      {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-II; B-III; C-I", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Procesos de manejo de fuentes",
+    "explanation": "El resumen sintetiza (II), la cita reproduce fielmente (I) y el comentario analiza críticamente (III)."
+  },
+  {
+    "question": "La ________ en poesía crea patrones sonoros mediante repetición de ________ al final de los versos.",
+    "options": [
+      {"text": "rima, fonemas", "correct": true},
+      {"text": "metáfora, significados", "correct": false},
+      {"text": "medida, sílabas", "correct": false},
+      {"text": "ritmo, acentos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Recurso fónico",
+    "explanation": "La rima establece correspondencias fonéticas en los finales versales para crear musicalidad."
+  },
+  {
+    "question": "¿Cuál es elemento fundamental de la nota informativa periodística?",
+    "options": [
+      {"text": "Presentación objetiva de hechos esenciales", "correct": true},
+      {"text": "Desarrollo de personajes ficticios", "correct": false},
+      {"text": "Expresión de sentimientos subjetivos", "correct": false},
+      {"text": "Uso extensivo de metáforas complejas", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Pirámide invertida",
+    "explanation": "La nota informativa prioriza hechos clave con objetividad, usando estructura de pirámide invertida."
+  },
+  {
+    "question": "La ________ implica identificar fuentes precisas en la investigación, mientras que la ________ registra datos específicos de consulta.",
+    "options": [
+      {"text": "documentación, ficha de trabajo", "correct": true},
+      {"text": "paráfrasis, cita textual", "correct": false},
+      {"text": "jerarquización, adecuación", "correct": false},
+      {"text": "coherencia, cabalidad", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Rigor metodológico",
+    "explanation": "La documentación verifica fuentes y las fichas de trabajo sistematizan información consultada."
+  },
+  {
+    "question": "En el texto dramático, los ________ interactúan mediante ________ que revelan conflictos.",
+    "options": [
+      {"text": "personajes, diálogos", "correct": true},
+      {"text": "símbolos, metáforas", "correct": false},
+      {"text": "narradores, descripciones", "correct": false},
+      {"text": "recursos, figuras retóricas", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Comunicación escénica",
+    "explanation": "La acción dramática avanza mediante diálogos entre personajes que manifiestan tensiones."
+  },
+  {
+    "question": "El ________ literario aborda hazañas colectivas con personajes que encarnan ________ universales.",
+    "options": [
+      {"text": "género épico, valores", "correct": true},
+      {"text": "texto lírico, emociones", "correct": false},
+      {"text": "drama, conflictos", "correct": false},
+      {"text": "cuento, fantasías", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Narrativa heroica",
+    "explanation": "La épica representa proezas de héroes que simbolizan valores fundamentales de una comunidad."
+  },
+  {
+    "question": "Son autores representativos de la literatura contemporánea:",
+    "options": [
+      {"text": "Jorge Ibargüengoitia y José Saramago", "correct": true},
+      {"text": "Mary Shelley y Pedro Calderón de la Barca", "correct": false},
+      {"text": "Sor Juana Inés de la Cruz y Fiódor Dostoyevski", "correct": false},
+      {"text": "Miguel de Cervantes y Juan Ruiz de Alarcón", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Siglos XX-XXI",
+    "explanation": "Ibargüengoitia (México) y Saramago (Portugal) son figuras emblemáticas de la narrativa contemporánea."
+  },
+  {
+    "question": "La ________ transforma información manteniendo ideas originales mediante ________ personal.",
+    "options": [
+      {"text": "paráfrasis, reformulación", "correct": true},
+      {"text": "cita textual, transcripción", "correct": false},
+      {"text": "adecuación, adaptación", "correct": false},
+      {"text": "coherencia, reorganización", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Reelaboración interpretativa",
+    "explanation": "La paráfrasis reinterpreta contenidos usando un lenguaje propio sin alterar el significado original."
+  },
+  {
+    "question": "El ________ en poesía organiza la distribución de ________ y pausas para crear efectos rítmicos.",
+    "options": [
+      {"text": "ritmo, acentos", "correct": true},
+      {"text": "metro, sílabas", "correct": false},
+      {"text": "rima, fonemas", "correct": false},
+      {"text": "metáfora, imágenes", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Patrón acentual",
+    "explanation": "El ritmo poético se construye mediante la disposición estratégica de acentos y silencios."
+  },
+  {
+    "question": "Relaciona cada propiedad textual con su función: A) Propósito, B) Coherencia, C) Adecuación; I) Adaptación al contexto, II) Intención comunicativa, III) Conexión lógica",
+    "options": [
+      {"text": "A-II; B-III; C-I", "correct": true},
+      {"text": "A-III; B-I; C-II", "correct": false},
+      {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-II; B-I; C-III", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Fundamentos de comprensión",
+    "explanation": "El propósito define la intención (II), la coherencia asegura conexión lógica (III) y la adecuación adapta al contexto (I)."
+  },
+  {
+    "question": "La ________ omite datos secundarios para destacar información relevante, mientras que la ________ repite conceptos clave para enfatizar.",
+    "options": [
+      {"text": "selección, reiteración", "correct": true},
+      {"text": "jerarquización, omisión", "correct": false},
+      {"text": "organización, cabalidad", "correct": false},
+      {"text": "documentación, coherencia", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Técnicas de manejo informativo",
+    "explanation": "La selección filtra contenidos y la reiteración refuerza ideas importantes mediante repetición."
+  },
+  {
+    "question": "En el texto dramático, el ________ establece el conflicto principal y el ________ lo resuelve definitivamente.",
+    "options": [
+      {"text": "nudo, desenlace", "correct": true},
+      {"text": "desarrollo, clímax", "correct": false},
+      {"text": "exposición, nudo", "correct": false},
+      {"text": "clímax, desarrollo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Estructura aristotélica",
+    "explanation": "El nudo desarrolla el conflicto central y el desenlace provee la resolución final en la estructura dramática."
+  },
+  {
+    "question": "La ficha ________ contiene datos editoriales completos de libros, mientras la ficha ________ registra información específica de artículos periodísticos.",
+    "options": [
+      {"text": "bibliográfica, hemerográfica", "correct": true},
+      {"text": "de trabajo, bibliográfica", "correct": false},
+      {"text": "hemerográfica, documental", "correct": false},
+      {"text": "textual, de investigación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Sistemas de registro documental",
+    "explanation": "Las fichas bibliográficas documentan libros y las hemerográficas registran publicaciones periódicas."
+  },
+  {
+    "question": "La ________ es una figura retórica que establece relaciones de ________ entre conceptos.",
+    "options": [
+      {"text": "metáfora, semejanza", "correct": true},
+      {"text": "rima, sonoridad", "correct": false},
+      {"text": "ritmo, repetición", "correct": false},
+      {"text": "alusión, referencia", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Identificación no literal",
+    "explanation": "La metáfora crea imágenes poéticas mediante asociaciones por semejanza entre elementos distintos."
+  },
+  {
+    "question": "¿Qué caracteriza esencialmente al realismo literario?",
+    "options": [
+      {"text": "Representación objetiva de la sociedad contemporánea", "correct": true},
+      {"text": "Exploración de mundos fantásticos y sobrenaturales", "correct": false},
+      {"text": "Expresión subjetiva de emociones intensas", "correct": false},
+      {"text": "Estructuración mediante diálogos dramáticos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Mímesis social",
+    "explanation": "El realismo busca reflejar fielmente la sociedad y psicología humanas en su contexto histórico."
+  },
+  {
+    "question": "El ________ es una narración breve que plasma ________ humanas mediante estructuras concentradas.",
+    "options": [
+      {"text": "cuento, fantasías", "correct": true},
+      {"text": "drama, acciones", "correct": false},
+      {"text": "poema, emociones", "correct": false},
+      {"text": "novela, tramas", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Ficción condensada",
+    "explanation": "El cuento materializa fantasías humanas en narrativas breves con unidad de efecto."
+  },
+  {
+    "question": "Relaciona cada tipo textual con su recurso organizativo: A) Periodístico, B) Dramático, C) Poético; I) Diálogos y acotaciones, II) Pirámide invertida, III) Figuras retóricas",
+    "options": [
+      {"text": "A-II; B-I; C-III", "correct": true},
+      {"text": "A-III; B-II; C-I", "correct": false},
+      {"text": "A-I; B-III; C-II", "correct": false},
+      {"text": "A-II; B-III; C-I", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Estructuras distintivas",
+    "explanation": "El periodismo usa pirámide invertida (II), el drama se organiza en diálogos (I) y la poesía emplea figuras retóricas (III)."
+  },
+  {
+    "question": "La ________ asegura que el texto contenga todos los elementos necesarios para su comprensión autónoma, mientras que la ________ organiza visualmente el contenido.",
+    "options": [
+      {"text": "cabalidad, disposición espacial", "correct": true},
+      {"text": "adecuación, organización textual", "correct": false},
+      {"text": "coherencia, cabalidad", "correct": false},
+      {"text": "propósito, coherencia", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Integridad y presentación",
+    "explanation": "La cabalidad garantiza autosuficiencia informativa y la disposición espacial estructura la presentación visual."
+  },
+  {
+    "question": "El ________ mide la cantidad de ________ en cada verso, mientras que la ________ establece correspondencias fónicas finales.",
+    "options": [
+      {"text": "metro, sílabas, rima", "correct": true},
+      {"text": "ritmo, acentos, métrica", "correct": false},
+      {"text": "ritmo, fonemas, aliteración", "correct": false},
+      {"text": "estructura, estrofas, cadencia", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Elementos de versificación",
+    "explanation": "El metro cuenta sílabas por verso y la rima crea patrones sonoros en los finales versales."
+  },
+  {
+    "question": "¿Qué elemento NO corresponde a la estructura básica del texto dramático?",
+    "options": [
+      {"text": "Narrador omnisciente", "correct": true},
+      {"text": "Diálogo entre personajes", "correct": false},
+      {"text": "Acotaciones escénicas", "correct": false},
+      {"text": "Desarrollo del conflicto", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Ausencia de mediación narrativa",
+    "explanation": "El drama prescinde de narrador, presentando acción directa mediante diálogos y acotaciones."
+  },
+  {
+    "question": "La ________ jerarquiza información según su ________ en el texto periodístico.",
+    "options": [
+      {"text": "selección, relevancia", "correct": true},
+      {"text": "omisión, adecuación", "correct": false},
+      {"text": "reiteración, coherencia", "correct": false},
+      {"text": "documentación, cabalidad", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Criterio noticioso",
+    "explanation": "La selección periodística prioriza información por importancia social o impacto en la audiencia."
+  },
+  {
+    "question": "El género ________ pertenece a la categoría ________ por desarrollar acciones mediante narración.",
+    "options": [
+      {"text": "novela, narrativo", "correct": true},
+      {"text": "tragedia, dramático", "correct": false},
+      {"text": "oda, lírico", "correct": false},
+      {"text": "epopeya, épico", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Clasificación genérica",
+    "explanation": "La novela es el género narrativo por excelencia al presentar acciones mediante relato."
+  },
+  {
+    "question": "La ________ requiere identificar fuentes confiables, mientras que la ________ sistematiza información extractada.",
+    "options": [
+      {"text": "investigación documental, ficha de trabajo", "correct": true},
+      {"text": "paráfrasis, cita textual", "correct": false},
+      {"text": "adecuación, disposición espacial", "correct": false},
+      {"text": "coherencia, organización textual", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Metodología investigativa",
+    "explanation": "La investigación documental evalúa fuentes y las fichas de trabajo organizan datos obtenidos."
+  },
+  {
+    "question": "En la tragedia clásica, el protagonista enfrenta un destino inevitable debido a:",
+    "options": [
+      {"text": "Un error trágico (hamartia) que desencadena su caída", "correct": true},
+      {"text": "Circunstancias cómicas malentendidas", "correct": false},
+      {"text": "Falta de desarrollo psicológico suficiente", "correct": false},
+      {"text": "Intervención divina arbitraria sin motivo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Falla trágica",
+    "explanation": "La hamartia (error de juicio) conduce al héroe trágico hacia un desenlace fatal inevitable."
+  },
+  {
+    "question": "El ________ analiza el poema en relación con su contexto ________, biográfico y cultural.",
+    "options": [
+      {"text": "análisis contextual, histórico", "correct": true},
+      {"text": "estudio intratextual, métrico", "correct": false},
+      {"text": "enfoque retórico, literario", "correct": false},
+      {"text": "método estilístico, lingüístico", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Perspectiva externa",
+    "explanation": "El análisis contextual examina la obra en diálogo con su entorno histórico y cultural."
+  },
+  {
+    "question": "Relaciona cada función lingüística con su texto representativo: A) Referencial, B) Poética, C) Apelativa; I) Periodístico, II) Literario-poético, III) Publicitario",
+    "options": [
+      {"text": "A-I; B-II; C-III", "correct": true},
+      {"text": "A-II; B-I; C-III", "correct": false},
+      {"text": "A-III; B-II; C-I", "correct": false},
+      {"text": "A-I; B-III; C-II", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Predominio funcional",
+    "explanation": "El periodismo prioriza lo referencial (I), la poesía lo poético (II) y la publicidad lo apelativo (III)."
+  },
+  {
+    "question": "La ________ utiliza citas textuales entre comillas, mientras que el ________ reelabora ideas con palabras propias.",
+    "options": [
+      {"text": "cita directa, resumen", "correct": true},
+      {"text": "paráfrasis, comentario", "correct": false},
+      {"text": "ficha bibliográfica, análisis", "correct": false},
+      {"text": "documentación, informe", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Técnicas de uso de fuentes",
+    "explanation": "La cita directa reproduce fielmente palabras ajenas y el resumen sintetiza contenidos con lenguaje propio."
+  },
+  {
+    "question": "El ________ establece el propósito comunicativo fundamental, mientras que la ________ asegura compatibilidad con el contexto.",
+    "options": [
+      {"text": "propósito, adecuación", "correct": true},
+      {"text": "objetivo, cabalidad", "correct": false},
+      {"text": "mensaje, coherencia", "correct": false},
+      {"text": "contenido, disposición", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Intencionalidad y adaptación",
+    "explanation": "El propósito define la intención primaria del texto y la adecuación lo ajusta a circunstancias específicas."
+  },
+  {
+    "question": "En el texto ________, la organización ________ presenta acciones mediante desarrollo, nudo y desenlace.",
+    "options": [
+      {"text": "dramático, estructural", "correct": true},
+      {"text": "periodístico, piramidal", "correct": false},
+      {"text": "poético, métrica", "correct": false},
+      {"text": "narrativo, secuencial", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Aristóteles y el drama",
+    "explanation": "La estructura dramática clásica divide la acción en tres fases: planteamiento (desarrollo), conflicto (nudo) y resolución (desenlace)."
+  },
+  {
+    "question": "La ________ literaria contemporánea se caracteriza por experimentación formal y ________ de fronteras genéricas.",
+    "options": [
+      {"text": "corriente, desdibujamiento", "correct": true},
+      {"text": "tendencia, consolidación", "correct": false},
+      {"text": "escuela, delimitación", "correct": false},
+      {"text": "generación, preservación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Vanguardia estética",
+    "explanation": "La literatura contemporánea explora nuevas formas y difumina límites entre géneros tradicionales."
+  },
+  {
+    "question": "¿Qué opción muestra CORRECTAMENTE una ficha hemerográfica?",
+    "options": [
+      {"text": "Pequeño, Rosario. \"La filosofía del torero...\" El País. Ciudad de México, 31 septiembre 2005, p. 31.", "correct": true},
+      {"text": "Desai Gómez, María Rosario, et al. Lengua española, Español IV. México: Patria Cultural, 2001.", "correct": false},
+      {"text": "García Márquez, Gabriel. \"Cómo eran mis compañeros...\" en Relato de un náufrago. Ciudad de México: De Bolsillo, 2003.", "correct": false},
+      {"text": "Campo de Gómez, Aurora Maura. Diccionario de escritores mexicanos. México: UNAM, 1967.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Elementos de publicación periódica",
+    "explanation": "La ficha hemerográfica incluye autor, título de artículo, nombre del periódico, fecha y página."
   }
 ]
