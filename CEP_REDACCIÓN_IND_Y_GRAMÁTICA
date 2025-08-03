@@ -1,3 +1,5 @@
+Analiza el siguiente banco de preguntas en formato JSON y determina si hay ejercicios erróneos:
+
 [
   {
     "question": "¿Qué categoría gramatical desempeña la palabra «este» en la oración: «Este es mi amigo de la infancia»?",
@@ -934,5 +936,3134 @@
     "tags": ["GENERAL"],
     "hint": "Ordenación lógica.",
     "explanation": "«¡Vaya!» expresa sorpresa, «bajo» indica posición, «el» es artículo determinado."
+  },
+  {
+    "question": "Selecciona la oración donde la concordancia entre sujeto y verbo sea impecable, considerando la ambigüedad contextual:",
+    "options": [
+      {"text": "La mayoría de los delegados, tras horas de debate, ha decidido apoyar la moción.", "correct": true},
+      {"text": "La mayoría de los delegados, tras horas de debate, han decidido apoyar la moción, aunque algunos se abstuvieron.", "correct": false},
+      {"text": "La mayoría de los delegados ha decidido apoyar la moción, pero otros no.", "correct": false},
+      {"text": "La mayoría de los delegados, influidos por el discurso, decide apoyar la moción.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Colectivo + complemento preposicional plural. ¿Singular o plural?",
+    "explanation": "Aunque 'la mayoría' (singular) puede llevar verbo en singular o plural, en contextos formales se prefiere el singular ('ha decidido') cuando el colectivo actúa como unidad."
+  },
+  {
+    "question": "¿Cuál de estas construcciones con 'ni...ni' viola las reglas de concordancia?",
+    "options": [
+      {"text": "Ni el director ni el equipo estaban al tanto del error.", "correct": true},
+      {"text": "Ni el director ni el equipo estuvieron al tanto del error.", "correct": false},
+      {"text": "Ni el director ni el equipo estaba al tanto del error, según reveló la investigación.", "correct": false},
+      {"text": "Ni el director ni el equipo supieron del error hasta ayer.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Sujetos coordinados con 'ni' exigen plural, pero hay excepciones.",
+    "explanation": "Con 'ni...ni', el verbo debe ir en plural ('estaban'). La opción correcta muestra el error al usar el singular ('estaba')."
+  },
+  {
+    "question": "Completa el texto con la opción gramaticalmente más rigurosa: 'El que hayas mentido y que ocultaras pruebas ________ que el caso ________ revisado.'",
+    "options": [
+      {"text": "exige, sea", "correct": true},
+      {"text": "exigen, sea", "correct": false},
+      {"text": "exige, sean", "correct": false},
+      {"text": "exigiría, fuera", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Proposiciones con 'el que' + subjuntivo.",
+    "explanation": "Dos proposiciones con 'el que' requieren verbo en singular ('exige'). 'Sea' concuerda con 'caso' (singular)."
+  },
+  {
+    "question": "Relaciona cada construcción con su problema de concordancia: A) 'Ustedes es el grupo seleccionado', B) 'El conjunto de herramientas fueron robadas', C) 'Lo que dices y lo que callas son contradictorios'.",
+    "options": [
+      {"text": "A) Error con 'ustedes' (debe ser 'son'); B) Colectivo singular con verbo plural; C) Correcta.", "correct": true},
+      {"text": "A) Correcta; B) Error de género; C) Error con demostrativos neutros.", "correct": false},
+      {"text": "A) Error de número; B) Correcta; C) Error con verbo copulativo.", "correct": false},
+      {"text": "A) Error con pronombre formal; B) Error de plural; C) Error de sujeto compuesto.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Analiza cada caso: pronombres, colectivos y demostrativos.",
+    "explanation": "A) 'Ustedes' exige verbo en plural; B) 'Conjunto' (singular) debería llevar verbo en singular; C) La concordancia es correcta."
+  },
+  {
+    "question": "Identifica la oración donde la concordancia entre sujeto y predicado nominal sea incorrecta:",
+    "options": [
+      {"text": "Los problemas principales es la falta de recursos.", "correct": true},
+      {"text": "Los problemas principales son la falta de recursos.", "correct": false},
+      {"text": "El problema principal son los recursos limitados.", "correct": false},
+      {"text": "La falta de recursos es el problema principal.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Sujeto plural + verbo copulativo.",
+    "explanation": "El verbo 'ser' debe concordar con el sujeto plural ('son'), no con el predicado nominal singular ('es')."
+  },
+  {
+    "question": "¿Cuál de estas oraciones con 'todo' aplica correctamente la concordancia ad sensum?",
+    "options": [
+      {"text": "Todo lo que prometiste y lo que cumpliste son irrelevantes ahora.", "correct": true},
+      {"text": "Todo lo que prometiste y lo que cumpliste es irrelevante ahora.", "correct": false},
+      {"text": "Todo lo que prometiste y lo que cumpliste fueron irrelevantes.", "correct": false},
+      {"text": "Todo lo que prometiste y lo que cumpliste resulta irrelevantes.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Demostrativos neutros + predicado plural.",
+    "explanation": "Aunque 'todo' es singular, puede concordar con un predicado plural ('son irrelevantes') por sentido."
+  },
+  {
+    "question": "Completa la oración con la opción más precisa: 'El flujo y reflujo de las mareas ________ un fenómeno cíclico, pero su intensidad ________ según la luna.'",
+    "options": [
+      {"text": "es, varía", "correct": true},
+      {"text": "son, varían", "correct": false},
+      {"text": "es, varían", "correct": false},
+      {"text": "son, varía", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Sujeto compuesto como unidad + singular/plural.",
+    "explanation": "'Flujo y reflujo' actúa como unidad singular ('es'). 'Intensidad' (singular) requiere 'varía'."
+  },
+  {
+    "question": "Selecciona la oración con error de concordancia en voz pasiva refleja:",
+    "options": [
+      {"text": "En este taller se reparan muebles antiguos con esmero.", "correct": true},
+      {"text": "En este taller se repara muebles antiguos con esmero.", "correct": false},
+      {"text": "En este taller se están reparando muebles antiguos.", "correct": false},
+      {"text": "En este taller se ha reparado muebles antiguos.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Pasiva refleja + complemento directo plural.",
+    "explanation": "El complemento directo plural ('muebles') exige verbo en plural ('reparan'). 'Repara' es incorrecto."
+  },
+  {
+    "question": "¿Cuál oración usa incorrectamente la concordancia con sustantivos colectivos indeterminados?",
+    "options": [
+      {"text": "La gente salió corriendo cuando escucharon la explosión.", "correct": true},
+      {"text": "La gente salió corriendo cuando escuchó la explosión.", "correct": false},
+      {"text": "El grupo de manifestantes se dispersó cuando vieron a la policía.", "correct": false},
+      {"text": "El grupo de manifestantes se dispersó cuando vio a la policía.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Colectivos + verbo en oraciones coordinadas.",
+    "explanation": "Aunque 'gente' (singular) puede llevar verbo en plural ('escucharon') por sentido, en contextos formales se prefiere el singular ('escuchó')."
+  },
+  {
+    "question": "Relaciona cada caso con su explicación: A) 'El ministro, junto a sus asesores, viajó a Bruselas', B) 'El ministro y sus asesores viajaron a Bruselas', C) 'El ministro con sus asesores viajaron a Bruselas'.",
+    "options": [
+      {"text": "A) 'Junto a' no une gramaticalmente; B) Sujeto compuesto plural; C) Uso aceptable de 'con' para plural.", "correct": true},
+      {"text": "A) Error de concordancia; B) Correcta; C) Error con 'con'.", "correct": false},
+      {"text": "A) Correcta; B) Error de número; C) Correcta.", "correct": false},
+      {"text": "A) Uso de plural; B) Correcta; C) Error de estilo.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Preposiciones que unen sujetos.",
+    "explanation": "A) 'Junto a' es un inciso, no une sujetos; B) 'y' forma sujeto plural; C) 'con' puede usarse para plural en algunos contextos."
+  },
+  {
+    "question": "¿Cuál de las siguientes oraciones tiene correcta concordancia entre sujeto y verbo?",
+    "options": [
+      {"text": "Tú y yo somos responsables del proyecto.", "correct": true},
+      {"text": "Tú y yo es responsable del proyecto.", "correct": false},
+      {"text": "Tú y yo será responsable del proyecto, aunque no lo parezca.", "correct": false},
+      {"text": "Tú y yo ha sido responsables del proyecto desde el inicio.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Sujeto compuesto con 1ª persona.",
+    "explanation": "Cuando el sujeto incluye 'yo' (1ª persona), el verbo va en 1ª persona plural ('somos')."
+  },
+  {
+    "question": "Identifica la oración con concordancia incorrecta:",
+    "options": [
+      {"text": "Ustedes y él irán a la conferencia.", "correct": true},
+      {"text": "Ustedes y él irá a la conferencia.", "correct": false},
+      {"text": "Ustedes y él van a la conferencia, según lo planeado.", "correct": false},
+      {"text": "Ustedes y él asistirán a la conferencia sin falta.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Sujeto compuesto con 2ª y 3ª persona.",
+    "explanation": "Con sujetos de 2ª y 3ª persona, el verbo debe ir en 2ª persona plural ('irán')."
+  },
+  {
+    "question": "Completa la oración: ________ de los estudiantes ________ tarde debido al tráfico.",
+    "options": [
+      {"text": "La mayoría, llegó", "correct": true},
+      {"text": "La mayoría, llegaron", "correct": false},
+      {"text": "Las mayorías, llegó", "correct": false},
+      {"text": "El grupo, llegaron", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Colectivo singular con complemento plural.",
+    "explanation": "'La mayoría' (singular) admite verbo en singular ('llegó') o plural ('llegaron'), pero la primera opción es más formal."
+  },
+  {
+    "question": "Relaciona las construcciones con su concordancia correcta: A) Sujeto simple 3ª singular, B) Sujeto compuesto 1ª + 3ª persona, C) Colectivo con complemento plural.",
+    "options": [
+      {"text": "A) Él canta; B) Ellos y yo cantamos; C) Un grupo de niños llegó.", "correct": true},
+      {"text": "A) Él cantan; B) Ellos y yo canta; C) Un grupo de niños llegaron.", "correct": false},
+      {"text": "A) Él canta; B) Ellos y yo cantáis; C) Un grupo de niños llega.", "correct": false},
+      {"text": "A) Él cantamos; B) Ellos y yo cantan; C) Un grupo de niños llegó.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Reglas básicas de concordancia.",
+    "explanation": "A) Verbo en 3ª singular; B) 1ª persona plural; C) Colectivo singular con verbo en singular o plural."
+  },
+  {
+    "question": "¿Cuál oración usa correctamente la concordancia con 'usted'?",
+    "options": [
+      {"text": "Usted es el encargado.", "correct": true},
+      {"text": "Usted eres el encargado.", "correct": false},
+      {"text": "Usted está siendo el encargado de este importante proyecto.", "correct": false},
+      {"text": "Usted son los encargados, según el informe.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Pronombre formal.",
+    "explanation": "'Usted' requiere verbo en 3ª persona singular ('es')."
+  },
+  {
+    "question": "Selecciona la opción con concordancia correcta en predicado nominal:",
+    "options": [
+      {"text": "Los violadores son gente enferma.", "correct": true},
+      {"text": "Los violadores es gente enferma.", "correct": false},
+      {"text": "Los violadores está siendo gente enferma, según los expertos.", "correct": false},
+      {"text": "Los violadores fueron gente enferma en ese caso.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Sujeto plural + verbo copulativo.",
+    "explanation": "En predicados nominales, el verbo concuerda con el sujeto ('son')."
+  },
+  {
+    "question": "Completa: ________ y lo que ocultaste ________ suficiente para sospechar.",
+    "options": [
+      {"text": "Esto, es", "correct": true},
+      {"text": "Esto, son", "correct": false},
+      {"text": "Estas cosas, es", "correct": false},
+      {"text": "Aquellos detalles, fueron", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Demostrativos neutros en singular.",
+    "explanation": "'Esto' (neutro) exige verbo en singular ('es')."
+  },
+  {
+    "question": "Identifica la oración incorrecta:",
+    "options": [
+      {"text": "El funcionario con su asistente fue abucheado.", "correct": true},
+      {"text": "El funcionario con su asistente fueron abucheados.", "correct": false},
+      {"text": "El funcionario y su asistente fueron abucheados.", "correct": false},
+      {"text": "El funcionario, junto con su asistente, fue abucheado.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Sujetos unidos por 'con'.",
+    "explanation": "Con 'con', el verbo va en plural ('fueron'). La opción correcta usa 'fue' porque 'junto con' no une gramaticalmente."
+  },
+  {
+    "question": "¿Cuál oración sigue la regla de concordancia para sujetos colectivos?",
+    "options": [
+      {"text": "La mitad de los empleados perecieron en el accidente.", "correct": true},
+      {"text": "La mitad de los empleados pereció en el accidente.", "correct": false},
+      {"text": "Las mitades de los empleados perecieron en el accidente.", "correct": false},
+      {"text": "La mitad de los empleados han perecido en el accidente, según testigos.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Colectivo + complemento plural.",
+    "explanation": "'La mitad' (colectivo) admite verbo en singular o plural, pero el plural ('perecieron') enfatiza la acción individual."
+  },
+  {
+    "question": "Relaciona los casos especiales con su ejemplo correcto: A) Discordancia deliberada, B) Plural mayestático, C) Silepsis.",
+    "options": [
+      {"text": "A) ¿Cómo estamos? (refiriéndose a una persona); B) Nos os bendecimos; C) Compró la bicicleta donde las vendían.", "correct": true},
+      {"text": "A) Nos os bendecimos; B) ¿Cómo estamos?; C) Compró la bicicleta donde la vendían.", "correct": false},
+      {"text": "A) Compró la bicicleta donde las vendían; B) ¿Cómo estamos?; C) Nos os bendecimos.", "correct": false},
+      {"text": "A) ¿Cómo estamos?; B) Compró la bicicleta donde las vendían; C) Nos os bendecimos.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Figuras de construcción.",
+    "explanation": "A) Uso expresivo del plural; B) Plural en lugar de singular (autoridad); C) Concordancia por sentido, no gramática."
+  },
+  {
+    "question": "Completa: ________ de manchas ________ la pared.",
+    "options": [
+      {"text": "Una especie, cubría", "correct": true},
+      {"text": "Una especie, cubrían", "correct": false},
+      {"text": "Unas especies, cubría", "correct": false},
+      {"text": "El tipo, cubrieron", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Colectivo singular + verbo.",
+    "explanation": "'Una especie' (singular) puede llevar verbo en singular ('cubría') o plural ('cubrían')."
+  },
+  {
+    "question": "¿Cuál oración usa correctamente la concordancia con 'todo'?",
+    "options": [
+      {"text": "Todo lo anterior fueron errores.", "correct": true},
+      {"text": "Todo lo anterior fue errores.", "correct": false},
+      {"text": "Todos lo anterior fueron errores.", "correct": false},
+      {"text": "Todo lo anterior han sido errores según el informe.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Colectivo demostrativo neutro.",
+    "explanation": "Con 'todo lo anterior' y predicado plural, el verbo puede ir en plural ('fueron')."
+  },
+  {
+  "question": "Analiza la siguiente oración compleja y selecciona la opción con la concordancia verbal correcta: 'Ni el informe financiero ni la auditoría ____ capaz de detectar las irregularidades, lo que ____ graves consecuencias legales.'",
+  "options": [
+    {"text": "fue, trajo", "correct": true},
+    {"text": "fueron, trajo", "correct": false},
+    {"text": "fue, trajeron", "correct": false},
+    {"text": "fueron, trajeron", "correct": false},
+    {"text": "No puedo identificar la respuesta 😥", "correct": false}
+  ],
+  "tags": ["GENERAL"],
+  "hint": "Coordinación disyuntiva con 'ni...ni' y consecutiva con 'lo que'",
+  "explanation": "Con 'ni...ni' el verbo puede concordar con el elemento más cercano ('fue'). 'Lo que' como sujeto singular requiere 'trajo'."
+},
+
+{
+  "question": "¿Cuál de estas construcciones con sujeto tácito y verbo copulativo presenta una concordancia incorrecta?",
+  "options": [
+    {"text": "En el análisis final, somos nosotros los responsables.", "correct": true},
+    {"text": "En el análisis final, eres tú el responsable.", "correct": false},
+    {"text": "En el análisis final, es ella la responsable.", "correct": false},
+    {"text": "En el análisis final, soy yo el responsable.", "correct": false},
+    {"text": "No puedo identificar la respuesta 😥", "correct": false}
+  ],
+  "tags": ["GENERAL"],
+  "hint": "Concordancia en construcciones enfáticas con sujeto tácito",
+  "explanation": "El verbo copulativo debe concordar con el atributo ('los responsables' exige 'somos'). La opción correcta muestra el error al usar 'somos' con atributo singular."
+},
+
+{
+  "question": "Completa el período hipotético manteniendo la concordancia: 'Si ____ más atención y ____ menos distracciones, los resultados ____ diferentes.'",
+  "options": [
+    {"text": "hubiera, hubiera habido, serían", "correct": true},
+    {"text": "hubieran, hubiera, serían", "correct": false},
+    {"text": "hubiera, hubieran, sería", "correct": false},
+    {"text": "hubieran, hubieran, serían", "correct": false},
+    {"text": "No puedo identificar la respuesta 😥", "correct": false}
+  ],
+  "tags": ["GENERAL"],
+  "hint": "Condicional con sujetos implícitos diferentes",
+  "explanation": "El primer 'hubiera' refiere a 'tú' (implícito), el segundo a 'distracciones' (plural), y 'serían' concuerda con 'resultados'."
+},
+
+{
+  "question": "Identifica la oración donde la concordancia entre el relativo y su antecedente sea incorrecta:",
+  "options": [
+    {"text": "Es uno de esos artistas que nunca está satisfecho con su obra.", "correct": true},
+    {"text": "Es uno de esos artistas que nunca están satisfechos con su obra.", "correct": false},
+    {"text": "Es uno de los pocos estudiantes que ha obtenido esa beca.", "correct": false},
+    {"text": "Es una de aquellas canciones que perduran en la memoria.", "correct": false},
+    {"text": "No puedo identificar la respuesta 😥", "correct": false}
+  ],
+  "tags": ["GENERAL"],
+  "hint": "Concordancia en construcciones partitivas con relativo",
+  "explanation": "El relativo 'que' debe concordar con 'artistas' (plural: 'están'), no con 'uno' (singular)."
+},
+
+{
+  "question": "Selecciona la versión correcta de esta construcción adversativa: 'No ____ los documentos, sino que ____ mal archivados.'",
+  "options": [
+    {"text": "faltan, están", "correct": true},
+    {"text": "falta, está", "correct": false},
+    {"text": "faltan, está", "correct": false},
+    {"text": "falta, están", "correct": false},
+    {"text": "No puedo identificar la respuesta 😥", "correct": false}
+  ],
+  "tags": ["GENERAL"],
+  "hint": "Coordinación adversativa con sujeto plural implícito",
+  "explanation": "'Documentos' (plural) exige 'faltan' y 'están'. La concordancia debe mantenerse en ambas proposiciones."
+},
+
+{
+  "question": "¿Cuál de estas construcciones con verbo defectivo aplica incorrectamente la concordancia?",
+  "options": [
+    {"text": "Los datos que se suelen analizar es complejo.", "correct": true},
+    {"text": "Los datos que suelen analizarse son complejos.", "correct": false},
+    {"text": "Los datos que se solían analizar eran complejos.", "correct": false},
+    {"text": "Los datos que solían analizar los expertos eran complejos.", "correct": false},
+    {"text": "No puedo identificar la respuesta 😥", "correct": false}
+  ],
+  "tags": ["GENERAL"],
+  "hint": "Perífrasis con verbos defectivos + sujeto plural",
+  "explanation": "El verbo 'ser' debe concordar con 'datos' (plural: 'son'), no con el infinitivo 'analizar'."
+},
+
+{
+  "question": "Relaciona cada construcción con su problema de concordancia: A) 'Cada cual en su casa son libres', B) 'Quienes callan otorga', C) 'Varios de los asistentes ha protestado'",
+  "options": [
+    {"text": "A) Error con 'cada cual' (singular); B) Error con relativo plural; C) Error con cuantificador plural", "correct": true},
+    {"text": "A) Error de género; B) Correcta; C) Error de verbo impersonal", "correct": false},
+    {"text": "A) Correcta; B) Error de número; C) Error de sujeto colectivo", "correct": false},
+    {"text": "A) Error con indefinido; B) Error con singular genérico; C) Correcta", "correct": false},
+    {"text": "No puedo identificar la respuesta 😥", "correct": false}
+  ],
+  "tags": ["GENERAL"],
+  "hint": "Análisis de concordancias atípicas con pronombres y cuantificadores",
+  "explanation": "A) 'Cada cual' exige singular; B) 'Quienes' (plural) requiere 'otorgan'; C) 'Varios' exige 'han protestado'."
+},
+
+{
+  "question": "Completa la construcción comparativa manteniendo la concordancia: 'Tanto el director ____ los productores ____ satisfechos con el guión, aunque ____ opiniones divergentes.'",
+  "options": [
+    {"text": "como, están, hubo", "correct": true},
+    {"text": "como, está, hubo", "correct": false},
+    {"text": "como, están, habían", "correct": false},
+    {"text": "y, están, hubieron", "correct": false},
+    {"text": "No puedo identificar la respuesta 😥", "correct": false}
+  ],
+  "tags": ["GENERAL"],
+  "hint": "Estructura correlativa (tanto...como) + verbo impersonal",
+  "explanation": "'Tanto...como' exige plural ('están'). 'Hubo' (impersonal) es correcto con 'opiniones' (sujeto paciente)."
+},
+
+{
+  "question": "Selecciona la oración donde la concordancia entre el participio y el sujeto sea incorrecta:",
+  "options": [
+    {"text": "Las medidas anunciadas ha causado controversia.", "correct": true},
+    {"text": "Las medidas anunciadas han causado controversia.", "correct": false},
+    {"text": "La medida anunciada ha causado controversia.", "correct": false},
+    {"text": "Las medidas recién anunciadas causaron controversia.", "correct": false},
+    {"text": "No puedo identificar la respuesta 😥", "correct": false}
+  ],
+  "tags": ["GENERAL"],
+  "hint": "Concordancia en tiempos compuestos con sujeto pospuesto",
+  "explanation": "El participio 'causado' debe concordar con 'medidas' (femenino plural: 'han causado'). 'Ha causado' es incorrecto."
+},
+
+{
+  "question": "¿Cuál de estas construcciones con 'se' pasivo reflejo viola las reglas de concordancia?",
+  "options": [
+    {"text": "Se vende libros antiguos en esta tienda.", "correct": true},
+    {"text": "Se venden libros antiguos en esta tienda.", "correct": false},
+    {"text": "En esta tienda se venden libros antiguos.", "correct": false},
+    {"text": "Aquí se vende el libro antiguo que buscabas.", "correct": false},
+    {"text": "No puedo identificar la respuesta 😥", "correct": false}
+  ],
+  "tags": ["GENERAL"],
+  "hint": "Pasiva refleja con complemento directo plural",
+  "explanation": "Con 'libros' (plural), el verbo debe ir en plural ('venden'). 'Vende' solo es válido para singular."
+},
+  {
+    "question": "¿Qué figura retórica es \"Sus ojos son dos luceros\"?",
+    "options": [
+      {"text": "Metáfora", "correct": true},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Comparación implícita sin nexo",
+    "explanation": "Es metáfora porque equipara los ojos con luceros sin usar palabras comparativas."
+  },
+  {
+    "question": "En \"Corre como el viento\", ¿qué figura retórica se emplea?",
+    "options": [
+      {"text": "Símil", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Presencia de palabra comparativa",
+    "explanation": "Es símil por el uso explícito del nexo comparativo 'como'."
+  },
+  {
+    "question": "¿Qué figura es \"Tengo tanta hambre que me comería un elefante\"?",
+    "options": [
+      {"text": "Hipérbole", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Exageración desproporcionada",
+    "explanation": "Es hipérbole porque exagera la capacidad de comer para enfatizar el hambre."
+  },
+  {
+    "question": "En \"El viento susurraba secretos\", ¿qué figura retórica hay?",
+    "options": [
+      {"text": "Personificación", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Atribución de cualidad humana",
+    "explanation": "Es personificación porque el viento (objeto inanimado) realiza una acción humana (susurrar)."
+  },
+  {
+    "question": "¿Qué figura retórica identifica la frase \"Eres el sol que ilumina mi vida\"?",
+    "options": [
+      {"text": "Metáfora", "correct": true},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Identificación directa sin nexo",
+    "explanation": "Es metáfora porque equipara a la persona con el sol sin usar 'como'."
+  },
+  {
+    "question": "En \"Duro como una roca\", ¿qué figura retórica aparece?",
+    "options": [
+      {"text": "Símil", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Comparación con conector explícito",
+    "explanation": "Es símil por el uso del nexo comparativo 'como'."
+  },
+  {
+    "question": "¿Qué figura es \"Lloré un río de lágrimas\"?",
+    "options": [
+      {"text": "Hipérbole", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Magnificación desproporcionada",
+    "explanation": "Es hipérbole porque exagera la cantidad de lágrimas para expresar dolor."
+  },
+  {
+    "question": "En \"Las estrellas bailaban en el cielo\", ¿qué figura retórica se usa?",
+    "options": [
+      {"text": "Personificación", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Acción humana en elemento no humano",
+    "explanation": "Es personificación porque las estrellas (objetos celestes) realizan una acción humana (bailar)."
+  },
+  {
+    "question": "¿Qué figura retórica es \"Tu mente es un océano de ideas\"?",
+    "options": [
+      {"text": "Metáfora", "correct": true},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Identificación sin nexo comparativo",
+    "explanation": "Es metáfora porque equipara la mente con un océano directamente."
+  },
+  {
+    "question": "En \"Fuerte como un león\", ¿qué figura retórica hay?",
+    "options": [
+      {"text": "Símil", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Comparación explícita",
+    "explanation": "Es símil por el uso del conector comparativo 'como'."
+  },
+  {
+    "question": "¿Qué figura es \"Me muero de aburrimiento\"?",
+    "options": [
+      {"text": "Hipérbole", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Exageración no literal",
+    "explanation": "Es hipérbole porque exagera el estado emocional hasta la muerte (no literal)."
+  },
+  {
+    "question": "En \"El reloj gritó las doce\", ¿qué figura retórica se emplea?",
+    "options": [
+      {"text": "Personificación", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Objeto inanimado con acción humana",
+    "explanation": "Es personificación porque el reloj (objeto) realiza una acción humana (gritar)."
+  },
+  {
+    "question": "¿Qué figura retórica es \"El tiempo es oro\"?",
+    "options": [
+      {"text": "Metáfora", "correct": true},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Identificación directa sin comparativo",
+    "explanation": "Es metáfora porque equipara tiempo con oro sin usar nexos."
+  },
+  {
+    "question": "En \"Dulce como la miel\", ¿qué figura retórica aparece?",
+    "options": [
+      {"text": "Símil", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Comparación con conector",
+    "explanation": "Es símil por el uso explícito del nexo 'como'."
+  },
+  {
+    "question": "¿Qué figura es \"Tengo un millón de cosas por hacer\"?",
+    "options": [
+      {"text": "Hipérbole", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Exageración cuantitativa",
+    "explanation": "Es hipérbole porque exagera el número de tareas para expresar ocupación."
+  },
+  {
+    "question": "En \"La luna me sonreía desde lo alto\", ¿qué figura retórica hay?",
+    "options": [
+      {"text": "Personificación", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Elemento natural con acción humana",
+    "explanation": "Es personificación porque la luna (astro) realiza una acción humana (sonreír)."
+  },
+  {
+    "question": "¿Qué figura retórica es \"Eres mi sol\"?",
+    "options": [
+      {"text": "Metáfora", "correct": true},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Identificación directa sin 'como'",
+    "explanation": "Es metáfora porque equipara a una persona con el sol directamente."
+  },
+  {
+    "question": "En \"Liviano como una pluma\", ¿qué figura retórica se usa?",
+    "options": [
+      {"text": "Símil", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Comparación explícita con conector",
+    "explanation": "Es símil por el uso del nexo comparativo 'como'."
+  },
+  {
+    "question": "¿Qué figura es \"Me partiste el corazón en mil pedazos\"?",
+    "options": [
+      {"text": "Hipérbole", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Exageración emocional",
+    "explanation": "Es hipérbole porque exagera el dolor emocional con una imagen física imposible."
+  },
+  {
+    "question": "En \"Las olas jugaban en la orilla\", ¿qué figura retórica hay?",
+    "options": [
+      {"text": "Personificación", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Elemento natural con acción humana",
+    "explanation": "Es personificación porque las olas (fenómeno natural) realizan una acción humana (jugar)."
+  },
+  {
+    "question": "¿Qué figura retórica es \"La niebla es un manto sobre la ciudad\"?",
+    "options": [
+      {"text": "Metáfora", "correct": true},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Identificación sin nexo comparativo",
+    "explanation": "Es metáfora porque equipara niebla con manto directamente."
+  },
+  {
+    "question": "En \"Rápido como un rayo\", ¿qué figura retórica aparece?",
+    "options": [
+      {"text": "Símil", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Comparación con conector explícito",
+    "explanation": "Es símil por el uso del nexo 'como'."
+  },
+  {
+    "question": "¿Qué figura es \"He esperado una eternidad\"?",
+    "options": [
+      {"text": "Hipérbole", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Exageración temporal",
+    "explanation": "Es hipérbole porque exagera la duración del tiempo de espera."
+  },
+  {
+    "question": "En \"Los árboles susurraban con el viento\", ¿qué figura retórica se emplea?",
+    "options": [
+      {"text": "Personificación", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Naturaleza con acción humana",
+    "explanation": "Es personificación porque los árboles (vegetales) realizan una acción humana (susurrar)."
+  },
+  {
+    "question": "¿Qué figura retórica es \"Tus labios son pétalos de rosa\"?",
+    "options": [
+      {"text": "Metáfora", "correct": true},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Comparación implícita sin nexo",
+    "explanation": "Es metáfora porque equipara labios con pétalos sin usar 'como'."
+  },
+  {
+    "question": "En \"Frágil como cristal\", ¿qué figura retórica hay?",
+    "options": [
+      {"text": "Símil", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Comparación explícita con conector",
+    "explanation": "Es símil por el uso del nexo comparativo 'como'."
+  },
+  {
+    "question": "¿Qué figura es \"Me duele el alma\"?",
+    "options": [
+      {"text": "Hipérbole", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Exageración emocional",
+    "explanation": "Es hipérbole porque exagera el dolor emocional atribuyéndolo al alma."
+  },
+  {
+    "question": "En \"Las montañas saludaban al amanecer\", ¿qué figura retórica se usa?",
+    "options": [
+      {"text": "Personificación", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Naturaleza con acción humana",
+    "explanation": "Es personificación porque las montañas (geografía) realizan una acción humana (saludar)."
+  },
+  {
+    "question": "¿Qué figura retórica es \"Su voz era música para mis oídos\"?",
+    "options": [
+      {"text": "Metáfora", "correct": true},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Identificación directa sin comparativo",
+    "explanation": "Es metáfora porque equipara voz con música sin usar nexos."
+  },
+  {
+    "question": "En \"Transparente como el agua\", ¿qué figura retórica aparece?",
+    "options": [
+      {"text": "Símil", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Comparación con conector explícito",
+    "explanation": "Es símil por el uso del nexo comparativo 'como'."
+  },
+  {
+    "question": "¿Qué figura es \"Tengo sueño para tres días\"?",
+    "options": [
+      {"text": "Hipérbole", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Exageración cuantitativa",
+    "explanation": "Es hipérbole porque exagera la cantidad de sueño acumulado."
+  },
+  {
+    "question": "En \"El río cantaba su canción\", ¿qué figura retórica hay?",
+    "options": [
+      {"text": "Personificación", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Elemento natural con acción humana",
+    "explanation": "Es personificación porque el río (fenómeno natural) realiza una acción humana (cantar)."
+  },
+  {
+    "question": "¿Qué figura retórica es \"El aula era un hervidero de ideas\"?",
+    "options": [
+      {"text": "Metáfora", "correct": true},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Identificación directa sin nexo",
+    "explanation": "Es metáfora porque equipara el aula con un hervidero directamente."
+  },
+  {
+    "question": "En \"Dulce como el azúcar\", ¿qué figura retórica se emplea?",
+    "options": [
+      {"text": "Símil", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Comparación explícita con conector",
+    "explanation": "Es símil por el uso del nexo comparativo 'como'."
+  },
+  {
+    "question": "¿Qué figura es \"Me morí de la risa\"?",
+    "options": [
+      {"text": "Hipérbole", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Exageración no literal",
+    "explanation": "Es hipérbole porque exagera la reacción de risa hasta la muerte (no literal)."
+  },
+  {
+    "question": "En \"Las hojas bailaban con el viento\", ¿qué figura retórica hay?",
+    "options": [
+      {"text": "Personificación", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Naturaleza con acción humana",
+    "explanation": "Es personificación porque las hojas (vegetales) realizan una acción humana (bailar)."
+  },
+  {
+    "question": "¿Qué figura retórica es \"Eres mi estrella guía\"?",
+    "options": [
+      {"text": "Metáfora", "correct": true},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Identificación directa sin 'como'",
+    "explanation": "Es metáfora porque equipara a una persona con una estrella directamente."
+  },
+  {
+    "question": "En \"Frío como el hielo\", ¿qué figura retórica aparece?",
+    "options": [
+      {"text": "Símil", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Comparación con conector explícito",
+    "explanation": "Es símil por el uso del nexo comparativo 'como'."
+  },
+  {
+    "question": "¿Qué figura es \"Me sangra el corazón\"?",
+    "options": [
+      {"text": "Hipérbole", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Exageración emocional",
+    "explanation": "Es hipérbole porque exagera el dolor emocional con una imagen física imposible."
+  },
+  {
+    "question": "En \"El sol abrazaba la tierra\", ¿qué figura retórica se usa?",
+    "options": [
+      {"text": "Personificación", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Astro con acción humana",
+    "explanation": "Es personificación porque el sol (astro) realiza una acción humana (abrazar)."
+  },
+  {
+    "question": "¿Qué figura retórica es \"Tu sonrisa es un faro en mi oscuridad\"?",
+    "options": [
+      {"text": "Metáfora", "correct": true},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Identificación sin nexo comparativo",
+    "explanation": "Es metáfora porque equipara sonrisa con faro directamente."
+  },
+  {
+    "question": "En \"Ligero como una pluma\", ¿qué figura retórica hay?",
+    "options": [
+      {"text": "Símil", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Comparación con conector explícito",
+    "explanation": "Es símil por el uso del nexo comparativo 'como'."
+  },
+  {
+    "question": "¿Qué figura es \"Tengo una tonelada de trabajo\"?",
+    "options": [
+      {"text": "Hipérbole", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Exageración cuantitativa",
+    "explanation": "Es hipérbole porque exagera la cantidad de trabajo usando una medida imposible."
+  },
+  {
+    "question": "En \"Las nubes lloraban sobre el campo\", ¿qué figura retórica se emplea?",
+    "options": [
+      {"text": "Personificación", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Fenómeno atmosférico con acción humana",
+    "explanation": "Es personificación porque las nubes (fenómeno atmosférico) realizan una acción humana (llorar)."
+  },
+  {
+    "question": "Según las reglas generales de acentuación, ¿cuál es la sílaba que se acentúa normalmente en una palabra que termina en 'n'?",
+    "options": [
+      { "text": "La penúltima sílaba.", "correct": true },
+      { "text": "La última sílaba.", "correct": false },
+      { "text": "La antepenúltima sílaba.", "correct": false },
+      { "text": "La sílaba preantepenúltima.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Piensa en palabras como 'cantan' o 'joven'.",
+    "explanation": "Si una palabra termina en vocal, 'n' o 's', se acentúa normalmente en la penúltima sílaba, clasificándose como palabra llana.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Identifica la oración que contiene una palabra aguda que NO necesita tilde.",
+    "options": [
+      { "text": "El actor principal decidió cantar al final.", "correct": true },
+      { "text": "Mi primo Andrés vendrá en el autobús de las tres.", "correct": false },
+      { "text": "La situación en el país es de gran interés para todos.", "correct": false },
+      { "text": "Tomaré un café solo, sin ningún tipo de azúcar.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Las palabras agudas se acentúan en la última sílaba, pero la tilde depende de su letra final.",
+    "explanation": "La palabra 'cantar' es aguda porque se acentúa en la última sílaba. Sin embargo, no lleva tilde porque termina en 'r', una consonante distinta de 'n' o 's'.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Las palabras _______ se acentúan en la antepenúltima sílaba, y como regla general, _______ llevan acento ortográfico.",
+    "options": [
+      { "text": "esdrújulas, siempre", "correct": true },
+      { "text": "agudas, a veces", "correct": false },
+      { "text": "llanas, nunca", "correct": false },
+      { "text": "sobresdrújulas, casi nunca", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Piensa en palabras como 'fantástico' o 'murciélago'.",
+    "explanation": "Las palabras esdrújulas son aquellas acentuadas en la antepenúltima sílaba y, sin excepción, siempre deben llevar tilde o acento ortográfico.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál de las siguientes palabras es llana y está correctamente acentuada?",
+    "options": [
+      { "text": "El póster del concierto es increíble.", "correct": true },
+      { "text": "El caracter de tu amigo es muy fuerte.", "correct": false },
+      { "text": "Es un examen muy dificil para mí.", "correct": false },
+      { "text": "El arbol del patio da buena sombra.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Una palabra llana lleva tilde si termina en una consonante que no sea 'n' o 's'.",
+    "explanation": "'Póster' es una palabra llana acentuada en la penúltima sílaba. Lleva tilde porque termina en 'r', una consonante distinta de 'n' o 's'.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Son palabras agudas que requieren tilde:",
+    "options": [
+      { "text": "sofá, corazón, revés", "correct": true },
+      { "text": "pared, sentir, reloj", "correct": false },
+      { "text": "examen, cantan, crisis", "correct": false },
+      { "text": "mármol, césped, fútbol", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Revisa la regla de acentuación para palabras cuya sílaba tónica es la última.",
+    "explanation": "Las palabras agudas se acentúan en la última sílaba y llevan tilde si terminan en vocal, 'n' o 's'. 'Sofá' (termina en vocal), 'corazón' (termina en 'n') y 'revés' (termina en 's') cumplen esta regla.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Identifica la oración correcta según las reglas de acentuación.",
+    "options": [
+      { "text": "El miércoles habrá un examen de síntesis.", "correct": true },
+      { "text": "El miercoles habrá un examen de síntesis.", "correct": false },
+      { "text": "El miércoles habrá un examen de sintesis.", "correct": false },
+      { "text": "El miercoles proximo habrá un examen de sintesis.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Recuerda la regla invariable para las palabras esdrújulas.",
+    "explanation": "Tanto 'miércoles' como 'síntesis' son palabras esdrújulas (acentuadas en la antepenúltima sílaba), por lo que ambas deben llevar tilde siempre.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Relaciona el tipo de palabra con su regla de acentuación: A) Aguda, B) Llana, C) Esdrújula",
+    "options": [
+      { "text": "A-Lleva tilde si termina en n, s o vocal; B-Lleva tilde si NO termina en n, s o vocal; C-Siempre lleva tilde", "correct": true },
+      { "text": "A-Siempre lleva tilde; B-Lleva tilde si termina en n, s o vocal; C-Lleva tilde si NO termina en n, s o vocal", "correct": false },
+      { "text": "A-Lleva tilde si NO termina en n, s o vocal; B-Siempre lleva tilde; C-Lleva tilde si termina en n, s o vocal", "correct": false },
+      { "text": "A-Lleva tilde si termina en consonante; B-Lleva tilde si termina en vocal; C-Nunca lleva tilde", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Cada categoría tiene una condición específica para el uso de la tilde.",
+    "explanation": "Las agudas llevan tilde si terminan en 'n', 's' o vocal. Las llanas llevan tilde si NO terminan en 'n', 's' o vocal. Las esdrújulas siempre llevan tilde.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Si una palabra no sigue las reglas generales de acentuación (terminación en vocal, n, s o en otra consonante), la sílaba _______ debe llevar un _______.",
+    "options": [
+      { "text": "tónica, acento ortográfico", "correct": true },
+      { "text": "átona, acento prosódico", "correct": false },
+      { "text": "final, diptongo", "correct": false },
+      { "text": "tónica, hiato", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Esta es la tercera regla general de acentuación, que justifica el uso de la tilde.",
+    "explanation": "Si una palabra no sigue las dos primeras reglas de acentuación, se debe marcar la sílaba tónica con un acento ortográfico (tilde) para indicar la irregularidad.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Una palabra que termina en una consonante que no sea 'n' o 's' se acentúa normalmente en...",
+    "options": [
+      { "text": "la última sílaba.", "correct": true },
+      { "text": "la penúltima sílaba.", "correct": false },
+      { "text": "la antepenúltima sílaba.", "correct": false },
+      { "text": "la primera sílaba.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Piensa en palabras como 'cantar', 'reloj' o 'amistad'.",
+    "explanation": "Según la segunda regla general, si una palabra termina en una consonante que no sea 'n' o 's', se clasifica como aguda, con el acento prosódico en la última sílaba.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Las palabras _________, al igual que las esdrújulas, siempre llevan acento ortográfico y suelen formarse con un verbo más _________.",
+    "options": [
+      { "text": "sobresdrújulas, dos pronombres adjuntos", "correct": true },
+      { "text": "llanas, un pronombre adjunto", "correct": false },
+      { "text": "agudas, un sufijo", "correct": false },
+      { "text": "monosílabas, dos verbos", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Piensa en 'escribiéndoselo' o 'fumándomela'.",
+    "explanation": "Las palabras sobresdrújulas se acentúan en la sílaba anterior a la antepenúltima, siempre llevan tilde y típicamente se componen de un verbo con dos pronombres adjuntos.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál es la diferencia fundamental entre una sílaba tónica y una átona?",
+    "options": [
+      { "text": "La sílaba tónica recibe el acento de la pronunciación y la átona no.", "correct": true },
+      { "text": "La sílaba tónica siempre lleva tilde y la átona nunca.", "correct": false },
+      { "text": "La sílaba tónica contiene vocales fuertes y la átona débiles.", "correct": false },
+      { "text": "Las palabras solo tienen sílabas tónicas, las átonas no existen.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Tiene que ver con la fuerza de la pronunciación, no necesariamente con la escritura.",
+    "explanation": "En las palabras de más de una sílaba, solo una es tónica (la que lleva el acento prosódico o de pronunciación), mientras que las demás son átonas. Una sílaba átona jamás llevará acento ortográfico.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Identifica la oración que muestra un uso correcto de tildes en palabras llanas y agudas.",
+    "options": [
+      { "text": "El líder del equipo mostró un gran carácter.", "correct": true },
+      { "text": "El lider del equipo mostró un gran carácter.", "correct": false },
+      { "text": "El líder del equipo mostro un gran caracter.", "correct": false },
+      { "text": "El lider del equipo mostro un gran carácter.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Revisa las reglas de acentuación para llanas terminadas en 'r' y agudas terminadas en vocal.",
+    "explanation": "'Líder' es una palabra llana que termina en 'r', por lo que debe llevar tilde. 'Carácter' es también una palabra llana que termina en 'r' y requiere tilde. La opción correcta es la única que acentúa 'líder' correctamente.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Según el texto, ¿qué sucede cuando una vocal débil ('i', 'u') se encuentra junto a una vocal fuerte ('a', 'e', 'o')?",
+    "options": [
+      { "text": "Forman automáticamente un diptongo, es decir, una sola sílaba.", "correct": true },
+      { "text": "Forman siempre un hiato, es decir, dos sílabas separadas.", "correct": false },
+      { "text": "La vocal débil siempre debe llevar una tilde.", "correct": false },
+      { "text": "Se convierten ambas en vocales de fuerza media.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Esta es la base para la formación de sílabas con múltiples vocales.",
+    "explanation": "Cuando una vocal débil se encuentra contigua a una vocal fuerte, forman automáticamente un diptongo, que se cuenta como una sola sílaba.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿En cuál de las siguientes palabras se utiliza la tilde para romper un diptongo y formar un hiato?",
+    "options": [
+      { "text": "La palabra 'panadería' tiene cinco sílabas.", "correct": true },
+      { "text": "La palabra 'farmacéutico' es un buen ejemplo.", "correct": false },
+      { "text": "La palabra 'luciérnaga' brilla en la oscuridad.", "correct": false },
+      { "text": "La palabra 'estaciones' cambia con el tiempo.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Busca una vocal débil tónica junto a una vocal fuerte.",
+    "explanation": "En 'panadería' (pa-na-de-rí-a), se escribe un acento sobre la vocal débil 'i' para romper el diptongo natural que formaría con la 'a'. Esto crea un hiato y resulta en dos sílabas separadas.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Las vocales _______ ('a', 'e', 'o') siempre forman su propia _______, mientras que las vocales _______ ('i', 'u') pueden formar diptongos.",
+    "options": [
+      { "text": "fuertes, sílaba", "correct": true },
+      { "text": "débiles, palabra", "correct": false },
+      { "text": "tónicas, sílaba", "correct": false },
+      { "text": "abiertas, oración", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "La clasificación de las vocales determina cómo se agrupan en sílabas.",
+    "explanation": "Las vocales fuertes (a, e, o) siempre forman su propia sílaba. Las vocales débiles (i, u) solo forman su propia sílaba cuando están separadas de otras vocales por una consonante; de lo contrario, forman diptongos.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "De acuerdo con las reglas sobre monosílabos, ¿cuál de estas oraciones es correcta?",
+    "options": [
+      { "text": "Me dio un libro muy bueno.", "correct": true },
+      { "text": "Él me dió un libro excelente.", "correct": false },
+      { "text": "El pan que me díó estaba fresco.", "correct": false },
+      { "text": "Fué un gesto muy amable de su parte.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Como regla general, las palabras de una sola sílaba no llevan tilde, a menos que sea diacrítica.",
+    "explanation": "Las palabras de una sola sílaba, como 'dio', 'fue', 'vi', 'ti', no llevan acento ortográfico. La regla moderna fue adoptada en 1952 para simplificar la acentuación.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Son palabras que contienen un diptongo:",
+    "options": [
+      { "text": "luego, tienes, buey", "correct": true },
+      { "text": "correo, sabana, aposento", "correct": false },
+      { "text": "tribu, cine, mito", "correct": false },
+      { "text": "río, baúl, María", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Busca la unión de una vocal débil y una fuerte en una misma sílaba.",
+    "explanation": "Las palabras 'luego' (ue), 'tienes' (ie) y 'buey' (ue) contienen diptongos, que son la unión de una vocal débil y una fuerte en una sola sílaba.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál es la razón para escribir una tilde en la palabra 'mía'?",
+    "options": [
+      { "text": "Para romper el diptongo natural y formar dos sílabas (mí-a).", "correct": true },
+      { "text": "Porque es una palabra esdrújula que siempre lleva tilde.", "correct": false },
+      { "text": "Para distinguirla de la palabra homófona 'mia' sin acento.", "correct": false },
+      { "text": "Porque todas las palabras que terminan en 'a' deben llevar tilde.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Observa la interacción entre la vocal débil 'i' y la fuerte 'a'.",
+    "explanation": "Se escribe un acento sobre la vocal débil 'i' para romper el diptongo que naturalmente formaría con la 'a'. Esto indica que la palabra se pronuncia en dos sílabas (mí-a), creando un hiato acentual.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Relaciona la palabra con la descripción de su acentuación: A) correo, B) buey, C) río",
+    "options": [
+      { "text": "A-Hiato de vocales fuertes, B-Diptongo en una monosílaba, C-Hiato por tilde en vocal débil", "correct": true },
+      { "text": "A-Diptongo, B-Hiato, C-Palabra llana sin tilde", "correct": false },
+      { "text": "A-Hiato por tilde, B-Diptongo, C-Hiato de vocales fuertes", "correct": false },
+      { "text": "A-Palabra esdrújula, B-Palabra aguda, C-Palabra llana", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Analiza la interacción de las vocales en cada palabra.",
+    "explanation": "'Correo' (co-rre-o) tiene un hiato natural porque 'e' y 'o' son vocales fuertes. 'Buey' es una monosílaba con diptongo. 'Río' (rí-o) tiene un hiato creado por la tilde en la vocal débil 'i'.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "En español, las palabras de _______ sílaba no llevan acento ortográfico a menos que pertenezcan a un grupo limitado de _______.",
+    "options": [
+      { "text": "una sola, parejas homófonas", "correct": true },
+      { "text": "dos, verbos irregulares", "correct": false },
+      { "text": "tres, palabras esdrújulas", "correct": false },
+      { "text": "una sola, sustantivos", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Esta regla tiene una excepción importante que se detalla en la sección seis del documento.",
+    "explanation": "La regla general es que las monosílabas no se acentúan. La excepción son aquellas que forman parte de una pareja homófona, donde una lleva tilde diacrítica para distinguirse de la otra.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "La palabra 'farmacéutico' tiene cinco sílabas porque...",
+    "options": [
+      { "text": "el grupo 'eu' es un diptongo y cuenta como una sola sílaba.", "correct": true },
+      { "text": "el grupo 'eu' es un hiato y cuenta como dos sílabas.", "correct": false },
+      { "text": "es una palabra sobresdrújula con una estructura compleja.", "correct": false },
+      { "text": "la letra 'c' separa las vocales en sílabas distintas.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Analiza la combinación de la vocal fuerte 'e' y la débil 'u'.",
+    "explanation": "En 'farmacéutico' (far-ma-céu-ti-co), la combinación 'eu' es un diptongo porque une una vocal fuerte y una débil en la misma sílaba tónica, sin que la tilde rompa la unión.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Para que dos palabras monosílabas formen una pareja homófona que justifique el uso de la tilde diacrítica, deben escribirse igual y ser de dos _______ diferentes.",
+    "options": [
+      { "text": "categorías gramaticales", "correct": true },
+      { "text": "pronunciaciones", "correct": false },
+      { "text": "longitudes", "correct": false },
+      { "text": "orígenes etimológicos", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Piensa en el/él, tu/tú, donde uno es artículo/adjetivo y el otro es pronombre.",
+    "explanation": "Una de las condiciones para que una monosílaba lleve tilde diacrítica es que exista una palabra homófona (que se escribe igual) pero que pertenezca a una categoría gramatical distinta (p. ej. pronombre vs. adjetivo, sustantivo vs. pronombre, etc.).",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "La palabra 'hacia' (preposición) se diferencia de 'hacía' (verbo) por...",
+    "options": [
+      { "text": "la tilde en la 'i' que crea un hiato en el verbo.", "correct": true },
+      { "text": "el número de letras en cada palabra.", "correct": false },
+      { "text": "la pronunciación de la letra 'h'.", "correct": false },
+      { "text": "la vocal final de cada palabra.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Compara la división silábica de 'ha-cia' con 'ha-cí-a'.",
+    "explanation": "La diferencia clave es la tilde en 'hacía'. Esta tilde sobre la vocal débil 'i' rompe el diptongo natural ('ia') y crea un hiato (ha-cí-a), distinguiéndola de la palabra de dos sílabas 'hacia' (ha-cia).",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál de las siguientes oraciones utiliza correctamente los monosílabos 'de' y 'dé'?",
+    "options": [
+      { "text": "Quiero que me dé un vaso de agua, por favor.", "correct": true },
+      { "text": "Quiero que me de un vaso dé agua ahora mismo.", "correct": false },
+      { "text": "Quiero que me de un vaso de agua de la jarra.", "correct": false },
+      { "text": "El vaso dé cristal es de mi abuela.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Uno es el verbo 'dar' y el otro es una preposición.",
+    "explanation": "Se usa 'dé' con tilde para la forma del verbo 'dar'. Se usa 'de' sin tilde para la preposición. La oración correcta es \"Quiero que me dé (verbo) un vaso de (preposición) agua\".",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál es el uso correcto de 'si' y 'sí' en una oración?",
+    "options": [
+      { "text": "Si estudias, te irá bien; yo creo que sí.", "correct": true },
+      { "text": "Sí vienes, te doy un regalo; creo que si.", "correct": false },
+      { "text": "No sé si lo hizo para si mismo.", "correct": false },
+      { "text": "El dijo que si, que vendría a la fiesta.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Uno es una conjunción condicional y el otro es un adverbio de afirmación o pronombre.",
+    "explanation": "'Si' sin tilde es la conjunción condicional. 'Sí' con tilde es el adverbio de afirmación o el pronombre reflexivo (precedido de preposición, como 'para sí').",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Completa la oración con la forma correcta de 'se' o 'sé': No _______ por qué te portas así. ¡_______ bueno!",
+    "options": [
+      { "text": "sé, sé", "correct": true },
+      { "text": "se, se", "correct": false },
+      { "text": "sé, se", "correct": false },
+      { "text": "se, sé", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Distingue entre el pronombre y las formas de los verbos 'saber' y 'ser'.",
+    "explanation": "El primer espacio requiere 'sé' del verbo 'saber' (No sé). El segundo espacio requiere 'sé' del verbo 'ser' en modo imperativo (¡Sé bueno!). El pronombre átono 'se' no aplica en estos casos.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿En cuál oración se usa correctamente 'mas' y 'más'?",
+    "options": [
+      { "text": "Quisiera más tiempo, mas no es posible.", "correct": true },
+      { "text": "Quisiera mas tiempo, más no es posible.", "correct": false },
+      { "text": "Quisiera más tiempo, más no es posible tenerlo.", "correct": false },
+      { "text": "Quisiera mas tiempo libre, mas no tengo.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Uno es un adverbio de cantidad, el otro una conjunción adversativa equivalente a 'pero'.",
+    "explanation": "'Más' con tilde es el adverbio de cantidad. 'Mas' sin tilde es la conjunción adversativa. La oración correcta es \"Quisiera más (cantidad) tiempo, mas (pero) no es posible\".",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Son parejas de monosílabos donde uno lleva tilde diacrítica y el otro no:",
+    "options": [
+      { "text": "el/él, tu/tú, mi/mí", "correct": true },
+      { "text": "fue/fui, dio/di, vio/vi", "correct": false },
+      { "text": "sol, pan, sal, mar", "correct": false },
+      { "text": "que/qué, te/té, se/sé", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Busca las parejas de la lista oficial de homófonas.",
+    "explanation": "La lista de monosílabos homófonos que usan tilde diacrítica incluye el/él, tu/tú, mi/mí, te/té, se/sé, de/dé, si/sí, y mas/más, entre otros.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Elige la oración con el uso correcto de 'tu' y 'tú'.",
+    "options": [
+      { "text": "¿Tú crees que tu idea funcionará en la práctica?", "correct": true },
+      { "text": "¿Tu crees que tú idea funcionará bien?", "correct": false },
+      { "text": "¿Tú crees que tú idea es la mejor de todas?", "correct": false },
+      { "text": "¿Tu crees que tu idea funcionará?", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Uno es pronombre personal y el otro es adjetivo posesivo.",
+    "explanation": "'Tú' con tilde es el pronombre personal (sujeto). 'Tu' sin tilde es el adjetivo posesivo que acompaña a un sustantivo ('tu idea').",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Relaciona el monosílabo tónico con su categoría gramatical: A) él, B) más, C) té",
+    "options": [
+      { "text": "A-Pronombre, B-Adverbio, C-Sustantivo", "correct": true },
+      { "text": "A-Artículo, B-Conjunción, C-Pronombre", "correct": false },
+      { "text": "A-Pronombre, B-Sustantivo, C-Adverbio", "correct": false },
+      { "text": "A-Verbo, B-Adverbio, C-Sustantivo", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Cada uno se distingue de su par átono: el, mas, te.",
+    "explanation": "'Él' es un pronombre personal. 'Más' es un adverbio de cantidad. 'Té' es un sustantivo (la bebida).",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "-Aun- sin tilde es sinónimo de _______, mientras que -aún- con tilde significa _______. Completa con las opciones correctas.",
+    "options": [
+      { "text": "incluso, todavía", "correct": true },
+      { "text": "todavía, incluso", "correct": false },
+      { "text": "también, ya", "correct": false },
+      { "text": "incluso, tampoco", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Uno es una palabra de una sílaba y el otro de dos.",
+    "explanation": "La palabra 'aún' (pronunciada en dos sílabas, a-ún) significa 'todavía'. La palabra 'aun' (pronunciada en una sílaba) significa 'incluso'.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál es la regla de acentuación para los adverbios terminados en '-mente'?",
+    "options": [
+      { "text": "Conservan la tilde si el adjetivo original del que derivan la tenía.", "correct": true },
+      { "text": "Siempre llevan tilde en la sílaba '-men-', sin excepción.", "correct": false },
+      { "text": "Nunca llevan tilde, aunque el adjetivo original la tuviera.", "correct": false },
+      { "text": "Se les añade una tilde nueva en la última sílaba.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Piensa en cómo se forman 'fácilmente' y 'lentamente'.",
+    "explanation": "Si el adjetivo original lleva tilde, esta se mantiene en su forma adverbial. Por ejemplo, de 'rápida' (con tilde) se forma 'rápidamente' (con tilde), pero de 'lenta' (sin tilde) se forma 'lentamente' (sin tilde).",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Identifica la oración que utiliza correctamente la tilde en los pronombres interrogativos.",
+    "options": [
+      { "text": "No sé qué quieres ni cuándo volverás a casa.", "correct": true },
+      { "text": "No sé que quieres ni cuando volverás a la oficina.", "correct": false },
+      { "text": "No sé qué quieres ni cuando volverás por aquí.", "correct": false },
+      { "text": "Dime que quieres y cuándo piensas volver.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Los interrogativos llevan tilde incluso en preguntas indirectas.",
+    "explanation": "Los pronombres interrogativos como 'qué' y 'cuándo' siempre llevan acento ortográfico para distinguirlos de sus formas relativas ('que' y 'cuando'), incluso cuando están dentro de una oración que no tiene signos de interrogación (pregunta indirecta).",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Según las normas de 2010, ¿cuál es el uso correcto de la palabra 'solo'?",
+    "options": [
+      { "text": "Juan prefiere trabajar solo en su oficina.", "correct": true },
+      { "text": "Juan trabaja sólo en el turno de la mañana.", "correct": false },
+      { "text": "Prefiero que me dejes sólo por un momento.", "correct": false },
+      { "text": "Mi respuesta es: sólo si es estrictamente necesario.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "La RAE eliminó una tilde diacrítica para esta palabra.",
+    "explanation": "Desde los cambios de 2010, la palabra 'solo' (ya sea adjetivo que significa 'sin compañía' o adverbio que significa 'solamente') nunca lleva acento ortográfico. La ambigüedad debe resolverse por el contexto.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Son adverbios terminados en '-mente' que están correctamente escritos:",
+    "options": [
+      { "text": "fácilmente, rápidamente, cómodamente", "correct": true },
+      { "text": "facilmente, rapidamente, comodamente", "correct": false },
+      { "text": "simplemente, totalménte, críticaménte", "correct": false },
+      { "text": "ágilmente, espiritualménte, lentaménte", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "El adverbio hereda la tilde del adjetivo base.",
+    "explanation": "Los adverbios terminados en '-mente' conservan la tilde si el adjetivo del que provienen la tenía. 'Fácil', 'rápida' y 'cómoda' llevan tilde, por lo que 'fácilmente', 'rápidamente' y 'cómodamente' también la llevan.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál es la diferencia de uso entre 'porque' y 'por qué'?",
+    "options": [
+      { "text": "'Porque' es una conjunción causal y 'por qué' se usa para preguntas.", "correct": true },
+      { "text": "'Porque' se usa en preguntas y 'por qué' en respuestas.", "correct": false },
+      { "text": "Ambas significan lo mismo y su uso es intercambiable.", "correct": false },
+      { "text": "'Porque' es un sustantivo y 'por qué' es un adjetivo.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Uno responde y el otro pregunta.",
+    "explanation": "'Porque' (junto y sin tilde) es una conjunción que introduce la causa o razón de algo. 'Por qué' (separado y con tilde) se utiliza para iniciar preguntas sobre la causa o razón.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Relaciona el interrogativo con su pronombre de relativo correspondiente: A) qué, B) quién, C) dónde",
+    "options": [
+      { "text": "A-que, B-quien, C-donde", "correct": true },
+      { "text": "A-quien, B-que, C-donde", "correct": false },
+      { "text": "A-donde, B-quien, C-que", "correct": false },
+      { "text": "A-que, B-donde, C-quien", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "La única diferencia en la escritura es la tilde.",
+    "explanation": "Los pronombres interrogativos (qué, quién, dónde, cómo, cuándo, cuál) llevan tilde para distinguirlos de sus formas átonas, que funcionan como pronombres de relativo o conjunciones (que, quien, donde, como, cuando, cual).",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "La oración \"El profesor nos explicó el _______ y el _______\" debe completarse con las formas tónicas de los interrogativos para funcionar como sustantivos.",
+    "options": [
+      { "text": "cómo, porqué", "correct": true },
+      { "text": "como, porque", "correct": false },
+      { "text": "cómo, porque", "correct": false },
+      { "text": "como, porqué", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "En este caso, las palabras que normalmente preguntan se usan para nombrar el 'modo' y el 'motivo'.",
+    "explanation": "Las formas interrogativas pueden sustantivarse, usualmente precedidas por un artículo. En este caso, 'el cómo' se refiere al modo, y 'el porqué' (junto y con tilde) es el sustantivo que significa 'el motivo'.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál es la regla actual sobre el uso de la tilde en la conjunción 'o' entre números?",
+    "options": [
+      { "text": "Nunca se usa tilde en la palabra 'o'.", "correct": true },
+      { "text": "Se debe usar tilde ('ó') para no confundirla con el cero.", "correct": false },
+      { "text": "Solo se usa tilde si los números son mayores de 100.", "correct": false },
+      { "text": "Es opcional, pero se recomienda no usarla.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Esta es otra de las simplificaciones de las reglas de 2010.",
+    "explanation": "Antes de 2010, se tildaba la 'o' entre cifras ('5 ó 6') para evitar confundirla con el número '0'. La norma actual, para simplificar, eliminó esta regla y ahora la conjunción 'o' nunca lleva tilde.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Selecciona la oración que aplica correctamente la regla de 2010 sobre los pronombres demostrativos.",
+    "options": [
+      { "text": "De todos los libros, prefiero este.", "correct": true },
+      { "text": "De todos los libros, prefiero éste.", "correct": false },
+      { "text": "Aquel es mi hermano y aquél es mi primo.", "correct": false },
+      { "text": "Ese coche es rápido, pero ése es más rápido.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "La tilde en 'este', 'ese' y 'aquel' fue eliminada.",
+    "explanation": "Las normas de 2010 eliminaron la tilde diacrítica en los pronombres demostrativos (este, ese, aquel y sus femeninos y plurales). Por lo tanto, nunca deben llevar acento ortográfico.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Un adverbio que termina en \"-mente\" tiene _______ sílabas tónicas: una en el sufijo y otra que se mantiene del _______ original.",
+    "options": [
+      { "text": "dos, adjetivo", "correct": true },
+      { "text": "una, verbo", "correct": false },
+      { "text": "dos, sustantivo", "correct": false },
+      { "text": "tres, adverbio", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Esta es una excepción a la regla de una sola sílaba tónica por palabra.",
+    "explanation": "Los adverbios terminados en '-mente' son la única excepción a la regla de que una palabra tiene una sola sílaba tónica. Tienen dos: una en el adjetivo base y otra en el sufijo '-mente'.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "En la frase \"No sabemos dónde poner el sofá\", la palabra 'dónde' lleva tilde porque...",
+    "options": [
+      { "text": "introduce una pregunta indirecta.", "correct": true },
+      { "text": "es una palabra esdrújula.", "correct": false },
+      { "text": "es la primera palabra de la oración.", "correct": false },
+      { "text": "termina en una vocal fuerte.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Aunque no hay signos de interrogación, la oración expresa una duda o pregunta.",
+    "explanation": "Los interrogativos como 'dónde' llevan acento ortográfico incluso cuando se encuentran dentro de una pregunta indirecta, que es una oración que equivale a una pregunta pero no tiene la forma directa ni los signos correspondientes.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Según las reglas generales de acentuación, ¿cuál es la sílaba que se acentúa normalmente en una palabra que termina en 'n'?",
+    "options": [
+      { "text": "La penúltima sílaba.", "correct": true },
+      { "text": "La última sílaba.", "correct": false },
+      { "text": "La antepenúltima sílaba.", "correct": false },
+      { "text": "La sílaba preantepenúltima.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Piensa en palabras como 'cantan' o 'joven'.",
+    "explanation": "Si una palabra termina en vocal, 'n' o 's', se acentúa normalmente en la penúltima sílaba, clasificándose como palabra llana.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Identifica la oración que contiene una palabra aguda que NO necesita tilde.",
+    "options": [
+      { "text": "El actor principal decidió cantar al final.", "correct": true },
+      { "text": "Mi primo Andrés vendrá en el autobús de las tres.", "correct": false },
+      { "text": "La situación en el país es de gran interés para todos.", "correct": false },
+      { "text": "Tomaré un café solo, sin ningún tipo de azúcar.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Las palabras agudas se acentúan en la última sílaba, pero la tilde depende de su letra final.",
+    "explanation": "La palabra 'cantar' es aguda porque se acentúa en la última sílaba. Sin embargo, no lleva tilde porque termina en 'r', una consonante distinta de 'n' o 's'.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Las palabras _______ se acentúan en la antepenúltima sílaba, y como regla general, _______ llevan acento ortográfico.",
+    "options": [
+      { "text": "esdrújulas, siempre", "correct": true },
+      { "text": "agudas, a veces", "correct": false },
+      { "text": "llanas, nunca", "correct": false },
+      { "text": "sobresdrújulas, casi nunca", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Piensa en palabras como 'fantástico' o 'murciélago'.",
+    "explanation": "Las palabras esdrújulas son aquellas acentuadas en la antepenúltima sílaba y, sin excepción, siempre deben llevar tilde o acento ortográfico.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál de las siguientes palabras es llana y está correctamente acentuada?",
+    "options": [
+      { "text": "El póster del concierto es increíble.", "correct": true },
+      { "text": "El caracter de tu amigo es muy fuerte.", "correct": false },
+      { "text": "Es un examen muy dificil para mí.", "correct": false },
+      { "text": "El arbol del patio da buena sombra.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Una palabra llana lleva tilde si termina en una consonante que no sea 'n' o 's'.",
+    "explanation": "'Póster' es una palabra llana acentuada en la penúltima sílaba. Lleva tilde porque termina en 'r', una consonante distinta de 'n' o 's'.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Son palabras agudas que requieren tilde:",
+    "options": [
+      { "text": "sofá, corazón, revés", "correct": true },
+      { "text": "pared, sentir, reloj", "correct": false },
+      { "text": "examen, cantan, crisis", "correct": false },
+      { "text": "mármol, césped, fútbol", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Revisa la regla de acentuación para palabras cuya sílaba tónica es la última.",
+    "explanation": "Las palabras agudas se acentúan en la última sílaba y llevan tilde si terminan en vocal, 'n' o 's'. 'Sofá' (termina en vocal), 'corazón' (termina en 'n') y 'revés' (termina en 's') cumplen esta regla.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Identifica la oración correcta según las reglas de acentuación.",
+    "options": [
+      { "text": "El miércoles habrá un examen de síntesis.", "correct": true },
+      { "text": "El miercoles habrá un examen de síntesis.", "correct": false },
+      { "text": "El miércoles habrá un examen de sintesis.", "correct": false },
+      { "text": "El miercoles proximo habrá un examen de sintesis.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Recuerda la regla invariable para las palabras esdrújulas.",
+    "explanation": "Tanto 'miércoles' como 'síntesis' son palabras esdrújulas (acentuadas en la antepenúltima sílaba), por lo que ambas deben llevar tilde siempre.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Relaciona el tipo de palabra con su regla de acentuación: A) Aguda, B) Llana, C) Esdrújula",
+    "options": [
+      { "text": "A-Lleva tilde si termina en n, s o vocal; B-Lleva tilde si NO termina en n, s o vocal; C-Siempre lleva tilde", "correct": true },
+      { "text": "A-Siempre lleva tilde; B-Lleva tilde si termina en n, s o vocal; C-Lleva tilde si NO termina en n, s o vocal", "correct": false },
+      { "text": "A-Lleva tilde si NO termina en n, s o vocal; B-Siempre lleva tilde; C-Lleva tilde si termina en n, s o vocal", "correct": false },
+      { "text": "A-Lleva tilde si termina en consonante; B-Lleva tilde si termina en vocal; C-Nunca lleva tilde", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Cada categoría tiene una condición específica para el uso de la tilde.",
+    "explanation": "Las agudas llevan tilde si terminan en 'n', 's' o vocal. Las llanas llevan tilde si NO terminan en 'n', 's' o vocal. Las esdrújulas siempre llevan tilde.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Si una palabra no sigue las reglas generales de acentuación (terminación en vocal, n, s o en otra consonante), la sílaba _______ debe llevar un _______.",
+    "options": [
+      { "text": "tónica, acento ortográfico", "correct": true },
+      { "text": "átona, acento prosódico", "correct": false },
+      { "text": "final, diptongo", "correct": false },
+      { "text": "tónica, hiato", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Esta es la tercera regla general de acentuación, que justifica el uso de la tilde.",
+    "explanation": "Si una palabra no sigue las dos primeras reglas de acentuación, se debe marcar la sílaba tónica con un acento ortográfico (tilde) para indicar la irregularidad.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Una palabra que termina en una consonante que no sea 'n' o 's' se acentúa normalmente en...",
+    "options": [
+      { "text": "la última sílaba.", "correct": true },
+      { "text": "la penúltima sílaba.", "correct": false },
+      { "text": "la antepenúltima sílaba.", "correct": false },
+      { "text": "la primera sílaba.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Piensa en palabras como 'cantar', 'reloj' o 'amistad'.",
+    "explanation": "Según la segunda regla general, si una palabra termina en una consonante que no sea 'n' o 's', se clasifica como aguda, con el acento prosódico en la última sílaba.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Las palabras _________, al igual que las esdrújulas, siempre llevan acento ortográfico y suelen formarse con un verbo más _________.",
+    "options": [
+      { "text": "sobresdrújulas, dos pronombres adjuntos", "correct": true },
+      { "text": "llanas, un pronombre adjunto", "correct": false },
+      { "text": "agudas, un sufijo", "correct": false },
+      { "text": "monosílabas, dos verbos", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Piensa en 'escribiéndoselo' o 'fumándomela'.",
+    "explanation": "Las palabras sobresdrújulas se acentúan en la sílaba anterior a la antepenúltima, siempre llevan tilde y típicamente se componen de un verbo con dos pronombres adjuntos.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál es la diferencia fundamental entre una sílaba tónica y una átona?",
+    "options": [
+      { "text": "La sílaba tónica recibe el acento de la pronunciación y la átona no.", "correct": true },
+      { "text": "La sílaba tónica siempre lleva tilde y la átona nunca.", "correct": false },
+      { "text": "La sílaba tónica contiene vocales fuertes y la átona débiles.", "correct": false },
+      { "text": "Las palabras solo tienen sílabas tónicas, las átonas no existen.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Tiene que ver con la fuerza de la pronunciación, no necesariamente con la escritura.",
+    "explanation": "En las palabras de más de una sílaba, solo una es tónica (la que lleva el acento prosódico o de pronunciación), mientras que las demás son átonas. Una sílaba átona jamás llevará acento ortográfico.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Identifica la oración que muestra un uso correcto de tildes en palabras llanas y agudas.",
+    "options": [
+      { "text": "El líder del equipo mostró un gran carácter.", "correct": true },
+      { "text": "El lider del equipo mostró un gran carácter.", "correct": false },
+      { "text": "El líder del equipo mostro un gran caracter.", "correct": false },
+      { "text": "El lider del equipo mostro un gran carácter.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Revisa las reglas de acentuación para llanas terminadas en 'r' y agudas terminadas en vocal.",
+    "explanation": "'Líder' es una palabra llana que termina en 'r', por lo que debe llevar tilde. 'Carácter' es también una palabra llana que termina en 'r' y requiere tilde. La opción correcta es la única que acentúa 'líder' correctamente.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Según el texto, ¿qué sucede cuando una vocal débil ('i', 'u') se encuentra junto a una vocal fuerte ('a', 'e', 'o')?",
+    "options": [
+      { "text": "Forman automáticamente un diptongo, es decir, una sola sílaba.", "correct": true },
+      { "text": "Forman siempre un hiato, es decir, dos sílabas separadas.", "correct": false },
+      { "text": "La vocal débil siempre debe llevar una tilde.", "correct": false },
+      { "text": "Se convierten ambas en vocales de fuerza media.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Esta es la base para la formación de sílabas con múltiples vocales.",
+    "explanation": "Cuando una vocal débil se encuentra contigua a una vocal fuerte, forman automáticamente un diptongo, que se cuenta como una sola sílaba.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿En cuál de las siguientes palabras se utiliza la tilde para romper un diptongo y formar un hiato?",
+    "options": [
+      { "text": "La palabra 'panadería' tiene cinco sílabas.", "correct": true },
+      { "text": "La palabra 'farmacéutico' es un buen ejemplo.", "correct": false },
+      { "text": "La palabra 'luciérnaga' brilla en la oscuridad.", "correct": false },
+      { "text": "La palabra 'estaciones' cambia con el tiempo.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Busca una vocal débil tónica junto a una vocal fuerte.",
+    "explanation": "En 'panadería' (pa-na-de-rí-a), se escribe un acento sobre la vocal débil 'i' para romper el diptongo natural que formaría con la 'a'. Esto crea un hiato y resulta en dos sílabas separadas.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Las vocales _______ ('a', 'e', 'o') siempre forman su propia _______, mientras que las vocales _______ ('i', 'u') pueden formar diptongos.",
+    "options": [
+      { "text": "fuertes, sílaba", "correct": true },
+      { "text": "débiles, palabra", "correct": false },
+      { "text": "tónicas, sílaba", "correct": false },
+      { "text": "abiertas, oración", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "La clasificación de las vocales determina cómo se agrupan en sílabas.",
+    "explanation": "Las vocales fuertes (a, e, o) siempre forman su propia sílaba. Las vocales débiles (i, u) solo forman su propia sílaba cuando están separadas de otras vocales por una consonante; de lo contrario, forman diptongos.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "De acuerdo con las reglas sobre monosílabos, ¿cuál de estas oraciones es correcta?",
+    "options": [
+      { "text": "Me dio un libro muy bueno.", "correct": true },
+      { "text": "Él me dió un libro excelente.", "correct": false },
+      { "text": "El pan que me díó estaba fresco.", "correct": false },
+      { "text": "Fué un gesto muy amable de su parte.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Como regla general, las palabras de una sola sílaba no llevan tilde, a menos que sea diacrítica.",
+    "explanation": "Las palabras de una sola sílaba, como 'dio', 'fue', 'vi', 'ti', no llevan acento ortográfico. La regla moderna fue adoptada en 1952 para simplificar la acentuación.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Son palabras que contienen un diptongo:",
+    "options": [
+      { "text": "luego, tienes, buey", "correct": true },
+      { "text": "correo, sabana, aposento", "correct": false },
+      { "text": "tribu, cine, mito", "correct": false },
+      { "text": "río, baúl, María", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Busca la unión de una vocal débil y una fuerte en una misma sílaba.",
+    "explanation": "Las palabras 'luego' (ue), 'tienes' (ie) y 'buey' (ue) contienen diptongos, que son la unión de una vocal débil y una fuerte en una sola sílaba.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál es la razón para escribir una tilde en la palabra 'mía'?",
+    "options": [
+      { "text": "Para romper el diptongo natural y formar dos sílabas (mí-a).", "correct": true },
+      { "text": "Porque es una palabra esdrújula que siempre lleva tilde.", "correct": false },
+      { "text": "Para distinguirla de la palabra homófona 'mia' sin acento.", "correct": false },
+      { "text": "Porque todas las palabras que terminan en 'a' deben llevar tilde.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Observa la interacción entre la vocal débil 'i' y la fuerte 'a'.",
+    "explanation": "Se escribe un acento sobre la vocal débil 'i' para romper el diptongo que naturalmente formaría con la 'a'. Esto indica que la palabra se pronuncia en dos sílabas (mí-a), creando un hiato acentual.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Relaciona la palabra con la descripción de su acentuación: A) correo, B) buey, C) río",
+    "options": [
+      { "text": "A-Hiato de vocales fuertes, B-Diptongo en una monosílaba, C-Hiato por tilde en vocal débil", "correct": true },
+      { "text": "A-Diptongo, B-Hiato, C-Palabra llana sin tilde", "correct": false },
+      { "text": "A-Hiato por tilde, B-Diptongo, C-Hiato de vocales fuertes", "correct": false },
+      { "text": "A-Palabra esdrújula, B-Palabra aguda, C-Palabra llana", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Analiza la interacción de las vocales en cada palabra.",
+    "explanation": "'Correo' (co-rre-o) tiene un hiato natural porque 'e' y 'o' son vocales fuertes. 'Buey' es una monosílaba con diptongo. 'Río' (rí-o) tiene un hiato creado por la tilde en la vocal débil 'i'.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "En español, las palabras de _______ sílaba no llevan acento ortográfico a menos que pertenezcan a un grupo limitado de _______.",
+    "options": [
+      { "text": "una sola, parejas homófonas", "correct": true },
+      { "text": "dos, verbos irregulares", "correct": false },
+      { "text": "tres, palabras esdrújulas", "correct": false },
+      { "text": "una sola, sustantivos", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Esta regla tiene una excepción importante que se detalla en la sección seis del documento.",
+    "explanation": "La regla general es que las monosílabas no se acentúan. La excepción son aquellas que forman parte de una pareja homófona, donde una lleva tilde diacrítica para distinguirse de la otra.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "La palabra 'farmacéutico' tiene cinco sílabas porque...",
+    "options": [
+      { "text": "el grupo 'eu' es un diptongo y cuenta como una sola sílaba.", "correct": true },
+      { "text": "el grupo 'eu' es un hiato y cuenta como dos sílabas.", "correct": false },
+      { "text": "es una palabra sobresdrújula con una estructura compleja.", "correct": false },
+      { "text": "la letra 'c' separa las vocales en sílabas distintas.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Analiza la combinación de la vocal fuerte 'e' y la débil 'u'.",
+    "explanation": "En 'farmacéutico' (far-ma-céu-ti-co), la combinación 'eu' es un diptongo porque une una vocal fuerte y una débil en la misma sílaba tónica, sin que la tilde rompa la unión.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Para que dos palabras monosílabas formen una pareja homófona que justifique el uso de la tilde diacrítica, deben escribirse igual y ser de dos _______ diferentes.",
+    "options": [
+      { "text": "categorías gramaticales", "correct": true },
+      { "text": "pronunciaciones", "correct": false },
+      { "text": "longitudes", "correct": false },
+      { "text": "orígenes etimológicos", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Piensa en el/él, tu/tú, donde uno es artículo/adjetivo y el otro es pronombre.",
+    "explanation": "Una de las condiciones para que una monosílaba lleve tilde diacrítica es que exista una palabra homófona (que se escribe igual) pero que pertenezca a una categoría gramatical distinta (p. ej. pronombre vs. adjetivo, sustantivo vs. pronombre, etc.).",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "La palabra 'hacia' (preposición) se diferencia de 'hacía' (verbo) por...",
+    "options": [
+      { "text": "la tilde en la 'i' que crea un hiato en el verbo.", "correct": true },
+      { "text": "el número de letras en cada palabra.", "correct": false },
+      { "text": "la pronunciación de la letra 'h'.", "correct": false },
+      { "text": "la vocal final de cada palabra.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Compara la división silábica de 'ha-cia' con 'ha-cí-a'.",
+    "explanation": "La diferencia clave es la tilde en 'hacía'. Esta tilde sobre la vocal débil 'i' rompe el diptongo natural ('ia') y crea un hiato (ha-cí-a), distinguiéndola de la palabra de dos sílabas 'hacia' (ha-cia).",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál de las siguientes oraciones utiliza correctamente los monosílabos 'de' y 'dé'?",
+    "options": [
+      { "text": "Quiero que me dé un vaso de agua, por favor.", "correct": true },
+      { "text": "Quiero que me de un vaso dé agua ahora mismo.", "correct": false },
+      { "text": "Quiero que me de un vaso de agua de la jarra.", "correct": false },
+      { "text": "El vaso dé cristal es de mi abuela.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Uno es el verbo 'dar' y el otro es una preposición.",
+    "explanation": "Se usa 'dé' con tilde para la forma del verbo 'dar'. Se usa 'de' sin tilde para la preposición. La oración correcta es \"Quiero que me dé (verbo) un vaso de (preposición) agua\".",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál es el uso correcto de 'si' y 'sí' en una oración?",
+    "options": [
+      { "text": "Si estudias, te irá bien; yo creo que sí.", "correct": true },
+      { "text": "Sí vienes, te doy un regalo; creo que si.", "correct": false },
+      { "text": "No sé si lo hizo para si mismo.", "correct": false },
+      { "text": "El dijo que si, que vendría a la fiesta.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Uno es una conjunción condicional y el otro es un adverbio de afirmación o pronombre.",
+    "explanation": "'Si' sin tilde es la conjunción condicional. 'Sí' con tilde es el adverbio de afirmación o el pronombre reflexivo (precedido de preposición, como 'para sí').",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Completa la oración con la forma correcta de 'se' o 'sé': No _______ por qué te portas así. ¡_______ bueno!",
+    "options": [
+      { "text": "sé, sé", "correct": true },
+      { "text": "se, se", "correct": false },
+      { "text": "sé, se", "correct": false },
+      { "text": "se, sé", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Distingue entre el pronombre y las formas de los verbos 'saber' y 'ser'.",
+    "explanation": "El primer espacio requiere 'sé' del verbo 'saber' (No sé). El segundo espacio requiere 'sé' del verbo 'ser' en modo imperativo (¡Sé bueno!). El pronombre átono 'se' no aplica en estos casos.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿En cuál oración se usa correctamente 'mas' y 'más'?",
+    "options": [
+      { "text": "Quisiera más tiempo, mas no es posible.", "correct": true },
+      { "text": "Quisiera mas tiempo, más no es posible.", "correct": false },
+      { "text": "Quisiera más tiempo, más no es posible tenerlo.", "correct": false },
+      { "text": "Quisiera mas tiempo libre, mas no tengo.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Uno es un adverbio de cantidad, el otro una conjunción adversativa equivalente a 'pero'.",
+    "explanation": "'Más' con tilde es el adverbio de cantidad. 'Mas' sin tilde es la conjunción adversativa. La oración correcta es \"Quisiera más (cantidad) tiempo, mas (pero) no es posible\".",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Son parejas de monosílabos donde uno lleva tilde diacrítica y el otro no:",
+    "options": [
+      { "text": "el/él, tu/tú, mi/mí", "correct": true },
+      { "text": "fue/fui, dio/di, vio/vi", "correct": false },
+      { "text": "sol, pan, sal, mar", "correct": false },
+      { "text": "que/qué, te/té, se/sé", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Busca las parejas de la lista oficial de homófonas.",
+    "explanation": "La lista de monosílabos homófonos que usan tilde diacrítica incluye el/él, tu/tú, mi/mí, te/té, se/sé, de/dé, si/sí, y mas/más, entre otros.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Elige la oración con el uso correcto de 'tu' y 'tú'.",
+    "options": [
+      { "text": "¿Tú crees que tu idea funcionará en la práctica?", "correct": true },
+      { "text": "¿Tu crees que tú idea funcionará bien?", "correct": false },
+      { "text": "¿Tú crees que tú idea es la mejor de todas?", "correct": false },
+      { "text": "¿Tu crees que tu idea funcionará?", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Uno es pronombre personal y el otro es adjetivo posesivo.",
+    "explanation": "'Tú' con tilde es el pronombre personal (sujeto). 'Tu' sin tilde es el adjetivo posesivo que acompaña a un sustantivo ('tu idea').",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Relaciona el monosílabo tónico con su categoría gramatical: A) él, B) más, C) té",
+    "options": [
+      { "text": "A-Pronombre, B-Adverbio, C-Sustantivo", "correct": true },
+      { "text": "A-Artículo, B-Conjunción, C-Pronombre", "correct": false },
+      { "text": "A-Pronombre, B-Sustantivo, C-Adverbio", "correct": false },
+      { "text": "A-Verbo, B-Adverbio, C-Sustantivo", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Cada uno se distingue de su par átono: el, mas, te.",
+    "explanation": "'Él' es un pronombre personal. 'Más' es un adverbio de cantidad. 'Té' es un sustantivo (la bebida).",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Aun sin tilde es sinónimo de _______, mientras que aún con tilde significa _______. Completa con las opciones correctas.",
+    "options": [
+      { "text": "incluso, todavía", "correct": true },
+      { "text": "todavía, incluso", "correct": false },
+      { "text": "también, ya", "correct": false },
+      { "text": "incluso, tampoco", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Uno es una palabra de una sílaba y el otro de dos.",
+    "explanation": "La palabra 'aún' (pronunciada en dos sílabas, a-ún) significa 'todavía'. La palabra 'aun' (pronunciada en una sílaba) significa 'incluso'.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál es la regla de acentuación para los adverbios terminados en '-mente'?",
+    "options": [
+      { "text": "Conservan la tilde si el adjetivo original del que derivan la tenía.", "correct": true },
+      { "text": "Siempre llevan tilde en la sílaba '-men-', sin excepción.", "correct": false },
+      { "text": "Nunca llevan tilde, aunque el adjetivo original la tuviera.", "correct": false },
+      { "text": "Se les añade una tilde nueva en la última sílaba.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Piensa en cómo se forman 'fácilmente' y 'lentamente'.",
+    "explanation": "Si el adjetivo original lleva tilde, esta se mantiene en su forma adverbial. Por ejemplo, de 'rápida' (con tilde) se forma 'rápidamente' (con tilde), pero de 'lenta' (sin tilde) se forma 'lentamente' (sin tilde).",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Identifica la oración que utiliza correctamente la tilde en los pronombres interrogativos.",
+    "options": [
+      { "text": "No sé qué quieres ni cuándo volverás a casa.", "correct": true },
+      { "text": "No sé que quieres ni cuando volverás a la oficina.", "correct": false },
+      { "text": "No sé qué quieres ni cuando volverás por aquí.", "correct": false },
+      { "text": "Dime que quieres y cuándo piensas volver.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Los interrogativos llevan tilde incluso en preguntas indirectas.",
+    "explanation": "Los pronombres interrogativos como 'qué' y 'cuándo' siempre llevan acento ortográfico para distinguirlos de sus formas relativas ('que' y 'cuando'), incluso cuando están dentro de una oración que no tiene signos de interrogación (pregunta indirecta).",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Según las normas de 2010, ¿cuál es el uso correcto de la palabra 'solo'?",
+    "options": [
+      { "text": "Juan prefiere trabajar solo en su oficina.", "correct": true },
+      { "text": "Juan trabaja sólo en el turno de la mañana.", "correct": false },
+      { "text": "Prefiero que me dejes sólo por un momento.", "correct": false },
+      { "text": "Mi respuesta es: sólo si es estrictamente necesario.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "La RAE eliminó una tilde diacrítica para esta palabra.",
+    "explanation": "Desde los cambios de 2010, la palabra 'solo' (ya sea adjetivo que significa 'sin compañía' o adverbio que significa 'solamente') nunca lleva acento ortográfico. La ambigüedad debe resolverse por el contexto.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Son adverbios terminados en '-mente' que están correctamente escritos:",
+    "options": [
+      { "text": "fácilmente, rápidamente, cómodamente", "correct": true },
+      { "text": "facilmente, rapidamente, comodamente", "correct": false },
+      { "text": "simplemente, totalménte, críticaménte", "correct": false },
+      { "text": "ágilmente, espiritualménte, lentaménte", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "El adverbio hereda la tilde del adjetivo base.",
+    "explanation": "Los adverbios terminados en '-mente' conservan la tilde si el adjetivo del que provienen la tenía. 'Fácil', 'rápida' y 'cómoda' llevan tilde, por lo que 'fácilmente', 'rápidamente' y 'cómodamente' también la llevan.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál es la diferencia de uso entre 'porque' y 'por qué'?",
+    "options": [
+      { "text": "'Porque' es una conjunción causal y 'por qué' se usa para preguntas.", "correct": true },
+      { "text": "'Porque' se usa en preguntas y 'por qué' en respuestas.", "correct": false },
+      { "text": "Ambas significan lo mismo y su uso es intercambiable.", "correct": false },
+      { "text": "'Porque' es un sustantivo y 'por qué' es un adjetivo.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Uno responde y el otro pregunta.",
+    "explanation": "'Porque' (junto y sin tilde) es una conjunción que introduce la causa o razón de algo. 'Por qué' (separado y con tilde) se utiliza para iniciar preguntas sobre la causa o razón.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Relaciona el interrogativo con su pronombre de relativo correspondiente: A) qué, B) quién, C) dónde",
+    "options": [
+      { "text": "A-que, B-quien, C-donde", "correct": true },
+      { "text": "A-quien, B-que, C-donde", "correct": false },
+      { "text": "A-donde, B-quien, C-que", "correct": false },
+      { "text": "A-que, B-donde, C-quien", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "La única diferencia en la escritura es la tilde.",
+    "explanation": "Los pronombres interrogativos (qué, quién, dónde, cómo, cuándo, cuál) llevan tilde para distinguirlos de sus formas átonas, que funcionan como pronombres de relativo o conjunciones (que, quien, donde, como, cuando, cual).",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "La oración \"El profesor nos explicó el _______ y el _______\" debe completarse con las formas tónicas de los interrogativos para funcionar como sustantivos.",
+    "options": [
+      { "text": "cómo, porqué", "correct": true },
+      { "text": "como, porque", "correct": false },
+      { "text": "cómo, porque", "correct": false },
+      { "text": "como, porqué", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "En este caso, las palabras que normalmente preguntan se usan para nombrar el 'modo' y el 'motivo'.",
+    "explanation": "Las formas interrogativas pueden sustantivarse, usualmente precedidas por un artículo. En este caso, 'el cómo' se refiere al modo, y 'el porqué' (junto y con tilde) es el sustantivo que significa 'el motivo'.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál es la regla actual sobre el uso de la tilde en la conjunción 'o' entre números?",
+    "options": [
+      { "text": "Nunca se usa tilde en la palabra 'o'.", "correct": true },
+      { "text": "Se debe usar tilde ('ó') para no confundirla con el cero.", "correct": false },
+      { "text": "Solo se usa tilde si los números son mayores de 100.", "correct": false },
+      { "text": "Es opcional, pero se recomienda no usarla.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Esta es otra de las simplificaciones de las reglas de 2010.",
+    "explanation": "Antes de 2010, se tildaba la 'o' entre cifras ('5 ó 6') para evitar confundirla con el número '0'. La norma actual, para simplificar, eliminó esta regla y ahora la conjunción 'o' nunca lleva tilde.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Selecciona la oración que aplica correctamente la regla de 2010 sobre los pronombres demostrativos.",
+    "options": [
+      { "text": "De todos los libros, prefiero este.", "correct": true },
+      { "text": "De todos los libros, prefiero éste.", "correct": false },
+      { "text": "Aquel es mi hermano y aquél es mi primo.", "correct": false },
+      { "text": "Ese coche es rápido, pero ése es más rápido.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "La tilde en 'este', 'ese' y 'aquel' fue eliminada.",
+    "explanation": "Las normas de 2010 eliminaron la tilde diacrítica en los pronombres demostrativos (este, ese, aquel y sus femeninos y plurales). Por lo tanto, nunca deben llevar acento ortográfico.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Un adverbio que termina en \"-mente\" tiene _______ sílabas tónicas: una en el sufijo y otra que se mantiene del _______ original.",
+    "options": [
+      { "text": "dos, adjetivo", "correct": true },
+      { "text": "una, verbo", "correct": false },
+      { "text": "dos, sustantivo", "correct": false },
+      { "text": "tres, adverbio", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Esta es una excepción a la regla de una sola sílaba tónica por palabra.",
+    "explanation": "Los adverbios terminados en '-mente' son la única excepción a la regla de que una palabra tiene una sola sílaba tónica. Tienen dos: una en el adjetivo base y otra en el sufijo '-mente'.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "En la frase \"No sabemos dónde poner el sofá\", la palabra 'dónde' lleva tilde porque...",
+    "options": [
+      { "text": "introduce una pregunta indirecta.", "correct": true },
+      { "text": "es una palabra esdrújula.", "correct": false },
+      { "text": "es la primera palabra de la oración.", "correct": false },
+      { "text": "termina en una vocal fuerte.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Aunque no hay signos de interrogación, la oración expresa una duda o pregunta.",
+    "explanation": "Los interrogativos como 'dónde' llevan acento ortográfico incluso cuando se encuentran dentro de una pregunta indirecta, que es una oración que equivale a una pregunta pero no tiene la forma directa ni los signos correspondientes.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Qué vicio del lenguaje se caracteriza por el uso constante y repetitivo de las mismas palabras, denotando un vocabulario limitado?",
+    "options": [
+      {"text": "Pobreza léxica", "correct": true},
+      {"text": "Barbarismo", "correct": false},
+      {"text": "Anfibología", "correct": false},
+      {"text": "Pleonasmo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Relacionado con la escasez de palabras.",
+    "explanation": "La pobreza léxica es el uso constante y repetitivo de las mismas palabras debido a un vocabulario limitado, como el uso frecuente de 'eso' o 'dijo'."
+  },
+  {
+    "question": "¿Cuál de las siguientes palabras es un ejemplo de barbarismo por su uso incorrecto en el idioma español?",
+    "options": [
+      {"text": "Accesar", "correct": true},
+      {"text": "Libro", "correct": false},
+      {"text": "Feliz", "correct": false},
+      {"text": "Coche", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Piensa en un verbo que a menudo se usa incorrectamente.",
+    "explanation": "El verbo correcto en español es 'acceder', no 'accesar', lo que convierte a 'accesar' en un barbarismo."
+  },
+  {
+    "question": "En la expresión \"Ayer vi a la perra de tu hermana\", ¿qué vicio del lenguaje se presenta debido a su doble interpretación?",
+    "options": [
+      {"text": "Anfibología", "correct": true},
+      {"text": "Pleonasmo", "correct": false},
+      {"text": "Barbarismo", "correct": false},
+      {"text": "Pobreza léxica", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Considera si la frase puede entenderse de más de una forma.",
+    "explanation": "La anfibología ocurre cuando una expresión permite una doble interpretación, como en este caso, donde 'perra' puede referirse a la mascota o tener un sentido peyorativo."
+  },
+  {
+    "question": "La frase \"Te lo vuelvo a repetir\" es un ejemplo de qué vicio del lenguaje, considerando que 'repetir' ya implica volver a hacer algo?",
+    "options": [
+      {"text": "Pleonasmo", "correct": true},
+      {"text": "Solecismo", "correct": false},
+      {"text": "Cacofonía", "correct": false},
+      {"text": "Anfibología", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Se trata de un uso de palabras innecesarias para la comprensión del mensaje.",
+    "explanation": "El pleonasmo es el empleo de palabras innecesarias para expresar una idea que ya está implícita, como en 'te lo vuelvo a repetir', donde 'vuelvo a' es redundante."
+  },
+  {
+    "question": "¿Qué vicio del lenguaje ocurre cuando una palabra está bien escrita pero mal utilizada en el contexto, a menudo con errores de concordancia?",
+    "options": [
+      {"text": "Solecismo", "correct": true},
+      {"text": "Barbarismo", "correct": false},
+      {"text": "Anfibología", "correct": false},
+      {"text": "Pleonasmo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "No es un error de ortografía, sino de construcción gramatical.",
+    "explanation": "El solecismo es una falta de sintaxis donde las palabras, aunque bien escritas, están mal implementadas o presentan errores de concordancia verbal y nominal."
+  },
+  {
+    "question": "Identifica el vicio del lenguaje en la expresión \"Hubieron muchos problemas\", según la regla de conjugación del verbo 'haber'.",
+    "options": [
+      {"text": "Solecismo", "correct": true},
+      {"text": "Barbarismo", "correct": false},
+      {"text": "Queísmo", "correct": false},
+      {"text": "Pleonasmo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "El verbo 'haber' en este contexto suele conjugarse en singular.",
+    "explanation": "Es un solecismo porque el verbo 'haber' en esta construcción debe conjugarse en singular ('Hubo muchos problemas'), no en plural."
+  },
+  {
+    "question": "¿Cómo se le llama al vicio del lenguaje que se produce por la repetición molesta o desagradable de sonidos similares en una frase, como en \"Pepe Pecas pica papas\"?",
+    "options": [
+      {"text": "Cacofonía", "correct": true},
+      {"text": "Pobreza léxica", "correct": false},
+      {"text": "Anfibología", "correct": false},
+      {"text": "Pleonasmo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Piensa en cómo suena la frase.",
+    "explanation": "La cacofonía es la repetición de sílabas o palabras que generan un sonido desagradable o difícil de pronunciar, como en los trabalenguas."
+  },
+  {
+    "question": "El queísmo se caracteriza por la supresión indebida de una preposición (generalmente 'de') antes de la conjunción 'que' en oraciones subordinadas. ¿Cuál de los siguientes ejemplos ilustra un caso de queísmo?",
+    "options": [
+      {"text": "Estoy seguro que vendrá mañana", "correct": true},
+      {"text": "Pienso de que conseguiremos ganar", "correct": false},
+      {"text": "Me alegro de que hayas venido", "correct": false},
+      {"text": "Lo convencí de que escribiera el artículo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Intenta formular la pregunta para ver si falta una preposición.",
+    "explanation": "Para identificar el queísmo, se puede hacer una pregunta. En 'Estoy seguro que vendrá mañana', la pregunta correcta sería '¿De qué estás seguro?', indicando la ausencia indebida de 'de'."
+  },
+  {
+    "question": "El dequeísmo consiste en el uso indebido de la preposición 'de' antes de la conjunción 'que' cuando esta no es exigida. ¿Cuál de las siguientes oraciones contiene un dequeísmo?",
+    "options": [
+      {"text": "Temo de que no llegues a tiempo", "correct": true},
+      {"text": "No cabe duda de que es un gran escritor", "correct": false},
+      {"text": "Es posible que nieve mañana", "correct": false},
+      {"text": "Me fijé que tenía muchas manchas en la cara", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Formula una pregunta con la oración para verificar si 'de' es necesario.",
+    "explanation": "En 'Temo de que no llegues a tiempo', la pregunta adecuada es '¿Qué temo?', por lo tanto, la preposición 'de' es innecesaria, constituyendo un dequeísmo."
+  },
+  {
+    "question": "Si una pregunta es negativa, como \"¿No vas a comer?\", y la respuesta es \"No\", ¿qué implicación lingüística tiene esta negación de la negación?",
+    "options": [
+      {"text": "Afirmación", "correct": true},
+      {"text": "Duda", "correct": false},
+      {"text": "Negación", "correct": false},
+      {"text": "Indefinición", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Piensa en la 'ley de signos' aplicada al lenguaje.",
+    "explanation": "La negación de una negación resulta en una afirmación. Por lo tanto, 'no' a '¿no vas a comer?' significa 'sí voy a comer'."
+  },
+  {
+    "question": "La expresión \"con base en\" se considera correcta, mientras que la forma \"en base a\" es un vicio del lenguaje. ¿A qué categoría de vicio pertenece \"en base a\"?",
+    "options": [
+      {"text": "Solecismo", "correct": true},
+      {"text": "Barbarismo", "correct": false},
+      {"text": "Pleonasmo", "correct": false},
+      {"text": "Cacofonía", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es un error en la construcción gramatical de la frase.",
+    "explanation": "La expresión 'en base a' es un solecismo porque es una construcción sintáctica incorrecta, un error en el régimen de preposiciones."
+  },
+  {
+    "question": "Un __________ es el uso constante de las mismas palabras por tener un vocabulario poco desarrollado, mientras que un __________ es una palabra que está mal escrita y mal implementada, y un __________ es cuando una frase tiene doble interpretación.",
+    "options": [
+      {"text": "pobreza léxica, barbarismo, anfibología", "correct": true},
+      {"text": "barbarismo, pleonasmo, solecismo", "correct": false},
+      {"text": "solecismo, cacofonía, pobreza léxica", "correct": false},
+      {"text": "anfibología, queísmo, dequeísmo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Cada término se asocia con un tipo específico de error en el lenguaje.",
+    "explanation": "La pobreza léxica es el uso repetitivo de palabras; el barbarismo es una palabra mal escrita; y la anfibología es una doble interpretación."
+  },
+  {
+    "question": "Son ejemplos de vicios del lenguaje, a excepción de uno que se refiere a una palabra nueva en un idioma:",
+    "options": [
+      {"text": "Neologismo", "correct": true},
+      {"text": "Barbarismo", "correct": false},
+      {"text": "Solecismo", "correct": false},
+      {"text": "Pleonasmo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Recuerda el término que se refiere a la creación de nuevas palabras aceptadas.",
+    "explanation": "El neologismo es una palabra nueva en un idioma, a diferencia de los otros términos que son vicios del lenguaje que representan errores."
+  },
+  {
+    "question": "Relaciona cada vicio del lenguaje con su característica principal: A) Queísmo, B) Dequeísmo, C) Solecismo; I) Omisión indebida de 'de' antes de 'que', II) Uso indebido de 'de' antes de 'que', III) Error en la concordancia o sintaxis.",
+    "options": [
+      {"text": "A-I; B-II; C-III", "correct": true},
+      {"text": "A-II; B-I; C-III", "correct": false},
+      {"text": "A-III; B-I; C-II", "correct": false},
+      {"text": "A-I; B-III; C-II", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Recuerda la regla de la pregunta para el queísmo y dequeísmo.",
+    "explanation": "El queísmo es la supresión de 'de' (I); el dequeísmo es el uso indebido de 'de' (II); y el solecismo es un error sintáctico (III)."
+  },
+  {
+    "question": "Identifica la opción que no representa un vicio del lenguaje:",
+    "options": [
+      {"text": "Neologismo", "correct": true},
+      {"text": "Cacofonía", "correct": false},
+      {"text": "Barbarismo", "correct": false},
+      {"text": "Anfibología", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Uno de estos términos describe un proceso natural del idioma.",
+    "explanation": "Un neologismo es una palabra o expresión nueva que se introduce en una lengua, y no se considera un vicio del lenguaje."
+  },
+  {
+    "question": "La frase \"Beberé del café que compraste\" contiene un solecismo. ¿Cuál es la corrección adecuada que evita este error, considerando la unión de preposiciones y nexos?",
+    "options": [
+      {"text": "Beberé del café del que compraste", "correct": true},
+      {"text": "Beberé del café que fue comprado", "correct": false},
+      {"text": "Beberé el café que compraste", "correct": false},
+      {"text": "Beberé del café de que compraste", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Presta atención a la relación entre 'del' y 'que'.",
+    "explanation": "Para evitar el solecismo, se debe mantener la coherencia en la unión de preposiciones y nexos, por lo que 'del que' es la forma correcta en este contexto."
+  },
+  {
+    "question": "¿Qué vicio del lenguaje se ejemplifica con \"calcetines para caballeros de lana\", donde la construcción genera una interpretación ambigua sobre si los caballeros son de lana?",
+    "options": [
+      {"text": "Anfibología", "correct": true},
+      {"text": "Pleonasmo", "correct": false},
+      {"text": "Solecismo", "correct": false},
+      {"text": "Barbarismo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "La frase tiene una doble o confusa interpretación.",
+    "explanation": "Es una anfibología porque la frase puede interpretarse de dos maneras: que los calcetines son de lana o que los caballeros son de lana."
+  },
+  {
+    "question": "La expresión \"el tiempo es tirano\" es un ejemplo de una figura retórica. ¿Qué figura retórica se atribuye a esta frase?",
+    "options": [
+      {"text": "Personificación", "correct": true},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Implica dar cualidades humanas a algo no humano.",
+    "explanation": "Es una personificación porque se le atribuye al tiempo (un concepto abstracto) una cualidad humana (ser tirano)."
+  },
+  {
+    "question": "Si una oración utiliza la palabra 'como' para comparar dos elementos, como en \"corrió tan rápido como un rayo\", ¿qué figura retórica se presenta?",
+    "options": [
+      {"text": "Símil", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "La presencia de conectores como 'como' es clave.",
+    "explanation": "El símil es una comparación explícita entre dos elementos, utilizando conectores como 'como', 'parece', 'semejante a'."
+  },
+  {
+    "question": "Cuando una frase exagera una realidad, como \"Tengo tanta hambre que me comería un elefante\", ¿qué figura retórica se está utilizando?",
+    "options": [
+      {"text": "Hipérbole", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es una exageración desproporcionada.",
+    "explanation": "La hipérbole es una figura retórica que consiste en una exageración desproporcionada de la realidad para enfatizar una idea."
+  },
+  {
+    "question": "La frase \"sus cabellos de oro brillaban\" es un ejemplo de __________ porque no utiliza un conector comparativo explícito, mientras que \"sus ojos eran como dos luceros\" es un ejemplo de __________ por la presencia de 'como'.",
+    "options": [
+      {"text": "metáfora, símil", "correct": true},
+      {"text": "símil, metáfora", "correct": false},
+      {"text": "hipérbole, personificación", "correct": false},
+      {"text": "personificación, hipérbole", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Presta atención a la forma de la comparación.",
+    "explanation": "'Sus cabellos de oro brillaban' es una metáfora por la comparación implícita, mientras que 'sus ojos eran como dos luceros' es un símil debido al uso de 'como'."
+  },
+  {
+    "question": "¿Qué vicio del lenguaje se comete en la expresión \"Servidor público\", si todos los servidores de gobierno son inherentemente públicos?",
+    "options": [
+      {"text": "Pleonasmo", "correct": true},
+      {"text": "Anfibología", "correct": false},
+      {"text": "Barbarismo", "correct": false},
+      {"text": "Pobreza léxica", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "La palabra 'público' resulta redundante.",
+    "explanation": "'Servidor público' es un pleonasmo porque 'público' es una palabra innecesaria, ya que un servidor de gobierno se entiende que es para el público."
+  },
+  {
+    "question": "Cuando en un listado de elementos se mezclan el género femenino y masculino, y una característica o verbo los afecta, ¿en qué género y número debe estar dicho verbo o característica para incluir a ambos?",
+    "options": [
+      {"text": "Masculino plural", "correct": true},
+      {"text": "Femenino plural", "correct": false},
+      {"text": "Masculino singular", "correct": false},
+      {"text": "Femenino singular", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es una regla de concordancia gramatical.",
+    "explanation": "Según la regla de concordancia, si se mezclan géneros en un listado, el masculino en plural incluye al femenino, por lo que el verbo o característica debe estar en masculino plural."
+  },
+  {
+    "question": "La frase \"jirafas y perros viejas\" presenta un solecismo. ¿Cuál es la forma correcta de concordancia en esta expresión?",
+    "options": [
+      {"text": "Jirafas y perros viejos", "correct": true},
+      {"text": "Jirafa y perro viejos", "correct": false},
+      {"text": "Jirafas y perros viejas", "correct": false},
+      {"text": "Jirafas y perro viejo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Aplica la regla de concordancia para sustantivos de diferente género.",
+    "explanation": "Debido a que 'jirafas' es femenino y 'perros' es masculino, el adjetivo que los acompaña debe ir en masculino plural: 'viejos'."
+  },
+  {
+    "question": "La expresión \"Se lo agradezco un montón\" no es propiamente bien aplicada. ¿Cuál es la alternativa correcta sugerida para esta frase?",
+    "options": [
+      {"text": "Se lo agradezco mucho", "correct": true},
+      {"text": "Lo agradezco un montón", "correct": false},
+      {"text": "Te lo agradezco mucho", "correct": false},
+      {"text": "Se lo agradezco bastante", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Considera un adverbio de cantidad más adecuado.",
+    "explanation": "La expresión 'un montón' es una proposición adverbial que, aunque existe, no es la más apropiada; 'se lo agradezco mucho' es la forma correcta y más precisa."
+  },
+  {
+    "question": "Un __________ es el empleo de palabras innecesarias que redundan en el significado de la frase, a diferencia de la __________ que es una doble interpretación de una expresión, o el __________ que es una palabra mal escrita.",
+    "options": [
+      {"text": "pleonasmo, anfibología, barbarismo", "correct": true},
+      {"text": "barbarismo, solecismo, pleonasmo", "correct": false},
+      {"text": "anfibología, cacofonía, pobreza léxica", "correct": false},
+      {"text": "queísmo, dequeísmo, solecismo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Cada término tiene una definición precisa relacionada con la redundancia, la ambigüedad o el error ortográfico.",
+    "explanation": "El pleonasmo es la redundancia, la anfibología es la doble interpretación y el barbarismo es una palabra mal escrita."
+  },
+  {
+    "question": "La \"cacerola\" y la \"cacofonía\" son ejemplos de palabras que pueden generar un vicio del lenguaje. ¿Cuál es el vicio del lenguaje asociado con la repetición de sonidos que hacen una expresión difícil de pronunciar?",
+    "options": [
+      {"text": "Cacofonía", "correct": true},
+      {"text": "Barbarismo", "correct": false},
+      {"text": "Pleonasmo", "correct": false},
+      {"text": "Anfibología", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Piensa en el efecto del sonido en la pronunciación.",
+    "explanation": "La cacofonía es la repetición molesta y desagradable de sonidos similares dentro de una frase o verso, haciendo la pronunciación incómoda."
+  },
+  {
+    "question": "La frase \"Se busca empleado para restaurante con experiencia\" contiene un vicio del lenguaje. ¿Por qué se clasifica como anfibología?",
+    "options": [
+      {"text": "Por la ambigüedad sobre quién tiene la experiencia", "correct": true},
+      {"text": "Por la repetición de palabras innecesarias en el mensaje", "correct": false},
+      {"text": "Por un error gramatical en la conjugación del verbo 'buscar'", "correct": false},
+      {"text": "Por la mala escritura de alguna palabra", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "La pregunta clave es ¿quién posee la característica?",
+    "explanation": "Es una anfibología porque la frase es ambigua y no deja claro si quien tiene la experiencia es el empleado o el restaurante."
+  },
+  {
+    "question": "Los vicios del lenguaje se denominan así porque a menudo se utilizan de forma tan común que ni se detectan los errores. ¿Qué implica esto sobre su identificación?",
+    "options": [
+      {"text": "Son difíciles de detectar sin un análisis consciente", "correct": true},
+      {"text": "Son fáciles de identificar en el habla cotidiana", "correct": false},
+      {"text": "Siempre requieren una corrección inmediata por parte de terceros", "correct": false},
+      {"text": "No son considerados errores graves en la comunicación formal", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "La naturaleza 'viciosa' implica falta de control.",
+    "explanation": "Los vicios del lenguaje son difíciles de detectar porque se aprenden y usan comúnmente, lo que significa que a menudo no somos conscientes de que estamos cometiendo un error."
+  },
+  {
+    "question": "Si una persona escribe \"¿qué haces?\" con 'Q' en lugar de 'Q u e', ¿qué vicio del lenguaje está cometiendo?",
+    "options": [
+      {"text": "Barbarismo", "correct": true},
+      {"text": "Solecismo", "correct": false},
+      {"text": "Cacofonía", "correct": false},
+      {"text": "Pobreza léxica", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Implica una falta de ortografía recurrente.",
+    "explanation": "Escribir '¿qué haces?' con 'Q' es un barbarismo, ya que es una falta de ortografía constante y recurrente que se vuelve un vicio."
+  },
+  {
+    "question": "Un \"neologismo\" se diferencia de los vicios del lenguaje porque es una palabra nueva en un idioma. ¿Qué implicación tiene esta distinción?",
+    "options": [
+      {"text": "El neologismo es un desarrollo natural y no un error", "correct": true},
+      {"text": "El neologismo es un error que debe evitarse siempre", "correct": false},
+      {"text": "El neologismo siempre se convierte en un barbarismo", "correct": false},
+      {"text": "El neologismo es un tipo de solecismo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Considera la naturaleza de la evolución del idioma.",
+    "explanation": "Los neologismos son palabras nuevas que se incorporan al idioma de manera natural y no se consideran vicios, a diferencia de los errores gramaticales."
+  },
+  {
+    "question": "¿Qué vicio del lenguaje consiste en emplear palabras de forma incorrecta, ya sea por su grafía, pronunciación o significado, incluyendo el uso de extranjerismos innecesarios?",
+    "options": [
+      {"text": "Barbarismo", "correct": true},
+      {"text": "Solecismo", "correct": false},
+      {"text": "Anfibología", "correct": false},
+      {"text": "Cacofonía", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Se refiere a palabras mal empleadas o de origen foráneo.",
+    "explanation": "El barbarismo abarca el uso de palabras incorrectas en su forma, pronunciación, significado o la inclusión innecesaria de extranjerismos."
+  },
+  {
+    "question": "La expresión \"descargar la carga\" es un ejemplo de __________ porque repite una idea, mientras que \"regalo gratis\" también es un ejemplo de este mismo vicio.",
+    "options": [
+      {"text": "pleonasmo", "correct": true},
+      {"text": "anfibología", "correct": false},
+      {"text": "barbarismo", "correct": false},
+      {"text": "solecismo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Busca la redundancia en el significado.",
+    "explanation": "Ambas frases son pleonasmos porque contienen palabras innecesarias que reiteran una idea ya expresada en la misma frase."
+  },
+  {
+    "question": "¿Cuál de las siguientes oraciones presenta un caso de cacofonía?",
+    "options": [
+      {"text": "En la foto parece que aparece un fantasma", "correct": true},
+      {"text": "Subió para arriba", "correct": false},
+      {"text": "Lo vi con mis propios ojos", "correct": false},
+      {"text": "Pienso de que es buena idea", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Identifica la repetición de sonidos.",
+    "explanation": "La frase 'En la foto parece que aparece un fantasma' presenta cacofonía por la repetición del sonido 'parece' y 'aparece', lo que la hace sonar desagradable."
+  },
+  {
+    "question": "Si alguien dice \"No cabe duda que es un gran escritor\" y se le corrige a \"No cabe duda de que es un gran escritor\", ¿qué vicio del lenguaje se corrigió?",
+    "options": [
+      {"text": "Queísmo", "correct": true},
+      {"text": "Dequeísmo", "correct": false},
+      {"text": "Solecismo", "correct": false},
+      {"text": "Barbarismo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Se relaciona con la omisión de una preposición.",
+    "explanation": "Se corrigió un queísmo, ya que se añadió la preposición 'de' que estaba indebidamente suprimida antes de 'que'."
+  },
+  {
+    "question": "¿Qué vicio del lenguaje se produce cuando una frase, como \"para parar pasa por aquí\", repite sonidos de forma consecutiva, dificultando la fluidez?",
+    "options": [
+      {"text": "Cacofonía", "correct": true},
+      {"text": "Pobreza léxica", "correct": false},
+      {"text": "Anfibología", "correct": false},
+      {"text": "Pleonasmo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "El problema radica en la sonoridad de la expresión.",
+    "explanation": "Es una cacofonía por la repetición del sonido 'pa' y 'para', lo que hace la frase menos fluida y armoniosa."
+  },
+  {
+    "question": "Relaciona correctamente los vicios del lenguaje con su definición: A) Pobreza léxica, B) Barbarismo, C) Cacofonía; I) Uso de palabras mal escritas o inexistentes, II) Repetición molesta de sonidos, III) Vocabulario limitado y repetitivo.",
+    "options": [
+      {"text": "A-III; B-I; C-II", "correct": true},
+      {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-II; B-III; C-I", "correct": false},
+      {"text": "A-III; B-II; C-I", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Asocia cada vicio con su característica principal.",
+    "explanation": "La pobreza léxica es vocabulario limitado (III); el barbarismo es el uso de palabras mal escritas (I); y la cacofonía es la repetición de sonidos (II)."
+  },
+  {
+    "question": "¿Cuál de las siguientes afirmaciones sobre los vicios del lenguaje es correcta?",
+    "options": [
+      {"text": "Son estructuras gramaticales que no cumplen las reglas y son difíciles de detectar", "correct": true},
+      {"text": "Son figuras retóricas utilizadas intencionalmente para embellecer el texto", "correct": false},
+      {"text": "Son errores gramaticales que siempre son obvios para cualquier hablante", "correct": false},
+      {"text": "Son exclusivos del lenguaje escrito", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Recuerda la definición de los vicios del lenguaje.",
+    "explanation": "Los vicios del lenguaje son estructuras gramaticales que no cumplen las reglas y son difíciles de detectar porque a menudo se usan tan comúnmente que la gente no se da cuenta de que son errores."
+  },
+  {
+    "question": "El nivel de lenguaje esperado de los estudiantes preuniversitarios y universitarios es el _______________, que es el lenguaje _______________ en su área.",
+    "options": [
+      {"text": "culto, técnico", "correct": true},
+      {"text": "coloquial, formal", "correct": false},
+      {"text": "informal, especializado", "correct": false},
+      {"text": "vulgar, culto", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Se refiere al nivel más elevado y preciso del idioma.",
+    "explanation": "Se espera que los estudiantes alcancen el lenguaje culto, que se refiere al uso técnico y apropiado del idioma en su área de conocimiento."
+  },
+  {
+    "question": "Una \"figura retórica\" es una herramienta lingüística que se utiliza para _______________ o _______________ el texto.",
+    "options": [
+      {"text": "maximizar o embellecer", "correct": true},
+      {"text": "simplificar o resumir", "correct": false},
+      {"text": "confundir o complicar", "correct": false},
+      {"text": "reiterar o corregir", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Su función es artística o expresiva.",
+    "explanation": "Las figuras retóricas son herramientas lingüísticas utilizadas para maximizar o embellecer el texto, dándole una función poética al lenguaje."
+  },
+  {
+    "question": "Identifica la metáfora en la siguiente lista de frases:",
+    "options": [
+      {"text": "Sus ojos eran dos luceros", "correct": true},
+      {"text": "Corría tan rápido como un rayo", "correct": false},
+      {"text": "Tengo tanta hambre que me comería un elefante", "correct": false},
+      {"text": "El sol sonreía a la mañana", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Busca una comparación implícita, sin conectores.",
+    "explanation": "'Sus ojos eran dos luceros' es una metáfora porque se establece una comparación indirecta sin el uso de nexos comparativos explícitos."
+  },
+  {
+    "question": "¿Cuál de las siguientes frases presenta una personificación?",
+    "options": [
+      {"text": "La luna se asomaba tímidamente entre las nubes", "correct": true},
+      {"text": "Lloré ríos de lágrimas", "correct": false},
+      {"text": "Era tan alto como un gigante", "correct": false},
+      {"text": "Sus cabellos de oro brillaban", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Piensa en acciones humanas atribuidas a algo no humano.",
+    "explanation": "La frase 'La luna se asomaba tímidamente entre las nubes' es una personificación, ya que 'asomarse tímidamente' es una acción propia de seres humanos."
+  },
+  {
+    "question": "En la frase \"Lloré ríos de lágrimas\", ¿qué figura retórica se utiliza para enfatizar la cantidad de llanto?",
+    "options": [
+      {"text": "Hipérbole", "correct": true},
+      {"text": "Símil", "correct": false},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es una exageración para expresar una emoción intensa.",
+    "explanation": "Es una hipérbole, ya que 'lloré ríos de lágrimas' es una exageración desproporcionada para expresar la intensidad del llanto."
+  },
+  {
+    "question": "La figura retórica que se reconoce por la ausencia de nexos comparativos como 'como' o 'parece' es la __________.",
+    "options": [
+      {"text": "metáfora", "correct": true},
+      {"text": "símil", "correct": false},
+      {"text": "hipérbole", "correct": false},
+      {"text": "personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Se refiere a una comparación implícita.",
+    "explanation": "La metáfora es una comparación indirecta que se establece sin la necesidad de nexos comparativos explícitos."
+  },
+  {
+    "question": "Si una oración dice \"Se puso como ogro\" para describir a alguien enojado, ¿qué figura retórica se está utilizando?",
+    "options": [
+      {"text": "Símil", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "La palabra 'como' es la clave.",
+    "explanation": "Es un símil porque utiliza el conector 'como' para establecer una comparación explícita entre la persona y un ogro."
+  },
+  {
+    "question": "La expresión \"me van a salir raíces\" es un ejemplo de __________ porque exagera el tiempo de espera.",
+    "options": [
+      {"text": "hipérbole", "correct": true},
+      {"text": "personificación", "correct": false},
+      {"text": "metáfora", "correct": false},
+      {"text": "símil", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es una frase que magnifica la realidad para dar un efecto dramático.",
+    "explanation": "Es una hipérbole, ya que la frase 'me van a salir raíces' es una exageración para expresar que se ha esperado por un tiempo excesivamente largo."
+  },
+  {
+    "question": "Identifica el barbarismo en la siguiente lista de palabras:",
+    "options": [
+      {"text": "Aiga", "correct": true},
+      {"text": "Monstruo", "correct": false},
+      {"text": "Diabetes", "correct": false},
+      {"text": "Persona", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Busca la palabra que está incorrectamente formada.",
+    "explanation": "'Aiga' es un barbarismo porque la forma correcta del verbo 'haber' en subjuntivo es 'haya'."
+  },
+  {
+    "question": "¿Cuál de las siguientes expresiones ilustra un pleonasmo?",
+    "options": [
+      {"text": "Subir para arriba", "correct": true},
+      {"text": "Ella dijo que iría", "correct": false},
+      {"text": "Él anduvo por el parque", "correct": false},
+      {"text": "Nos vemos luego", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Implica una redundancia obvia.",
+    "explanation": "'Subir para arriba' es un pleonasmo ya que el verbo 'subir' por sí mismo ya indica la dirección hacia arriba."
+  },
+  {
+    "question": "La frase \"Vendo una cuna para niños de madera\" es un ejemplo de __________ porque su construcción permite varias interpretaciones.",
+    "options": [
+      {"text": "anfibología", "correct": true},
+      {"text": "pleonasmo", "correct": false},
+      {"text": "solecismo", "correct": false},
+      {"text": "barbarismo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Piensa en la ambigüedad que puede generar.",
+    "explanation": "Es una anfibología porque no queda claro si la cuna es de madera o si los niños son de madera."
+  },
+  {
+    "question": "El uso constante de \"dijo, dijo, dijo\" en lugar de sinónimos más variados como \"expresó\", \"manifestó\", o \"declaró\" es un claro ejemplo de __________.",
+    "options": [
+      {"text": "pobreza léxica", "correct": true},
+      {"text": "cacofonía", "correct": false},
+      {"text": "solecismo", "correct": false},
+      {"text": "anfibología", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Se relaciona con la falta de diversidad en el vocabulario.",
+    "explanation": "La repetición excesiva del mismo verbo como 'dijo' sin usar sinónimos es un indicativo de pobreza léxica."
+  },
+  {
+    "question": "Relaciona los vicios del lenguaje con su característica: A) Anfibología, B) Pleonasmo, C) Pobreza léxica; I) Empleo de palabras innecesarias, II) Doble interpretación de una expresión, III) Uso constante de las mismas palabras.",
+    "options": [
+      {"text": "A-II; B-I; C-III", "correct": true},
+      {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-III; B-I; C-II", "correct": false},
+      {"text": "A-II; B-III; C-I", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Asocia cada vicio con su efecto en el lenguaje.",
+    "explanation": "La anfibología permite doble interpretación (II); el pleonasmo usa palabras innecesarias (I); y la pobreza léxica es la repetición de palabras (III)."
+  },
+  {
+    "question": "Identifica el solecismo en la siguiente oración:",
+    "options": [
+      {"text": "Quería agradecerte de venir", "correct": true},
+      {"text": "Voy a lavarme las manos", "correct": false},
+      {"text": "Se lo agradezco mucho", "correct": false},
+      {"text": "El libro es interesante", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Presta atención al uso de la preposición.",
+    "explanation": "'Quería agradecerte de venir' es un solecismo; la forma correcta es 'Quería agradecerte por venir'."
+  },
+  {
+    "question": "La frase \"Las y los diputados\" es un solecismo. ¿Cuál es la forma correcta de expresar esta idea sin cometer un error de concordancia?",
+    "options": [
+      {"text": "Las diputadas y los diputados", "correct": true},
+      {"text": "Los diputados y las diputadas", "correct": false},
+      {"text": "Los y las diputados", "correct": false},
+      {"text": "Las diputadas y diputados", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Cada artículo debe ir seguido de su sustantivo correspondiente si se enfatizan ambos géneros.",
+    "explanation": "Para enfatizar ambos géneros, el artículo debe ir inmediatamente con su sustantivo, como en 'Las diputadas y los diputados'."
+  },
+  {
+    "question": "La expresión \"Parece que pasé la res en el pasto\" contiene un vicio del lenguaje debido a la repetición del sonido 'pasé' y 'pasto'. ¿Qué vicio es?",
+    "options": [
+      {"text": "Cacofonía", "correct": true},
+      {"text": "Anfibología", "correct": false},
+      {"text": "Solecismo", "correct": false},
+      {"text": "Pleonasmo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "El problema se relaciona con el sonido repetitivo.",
+    "explanation": "Es una cacofonía por la repetición del sonido 'pas', que hace que la frase suene incómoda y difícil de pronunciar fluidamente."
+  },
+  {
+    "question": "Si una persona pregunta \"¿No manejas este dispositivo?\" y se le corrige para preguntar \"¿Manejas este dispositivo?\", ¿qué tipo de vicio del lenguaje se está evitando?",
+    "options": [
+      {"text": "Solecismo", "correct": true},
+      {"text": "Queísmo", "correct": false},
+      {"text": "Dequeísmo", "correct": false},
+      {"text": "Barbarismo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Las preguntas negativas pueden sugestionar la respuesta.",
+    "explanation": "Evitar preguntas negativas es importante para no caer en un solecismo, ya que pueden sugestionar la respuesta y generar confusión."
+  },
+  {
+    "question": "La expresión \"el uso redundante de adjetivos como frío, hielo\" (refiriéndose a \"hielo frío\") es un ejemplo de __________.",
+    "options": [
+      {"text": "pleonasmo", "correct": true},
+      {"text": "anfibología", "correct": false},
+      {"text": "cacofonía", "correct": false},
+      {"text": "queísmo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Implica la repetición de una cualidad inherente.",
+    "explanation": "Es un pleonasmo porque 'hielo' ya implica que es 'frío', haciendo el adjetivo redundante."
+  },
+  {
+    "question": "Identifica el solecismo en la siguiente frase:",
+    "options": [
+      {"text": "El joven y el señor vinieron a verme y tomó su maletín y se fue", "correct": true},
+      {"text": "Te lo vuelvo a repetir", "correct": false},
+      {"text": "Lo vi con mis propios ojos", "correct": false},
+      {"text": "El libro está sobre la mesa", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Hay un problema de concordancia o referencia ambigua del sujeto en la segunda parte de la oración.",
+    "explanation": "Es un solecismo porque el sujeto de 'tomó su maletín y se fue' es ambiguo; no queda claro si fue el joven o el señor."
+  },
+  {
+    "question": "La frase \"¿ya viniste?\" fue mencionada como un barbarismo. ¿Cuál es el error gramatical que presenta?",
+    "options": [
+      {"text": "La adición de una 's' al final del verbo conjugado", "correct": true},
+      {"text": "La conjugación del verbo en un tiempo incorrecto", "correct": false},
+      {"text": "El uso de un pronombre indebido en la pregunta", "correct": false},
+      {"text": "La omisión de un signo de interrogación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Se relaciona con la forma común de conjugar verbos en pasado.",
+    "explanation": "Es un barbarismo la adición de una 's' al final de la segunda persona del pretérito perfecto simple, la forma correcta es '¿ya viniste?' sin la 's'."
+  },
+  {
+    "question": "¿Qué figura retórica se utiliza en las fábulas, donde animales u objetos realizan acciones humanas?",
+    "options": [
+      {"text": "Personificación", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Implica la atribución de cualidades animadas.",
+    "explanation": "La personificación es una figura retórica que atribuye cualidades o acciones propias de los seres humanos a objetos inanimados, animales o conceptos abstractos."
+  },
+  {
+    "question": "Relaciona las figuras retóricas con su definición: A) Metáfora, B) Símil, C) Hipérbole; I) Exageración desproporcionada, II) Comparación directa con nexos, III) Comparación indirecta sin nexos.",
+    "options": [
+      {"text": "A-III; B-II; C-I", "correct": true},
+      {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-II; B-III; C-I", "correct": false},
+      {"text": "A-III; B-I; C-II", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Presta atención a si la comparación es explícita o implícita y si hay exageración.",
+    "explanation": "La metáfora es una comparación indirecta (III); el símil es una comparación directa con nexos (II); y la hipérbole es una exageración (I)."
+  },
+  {
+    "question": "Identifica la metáfora en la siguiente lista de frases:",
+    "options": [
+      {"text": "Sus ojos eran dos luceros", "correct": true},
+      {"text": "Corría tan rápido como un rayo", "correct": false},
+      {"text": "Tengo tanta hambre que me comería un elefante", "correct": false},
+      {"text": "El sol sonreía a la mañana", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Busca una comparación implícita, sin conectores.",
+    "explanation": "'Sus ojos eran dos luceros' es una metáfora porque se establece una comparación indirecta sin el uso de nexos comparativos explícitos."
+  },
+  {
+    "question": "¿Cuál de las siguientes frases presenta una personificación?",
+    "options": [
+      {"text": "La luna se asomaba tímidamente entre las nubes", "correct": true},
+      {"text": "Lloré ríos de lágrimas", "correct": false},
+      {"text": "Era tan alto como un gigante", "correct": false},
+      {"text": "Sus cabellos de oro brillaban", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Piensa en acciones humanas atribuidas a algo no humano.",
+    "explanation": "La frase 'La luna se asomaba tímidamente entre las nubes' es una personificación, ya que 'asomarse tímidamente' es una acción propia de seres humanos."
+  },
+  {
+    "question": "En la frase \"Lloré ríos de lágrimas\", ¿qué figura retórica se utiliza para enfatizar la cantidad de llanto?",
+    "options": [
+      {"text": "Hipérbole", "correct": true},
+      {"text": "Símil", "correct": false},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es una exageración para expresar una emoción intensa.",
+    "explanation": "Es una hipérbole, ya que 'lloré ríos de lágrimas' es una exageración desproporcionada para expresar la intensidad del llanto."
+  },
+  {
+    "question": "La figura retórica que se reconoce por la ausencia de nexos comparativos como 'como' o 'parece' es la __________.",
+    "options": [
+      {"text": "metáfora", "correct": true},
+      {"text": "símil", "correct": false},
+      {"text": "hipérbole", "correct": false},
+      {"text": "personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Se refiere a una comparación implícita.",
+    "explanation": "La metáfora es una comparación indirecta que se establece sin la necesidad de nexos comparativos explícitos."
+  },
+  {
+    "question": "Si una oración dice \"Se puso como ogro\" para describir a alguien enojado, ¿qué figura retórica se está utilizando?",
+    "options": [
+      {"text": "Símil", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "La palabra 'como' es la clave.",
+    "explanation": "Es un símil porque utiliza el conector 'como' para establecer una comparación explícita entre la persona y un ogro."
+  },
+  {
+    "question": "La expresión \"me van a salir raíces\" es un ejemplo de __________ porque exagera el tiempo de espera.",
+    "options": [
+      {"text": "hipérbole", "correct": true},
+      {"text": "personificación", "correct": false},
+      {"text": "metáfora", "correct": false},
+      {"text": "símil", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es una frase que magnifica la realidad para dar un efecto dramático.",
+    "explanation": "Es una hipérbole, ya que la frase 'me van a salir raíces' es una exageración para expresar que se ha esperado por un tiempo excesivamente largo."
+  },
+  {
+    "question": "Identifica el barbarismo en la siguiente lista de palabras:",
+    "options": [
+      {"text": "Aiga", "correct": true},
+      {"text": "Monstruo", "correct": false},
+      {"text": "Diabetes", "correct": false},
+      {"text": "Persona", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Busca la palabra que está incorrectamente formada.",
+    "explanation": "'Aiga' es un barbarismo porque la forma correcta del verbo 'haber' en subjuntivo es 'haya'."
+  },
+  {
+    "question": "¿Cuál de las siguientes expresiones ilustra un pleonasmo?",
+    "options": [
+      {"text": "Subir para arriba", "correct": true},
+      {"text": "Ella dijo que iría", "correct": false},
+      {"text": "Él anduvo por el parque", "correct": false},
+      {"text": "Nos vemos luego", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Implica una redundancia obvia.",
+    "explanation": "'Subir para arriba' es un pleonasmo ya que el verbo 'subir' por sí mismo ya indica la dirección hacia arriba."
+  },
+  {
+    "question": "La frase \"Vendo una cuna para niños de madera\" es un ejemplo de __________ porque su construcción permite varias interpretaciones.",
+    "options": [
+      {"text": "anfibología", "correct": true},
+      {"text": "pleonasmo", "correct": false},
+      {"text": "solecismo", "correct": false},
+      {"text": "barbarismo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Piensa en la ambigüedad que puede generar.",
+    "explanation": "Es una anfibología porque no queda claro si la cuna es de madera o si los niños son de madera."
+  },
+  {
+    "question": "El uso constante de \"dijo, dijo, dijo\" en lugar de sinónimos más variados como \"expresó\", \"manifestó\", o \"declaró\" es un claro ejemplo de __________.",
+    "options": [
+      {"text": "pobreza léxica", "correct": true},
+      {"text": "cacofonía", "correct": false},
+      {"text": "solecismo", "correct": false},
+      {"text": "anfibología", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Se relaciona con la falta de diversidad en el vocabulario.",
+    "explanation": "La repetición excesiva del mismo verbo como 'dijo' sin usar sinónimos es un indicativo de pobreza léxica."
+  },
+  {
+    "question": "Relaciona los vicios del lenguaje con su característica: A) Anfibología, B) Pleonasmo, C) Pobreza léxica; I) Empleo de palabras innecesarias, II) Doble interpretación de una expresión, III) Uso constante de las mismas palabras.",
+    "options": [
+      {"text": "A-II; B-I; C-III", "correct": true},
+      {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-III; B-I; C-II", "correct": false},
+      {"text": "A-II; B-III; C-I", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Asocia cada vicio con su efecto en el lenguaje.",
+    "explanation": "La anfibología permite doble interpretación (II); el pleonasmo usa palabras innecesarias (I); y la pobreza léxica es la repetición de palabras (III)."
+  },
+  {
+    "question": "Identifica el solecismo en la siguiente oración:",
+    "options": [
+      {"text": "Quería agradecerte de venir", "correct": true},
+      {"text": "Voy a lavarme las manos", "correct": false},
+      {"text": "Se lo agradezco mucho", "correct": false},
+      {"text": "El libro es interesante", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Presta atención al uso de la preposición.",
+    "explanation": "'Quería agradecerte de venir' es un solecismo; la forma correcta es 'Quería agradecerte por venir'."
+  },
+  {
+    "question": "La frase \"Las y los diputados\" es un solecismo. ¿Cuál es la forma correcta de expresar esta idea sin cometer un error de concordancia?",
+    "options": [
+      {"text": "Las diputadas y los diputados", "correct": true},
+      {"text": "Los diputados y las diputadas", "correct": false},
+      {"text": "Los y las diputados", "correct": false},
+      {"text": "Las diputadas y diputados", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Cada artículo debe ir seguido de su sustantivo correspondiente si se enfatizan ambos géneros.",
+    "explanation": "Para enfatizar ambos géneros, el artículo debe ir inmediatamente con su sustantivo, como en 'Las diputadas y los diputados'."
+  },
+  {
+    "question": "La expresión \"Parece que pasé la res en el pasto\" contiene un vicio del lenguaje debido a la repetición del sonido 'pasé' y 'pasto'. ¿Qué vicio es?",
+    "options": [
+      {"text": "Cacofonía", "correct": true},
+      {"text": "Anfibología", "correct": false},
+      {"text": "Solecismo", "correct": false},
+      {"text": "Pleonasmo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "El problema se relaciona con el sonido repetitivo.",
+    "explanation": "Es una cacofonía por la repetición del sonido 'pas', que hace que la frase suene incómoda y difícil de pronunciar fluidamente."
+  },
+  {
+    "question": "Si una persona pregunta \"¿No manejas este dispositivo?\" y se le corrige para preguntar \"¿Manejas este dispositivo?\", ¿qué tipo de vicio del lenguaje se está evitando?",
+    "options": [
+      {"text": "Solecismo", "correct": true},
+      {"text": "Queísmo", "correct": false},
+      {"text": "Dequeísmo", "correct": false},
+      {"text": "Barbarismo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Las preguntas negativas pueden sugestionar la respuesta.",
+    "explanation": "Evitar preguntas negativas es importante para no caer en un solecismo, ya que pueden sugestionar la respuesta y generar confusión."
+  },
+  {
+    "question": "La expresión \"el uso redundante de adjetivos como frío, hielo\" (refiriéndose a \"hielo frío\") es un ejemplo de __________.",
+    "options": [
+      {"text": "pleonasmo", "correct": true},
+      {"text": "anfibología", "correct": false},
+      {"text": "cacofonía", "correct": false},
+      {"text": "queísmo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Implica la repetición de una cualidad inherente.",
+    "explanation": "Es un pleonasmo porque 'hielo' ya implica que es 'frío', haciendo el adjetivo redundante."
+  },
+  {
+    "question": "Identifica el solecismo en la siguiente frase:",
+    "options": [
+      {"text": "El joven y el señor vinieron a verme y tomó su maletín y se fue", "correct": true},
+      {"text": "Te lo vuelvo a repetir", "correct": false},
+      {"text": "Lo vi con mis propios ojos", "correct": false},
+      {"text": "El libro está sobre la mesa", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Hay un problema de concordancia o referencia ambigua del sujeto en la segunda parte de la oración.",
+    "explanation": "Es un solecismo porque el sujeto de 'tomó su maletín y se fue' es ambiguo; no queda claro si fue el joven o el señor."
+  },
+  {
+    "question": "La frase \"¿ya viniste?\" fue mencionada como un barbarismo. ¿Cuál es el error gramatical que presenta?",
+    "options": [
+      {"text": "La adición de una 's' al final del verbo conjugado", "correct": true},
+      {"text": "La conjugación del verbo en un tiempo incorrecto", "correct": false},
+      {"text": "El uso de un pronombre indebido en la pregunta", "correct": false},
+      {"text": "La omisión de un signo de interrogación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Se relaciona con la forma común de conjugar verbos en pasado.",
+    "explanation": "Es un barbarismo la adición de una 's' al final de la segunda persona del pretérito perfecto simple, la forma correcta es '¿ya viniste?' sin la 's'."
+  },
+  {
+    "question": "¿Qué figura retórica se utiliza en las fábulas, donde animales u objetos realizan acciones humanas?",
+    "options": [
+      {"text": "Personificación", "correct": true},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Símil", "correct": false},
+      {"text": "Hipérbole", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Implica la atribución de cualidades animadas.",
+    "explanation": "La personificación es una figura retórica que atribuye cualidades o acciones propias de los seres humanos a objetos inanimados, animales o conceptos abstractos."
+  },
+  {
+    "question": "Relaciona las figuras retóricas con su definición: A) Metáfora, B) Símil, C) Hipérbole; I) Exageración desproporcionada, II) Comparación directa con nexos, III) Comparación indirecta sin nexos.",
+    "options": [
+      {"text": "A-III; B-II; C-I", "correct": true},
+      {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-II; B-III; C-I", "correct": false},
+      {"text": "A-III; B-I; C-II", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Presta atención a si la comparación es explícita o implícita y si hay exageración.",
+    "explanation": "La metáfora es una comparación indirecta (III); el símil es una comparación directa con nexos (II); y la hipérbole es una exageración (I)."
   }
 ]
