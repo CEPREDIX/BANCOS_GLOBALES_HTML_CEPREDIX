@@ -1,5 +1,3 @@
-Analiza el siguiente banco de preguntas en formato JSON y determina si hay ejercicios erróneos:
-
 [
   {
     "question": "¿Qué categoría gramatical desempeña la palabra «este» en la oración: «Este es mi amigo de la infancia»?",
@@ -4067,3 +4065,4 @@ Analiza el siguiente banco de preguntas en formato JSON y determina si hay ejerc
     "explanation": "La metáfora es una comparación indirecta (III); el símil es una comparación directa con nexos (II); y la hipérbole es una exageración (I)."
   }
 ]
+
