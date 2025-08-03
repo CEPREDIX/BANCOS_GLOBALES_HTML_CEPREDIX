@@ -691,5 +691,642 @@
     ],
     "hint": "Secuencia temporal.",
     "explanation": "La etapa prepatogénica tiene factores de riesgo, la subclínica tiene cambios biológicos sin síntomas, y la clínica muestra manifestaciones."
+  },
+  {
+    "question": "¿Cuál es la función principal de los ribosomas en la célula?",
+    "options": [
+      {"text": "Síntesis de proteínas", "correct": true},
+      {"text": "Almacenamiento de energía", "correct": false},
+      {"text": "Transporte de nutrientes", "correct": false},
+      {"text": "Reproducción celular", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Están relacionados con la producción de moléculas esenciales.",
+    "explanation": "Los ribosomas son orgánulos responsables de la síntesis de proteínas, un proceso vital para la célula."
+  },
+  {
+    "question": "¿Qué estructura celular es exclusiva de las células vegetales?",
+    "options": [
+      {"text": "Pared celular", "correct": true},
+      {"text": "Mitocondria", "correct": false},
+      {"text": "Núcleo", "correct": false},
+      {"text": "Retículo endoplásmico", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Proporciona soporte y protección adicional.",
+    "explanation": "La pared celular, compuesta principalmente de celulosa, es una característica distintiva de las células vegetales."
+  },
+  {
+    "question": "¿Qué tipo de tejido conectivo es el más abundante en el cuerpo humano?",
+    "options": [
+      {"text": "Tejido conectivo propiamente dicho", "correct": true},
+      {"text": "Tejido óseo", "correct": false},
+      {"text": "Tejido cartilaginoso", "correct": false},
+      {"text": "Tejido sanguíneo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Se encuentra en casi todos los órganos.",
+    "explanation": "El tejido conectivo propiamente dicho, que incluye el tejido adiposo y el tejido fibroso, es el más abundante en el cuerpo."
+  },
+  {
+    "question": "¿Qué hormona es producida por el páncreas y regula los niveles de glucosa en sangre?",
+    "options": [
+      {"text": "Insulina", "correct": true},
+      {"text": "Adrenalina", "correct": false},
+      {"text": "Tiroxina", "correct": false},
+      {"text": "Estradiol", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Su deficiencia está relacionada con la diabetes.",
+    "explanation": "La insulina es la hormona pancreática que permite la entrada de glucosa a las células, regulando su concentración en la sangre."
+  },
+  {
+    "question": "¿Qué tipo de microorganismo es responsable de la producción de antibióticos como la penicilina?",
+    "options": [
+      {"text": "Hongos", "correct": true},
+      {"text": "Bacterias", "correct": false},
+      {"text": "Virus", "correct": false},
+      {"text": "Protozoos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Son organismos eucariontes.",
+    "explanation": "Los hongos, como el Penicillium, son productores naturales de antibióticos como la penicilina."
+  },
+  {
+    "question": "¿Qué estructura del sistema nervioso transmite impulsos eléctricos desde el cerebro al resto del cuerpo?",
+    "options": [
+      {"text": "Neuronas motoras", "correct": true},
+      {"text": "Neuronas sensoriales", "correct": false},
+      {"text": "Astrocitos", "correct": false},
+      {"text": "Microglía", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Son las encargadas de la acción voluntaria.",
+    "explanation": "Las neuronas motoras transmiten señales desde el sistema nervioso central hasta los músculos y glándulas."
+  },
+  {
+    "question": "¿Qué proceso celular permite la obtención de energía en ausencia de oxígeno?",
+    "options": [
+      {"text": "Fermentación", "correct": true},
+      {"text": "Fotosíntesis", "correct": false},
+      {"text": "Respiración aeróbica", "correct": false},
+      {"text": "Ciclo de Krebs", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Común en células musculares durante el ejercicio intenso.",
+    "explanation": "La fermentación es un proceso anaeróbico que genera ATP sin la presencia de oxígeno."
+  },
+  {
+    "question": "¿Qué tipo de enlace químico mantiene unidos los átomos de hidrógeno y oxígeno en una molécula de agua?",
+    "options": [
+      {"text": "Enlace covalente polar", "correct": true},
+      {"text": "Enlace iónico", "correct": false},
+      {"text": "Enlace de hidrógeno", "correct": false},
+      {"text": "Enlace covalente no polar", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Implica compartir electrones de manera desigual.",
+    "explanation": "El enlace covalente polar en el agua ocurre cuando el oxígeno y el hidrógeno comparten electrones, pero el oxígeno atrae más fuertemente los electrones."
+  },
+  {
+    "question": "¿Qué órgano del sistema digestivo produce la bilis?",
+    "options": [
+      {"text": "Hígado", "correct": true},
+      {"text": "Páncreas", "correct": false},
+      {"text": "Estómago", "correct": false},
+      {"text": "Intestino delgado", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es el órgano más grande dentro del cuerpo humano.",
+    "explanation": "El hígado produce bilis, que se almacena en la vesícula biliar y ayuda en la digestión de las grasas."
+  },
+  {
+    "question": "¿Qué tipo de glóbulos blancos son los principales responsables de la respuesta inmunitaria humoral?",
+    "options": [
+      {"text": "Linfocitos B", "correct": true},
+      {"text": "Neutrófilos", "correct": false},
+      {"text": "Macrófagos", "correct": false},
+      {"text": "Eosinófilos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Producen anticuerpos específicos.",
+    "explanation": "Los linfocitos B son células del sistema inmunitario que producen anticuerpos para neutralizar patógenos."
+  },
+  {
+    "question": "¿Qué estructura del corazón evita el reflujo de sangre de los ventrículos a las aurículas?",
+    "options": [
+      {"text": "Válvulas auriculoventriculares", "correct": true},
+      {"text": "Válvulas semilunares", "correct": false},
+      {"text": "Tabique interventricular", "correct": false},
+      {"text": "Nódulo sinoauricular", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Se encuentran entre las cámaras superiores e inferiores del corazón.",
+    "explanation": "Las válvulas auriculoventriculares (tricúspide y mitral) impiden que la sangre retroceda hacia las aurículas durante la contracción ventricular."
+  },
+  {
+    "question": "¿Qué vitamina es sintetizada por la piel en presencia de luz solar?",
+    "options": [
+      {"text": "Vitamina D", "correct": true},
+      {"text": "Vitamina C", "correct": false},
+      {"text": "Vitamina K", "correct": false},
+      {"text": "Vitamina B12", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Esencial para la absorción de calcio.",
+    "explanation": "La vitamina D se produce en la piel cuando los rayos UVB del sol interactúan con el 7-dehidrocolesterol."
+  },
+  {
+    "question": "¿Qué tipo de ARN transporta aminoácidos a los ribosomas durante la síntesis de proteínas?",
+    "options": [
+      {"text": "ARN de transferencia (ARNt)", "correct": true},
+      {"text": "ARN mensajero (ARNm)", "correct": false},
+      {"text": "ARN ribosómico (ARNr)", "correct": false},
+      {"text": "ARN pequeño nuclear (ARNsn)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Tiene una estructura en forma de trébol.",
+    "explanation": "El ARNt lleva aminoácidos específicos al ribosoma, donde se ensamblan en una cadena polipeptídica según el código del ARNm."
+  },
+  {
+    "question": "¿Qué enfermedad es causada por la deficiencia de hierro en el organismo?",
+    "options": [
+      {"text": "Anemia ferropénica", "correct": true},
+      {"text": "Escorbuto", "correct": false},
+      {"text": "Raquitismo", "correct": false},
+      {"text": "Bocio", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Afecta la producción de hemoglobina.",
+    "explanation": "La anemia ferropénica ocurre cuando hay insuficiente hierro para producir hemoglobina, reduciendo la capacidad de transporte de oxígeno en la sangre."
+  },
+  {
+    "question": "¿Qué estructura del ojo es responsable de enfocar la luz en la retina?",
+    "options": [
+      {"text": "Cristalino", "correct": true},
+      {"text": "Córnea", "correct": false},
+      {"text": "Iris", "correct": false},
+      {"text": "Pupila", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Cambia de forma para ajustar el enfoque.",
+    "explanation": "El cristalino es una lente biconvexa que ajusta su curvatura para enfocar la luz en la retina, permitiendo la visión nítida a diferentes distancias."
+  },
+  {
+    "question": "¿Qué proceso permite el intercambio de gases entre la sangre y los tejidos corporales?",
+    "options": [
+      {"text": "Difusión", "correct": true},
+      {"text": "Osmosis", "correct": false},
+      {"text": "Transporte activo", "correct": false},
+      {"text": "Filtración", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Ocurre a favor de un gradiente de concentración.",
+    "explanation": "La difusión es el movimiento de moléculas (como oxígeno y dióxido de carbono) desde áreas de alta concentración a áreas de baja concentración, sin gasto de energía."
+  },
+  {
+    "question": "¿Qué hormona es secretada por la glándula tiroides y regula el metabolismo basal?",
+    "options": [
+      {"text": "Tiroxina (T4)", "correct": true},
+      {"text": "Insulina", "correct": false},
+      {"text": "Adrenalina", "correct": false},
+      {"text": "Cortisol", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Contiene yodo en su estructura.",
+    "explanation": "La tiroxina es una hormona tiroidea que aumenta la tasa metabólica basal y afecta el crecimiento y desarrollo."
+  },
+  {
+    "question": "¿Qué tipo de músculo se encuentra en las paredes del corazón?",
+    "options": [
+      {"text": "Músculo cardíaco", "correct": true},
+      {"text": "Músculo esquelético", "correct": false},
+      {"text": "Músculo liso", "correct": false},
+      {"text": "Músculo estriado", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es involuntario y tiene discos intercalados.",
+    "explanation": "El músculo cardíaco es un tipo de músculo estriado involuntario exclusivo del corazón, con características únicas como los discos intercalados."
+  },
+  {
+    "question": "¿Qué estructura del sistema respiratorio contiene las cuerdas vocales?",
+    "options": [
+      {"text": "Laringe", "correct": true},
+      {"text": "Tráquea", "correct": false},
+      {"text": "Faringe", "correct": false},
+      {"text": "Bronquios", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Conocida como la \"caja de la voz\".",
+    "explanation": "La laringe alberga las cuerdas vocales, que vibran para producir sonidos cuando el aire pasa a través de ellas."
+  },
+  {
+    "question": "¿Qué tipo de célula sanguínea es responsable de la coagulación?",
+    "options": [
+      {"text": "Plaquetas", "correct": true},
+      {"text": "Eritrocitos", "correct": false},
+      {"text": "Leucocitos", "correct": false},
+      {"text": "Linfocitos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Son fragmentos celulares sin núcleo.",
+    "explanation": "Las plaquetas, o trombocitos, son esenciales para la formación de coágulos y la prevención de hemorragias."
+  },
+  {
+    "question": "¿Qué enzima digestiva descompone las proteínas en el estómago?",
+    "options": [
+      {"text": "Pepsina", "correct": true},
+      {"text": "Amilasa", "correct": false},
+      {"text": "Lipasa", "correct": false},
+      {"text": "Tripsina", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Actúa en un ambiente ácido.",
+    "explanation": "La pepsina, secretada en su forma inactiva (pepsinógeno) por las células gástricas, descompone las proteínas en péptidos más pequeños en el estómago."
+  },
+  {
+    "question": "¿Qué parte del encéfalo controla la temperatura corporal y el hambre?",
+    "options": [
+      {"text": "Hipotálamo", "correct": true},
+      {"text": "Cerebelo", "correct": false},
+      {"text": "Tálamo", "correct": false},
+      {"text": "Bulbo raquídeo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Regula funciones homeostáticas.",
+    "explanation": "El hipotálamo es una pequeña región del encéfalo que regula funciones vitales como la temperatura corporal, el hambre, la sed y el sueño."
+  },
+  {
+    "question": "¿Qué tipo de glándula libera sus secreciones directamente al torrente sanguíneo?",
+    "options": [
+      {"text": "Glándula endócrina", "correct": true},
+      {"text": "Glándula exócrina", "correct": false},
+      {"text": "Glándula mixta", "correct": false},
+      {"text": "Glándula sudorípara", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Sus hormonas viajan por la sangre.",
+    "explanation": "Las glándulas endócrinas, como la tiroides o la hipófisis, secretan hormonas directamente en la sangre para actuar en células diana distantes."
+  },
+  {
+    "question": "¿Qué estructura renal es responsable de la filtración de la sangre?",
+    "options": [
+      {"text": "Glomérulo", "correct": true},
+      {"text": "Túbulo contorneado proximal", "correct": false},
+      {"text": "Asa de Henle", "correct": false},
+      {"text": "Túbulo colector", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Parte del corpúsculo renal.",
+    "explanation": "El glomérulo es una red de capilares en el corpúsculo renal donde ocurre la filtración de la sangre para formar la orina primaria."
+  },
+  {
+    "question": "¿Qué tipo de inmunidad se adquiere mediante la vacunación?",
+    "options": [
+      {"text": "Inmunidad adquirida activa", "correct": true},
+      {"text": "Inmunidad innata", "correct": false},
+      {"text": "Inmunidad pasiva", "correct": false},
+      {"text": "Inmunidad humoral", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Implica la producción de memoria inmunológica.",
+    "explanation": "La vacunación induce inmunidad adquirida activa, donde el cuerpo produce sus propios anticuerpos y células de memoria contra un patógeno específico."
+  },
+  {
+    "question": "¿Qué estructura del sistema reproductor masculino produce testosterona?",
+    "options": [
+      {"text": "Células de Leydig", "correct": true},
+      {"text": "Túbulos seminíferos", "correct": false},
+      {"text": "Epidídimo", "correct": false},
+      {"text": "Próstata", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Se encuentran en los testículos.",
+    "explanation": "Las células de Leydig, localizadas en los testículos, son responsables de la producción de testosterona, la hormona sexual masculina principal."
+  },
+  {
+    "question": "¿Qué vitamina es esencial para la síntesis normal de factores de coagulación en el hígado?",
+    "options": [
+      {"text": "Vitamina K", "correct": true},
+      {"text": "Vitamina A", "correct": false},
+      {"text": "Vitamina E", "correct": false},
+      {"text": "Vitamina C", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Su nombre proviene de la palabra alemana \"Koagulation\".",
+    "explanation": "La vitamina K es necesaria para la activación de varios factores de coagulación, como la protrombina, en el hígado."
+  },
+  {
+    "question": "¿Qué tipo de articulación permite el mayor rango de movimiento?",
+    "options": [
+      {"text": "Articulación sinovial", "correct": true},
+      {"text": "Articulación fibrosa", "correct": false},
+      {"text": "Articulación cartilaginosa", "correct": false},
+      {"text": "Sutura", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Incluye la rodilla y el hombro.",
+    "explanation": "Las articulaciones sinoviales, como las de la cadera o el codo, permiten movimientos amplios gracias a la presencia de líquido sinovial y cartílago articular."
+  },
+  {
+    "question": "¿Qué estructura del oído es responsable de transformar las vibraciones sonoras en impulsos nerviosos?",
+    "options": [
+      {"text": "Cóclea", "correct": true},
+      {"text": "Tímpano", "correct": false},
+      {"text": "Martillo", "correct": false},
+      {"text": "Canales semicirculares", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Contiene las células ciliadas.",
+    "explanation": "La cóclea, parte del oído interno, alberga el órgano de Corti, donde las células ciliadas convierten las vibraciones mecánicas en señales nerviosas."
+  },
+  {
+    "question": "¿Qué tipo de tejido epitelial forma el revestimiento interno de los vasos sanguíneos?",
+    "options": [
+      {"text": "Endotelio", "correct": true},
+      {"text": "Mesotelio", "correct": false},
+      {"text": "Epidermis", "correct": false},
+      {"text": "Epitelio glandular", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es una capa simple de células planas.",
+    "explanation": "El endotelio es un tejido epitelial escamoso simple que recubre el interior de los vasos sanguíneos y linfáticos, facilitando el flujo de la sangre."
+  },
+  {
+    "question": "¿Qué estructura del sistema nervioso central produce el líquido cefalorraquídeo?",
+    "options": [
+      {"text": "Plexos coroideos", "correct": true},
+      {"text": "Médula espinal", "correct": false},
+      {"text": "Cerebelo", "correct": false},
+      {"text": "Hipotálamo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Se encuentran en los ventrículos cerebrales.",
+    "explanation": "Los plexos coroideos, ubicados en los ventrículos del cerebro, producen el líquido cefalorraquídeo que protege y nutre al sistema nervioso central."
+  },
+  {
+    "question": "¿Qué tipo de glándula sudorípara está asociada con la regulación de la temperatura corporal?",
+    "options": [
+      {"text": "Glándulas ecrinas", "correct": true},
+      {"text": "Glándulas apocrinas", "correct": false},
+      {"text": "Glándulas sebáceas", "correct": false},
+      {"text": "Glándulas mamarias", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Distribuidas por casi toda la superficie corporal.",
+    "explanation": "Las glándulas ecrinas producen sudor acuoso que se evapora para enfriar el cuerpo, siendo clave en la termorregulación."
+  },
+  {
+    "question": "¿Qué tipo de hueso es el fémur?",
+    "options": [
+      {"text": "Hueso largo", "correct": true},
+      {"text": "Hueso corto", "correct": false},
+      {"text": "Hueso plano", "correct": false},
+      {"text": "Hueso irregular", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Presenta diáfisis y epífisis.",
+    "explanation": "El fémur, ubicado en el muslo, es el hueso más largo del cuerpo y un ejemplo clásico de hueso largo, con una diáfisis cilíndrica y epífisis ensanchadas."
+  },
+  {
+    "question": "¿Qué tipo de neurona transmite información desde los órganos sensoriales al sistema nervioso central?",
+    "options": [
+      {"text": "Neurona sensitiva (aferente)", "correct": true},
+      {"text": "Neurona motora (eferente)", "correct": false},
+      {"text": "Interneurona", "correct": false},
+      {"text": "Neurona bipolar", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Lleva señales hacia el cerebro o médula espinal.",
+    "explanation": "Las neuronas sensitivas o aferentes conducen impulsos nerviosos desde los receptores sensoriales hacia el sistema nervioso central para su procesamiento."
+  },
+  {
+    "question": "¿Qué estructura del sistema linfático filtra la linfa y alberga linfocitos?",
+    "options": [
+      {"text": "Ganglio linfático", "correct": true},
+      {"text": "Bazo", "correct": false},
+      {"text": "Timo", "correct": false},
+      {"text": "Amígdala", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Pueden inflamarse durante infecciones.",
+    "explanation": "Los ganglios linfáticos son estructuras pequeñas que filtran la linfa, atrapan patógenos y permiten la activación de linfocitos para la respuesta inmunitaria."
+  },
+  {
+    "question": "¿Qué tipo de glándula salival es la más grande?",
+    "options": [
+      {"text": "Glándula parótida", "correct": true},
+      {"text": "Glándula sublingual", "correct": false},
+      {"text": "Glándula submandibular", "correct": false},
+      {"text": "Glándula bucal", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Se encuentra cerca de los oídos.",
+    "explanation": "La glándula parótida, ubicada delante de las orejas, es la mayor de las glándulas salivales y secreta saliva rica en amilasa."
+  },
+  {
+    "question": "¿Qué tipo de tejido conectivo forma los tendones?",
+    "options": [
+      {"text": "Tejido conectivo denso regular", "correct": true},
+      {"text": "Tejido conectivo denso irregular", "correct": false},
+      {"text": "Tejido conectivo laxo", "correct": false},
+      {"text": "Tejido adiposo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Sus fibras están alineadas en paralelo.",
+    "explanation": "Los tendones están compuestos de tejido conectivo denso regular, con fibras de colágeno alineadas para resistir fuerzas de tracción unidireccionales."
+  },
+  {
+    "question": "¿Qué estructura del sistema digestivo absorbe la mayor cantidad de nutrientes?",
+    "options": [
+      {"text": "Yeyuno e íleon", "correct": true},
+      {"text": "Duodeno", "correct": false},
+      {"text": "Estómago", "correct": false},
+      {"text": "Colon", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Partes del intestino delgado con vellosidades.",
+    "explanation": "El yeyuno y el íleon, partes del intestino delgado, tienen vellosidades y microvellosidades que maximizan la superficie de absorción de nutrientes."
+  },
+  {
+    "question": "¿Qué tipo de célula ósea es responsable de la resorción del hueso?",
+    "options": [
+      {"text": "Osteoclastos", "correct": true},
+      {"text": "Osteoblastos", "correct": false},
+      {"text": "Osteocitos", "correct": false},
+      {"text": "Células osteoprogenitoras", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Derivan de los monocitos.",
+    "explanation": "Los osteoclastos son células multinucleadas que degradan el tejido óseo durante el remodelado óseo, liberando calcio y fosfato al torrente sanguíneo."
+  },
+  {
+    "question": "¿Qué tipo de vaso sanguíneo tiene paredes más delgadas para permitir el intercambio de gases?",
+    "options": [
+      {"text": "Capilares", "correct": true},
+      {"text": "Arterias", "correct": false},
+      {"text": "Venas", "correct": false},
+      {"text": "Arteriolas", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Conectan arteriolas y vénulas.",
+    "explanation": "Los capilares son vasos microscópicos con paredes de una sola capa de células endoteliales, facilitando el intercambio de gases, nutrientes y desechos entre la sangre y los tejidos."
+  },
+  {
+    "question": "¿Qué estructura del sistema reproductor femenino es el sitio de implantación del embrión?",
+    "options": [
+      {"text": "Endometrio", "correct": true},
+      {"text": "Cuello uterino", "correct": false},
+      {"text": "Trompa de Falopio", "correct": false},
+      {"text": "Vagina", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Se engrosa durante el ciclo menstrual.",
+    "explanation": "El endometrio es el revestimiento interno del útero que se prepara cada mes para recibir y nutrir al embrión durante la implantación."
+  },
+  {
+    "question": "¿Qué tipo de glándula libera sebo para lubricar la piel y el pelo?",
+    "options": [
+      {"text": "Glándula sebácea", "correct": true},
+      {"text": "Glándula sudorípara", "correct": false},
+      {"text": "Glándula mamaria", "correct": false},
+      {"text": "Glándula salival", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Asociada a los folículos pilosos.",
+    "explanation": "Las glándulas sebáceas secretan sebo, una sustancia oleosa que lubrica la piel y el cabello, previniendo su desecación."
+  },
+  {
+    "question": "¿Qué tipo de articulación se encuentra entre los huesos del cráneo?",
+    "options": [
+      {"text": "Sinartrosis", "correct": true},
+      {"text": "Anfiartrosis", "correct": false},
+      {"text": "Diartrosis", "correct": false},
+      {"text": "Sínfisis", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Son articulaciones inmóviles.",
+    "explanation": "Las sinartrosis son articulaciones fibrosas fijas, como las suturas del cráneo, que proporcionan protección al cerebro sin permitir movimiento."
+  },
+  {
+    "question": "¿Qué tipo de célula del sistema nervioso proporciona soporte y nutrientes a las neuronas?",
+    "options": [
+      {"text": "Neuroglía", "correct": true},
+      {"text": "Neuronas", "correct": false},
+      {"text": "Células de Schwann", "correct": false},
+      {"text": "Células ganglionares", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Incluye astrocitos y oligodendrocitos.",
+    "explanation": "Las células de la neuroglía, o glía, son células no neuronales que brindan soporte estructural, nutrición y protección a las neuronas en el sistema nervioso."
+  },
+  {
+    "question": "¿Qué estructura del ojo contiene los fotorreceptores (conos y bastones)?",
+    "options": [
+      {"text": "Retina", "correct": true},
+      {"text": "Córnea", "correct": false},
+      {"text": "Iris", "correct": false},
+      {"text": "Esclerótica", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es la capa más interna del globo ocular.",
+    "explanation": "La retina es la capa sensible a la luz del ojo, donde los conos (visión en color) y los bastones (visión en baja luz) convierten los estímulos luminosos en señales nerviosas."
+  },
+  {
+    "question": "¿Qué tipo de glándula libera adrenalina en respuesta al estrés?",
+    "options": [
+      {"text": "Médula suprarrenal", "correct": true},
+      {"text": "Corteza suprarrenal", "correct": false},
+      {"text": "Hipófisis", "correct": false},
+      {"text": "Tiroides", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Parte de la glándula suprarrenal.",
+    "explanation": "La médula suprarrenal, parte interna de las glándulas suprarrenales, secreta adrenalina (epinefrina) y noradrenalina en situaciones de estrés, preparando al cuerpo para la respuesta de \"lucha o huida\"."
+  },
+  {
+    "question": "¿Qué estructura del sistema respiratorio es el sitio de intercambio de gases?",
+    "options": [
+      {"text": "Alvéolos", "correct": true},
+      {"text": "Bronquios", "correct": false},
+      {"text": "Tráquea", "correct": false},
+      {"text": "Laringe", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Pequeños sacos rodeados de capilares.",
+    "explanation": "Los alvéolos pulmonares son pequeños sacos donde ocurre el intercambio de oxígeno y dióxido de carbono entre el aire y la sangre a través de la membrana alveolocapilar."
+  },
+  {
+    "question": "¿Qué tipo de inmunoglobulina es la más abundante en la sangre?",
+    "options": [
+      {"text": "IgG", "correct": true},
+      {"text": "IgA", "correct": false},
+      {"text": "IgM", "correct": false},
+      {"text": "IgE", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Cruza la placenta durante el embarazo.",
+    "explanation": "La IgG es el tipo de anticuerpo más común en la sangre y los fluidos extracelulares, proporcionando inmunidad a largo plazo contra patógenos."
+  },
+  {
+    "question": "¿Qué estructura del sistema urinario transporta la orina desde los riñones a la vejiga?",
+    "options": [
+      {"text": "Uréteres", "correct": true},
+      {"text": "Uretra", "correct": false},
+      {"text": "Túbulos colectores", "correct": false},
+      {"text": "Pelvis renal", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Son dos tubos musculares.",
+    "explanation": "Los uréteres son conductos que transportan la orina desde la pelvis renal de cada riñón hasta la vejiga urinaria mediante contracciones peristálticas."
   }
 ]
