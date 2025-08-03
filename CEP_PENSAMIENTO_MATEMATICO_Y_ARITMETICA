@@ -1,5 +1,3 @@
-Analiza el siguiente banco de preguntas en formato JSON y determina si hay ejercicios erróneos. Ignora la opción "No puedo identificar la respuesta 😥"
-
 [
   {
     "question": "Si el 15% de un número es igual al 35% de 120, ¿cuál es el número?",
