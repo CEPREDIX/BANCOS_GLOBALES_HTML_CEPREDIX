@@ -1,0 +1,613 @@
+[
+  {
+    "question": "¿Cuál es la fórmula para calcular el área de un triángulo equilátero con lado 'a'?",
+    "options": [
+      {"text": "(a^2 * √3) / 4", "correct": true},
+      {"text": "a^2 * √2", "correct": false},
+      {"text": "(a * h) / 2 donde h es la altura", "correct": false},
+      {"text": "3a / 2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Todos los lados son iguales y ángulos de 60°.",
+    "explanation": "La fórmula específica para un triángulo equilátero deriva de la relación entre su lado y la altura mediante el teorema de Pitágoras."
+  },
+  {
+    "question": "¿Cuál es el valor exacto de sen(150°)?",
+    "options": [
+      {"text": "1/2", "correct": true},
+      {"text": "√3/2", "correct": false},
+      {"text": "-1/2", "correct": false},
+      {"text": "√2/2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Ángulo en el segundo cuadrante.",
+    "explanation": "150° es un ángulo en el segundo cuadrante donde el seno es positivo y equivale a sen(180°-30°) = sen(30°) = 1/2."
+  },
+  {
+    "question": "Completa: En una circunferencia, el ________ es el segmento que une dos puntos de la circunferencia pasando por el ________ y su longitud es el doble del ________.",
+    "options": [
+      {"text": "diámetro, centro, radio", "correct": true},
+      {"text": "radio, centro, diámetro", "correct": false},
+      {"text": "cuerda, punto medio, radio", "correct": false},
+      {"text": "arco, centro, diámetro", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "La medida más larga posible entre dos puntos de una circunferencia.",
+    "explanation": "El diámetro es la cuerda más grande posible en una circunferencia y siempre pasa por el centro, siendo su longitud igual a dos radios."
+  },
+  {
+    "question": "Relaciona los teoremas con sus aplicaciones: A) Teorema de Pitágoras, B) Ley de Cosenos, C) Ley de Senos; I) Resolver triángulos oblicuángulos cuando se conocen dos lados y el ángulo incluido, II) Encontrar un lado faltante en triángulos rectángulos, III) Resolver triángulos cuando se conocen dos ángulos y un lado",
+    "options": [
+      {"text": "A-II; B-I; C-III", "correct": true},
+      {"text": "A-III; B-II; C-I", "correct": false},
+      {"text": "A-I; B-III; C-II", "correct": false},
+      {"text": "A-II; B-III; C-I", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Cada teorema tiene aplicaciones específicas según los datos conocidos.",
+    "explanation": "El Teorema de Pitágoras aplica solo a triángulos rectángulos, la Ley de Cosenos usa un ángulo incluido, y la Ley de Senos relaciona lados con ángulos opuestos."
+  },
+  {
+    "question": "¿Cuál es la ecuación de una circunferencia con centro en (2,-3) y radio 5?",
+    "options": [
+      {"text": "(x-2)^2 + (y+3)^2 = 25", "correct": true},
+      {"text": "(x+2)^2 + (y-3)^2 = 5", "correct": false},
+      {"text": "(x-2)^2 + (y+3)^2 = 5", "correct": false},
+      {"text": "(x+3)^2 + (y-2)^2 = 25", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Forma estándar (x-h)^2 + (y-k)^2 = r^2.",
+    "explanation": "La ecuación estándar usa las coordenadas del centro (h,k) con signos cambiados y el radio al cuadrado a la derecha."
+  },
+  {
+    "question": "¿Cuál es el volumen de un cono con radio 4 cm y altura 9 cm?",
+    "options": [
+      {"text": "48π cm^3", "correct": true},
+      {"text": "36π cm^3", "correct": false},
+      {"text": "144π cm^3", "correct": false},
+      {"text": "108π cm^3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Fórmula: (1/3)πr^2h.",
+    "explanation": "V = (1/3)π(4)^2(9) = (1/3)π(16)(9) = 48π cm^3."
+  },
+  {
+    "question": "Son propiedades de los paralelogramos:",
+    "options": [
+      {"text": "Lados opuestos iguales y paralelos, ángulos opuestos iguales", "correct": true},
+      {"text": "Todos los lados iguales, diagonales perpendiculares", "correct": false},
+      {"text": "Un par de lados paralelos, ángulos base congruentes", "correct": false},
+      {"text": "Diagonales que bisecan ángulos, todos los ángulos rectos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Incluye rectángulos, rombos y cuadrados como casos especiales.",
+    "explanation": "Los paralelogramos tienen lados opuestos iguales y paralelos, ángulos opuestos iguales y diagonales que se bisecan."
+  },
+  {
+    "question": "¿Cuál es la identidad trigonométrica fundamental?",
+    "options": [
+      {"text": "sen^2θ + cos^2θ = 1", "correct": true},
+      {"text": "tanθ = senθ/cosθ", "correct": false},
+      {"text": "1 + tan^2θ = sec^2θ", "correct": false},
+      {"text": "sen(2θ) = 2senθcosθ", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Deriva del teorema de Pitágoras aplicado al círculo unitario.",
+    "explanation": "Esta identidad relaciona directamente el seno y coseno de un ángulo y es base para otras identidades."
+  },
+  {
+    "question": "Completa: La ________ de una función trigonométrica es el valor más pequeño que toma la función en todo su dominio, mientras que la ________ es el valor más grande. Para y = 3sen(x) + 2, estos valores son ________ respectivamente.",
+    "options": [
+      {"text": "amplitud mínima, amplitud máxima, -1 y 5", "correct": true},
+      {"text": "altura mínima, altura máxima, 2 y 3", "correct": false},
+      {"text": "amplitud, desfase, 0 y 3", "correct": false},
+      {"text": "variación mínima, variación máxima, -3 y 3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Considera la amplitud y desplazamiento vertical.",
+    "explanation": "Para y = Asen(x) + C, el mínimo es C-A y el máximo es C+A. Aquí A=3 y C=2, dando -1 y 5."
+  },
+  {
+    "question": "¿Cuál es la medida en radianes de 225°?",
+    "options": [
+      {"text": "5π/4", "correct": true},
+      {"text": "3π/4", "correct": false},
+      {"text": "7π/6", "correct": false},
+      {"text": "4π/3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "180° = π radianes.",
+    "explanation": "225° × (π/180°) = 225π/180 = 5π/4 radianes."
+  },
+  {
+    "question": "¿Cuál es la fórmula para calcular el área lateral de un cilindro circular recto?",
+    "options": [
+      {"text": "2πrh", "correct": true},
+      {"text": "πr^2h", "correct": false},
+      {"text": "2πr^2 + 2πrh", "correct": false},
+      {"text": "πr^2 + 2πrh", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Solo considera la superficie curva, no las bases.",
+    "explanation": "El área lateral es el perímetro de la base (2πr) multiplicado por la altura (h)."
+  },
+  {
+    "question": "Si secθ = -3/2 y θ está en el segundo cuadrante, ¿cuál es el valor de tanθ?",
+    "options": [
+      {"text": "-√5/2", "correct": true},
+      {"text": "√5/2", "correct": false},
+      {"text": "-2/√5", "correct": false},
+      {"text": "2/√5", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa identidades trigonométricas y considera el cuadrante.",
+    "explanation": "cosθ = 1/secθ = -2/3. senθ = √(1 - cos²θ) = √5/3 (positivo en II cuadrante). tanθ = senθ/cosθ = -√5/2."
+  },
+  {
+    "question": "¿Cuál es el número de diagonales de un polígono regular de 10 lados?",
+    "options": [
+      {"text": "35", "correct": true},
+      {"text": "45", "correct": false},
+      {"text": "20", "correct": false},
+      {"text": "27", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Fórmula: n(n-3)/2 donde n es el número de lados.",
+    "explanation": "Para n=10: 10(7)/2 = 35 diagonales."
+  },
+  {
+    "question": "Completa: En una elipse con ecuación (x-h)^2/a^2 + (y-k)^2/b^2 = 1, si a > b, entonces el eje mayor es ________ y mide ________, y los focos están sobre este eje a una distancia ________ del centro.",
+    "options": [
+      {"text": "horizontal, 2a, c donde c^2 = a^2 - b^2", "correct": true},
+      {"text": "vertical, 2b, c donde c^2 = b^2 - a^2", "correct": false},
+      {"text": "horizontal, a^2, a - b", "correct": false},
+      {"text": "vertical, b^2, √(a^2 + b^2)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "El denominador mayor determina el eje mayor.",
+    "explanation": "Cuando a > b, el eje mayor es horizontal (paralelo al eje x), su longitud es 2a, y la distancia focal c cumple c² = a² - b²."
+  },
+  {
+    "question": "Relaciona las funciones trigonométricas con sus recíprocas: A) senθ, B) cosθ, C) tanθ; I) secθ, II) cscθ, III) cotθ",
+    "options": [
+      {"text": "A-II; B-I; C-III", "correct": true},
+      {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-III; B-II; C-I", "correct": false},
+      {"text": "A-II; B-III; C-I", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Recíproco significa 1/función.",
+    "explanation": "cscθ = 1/senθ, secθ = 1/cosθ, cotθ = 1/tanθ."
+  },
+  {
+    "question": "¿Cuál es la distancia entre los puntos (3, -2) y (-1, 4) en el plano cartesiano?",
+    "options": [
+      {"text": "2√13", "correct": true},
+      {"text": "√52", "correct": false},
+      {"text": "10", "correct": false},
+      {"text": "2√10", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Fórmula de distancia entre dos puntos.",
+    "explanation": "√[(-1-3)² + (4-(-2))²] = √(16 + 36) = √52 = 2√13."
+  },
+  {
+    "question": "¿Cuál es el perímetro de un triángulo rectángulo con catetos de 6 cm y 8 cm?",
+    "options": [
+      {"text": "24 cm", "correct": true},
+      {"text": "20 cm", "correct": false},
+      {"text": "28 cm", "correct": false},
+      {"text": "14 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Primero encuentra la hipotenusa.",
+    "explanation": "Hipotenusa = √(6² + 8²) = 10 cm. Perímetro = 6 + 8 + 10 = 24 cm."
+  },
+  {
+    "question": "¿Cuál es el área de un sector circular con radio 5 cm y ángulo central de 72°?",
+    "options": [
+      {"text": "5π cm^2", "correct": true},
+      {"text": "10π cm^2", "correct": false},
+      {"text": "72π cm^2", "correct": false},
+      {"text": "18π cm^2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Área del círculo completo es πr², luego calcula la fracción correspondiente.",
+    "explanation": "Área total = 25π cm². Sector = (72/360) × 25π = 5π cm²."
+  },
+  {
+    "question": "¿Cuál es la ecuación de la recta perpendicular a y = 2x + 3 que pasa por el punto (1, -2)?",
+    "options": [
+      {"text": "y = -1/2 x - 3/2", "correct": true},
+      {"text": "y = -2x + 0", "correct": false},
+      {"text": "y = 1/2 x - 5/2", "correct": false},
+      {"text": "y = -1/2 x + 3/2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Pendientes perpendiculares son recíprocas negativas.",
+    "explanation": "Pendiente original: 2. Pendiente perpendicular: -1/2. Ecuación: y + 2 = -1/2(x - 1) → y = -1/2 x - 3/2."
+  },
+  {
+    "question": "Son características de las alturas de un triángulo:",
+    "options": [
+      {"text": "Se intersectan en el ortocentro, pueden caer fuera del triángulo en obtusángulos", "correct": true},
+      {"text": "Siempre caen dentro del triángulo, dividen al triángulo en dos triángulos congruentes", "correct": false},
+      {"text": "Son medianas también, bisecan los ángulos del triángulo", "correct": false},
+      {"text": "Todas tienen la misma longitud en triángulos equiláteros, son perpendiculares a los lados", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Considera diferentes tipos de triángulos.",
+    "explanation": "Las alturas concurren en el ortocentro y en triángulos obtusángulos, el ortocentro cae fuera del triángulo."
+  },
+  {
+    "question": "¿Cuál es el valor de cos(π/12) exacto?",
+    "options": [
+      {"text": "(√6 + √2)/4", "correct": true},
+      {"text": "(√3 + 1)/2", "correct": false},
+      {"text": "(√6 - √2)/4", "correct": false},
+      {"text": "√3/2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "π/12 = 15°. Usa identidades de ángulo medio o diferencia.",
+    "explanation": "cos(15°) = cos(45°-30°) = cos45°cos30° + sen45°sen30° = (√2/2)(√3/2) + (√2/2)(1/2) = (√6 + √2)/4."
+  },
+  {
+    "question": "¿Cuál es el volumen de una esfera cuya área superficial es 64π cm^2?",
+    "options": [
+      {"text": "256π/3 cm^3", "correct": true},
+      {"text": "64π cm^3", "correct": false},
+      {"text": "512π/3 cm^3", "correct": false},
+      {"text": "128π/3 cm^3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Primero encuentra el radio usando el área superficial.",
+    "explanation": "Área = 4πr² = 64π → r = 4 cm. Volumen = (4/3)πr³ = (4/3)π(64) = 256π/3 cm³."
+  },
+  {
+    "question": "Completa: La ________ de un poliedro es el número de caras menos el número de aristas más el número de ________, y para todos los poliedros convexos este valor es ________.",
+    "options": [
+      {"text": "característica de Euler, vértices, 2", "correct": true},
+      {"text": "fórmula topológica, ángulos, 1", "correct": false},
+      {"text": "relación de Descartes, aristas, 0", "correct": false},
+      {"text": "propiedad fundamental, diagonales, 3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Fórmula descubierta por Leonhard Euler.",
+    "explanation": "La característica de Euler establece que para poliedros convexos, C - A + V = 2, donde C=caras, A=aristas, V=vértices."
+  },
+  {
+    "question": "¿Cuál es la solución general de la ecuación senx = 1/2?",
+    "options": [
+      {"text": "x = π/6 + 2kπ o x = 5π/6 + 2kπ, k ∈ ℤ", "correct": true},
+      {"text": "x = π/6 + kπ, k ∈ ℤ", "correct": false},
+      {"text": "x = π/6 + kπ/2, k ∈ ℤ", "correct": false},
+      {"text": "x = (-1)^k π/6 + kπ, k ∈ ℤ", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Considera todos los ángulos en el círculo unitario con seno 1/2.",
+    "explanation": "Las soluciones principales son π/6 y 5π/6, y por periodicidad se añade 2kπ para todas las soluciones."
+  },
+  {
+    "question": "Relaciona los elementos de la circunferencia con sus definiciones: A) Radio, B) Cuerda, C) Arco; I) Segmento que une dos puntos de la circunferencia, II) Segmento que une el centro con cualquier punto de la circunferencia, III) Porción de circunferencia delimitada por dos puntos",
+    "options": [
+      {"text": "A-II; B-I; C-III", "correct": true},
+      {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-III; B-I; C-II", "correct": false},
+      {"text": "A-II; B-III; C-I", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "El radio es una medida fundamental de la circunferencia.",
+    "explanation": "El radio va del centro a la circunferencia, la cuerda une dos puntos de la circunferencia, y el arco es la parte curva entre dos puntos."
+  },
+  {
+    "question": "¿Cuál es la medida del ángulo central de un pentágono regular?",
+    "options": [
+      {"text": "72°", "correct": true},
+      {"text": "108°", "correct": false},
+      {"text": "60°", "correct": false},
+      {"text": "120°", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Ángulo central es el formado por dos radios consecutivos.",
+    "explanation": "360° dividido entre 5 lados = 72° por ángulo central."
+  },
+  {
+    "question": "¿Cuál es la expresión equivalente a cos(2θ) usando identidades de ángulo doble?",
+    "options": [
+      {"text": "cos²θ - sen²θ", "correct": true},
+      {"text": "2cos²θ - 1", "correct": false},
+      {"text": "1 - 2sen²θ", "correct": false},
+      {"text": "cos²θ + sen²θ", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Hay tres formas equivalentes de expresar cos(2θ).",
+    "explanation": "Las tres formas son equivalentes: cos²θ - sen²θ = 2cos²θ - 1 = 1 - 2sen²θ."
+  },
+  {
+    "question": "¿Cuál es la pendiente de la recta tangente a la curva y = x^3 - 2x en el punto (1, -1)?",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "-1", "correct": false},
+      {"text": "3", "correct": false},
+      {"text": "0", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Calcula la derivada y evalúa en x=1.",
+    "explanation": "dy/dx = 3x² - 2. En x=1: 3(1) - 2 = 1."
+  },
+  {
+    "question": "¿Cuál es el área de un trapecio con bases de 8 cm y 12 cm, y altura de 5 cm?",
+    "options": [
+      {"text": "50 cm^2", "correct": true},
+      {"text": "40 cm^2", "correct": false},
+      {"text": "60 cm^2", "correct": false},
+      {"text": "100 cm^2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Fórmula: ((base mayor + base menor)/2) × altura.",
+    "explanation": "Área = ((8 + 12)/2) × 5 = 10 × 5 = 50 cm²."
+  },
+  {
+    "question": "¿Cuál es el valor de cot(π/3)?",
+    "options": [
+      {"text": "√3/3", "correct": true},
+      {"text": "√3", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "0", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Cotangente es recíproco de tangente.",
+    "explanation": "tan(π/3) = √3, entonces cot(π/3) = 1/√3 = √3/3."
+  },
+  {
+    "question": "¿Cuál es la longitud de la diagonal de un cubo con arista de 3 cm?",
+    "options": [
+      {"text": "3√3 cm", "correct": true},
+      {"text": "3√2 cm", "correct": false},
+      {"text": "6 cm", "correct": false},
+      {"text": "√27 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa el teorema de Pitágoras extendido a tres dimensiones.",
+    "explanation": "Diagonal = √(3² + 3² + 3²) = √27 = 3√3 cm."
+  },
+  {
+    "question": "¿Cuál es el período de la función y = 2sen(3x - π) + 1?",
+    "options": [
+      {"text": "2π/3", "correct": true},
+      {"text": "π/3", "correct": false},
+      {"text": "2π", "correct": false},
+      {"text": "3π", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "El período de sen(Bx) es 2π/B.",
+    "explanation": "Para y = Asen(Bx + C) + D, el período es 2π/B. Aquí B=3, entonces período = 2π/3."
+  },
+  {
+    "question": "¿Cuál es la ecuación de la parábola con vértice en (2, -1) y foco en (2, 1)?",
+    "options": [
+      {"text": "(x-2)^2 = 8(y+1)", "correct": true},
+      {"text": "(y+1)^2 = 8(x-2)", "correct": false},
+      {"text": "(x-2)^2 = 4(y+1)", "correct": false},
+      {"text": "(y-1)^2 = 8(x-2)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Parábola vertical con vértice (h,k).",
+    "explanation": "Distancia vértice-foco p = 2. Ecuación: (x-h)² = 4p(y-k) → (x-2)² = 8(y+1)."
+  },
+  {
+    "question": "¿Cuál es el área de un hexágono regular con lado de 4 cm?",
+    "options": [
+      {"text": "24√3 cm^2", "correct": true},
+      {"text": "12√3 cm^2", "correct": false},
+      {"text": "36 cm^2", "correct": false},
+      {"text": "48 cm^2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Un hexágono regular puede dividirse en 6 triángulos equiláteros.",
+    "explanation": "Área = (3√3/2) × lado² = (3√3/2) × 16 = 24√3 cm²."
+  },
+  {
+    "question": "¿Cuál es el valor exacto de tan(7π/6)?",
+    "options": [
+      {"text": "√3/3", "correct": true},
+      {"text": "-√3/3", "correct": false},
+      {"text": "√3", "correct": false},
+      {"text": "-√3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "7π/6 está en el tercer cuadrante donde la tangente es positiva.",
+    "explanation": "7π/6 = π + π/6. tan(7π/6) = tan(π/6) = √3/3 (la tangente tiene período π)."
+  },
+  {
+    "question": "¿Cuál es el volumen de una pirámide cuadrangular regular con lado de base 6 cm y altura 10 cm?",
+    "options": [
+      {"text": "120 cm^3", "correct": true},
+      {"text": "60 cm^3", "correct": false},
+      {"text": "180 cm^3", "correct": false},
+      {"text": "360 cm^3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Fórmula: (1/3) × área base × altura.",
+    "explanation": "Área base = 6 × 6 = 36 cm². Volumen = (1/3) × 36 × 10 = 120 cm³."
+  },
+  {
+    "question": "¿Cuál es la solución de la ecuación log₃(x + 5) = 2?",
+    "options": [
+      {"text": "4", "correct": true},
+      {"text": "7", "correct": false},
+      {"text": "9", "correct": false},
+      {"text": "14", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Convierte la ecuación logarítmica a su forma exponencial.",
+    "explanation": "log₃(x + 5) = 2 → 3² = x + 5 → 9 = x + 5 → x = 4."
+  },
+  {
+    "question": "¿Cuál es la distancia entre las rectas paralelas y = 2x + 3 y y = 2x - 5?",
+    "options": [
+      {"text": "(8√5)/5", "correct": true},
+      {"text": "8", "correct": false},
+      {"text": "2√5", "correct": false},
+      {"text": "√5", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Fórmula de distancia entre rectas paralelas Ax + By + C₁ = 0 y Ax + By + C₂ = 0.",
+    "explanation": "Lleva a forma general: 2x - y + 3 = 0 y 2x - y - 5 = 0. Distancia = |3 - (-5)|/√(2² + (-1)²) = 8/√5 = (8√5)/5."
+  },
+  {
+    "question": "¿Cuál es el valor de sen(π/8) exacto?",
+    "options": [
+      {"text": "(√(2 - √2))/2", "correct": true},
+      {"text": "(√2)/4", "correct": false},
+      {"text": "(1 + √2)/2", "correct": false},
+      {"text": "(√(2 + √2))/2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa identidades de medio ángulo para π/4.",
+    "explanation": "sen(π/8) = sen(22.5°) = √[(1 - cos(45°))/2] = √[(1 - √2/2)/2] = (√(2 - √2))/2."
+  },
+  {
+    "question": "¿Cuál es la ecuación de la hipérbola con centro en (0,0), focos en (±5,0) y vértices en (±3,0)?",
+    "options": [
+      {"text": "x^2/9 - y^2/16 = 1", "correct": true},
+      {"text": "x^2/16 - y^2/9 = 1", "correct": false},
+      {"text": "y^2/9 - x^2/16 = 1", "correct": false},
+      {"text": "x^2/25 - y^2/9 = 1", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Para hipérbolas horizontales: x²/a² - y²/b² = 1, donde c² = a² + b².",
+    "explanation": "a=3, c=5 → b²=25-9=16. Ecuación: x²/9 - y²/16 = 1."
+  },
+  {
+    "question": "¿Cuál es el área de un triángulo con lados de 7 cm, 8 cm y 9 cm?",
+    "options": [
+      {"text": "12√5 cm^2", "correct": true},
+      {"text": "24 cm^2", "correct": false},
+      {"text": "10√3 cm^2", "correct": false},
+      {"text": "15√2 cm^2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa la fórmula de Herón.",
+    "explanation": "Semiperímetro s = (7+8+9)/2 = 12. Área = √[12(12-7)(12-8)(12-9)] = √(12×5×4×3) = 12√5 cm²."
+  },
+  {
+    "question": "¿Cuál es el valor de la suma sen²10° + sen²20° + ... + sen²80°?",
+    "options": [
+      {"text": "4", "correct": true},
+      {"text": "2", "correct": false},
+      {"text": "6", "correct": false},
+      {"text": "8", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa identidades como sen²θ + cos²θ = 1 y ángulos complementarios.",
+    "explanation": "sen²80° = cos²10°, sen²70° = cos²20°, etc. La suma se convierte en (sen²10° + cos²10°) + (sen²20° + cos²20°) + (sen²30° + cos²30°) + (sen²40° + cos²40°) = 1 + 1 + 1 + 1 = 4."
+  },
+  {
+    "question": "¿Cuál es la ecuación del plano que pasa por los puntos (1,0,0), (0,2,0) y (0,0,3)?",
+    "options": [
+      {"text": "6x + 3y + 2z = 6", "correct": true},
+      {"text": "3x + 6y + 2z = 6", "correct": false},
+      {"text": "2x + 3y + 6z = 6", "correct": false},
+      {"text": "x + y + z = 1", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa la forma segmentaria del plano x/a + y/b + z/c = 1.",
+    "explanation": "Los puntos son las intersecciones con los ejes. Ecuación: x/1 + y/2 + z/3 = 1 → 6x + 3y + 2z = 6."
+  },
+  {
+    "question": "¿Cuál es el número de caras de un prisma hexagonal?",
+    "options": [
+      {"text": "8", "correct": true},
+      {"text": "6", "correct": false},
+      {"text": "12", "correct": false},
+      {"text": "18", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Un prisma tiene dos bases y caras laterales.",
+    "explanation": "Un prisma hexagonal tiene 2 bases hexagonales y 6 caras rectangulares laterales, total 8 caras."
+  },
+  {
+    "question": "¿Cuál es el valor de la integral definida ∫₀^π/2 cosx dx?",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "0", "correct": false},
+      {"text": "π/2", "correct": false},
+      {"text": "√2/2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "La integral de cosx es senx.",
+    "explanation": "∫₀^{π/2} cosx dx = sen(π/2) - sen(0) = 1 - 0 = 1."
+  },
+  {
+    "question": "¿Cuál es la ecuación de la recta que pasa por (1,2) y es paralela a la recta 3x - 2y = 4?",
+    "options": [
+      {"text": "3x - 2y + 1 = 0", "correct": true},
+      {"text": "2x + 3y - 8 = 0", "correct": false},
+      {"text": "3x - 2y - 7 = 0", "correct": false},
+      {"text": "2x - 3y + 4 = 0", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Rectas paralelas tienen la misma pendiente.",
+    "explanation": "Pendiente de 3x - 2y = 4 es 3/2. Ecuación: y - 2 = (3/2)(x - 1) → 3x - 2y + 1 = 0."
+  },
+  {
+    "question": "¿Cuál es el área del círculo inscrito en un triángulo equilátero con lado 6 cm?",
+    "options": [
+      {"text": "3π cm^2", "correct": true},
+      {"text": "6π cm^2", "correct": false},
+      {"text": "9π cm^2", "correct": false},
+      {"text": "12π cm^2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "El radio del círculo inscrito es r = A/s donde A es área y s es semiperímetro.",
+    "explanation": "Área triángulo = (6²√3)/4 = 9√3 cm². Semiperímetro = 9 cm. Radio inscrito = 9√3/9 = √3 cm. Área círculo = π(√3)² = 3π cm²."
+  }
+]
