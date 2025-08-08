@@ -7515,6 +7515,7 @@
       {"text": "Equilibrio entre el cuerpo y la mente, aunque existan algunas condiciones médicas leves o crónicas.", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Enfoque holístico.",
     "explanation": "La OMS define salud como un estado de completo bienestar en todas las dimensiones, no solo la ausencia de enfermedad."
   },
@@ -7526,6 +7527,7 @@
       {"text": "Ambiente", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Factor activo.",
     "explanation": "El agente causal es el elemento de la tríada ecológica capaz de provocar enfermedad por sus características intrínsecas."
   },
@@ -7537,6 +7539,7 @@
       {"text": "Prevención secundaria", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Rehabilitación.",
     "explanation": "La prevención terciaria busca minimizar las consecuencias de enfermedades ya presentes mediante tratamiento y rehabilitación."
   },
@@ -7548,6 +7551,7 @@
       {"text": "desarrollo, factores ambientales", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Evolución espontánea.",
     "explanation": "La historia natural de la enfermedad describe su evolución cuando no hay intervención médica que la modifique."
   },
@@ -7559,6 +7563,7 @@
       {"text": "A-III; B-II; C-I", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Especialización celular.",
     "explanation": "Los neutrófilos fagocitan bacterias, los linfocitos B producen anticuerpos y los eosinófilos actúan contra parásitos."
   },
@@ -7570,6 +7575,7 @@
       {"text": "Monocitos", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Médula ósea.",
     "explanation": "Los megacariocitos son células grandes de la médula ósea que se fragmentan para formar plaquetas."
   },
@@ -7581,6 +7587,7 @@
       {"text": "Poseen pared celular como las bacterias", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Parásitos obligados.",
     "explanation": "Los virus son parásitos intracelulares obligados que necesitan maquinaria celular para replicarse."
   },
@@ -7592,6 +7599,7 @@
       {"text": "Hongos patógenos, virus", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Energías y fuerzas.",
     "explanation": "Los agentes físicos incluyen diversas formas de energía (radiación, calor) y fuerzas mecánicas que pueden causar daño."
   },
@@ -7603,6 +7611,7 @@
       {"text": "Los signos son exclusivos de enfermedades crónicas", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Percepción vs. observación.",
     "explanation": "Los signos son hallazgos objetivos que el médico observa o mide, mientras los síntomas son las percepciones subjetivas del paciente."
   },
@@ -7614,6 +7623,7 @@
       {"text": "Se presentan las características definitivas de la patología", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Advertencia temprana.",
     "explanation": "El prodrómico es la fase donde aparecen señales generales (malestar, fiebre) antes de los síntomas específicos."
   },
@@ -7625,6 +7635,7 @@
       {"text": "Virus ARN", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Malaria.",
     "explanation": "Plasmodium es un género de protozoos parásitos que causan malaria, transmitidos por mosquitos Anopheles."
   },
@@ -7636,6 +7647,7 @@
       {"text": "Participar en la coagulación sanguínea", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Hemoglobina.",
     "explanation": "Los glóbulos rojos contienen hemoglobina que se une al oxígeno en los pulmones y lo libera en los tejidos."
   },
@@ -7647,6 +7659,7 @@
       {"text": "Solo se detecta mediante pruebas genéticas", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Silenciosa.",
     "explanation": "La fase subclínica ocurre cuando hay cambios fisiopatológicos pero no síntomas evidentes, detectable solo con pruebas."
   },
@@ -7658,6 +7671,7 @@
       {"text": "Maduran en el timo como los linfocitos T", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Alergias.",
     "explanation": "Los basófilos liberan mediadores como histamina en reacciones alérgicas e inflamatorias."
   },
@@ -7669,6 +7683,7 @@
       {"text": "Traumatismo por accidente, Aspergillus", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Toxicología.",
     "explanation": "Los agentes químicos incluyen sustancias tóxicas naturales o sintéticas que pueden causar daño a la salud."
   },
@@ -7680,6 +7695,7 @@
       {"text": "Prevención terciaria", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Antes de la enfermedad.",
     "explanation": "Las vacunas son prevención primaria porque evitan la aparición de enfermedades en personas sanas."
   },
@@ -7691,6 +7707,7 @@
       {"text": "Fagocitar bacterias extracelulares", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Inmunidad innata.",
     "explanation": "Las células NK son linfocitos de la inmunidad innata que reconocen y destruyen células anormales sin necesidad de anticuerpos."
   },
@@ -7702,6 +7719,7 @@
       {"text": "neutrófilos, formar pus", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Tejido conjuntivo.",
     "explanation": "Los monocitos circulantes se diferencian en macrófagos tisulares, células fagocíticas profesionales."
   },
@@ -7713,6 +7731,7 @@
       {"text": "Se replican solo dentro de células huésped", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Estructura rígida.",
     "explanation": "Los hongos tienen pared celular con quitina, a diferencia de bacterias (peptidoglicano) o virus (sin pared)."
   },
@@ -7724,6 +7743,7 @@
       {"text": "38.0-39.0°C", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Febril.",
     "explanation": "La temperatura corporal normal oscila alrededor de 37°C, considerándose fiebre por encima de 38°C."
   },
@@ -7735,6 +7755,7 @@
       {"text": "A-II; B-III; C-I", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Subpoblaciones especializadas.",
     "explanation": "Los Th (CD4+) coordinan la respuesta, los Tc (CD8+) son citotóxicos, y los Treg modulan la inmunidad."
   },
@@ -7746,6 +7767,7 @@
       {"text": "Prevención terciaria", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Detección temprana.",
     "explanation": "El tamizaje es prevención secundaria porque busca identificar enfermedades en etapas tempranas antes de síntomas."
   },
@@ -7757,6 +7779,7 @@
       {"text": "Virus ADN", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Enfermedad de Chagas.",
     "explanation": "Trypanosoma cruzi es un protozoo flagelado transmitido por chinches que causa la enfermedad de Chagas."
   },
@@ -7768,6 +7791,7 @@
       {"text": "Producción de anticuerpos IgE", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Reacciones de hipersensibilidad.",
     "explanation": "Los eosinófilos contienen proteínas tóxicas contra helmintos y modulan reacciones alérgicas."
   },
@@ -7779,6 +7803,7 @@
       {"text": "El ambiente donde se desarrolla la patología", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Susceptibilidad.",
     "explanation": "El huésped es el individuo con características que lo hacen susceptible a la acción del agente patógeno."
   },
@@ -7790,6 +7815,7 @@
       {"text": "Desaparición gradual de las manifestaciones clínicas", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Clímax sintomático.",
     "explanation": "El período de estado es cuando la enfermedad muestra su máxima expresión sintomática típica."
   },
@@ -7801,6 +7827,7 @@
       {"text": "Basófilos", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Pus.",
     "explanation": "Los neutrófilos son los primeros en llegar a sitios de infección o daño, fagocitando bacterias y liberando mediadores."
   },
@@ -7812,6 +7839,7 @@
       {"text": "células T citotóxicas, perforinas", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Inmunidad humoral.",
     "explanation": "Los linfocitos B activados se diferencian en células plasmáticas productoras de anticuerpos específicos."
   },
@@ -7823,6 +7851,7 @@
       {"text": "Hongos dimórficos", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "BAAR.",
     "explanation": "Mycobacterium es un género de bacterias con pared rica en lípidos que las hace resistentes a la tinción ordinaria."
   },
@@ -7834,6 +7863,7 @@
       {"text": "Período de incubación sin manifestaciones", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Diagnóstico clínico.",
     "explanation": "La etapa clínica es cuando la enfermedad produce manifestaciones objetivas y subjetivas reconocibles."
   },
@@ -7845,6 +7875,7 @@
       {"text": "Agente mecánico puro", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Fibrosis pulmonar.",
     "explanation": "El asbesto es un mineral fibroso que actúa como agente físico-químico causante de enfermedades pulmonares."
   },
@@ -7856,6 +7887,7 @@
       {"text": "100-120 latidos por minuto", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Bradicardia vs taquicardia.",
     "explanation": "La frecuencia cardíaca normal en reposo oscila entre 60-100 lpm, considerándose bradicardia o taquicardia valores fuera."
   },
@@ -7867,6 +7899,7 @@
       {"text": "A-II; B-III; C-I", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Niveles de intervención.",
     "explanation": "Clorar agua previene enfermedades (primaria), mamografía detecta cáncer temprano (secundaria), rehabilitación minimiza secuelas (terciaria)."
   },
@@ -7878,6 +7911,7 @@
       {"text": "Se diferencian exclusivamente en médula ósea", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "MHC restringidos.",
     "explanation": "Los linfocitos T reconocen antígenos presentados por moléculas MHC y coordinan la respuesta inmune celular."
   },
@@ -7889,6 +7923,7 @@
       {"text": "Virus oncogénicos", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Micosis.",
     "explanation": "Candida es un género de levaduras que pueden volverse patógenas en condiciones de inmunosupresión."
   },
@@ -7900,6 +7935,7 @@
       {"text": "Etapa final de recuperación o cronicidad", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Multiplicación silenciosa.",
     "explanation": "El período de incubación es cuando el patógeno se multiplica sin producir síntomas evidentes aún."
   },
@@ -7911,6 +7947,7 @@
       {"text": "Agente biológico", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Contaminación acústica.",
     "explanation": "El ruido excesivo es un agente físico que puede causar pérdida auditiva y estrés."
   },
@@ -7922,6 +7959,7 @@
       {"text": "130-160 mmHg", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Hipertensión.",
     "explanation": "La presión sistólica normal es <120 mmHg, considerándose hipertensión valores sostenidos ≥130 mmHg."
   },
@@ -7933,6 +7971,7 @@
       {"text": "A-II; B-III; C-I", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Modelo causal.",
     "explanation": "Vibrio es el agente, la edad afecta susceptibilidad (huésped), y agua contaminada es factor ambiental."
   },
@@ -7944,6 +7983,7 @@
       {"text": "Destruyen células infectadas mediante perforinas", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Memoria inmunológica.",
     "explanation": "Los linfocitos B de memoria permiten respuestas más rápidas y eficientes ante reinfecciones por el mismo patógeno."
   },
@@ -7955,6 +7995,7 @@
       {"text": "Protozoo flagelado", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Tricocéfalo.",
     "explanation": "Trichuris es un nematodo parásito intestinal conocido como tricocéfalo que causa tricuriasis."
   },
@@ -7966,6 +8007,7 @@
       {"text": "Fase asintomática previa a síntomas", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Restablecimiento.",
     "explanation": "La convalecencia es la etapa de recuperación donde el organismo se restablece tras la enfermedad aguda."
   },
@@ -7977,6 +8019,7 @@
       {"text": "Agente biológico", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Leucemia.",
     "explanation": "El benceno es un compuesto orgánico volátil con efectos carcinogénicos, especialmente sobre médula ósea."
   },
@@ -7988,6 +8031,7 @@
       {"text": "25-30 respiraciones por minuto", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Taquipnea.",
     "explanation": "La frecuencia respiratoria normal en adultos es 12-20 rpm, considerándose taquipnea valores superiores."
   },
@@ -7999,6 +8043,7 @@
       {"text": "A-III; B-I; C-II", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Clasificación microbiana.",
     "explanation": "Influenza es virus, Mycobacterium es bacteria, y Aspergillus es hongo filamentoso."
   },
@@ -8010,6 +8055,7 @@
       {"text": "Variedad de linfocitos que producen interleucinas", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Desviación izquierda.",
     "explanation": "Los neutrófilos en banda son formas inmaduras liberadas ante demanda aumentada, como en infecciones bacterianas."
   },
@@ -8021,6 +8067,7 @@
       {"text": "Protozoo apicomplexa", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Sífilis.",
     "explanation": "Treponema pallidum es una bacteria espiralada del orden Spirochaetales, agente causal de la sífilis."
   },
@@ -8032,6 +8079,7 @@
       {"text": "Fase de máxima intensidad sintomática", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Curación.",
     "explanation": "El período de resolución marca el final de la enfermedad con desaparición de manifestaciones clínicas."
   },
@@ -8043,6 +8091,7 @@
       {"text": "Agente biológico", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Gas noble.",
     "explanation": "El radón es un gas radiactivo natural que emite partículas alfa, considerado carcinógeno pulmonar."
   },
@@ -8054,6 +8103,7 @@
       {"text": "75-80%", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Hipoxemia.",
     "explanation": "La saturación normal de O2 en sangre arterial es ≥95%, considerándose hipoxemia valores <90%."
   },
@@ -8065,6 +8115,7 @@
       {"text": "A-II; B-III; C-I", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Naturaleza del agente.",
     "explanation": "El dengue es biológico, la radiación UV es física, y el plomo es un agente químico tóxico."
   },
@@ -8076,6 +8127,7 @@
       {"text": "Fagocitan bacterias recubiertas de anticuerpos", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "MHC I.",
     "explanation": "Los linfocitos Tc reconocen antígenos presentados por MHC I y eliminan células alteradas mediante mecanismos citotóxicos."
   },
@@ -8087,6 +8139,7 @@
       {"text": "Hongos oportunista", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Disentería amebiana.",
     "explanation": "Entamoeba histolytica es un protozoo que invade el colon causando amebiasis intestinal y abscesos hepáticos."
   },
@@ -8098,6 +8151,7 @@
       {"text": "Período de máxima contagiosidad", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Daño residual.",
     "explanation": "Las secuelas son alteraciones permanentes que persisten después que la enfermedad activa ha terminado."
   },
@@ -8109,6 +8163,7 @@
       {"text": "Agente biológico", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Energía cinética.",
     "explanation": "Los accidentes representan agentes mecánicos donde fuerzas físicas causan lesiones tisulares."
   },
@@ -8120,6 +8175,7 @@
       {"text": "12,000-20,000 células/μL", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Leucocitosis.",
     "explanation": "El recuento normal de glóbulos blancos es 4,000-11,000/μL, pudiendo aumentar en infecciones (leucocitosis)."
   },
@@ -8131,6 +8187,7 @@
       {"text": "A-III; B-I; C-II", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Semiología médica.",
     "explanation": "Signo es objetivo (fiebre), síntoma es subjetivo (dolor), y síndrome es un conjunto característico (ej. síndrome nefrótico)."
   },
@@ -8142,6 +8199,7 @@
       {"text": "Leucocitos granulares que liberan histamina", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Hemostasia.",
     "explanation": "Las plaquetas son fragmentos citoplasmáticos que forman tapones hemostáticos y liberan factores de coagulación."
   },
@@ -8153,6 +8211,7 @@
       {"text": "Virus ARN", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Esquistosomiasis.",
     "explanation": "Schistosoma es un gusano platelminto que causa esquistosomiasis, transmitido por caracoles acuáticos."
   },
@@ -8164,6 +8223,7 @@
       {"text": "Etapa de máxima actividad patológica", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Silencio clínico.",
     "explanation": "El período de latencia en enfermedades crónicas puede durar años sin manifestaciones antes de síntomas evidentes."
   },
@@ -8175,6 +8235,7 @@
       {"text": "Agente biológico", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Hipoxia.",
     "explanation": "El CO es un gas tóxico que compite con el O2 por la hemoglobina, causando hipoxia tisular."
   },
@@ -8186,6 +8247,7 @@
       {"text": "17-20 g/dL", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Anemia.",
     "explanation": "La hemoglobina normal en mujeres es 12-16 g/dL, considerándose anemia valores <12 g/dL."
   },
@@ -8197,6 +8259,7 @@
       {"text": "A-II; B-III; C-I", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
+    "tags": ["GENERAL"],
     "hint": "Secuencia temporal.",
     "explanation": "La etapa prepatogénica tiene factores de riesgo, la subclínica tiene cambios biológicos sin síntomas, y la clínica muestra manifestaciones."
   },
