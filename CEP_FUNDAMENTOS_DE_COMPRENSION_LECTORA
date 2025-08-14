@@ -1,1730 +1,1863 @@
 [
   {
+    "id": "CEPCOL4iR",
     "question": "¿Qué tipo de texto relata historias, eventos o hechos reales o ficticios?",
     "options": [
-      {"text": "Texto narrativo", "correct": true},
-      {"text": "Texto jurídico", "correct": false},
-      {"text": "Texto científico", "correct": false},
-      {"text": "Texto publicitario", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Texto narrativo", "correct": true },
+      { "text": "Texto jurídico", "correct": false },
+      { "text": "Texto científico", "correct": false },
+      { "text": "Texto publicitario", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Cuentos y mitos",
     "explanation": "Los textos narrativos incluyen cuentos, novelas y crónicas que presentan una secuencia de eventos con personajes."
   },
   {
+    "id": "CEPCOL9sZ",
     "question": "¿Qué caracteriza principalmente a los textos jurídicos?",
     "options": [
-      {"text": "Uso de tecnicismos y lenguaje conservador", "correct": true},
-      {"text": "Lenguaje metafórico y emotivo", "correct": false},
-      {"text": "Finalidad recreativa", "correct": false},
-      {"text": "Estructura en versos", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Uso de tecnicismos y lenguaje conservador", "correct": true },
+      { "text": "Lenguaje metafórico y emotivo", "correct": false },
+      { "text": "Finalidad recreativa", "correct": false },
+      { "text": "Estructura en versos", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Ámbito judicial",
     "explanation": "Los textos jurídicos emplean términos precisos y arcaísmos para evitar ambigüedades en documentos legales."
   },
   {
+    "id": "CEPCOL1gA",
     "question": "¿Qué tipo de texto busca persuadir al lector para que compre un producto?",
     "options": [
-      {"text": "Texto publicitario", "correct": true},
-      {"text": "Texto científico", "correct": false},
-      {"text": "Texto humanístico", "correct": false},
-      {"text": "Texto histórico", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Texto publicitario", "correct": true },
+      { "text": "Texto científico", "correct": false },
+      { "text": "Texto humanístico", "correct": false },
+      { "text": "Texto histórico", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Anuncios",
     "explanation": "La publicidad utiliza estrategias persuasivas para influir en el comportamiento de consumo."
   },
   {
+    "id": "CEPCOL5bC",
     "question": "¿Qué objetivo tiene un texto expositivo?",
     "options": [
-      {"text": "Explicar un tema sin opiniones personales", "correct": true},
-      {"text": "Contar una historia emocionante", "correct": false},
-      {"text": "Persuadir al lector con argumentos", "correct": false},
-      {"text": "Describir paisajes detalladamente", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Explicar un tema sin opiniones personales", "correct": true },
+      { "text": "Contar una historia emocionante", "correct": false },
+      { "text": "Persuadir al lector con argumentos", "correct": false },
+      { "text": "Describir paisajes detalladamente", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Neutralidad",
     "explanation": "Los textos expositivos presentan información de manera objetiva, como en enciclopedias o manuales."
   },
   {
+    "id": "CEPCOL3qF",
     "question": "¿Qué tipo de texto utiliza un lenguaje metafórico y emotivo?",
     "options": [
-      {"text": "Texto literario", "correct": true},
-      {"text": "Texto administrativo", "correct": false},
-      {"text": "Texto técnico", "correct": false},
-      {"text": "Texto normativo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Texto literario", "correct": true },
+      { "text": "Texto administrativo", "correct": false },
+      { "text": "Texto técnico", "correct": false },
+      { "text": "Texto normativo", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Expresividad",
     "explanation": "La literatura emplea recursos estilísticos para transmitir emociones y crear belleza artística."
   },
   {
+    "id": "CEPCOL7rP",
     "question": "¿Qué caracteriza a los textos digitales?",
     "options": [
-      {"text": "Inmediatez informativa y acceso fácil", "correct": true},
-      {"text": "Lenguaje arcaico y formal", "correct": false},
-      {"text": "Estructura rígida y lineal", "correct": false},
-      {"text": "Uso exclusivo de papel", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Inmediatez informativa y acceso fácil", "correct": true },
+      { "text": "Lenguaje arcaico y formal", "correct": false },
+      { "text": "Estructura rígida y lineal", "correct": false },
+      { "text": "Uso exclusivo de papel", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Medios electrónicos",
     "explanation": "Los textos digitales (blogs, revistas online) permiten interactividad y actualización constante."
   },
   {
+    "id": "CEPCOL2tT",
     "question": "¿Qué tipo de texto desarrolla una historia mediante diálogos?",
     "options": [
-      {"text": "Texto dramático", "correct": true},
-      {"text": "Texto lírico", "correct": false},
-      {"text": "Texto científico", "correct": false},
-      {"text": "Texto descriptivo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Texto dramático", "correct": true },
+      { "text": "Texto lírico", "correct": false },
+      { "text": "Texto científico", "correct": false },
+      { "text": "Texto descriptivo", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Teatro",
     "explanation": "Las obras dramáticas (tragedias, comedias) se basan en conversaciones entre personajes y acotaciones."
   },
   {
+    "id": "CEPCOL6eL",
     "question": "¿Qué objetivo tiene un texto directivo?",
     "options": [
-      {"text": "Instruir al lector para realizar una acción", "correct": true},
-      {"text": "Describir un objeto detalladamente", "correct": false},
-      {"text": "Expresar sentimientos íntimos", "correct": false},
-      {"text": "Analizar datos científicos", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Instruir al lector para realizar una acción", "correct": true },
+      { "text": "Describir un objeto detalladamente", "correct": false },
+      { "text": "Expresar sentimientos íntimos", "correct": false },
+      { "text": "Analizar datos científicos", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Guías o manuales",
     "explanation": "Los textos directivos (recetas, instructivos) explican pasos para lograr un objetivo práctico."
   },
   {
+    "id": "CEPCOL8zY",
     "question": "¿Qué tipo de texto trata temas como la sociología o filosofía?",
     "options": [
-      {"text": "Texto humanístico", "correct": true},
-      {"text": "Texto periodístico", "correct": false},
-      {"text": "Texto administrativo", "correct": false},
-      {"text": "Texto técnico", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Texto humanístico", "correct": true },
+      { "text": "Texto periodístico", "correct": false },
+      { "text": "Texto administrativo", "correct": false },
+      { "text": "Texto técnico", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Ciencias sociales",
     "explanation": "Los textos humanísticos reflexionan sobre el ser humano, su cultura y relaciones sociales."
   },
   {
+    "id": "CEPCOL4xM",
     "question": "¿Qué caracteriza a los textos líricos?",
     "options": [
-      {"text": "Lenguaje emotivo y cuidado", "correct": true},
-      {"text": "Estructura en diálogos", "correct": false},
-      {"text": "Uso de tecnicismos legales", "correct": false},
-      {"text": "Finalidad instructiva", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Lenguaje emotivo y cuidado", "correct": true },
+      { "text": "Estructura en diálogos", "correct": false },
+      { "text": "Uso de tecnicismos legales", "correct": false },
+      { "text": "Finalidad instructiva", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Poesía",
     "explanation": "La lírica expresa emociones mediante versos o prosa poética con recursos como metáforas y rimas."
   },
   {
+    "id": "CEPCOL9jL",
     "question": "¿Qué tipo de texto tiene como finalidad informar sobre hechos actuales?",
     "options": [
-      {"text": "Texto periodístico", "correct": true},
-      {"text": "Texto literario", "correct": false},
-      {"text": "Texto jurídico", "correct": false},
-      {"text": "Texto histórico", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Texto periodístico", "correct": true },
+      { "text": "Texto literario", "correct": false },
+      { "text": "Texto jurídico", "correct": false },
+      { "text": "Texto histórico", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Noticias",
     "explanation": "El periodismo informa con objetividad sobre eventos relevantes, aunque puede incluir secciones de opinión."
   },
   {
+    "id": "CEPCOL1kQ",
     "question": "¿Qué caracteriza a los textos administrativos?",
     "options": [
-      {"text": "Comunicación institucional con formalidad", "correct": true},
-      {"text": "Lenguaje coloquial y emotivo", "correct": false},
-      {"text": "Estructura en versos", "correct": false},
-      {"text": "Finalidad recreativa", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Comunicación institucional con formalidad", "correct": true },
+      { "text": "Lenguaje coloquial y emotivo", "correct": false },
+      { "text": "Estructura en versos", "correct": false },
+      { "text": "Finalidad recreativa", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Documentos oficiales",
     "explanation": "Certificados o memorandos son ejemplos de textos que gestionan información en organizaciones."
   },
   {
+    "id": "CEPCOL5wG",
     "question": "¿Qué tipo de texto presenta avances en investigaciones?",
     "options": [
-      {"text": "Texto científico", "correct": true},
-      {"text": "Texto publicitario", "correct": false},
-      {"text": "Texto dramático", "correct": false},
-      {"text": "Texto lírico", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Texto científico", "correct": true },
+      { "text": "Texto publicitario", "correct": false },
+      { "text": "Texto dramático", "correct": false },
+      { "text": "Texto lírico", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Revistas especializadas",
     "explanation": "Los textos científicos comunican hallazgos con metodología rigurosa y terminología específica."
   },
   {
+    "id": "CEPCOL3bN",
     "question": "¿Qué objetivo tiene un texto argumentativo?",
     "options": [
-      {"text": "Persuadir mediante razones a favor o en contra", "correct": true},
-      {"text": "Describir paisajes con detalle", "correct": false},
-      {"text": "Contar historias ficticias", "correct": false},
-      {"text": "Instruir sobre un procedimiento", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Persuadir mediante razones a favor o en contra", "correct": true },
+      { "text": "Describir paisajes con detalle", "correct": false },
+      { "text": "Contar historias ficticias", "correct": false },
+      { "text": "Instruir sobre un procedimiento", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Debates",
     "explanation": "Este tipo de texto defiende una postura con argumentos lógicos y evidencias."
   },
   {
+    "id": "CEPCOL7fS",
     "question": "¿Qué subgénero narrativo relata hazañas heroicas?",
     "options": [
-      {"text": "Epopeya", "correct": true},
-      {"text": "Sátira", "correct": false},
-      {"text": "Elegía", "correct": false},
-      {"text": "Entremés", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Epopeya", "correct": true },
+      { "text": "Sátira", "correct": false },
+      { "text": "Elegía", "correct": false },
+      { "text": "Entremés", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Héroes antiguos",
     "explanation": "La epopeya (ej: 'La Ilíada') exalta acciones grandiosas de personajes legendarios."
   },
   {
+    "id": "CEPCOL2dN",
     "question": "¿Qué subgénero lírico expresa dolor por una pérdida?",
     "options": [
-      {"text": "Elegía", "correct": true},
-      {"text": "Oda", "correct": false},
-      {"text": "Madrigal", "correct": false},
-      {"text": "Sainete", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Elegía", "correct": true },
+      { "text": "Oda", "correct": false },
+      { "text": "Madrigal", "correct": false },
+      { "text": "Sainete", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Lamento poético",
     "explanation": "La elegía refleja tristeza ante la muerte o desgracias, con un tono melancólico."
   },
   {
+    "id": "CEPCOL6pH",
     "question": "¿Qué subgénero dramático combina elementos trágicos y cómicos?",
     "options": [
-      {"text": "Drama", "correct": true},
-      {"text": "Tragedia", "correct": false},
-      {"text": "Comedia", "correct": false},
-      {"text": "Entremés", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Drama", "correct": true },
+      { "text": "Tragedia", "correct": false },
+      { "text": "Comedia", "correct": false },
+      { "text": "Entremés", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Equilibrio emocional",
     "explanation": "El drama presenta conflictos humanos con momentos serios y otros más livianos."
   },
   {
+    "id": "CEPCOL8aJ",
     "question": "¿Qué subgénero didáctico presenta ideas mediante conversaciones?",
     "options": [
-      {"text": "Diálogo", "correct": true},
-      {"text": "Ensayo", "correct": false},
-      {"text": "Biografía", "correct": false},
-      {"text": "Discurso", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Diálogo", "correct": true },
+      { "text": "Ensayo", "correct": false },
+      { "text": "Biografía", "correct": false },
+      { "text": "Discurso", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Conversación filosófica",
     "explanation": "Platón usó este formato para explorar conceptos a través de preguntas y respuestas entre personajes."
   },
   {
+    "id": "CEPCOL4oD",
     "question": "¿Qué caracteriza a una fábula?",
     "options": [
-      {"text": "Personajes animales con moraleja", "correct": true},
-      {"text": "Análisis de datos científicos", "correct": false},
-      {"text": "Diálogos teatrales complejos", "correct": false},
-      {"text": "Lenguaje jurídico especializado", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Personajes animales con moraleja", "correct": true },
+      { "text": "Análisis de datos científicos", "correct": false },
+      { "text": "Diálogos teatrales complejos", "correct": false },
+      { "text": "Lenguaje jurídico especializado", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Esopo",
     "explanation": "Las fábulas usan animales antropomórficos para enseñar lecciones morales de manera sencilla."
   },
   {
+    "id": "CEPCOL9hF",
     "question": "¿Qué tipo de texto establece reglas o normas?",
     "options": [
-      {"text": "Texto normativo", "correct": true},
-      {"text": "Texto lírico", "correct": false},
-      {"text": "Texto recreativo", "correct": false},
-      {"text": "Texto descriptivo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Texto normativo", "correct": true },
+      { "text": "Texto lírico", "correct": false },
+      { "text": "Texto recreativo", "correct": false },
+      { "text": "Texto descriptivo", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Reglamentos",
     "explanation": "Leyes o manuales de convivencia son ejemplos de textos que definen conductas permitidas o prohibidas."
   },
   {
+    "id": "CEPCOL1uX",
     "question": "¿Qué caracteriza a los textos históricos?",
     "options": [
-      {"text": "Análisis de eventos pasados con fuentes", "correct": true},
-      {"text": "Predicciones sobre el futuro", "correct": false},
-      {"text": "Instrucciones para usar aparatos", "correct": false},
-      {"text": "Publicidad de productos nuevos", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Análisis de eventos pasados con fuentes", "correct": true },
+      { "text": "Predicciones sobre el futuro", "correct": false },
+      { "text": "Instrucciones para usar aparatos", "correct": false },
+      { "text": "Publicidad de productos nuevos", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Estudio del pasado",
     "explanation": "Estos textos interpretan sucesos históricos basándose en documentos y evidencias verificables."
   },
   {
+    "id": "CEPCOL5vB",
     "question": "¿Qué tipo de texto tiene como objetivo divertir al lector?",
     "options": [
-      {"text": "Texto recreativo", "correct": true},
-      {"text": "Texto técnico", "correct": false},
-      {"text": "Texto científico", "correct": false},
-      {"text": "Texto normativo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Texto recreativo", "correct": true },
+      { "text": "Texto técnico", "correct": false },
+      { "text": "Texto científico", "correct": false },
+      { "text": "Texto normativo", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Entretenimiento",
     "explanation": "Chistes, cómics o novelas ligeras buscan principalmente el disfrute del público."
   },
   {
+    "id": "CEPCOL3qG",
     "question": "¿Qué subgénero lírico celebra algo con entusiasmo?",
     "options": [
-      {"text": "Oda", "correct": true},
-      {"text": "Sátira", "correct": false},
-      {"text": "Elegía", "correct": false},
-      {"text": "Madrigal", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Oda", "correct": true },
+      { "text": "Sátira", "correct": false },
+      { "text": "Elegía", "correct": false },
+      { "text": "Madrigal", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Alabanza poética",
     "explanation": "Las odas (ej: 'Oda a la alegría') exaltan personas, ideas o elementos naturales con tono elevado."
   },
   {
+    "id": "CEPCOL7lT",
     "question": "¿Qué subgénero dramático es breve y humorístico?",
     "options": [
-      {"text": "Sainete", "correct": true},
-      {"text": "Tragedia", "correct": false},
-      {"text": "Drama", "correct": false},
-      {"text": "Comedia", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Sainete", "correct": true },
+      { "text": "Tragedia", "correct": false },
+      { "text": "Drama", "correct": false },
+      { "text": "Comedia", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Teatro corto",
     "explanation": "El sainete retrata situaciones cotidianas con personajes caricaturescos y final feliz."
   },
   {
+    "id": "CEPCOL2jY",
     "question": "¿Qué caracteriza a un ensayo?",
     "options": [
-      {"text": "Reflexión personal sobre un tema", "correct": true},
-      {"text": "Narración de hechos ficticios", "correct": false},
-      {"text": "Instrucciones paso a paso", "correct": false},
-      {"text": "Descripción objetiva sin análisis", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Reflexión personal sobre un tema", "correct": true },
+      { "text": "Narración de hechos ficticios", "correct": false },
+      { "text": "Instrucciones paso a paso", "correct": false },
+      { "text": "Descripción objetiva sin análisis", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Libertad de estilo",
     "explanation": "El ensayo explora ideas desde una perspectiva subjetiva, sin requerir exhaustividad académica."
   },
   {
+    "id": "CEPCOL6eZ",
     "question": "¿Qué tipo de texto analiza información con rigor académico?",
     "options": [
-      {"text": "Texto académico", "correct": true},
-      {"text": "Texto publicitario", "correct": false},
-      {"text": "Texto lírico", "correct": false},
-      {"text": "Texto recreativo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Texto académico", "correct": true },
+      { "text": "Texto publicitario", "correct": false },
+      { "text": "Texto lírico", "correct": false },
+      { "text": "Texto recreativo", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Investigaciones universitarias",
     "explanation": "Tesis o artículos académicos siguen metodologías específicas y citan fuentes especializadas."
   },
   {
+    "id": "CEPCOL8tH",
     "question": "¿Qué subgénero narrativo es más extenso y complejo que un cuento?",
     "options": [
-      {"text": "Novela", "correct": true},
-      {"text": "Fábula", "correct": false},
-      {"text": "Leyenda", "correct": false},
-      {"text": "Epigrama", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Novela", "correct": true },
+      { "text": "Fábula", "correct": false },
+      { "text": "Leyenda", "correct": false },
+      { "text": "Epigrama", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Desarrollo de tramas",
     "explanation": "Las novelas exploran múltiples personajes y subtramas en una estructura narrativa amplia."
   },
   {
+    "id": "CEPCOL4vS",
     "question": "¿Qué subgénero lírico critica con humor o ironía?",
     "options": [
-      {"text": "Sátira", "correct": true},
-      {"text": "Égloga", "correct": false},
-      {"text": "Soneto", "correct": false},
-      {"text": "Oda", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Sátira", "correct": true },
+      { "text": "Égloga", "correct": false },
+      { "text": "Soneto", "correct": false },
+      { "text": "Oda", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Crítica social",
     "explanation": "La sátira expone vicios humanos o sociales mediante la burla o exageración cómica."
   },
   {
+    "id": "CEPCOL9mQ",
     "question": "¿Qué caracteriza a una tragedia?",
     "options": [
-      {"text": "Conflicto con desenlace fatal", "correct": true},
-      {"text": "Situaciones cómicas", "correct": false},
-      {"text": "Final feliz", "correct": false},
-      {"text": "Diálogos cotidianos", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Conflicto con desenlace fatal", "correct": true },
+      { "text": "Situaciones cómicas", "correct": false },
+      { "text": "Final feliz", "correct": false },
+      { "text": "Diálogos cotidianos", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Destino trágico",
     "explanation": "La tragedia (ej: 'Edipo Rey') muestra personajes nobles que enfrentan un destino inevitablemente doloroso."
   },
   {
+    "id": "CEPCOL1wK",
     "question": "¿Qué tipo de texto satisface una necesidad práctica?",
     "options": [
-      {"text": "Texto funcional", "correct": true},
-      {"text": "Texto literario", "correct": false},
-      {"text": "Texto lírico", "correct": false},
-      {"text": "Texto histórico", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Texto funcional", "correct": true },
+      { "text": "Texto literario", "correct": false },
+      { "text": "Texto lírico", "correct": false },
+      { "text": "Texto histórico", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Uso cotidiano",
     "explanation": "Recetas, horarios o formularios son textos diseñados para resolver situaciones concretas."
   },
   {
+    "id": "CEPCOL5oX",
     "question": "¿Qué subgénero didáctico expone ideas en prosa libre?",
     "options": [
-      {"text": "Ensayo", "correct": true},
-      {"text": "Biografía", "correct": false},
-      {"text": "Discurso", "correct": false},
-      {"text": "Diálogo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Ensayo", "correct": true },
+      { "text": "Biografía", "correct": false },
+      { "text": "Discurso", "correct": false },
+      { "text": "Diálogo", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Reflexión abierta",
     "explanation": "El ensayo permite explorar temas sin estructura rígida, combinando análisis y estilo personal."
   },
   {
+    "id": "CEPCOL3qJ",
     "question": "¿Qué caracteriza a una comedia?",
     "options": [
-      {"text": "Humor y final feliz", "correct": true},
-      {"text": "Temas solemnes", "correct": false},
-      {"text": "Personajes mitológicos", "correct": false},
-      {"text": "Lenguaje jurídico", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Humor y final feliz", "correct": true },
+      { "text": "Temas solemnes", "correct": false },
+      { "text": "Personajes mitológicos", "correct": false },
+      { "text": "Lenguaje jurídico", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Risas garantizadas",
     "explanation": "La comedia retrata conflictos cotidianos con situaciones absurdas o diálogos ingeniosos que provocan risa."
   },
   {
+    "id": "CEPCOL7eU",
     "question": "¿Qué tipo de texto informa claramente sin opiniones?",
     "options": [
-      {"text": "Texto informativo", "correct": true},
-      {"text": "Texto argumentativo", "correct": false},
-      {"text": "Texto lírico", "correct": false},
-      {"text": "Texto publicitario", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Texto informativo", "correct": true },
+      { "text": "Texto argumentativo", "correct": false },
+      { "text": "Texto lírico", "correct": false },
+      { "text": "Texto publicitario", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Neutralidad",
     "explanation": "Noticias o enciclopedias priorizan datos verificables sobre interpretaciones subjetivas."
   },
   {
+    "id": "CEPCOL2tW",
     "question": "¿Qué subgénero lírico trata temas pastoriles?",
     "options": [
-      {"text": "Égloga", "correct": true},
-      {"text": "Sátira", "correct": false},
-      {"text": "Elegía", "correct": false},
-      {"text": "Oda", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Égloga", "correct": true },
+      { "text": "Sátira", "correct": false },
+      { "text": "Elegía", "correct": false },
+      { "text": "Oda", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Campo y pastores",
     "explanation": "La égloga idealiza la vida rural con diálogos entre pastores que expresan amor o melancolía."
   },
   {
+    "id": "CEPCOL6tP",
     "question": "¿Qué caracteriza a un poema épico?",
     "options": [
-      {"text": "Narra hazañas heroicas en verso", "correct": true},
-      {"text": "Critica sociales con ironía", "correct": false},
-      {"text": "Describe paisajes emotivos", "correct": false},
-      {"text": "Instruye sobre normas", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Narra hazañas heroicas en verso", "correct": true },
+      { "text": "Critica sociales con ironía", "correct": false },
+      { "text": "Describe paisajes emotivos", "correct": false },
+      { "text": "Instruye sobre normas", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Héroes en versos",
     "explanation": "La épica (ej: 'La Odisea') glorifica acciones de guerreros o fundadores de naciones con estilo grandilocuente."
   },
   {
+    "id": "CEPCOL8aB",
     "question": "¿Qué tipo de texto detalla características de algo?",
     "options": [
-      {"text": "Texto descriptivo", "correct": true},
-      {"text": "Texto normativo", "correct": false},
-      {"text": "Texto argumentativo", "correct": false},
-      {"text": "Texto dramático", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Texto descriptivo", "correct": true },
+      { "text": "Texto normativo", "correct": false },
+      { "text": "Texto argumentativo", "correct": false },
+      { "text": "Texto dramático", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Pintar con palabras",
     "explanation": "La descripción enfatiza rasgos físicos, sensoriales o funcionales de objetos, personas o lugares."
   },
   {
+    "id": "CEPCOL4mE",
     "question": "¿Qué subgénero narrativo mezcla hechos reales con elementos fantásticos?",
     "options": [
-      {"text": "Leyenda", "correct": true},
-      {"text": "Novela", "correct": false},
-      {"text": "Fábula", "correct": false},
-      {"text": "Ensayo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Leyenda", "correct": true },
+      { "text": "Novela", "correct": false },
+      { "text": "Fábula", "correct": false },
+      { "text": "Ensayo", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Tradición oral",
     "explanation": "Las leyendas (ej: 'El Cid') exageran eventos históricos añadiendo componentes mágicos o sobrenaturales."
   },
   {
+    "id": "CEPCOL9nJ",
     "question": "¿Qué caracteriza a un discurso?",
     "options": [
-      {"text": "Exposición oral para persuadir o informar", "correct": true},
-      {"text": "Diálogo teatral", "correct": false},
-      {"text": "Instrucciones técnicas", "correct": false},
-      {"text": "Descripción objetiva", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Exposición oral para persuadir o informar", "correct": true },
+      { "text": "Diálogo teatral", "correct": false },
+      { "text": "Instrucciones técnicas", "correct": false },
+      { "text": "Descripción objetiva", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Oratoria",
     "explanation": "Los discursos (políticos, académicos) estructuran ideas para impactar a una audiencia mediante recursos retóricos."
   },
   {
+    "id": "CEPCOL1wR",
     "question": "¿Qué tipo de texto instruye sobre cómo usar un aparato?",
     "options": [
-      {"text": "Texto técnico", "correct": true},
-      {"text": "Texto lírico", "correct": false},
-      {"text": "Texto histórico", "correct": false},
-      {"text": "Texto recreativo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Texto técnico", "correct": true },
+      { "text": "Texto lírico", "correct": false },
+      { "text": "Texto histórico", "correct": false },
+      { "text": "Texto recreativo", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Manuales",
     "explanation": "Los textos técnicos explican funcionamiento de dispositivos o procesos con precisión y claridad."
   },
   {
+    "id": "CEPCOL5hL",
     "question": "¿Qué subgénero dramático es breve y se representa entre actos?",
     "options": [
-      {"text": "Entremés", "correct": true},
-      {"text": "Tragedia", "correct": false},
-      {"text": "Comedia", "correct": false},
-      {"text": "Drama", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Entremés", "correct": true },
+      { "text": "Tragedia", "correct": false },
+      { "text": "Comedia", "correct": false },
+      { "text": "Drama", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Interludio cómico",
     "explanation": "El entremés (siglo de Oro español) aligeraba obras largas con sketches humorísticos independientes."
   },
   {
+    "id": "CEPCOL3sP",
     "question": "¿Qué caracteriza a una biografía?",
     "options": [
-      {"text": "Narra la vida de una persona real", "correct": true},
-      {"text": "Describe paisajes imaginarios", "correct": false},
-      {"text": "Instruye sobre normas", "correct": false},
-      {"text": "Critica sociales", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Narra la vida de una persona real", "correct": true },
+      { "text": "Describe paisajes imaginarios", "correct": false },
+      { "text": "Instruye sobre normas", "correct": false },
+      { "text": "Critica sociales", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Vida de personajes",
     "explanation": "Las biografías documentan eventos significativos y logros de individuos, basándose en evidencias."
   },
   {
+    "id": "CEPCOL7kE",
     "question": "¿Qué tipo de texto promueve normas jurídicas?",
     "options": [
-      {"text": "Texto jurídico", "correct": true},
-      {"text": "Texto literario", "correct": false},
-      {"text": "Texto científico", "correct": false},
-      {"text": "Texto recreativo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Texto jurídico", "correct": true },
+      { "text": "Texto literario", "correct": false },
+      { "text": "Texto científico", "correct": false },
+      { "text": "Texto recreativo", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Leyes y decretos",
     "explanation": "Estos textos formalizan regulaciones sociales con lenguaje preciso para su aplicación legal."
   },
   {
+    "id": "CEPCOL2rQ",
     "question": "¿Qué subgénero lírico es musical y amoroso?",
     "options": [
-      {"text": "Madrigal", "correct": true},
-      {"text": "Sátira", "correct": false},
-      {"text": "Elegía", "correct": false},
-      {"text": "Oda", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Madrigal", "correct": true },
+      { "text": "Sátira", "correct": false },
+      { "text": "Elegía", "correct": false },
+      { "text": "Oda", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Poesía cantada",
     "explanation": "El madrigal (Renacimiento) combina versos cortos con temática amorosa, diseñados para ser musicalizados."
   },
   {
+    "id": "CEPCOL6eM",
     "question": "¿Qué caracteriza a un artículo científico?",
     "options": [
-      {"text": "Presenta investigaciones con metodología", "correct": true},
-      {"text": "Narra historias ficticias", "correct": false},
-      {"text": "Expresa emociones subjetivas", "correct": false},
-      {"text": "Persuade para comprar productos", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Presenta investigaciones con metodología", "correct": true },
+      { "text": "Narra historias ficticias", "correct": false },
+      { "text": "Expresa emociones subjetivas", "correct": false },
+      { "text": "Persuade para comprar productos", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Rigor académico",
     "explanation": "Estos artículos comunican hallazgos mediante secciones estandarizadas (resumen, metodología, resultados)."
   },
   {
+    "id": "CEPCOL8aT",
     "question": "¿Qué tipo de texto analiza el pasado con perspectiva crítica?",
     "options": [
-      {"text": "Texto histórico", "correct": true},
-      {"text": "Texto publicitario", "correct": false},
-      {"text": "Texto técnico", "correct": false},
-      {"text": "Texto lírico", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Texto histórico", "correct": true },
+      { "text": "Texto publicitario", "correct": false },
+      { "text": "Texto técnico", "correct": false },
+      { "text": "Texto lírico", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Estudio de eventos",
     "explanation": "La historiografía interpreta causas y consecuencias de hechos pasados usando fuentes documentales."
   },
   {
+    "id": "CEPCOL4xU",
     "question": "¿Qué tipo de texto tiene como objetivo principal convencer al lector sobre una idea?",
     "options": [
-      {"text": "Texto argumentativo", "correct": true},
-      {"text": "Texto descriptivo", "correct": false},
-      {"text": "Texto narrativo", "correct": false},
-      {"text": "Texto informativo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Texto argumentativo", "correct": true },
+      { "text": "Texto descriptivo", "correct": false },
+      { "text": "Texto narrativo", "correct": false },
+      { "text": "Texto informativo", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Persuasión",
     "explanation": "Los textos argumentativos presentan razones para defender una postura e influir en la opinión del lector."
   },
   {
+    "id": "CEPCOL9jZ",
     "question": "¿Cuál de estos es un tipo de narrador en primera persona?",
     "options": [
-      {"text": "Narrador protagonista", "correct": true},
-      {"text": "Narrador omnisciente", "correct": false},
-      {"text": "Narrador observador", "correct": false},
-      {"text": "Narrador objetivo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Narrador protagonista", "correct": true },
+      { "text": "Narrador omnisciente", "correct": false },
+      { "text": "Narrador observador", "correct": false },
+      { "text": "Narrador objetivo", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Yo",
     "explanation": "El narrador protagonista cuenta la historia desde su perspectiva usando pronombres como 'yo' o 'mi'."
   },
   {
+    "id": "CEPCOL1qI",
     "question": "¿Qué tipo de texto relata hechos reales o imaginarios en orden cronológico?",
     "options": [
-      {"text": "Texto narrativo", "correct": true},
-      {"text": "Texto expositivo", "correct": false},
-      {"text": "Texto instructivo", "correct": false},
-      {"text": "Texto poético", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Texto narrativo", "correct": true },
+      { "text": "Texto expositivo", "correct": false },
+      { "text": "Texto instructivo", "correct": false },
+      { "text": "Texto poético", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Secuencia de eventos",
     "explanation": "La narrativa organiza acciones en el tiempo, ya sean ficticias (cuentos) o basadas en hechos reales (crónicas)."
   },
   {
+    "id": "CEPCOL5wA",
     "question": "¿Qué elemento NO pertenece a la estructura básica de un cuento?",
     "options": [
-      {"text": "Bibliografía", "correct": true},
-      {"text": "Introducción", "correct": false},
-      {"text": "Nudo", "correct": false},
-      {"text": "Desenlace", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Bibliografía", "correct": true },
+      { "text": "Introducción", "correct": false },
+      { "text": "Nudo", "correct": false },
+      { "text": "Desenlace", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Partes fundamentales",
     "explanation": "La bibliografía es propia de textos académicos, no de cuentos que siguen la estructura: introducción-nudo-desenlace."
   },
   {
+    "id": "CEPCOL3bT",
     "question": "¿Qué tipo de narrador conoce todos los pensamientos de los personajes?",
     "options": [
-      {"text": "Omnisciente", "correct": true},
-      {"text": "Testigo", "correct": false},
-      {"text": "Protagonista", "correct": false},
-      {"text": "Equisciente", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Omnisciente", "correct": true },
+      { "text": "Testigo", "correct": false },
+      { "text": "Protagonista", "correct": false },
+      { "text": "Equisciente", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Todo lo sabe",
     "explanation": "El narrador omnisciente tiene conocimiento total de la historia y la psicología de los personajes."
   },
   {
+    "id": "CEPCOL7rO",
     "question": "¿Qué caracteriza principalmente a los textos expositivos?",
     "options": [
-      {"text": "Explicar información de forma clara y objetiva", "correct": true},
-      {"text": "Contar una historia con personajes ficticios", "correct": false},
-      {"text": "Expresar sentimientos mediante recursos poéticos", "correct": false},
-      {"text": "Convencer al lector con argumentos persuasivos", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Explicar información de forma clara y objetiva", "correct": true },
+      { "text": "Contar una historia con personajes ficticios", "correct": false },
+      { "text": "Expresar sentimientos mediante recursos poéticos", "correct": false },
+      { "text": "Convencer al lector con argumentos persuasivos", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Finalidad informativa",
     "explanation": "Los textos expositivos (artículos científicos, enciclopedias) priorizan la transmisión neutral de conocimientos."
   },
   {
+    "id": "CEPCOL2dD",
     "question": "¿Qué tipo de narrador solo describe lo que puede observar externamente?",
     "options": [
-      {"text": "Narrador observador", "correct": true},
-      {"text": "Narrador omnisciente", "correct": false},
-      {"text": "Narrador protagonista", "correct": false},
-      {"text": "Narrador en segunda persona", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Narrador observador", "correct": true },
+      { "text": "Narrador omnisciente", "correct": false },
+      { "text": "Narrador protagonista", "correct": false },
+      { "text": "Narrador en segunda persona", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Cámara de video",
     "explanation": "Este narrador se limita a registrar acciones y diálogos sin acceder a pensamientos o sentimientos internos."
   },
   {
+    "id": "CEPCOL6pH",
     "question": "¿Qué elemento NO es propio de los textos descriptivos?",
     "options": [
-      {"text": "Secuencia temporal", "correct": true},
-      {"text": "Adjetivación", "correct": false},
-      {"text": "Imágenes sensoriales", "correct": false},
-      {"text": "Detalles físicos", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Secuencia temporal", "correct": true },
+      { "text": "Adjetivación", "correct": false },
+      { "text": "Imágenes sensoriales", "correct": false },
+      { "text": "Detalles físicos", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Pintar con palabras",
     "explanation": "La descripción se centra en características espaciales o sensoriales, no en el desarrollo temporal de eventos."
   },
   {
+    "id": "CEPCOL8aK",
     "question": "¿Qué tipo de texto instruye sobre cómo realizar una actividad?",
     "options": [
-      {"text": "Texto instructivo", "correct": true},
-      {"text": "Texto lírico", "correct": false},
-      {"text": "Texto dramático", "correct": false},
-      {"text": "Texto narrativo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Texto instructivo", "correct": true },
+      { "text": "Texto lírico", "correct": false },
+      { "text": "Texto dramático", "correct": false },
+      { "text": "Texto narrativo", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Pasos a seguir",
     "explanation": "Manuales, recetas o guías son ejemplos de textos que explican procedimientos paso a paso."
   },
   {
+    "id": "CEPCOL4xZ",
     "question": "¿Qué pronombre usa generalmente el narrador en segunda persona?",
     "options": [
-      {"text": "Tú", "correct": true},
-      {"text": "Yo", "correct": false},
-      {"text": "Él", "correct": false},
-      {"text": "Nosotros", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Tú", "correct": true },
+      { "text": "Yo", "correct": false },
+      { "text": "Él", "correct": false },
+      { "text": "Nosotros", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Dirigiéndose al lector",
     "explanation": "Este narrador involucra directamente al lector usando 'tú' o 'usted', común en guías o algunos textos experimentales."
   },
   {
+    "id": "CEPCOL9jA",
     "question": "¿Qué tipo de texto expresa emociones a través de versos o prosa poética?",
     "options": [
-      {"text": "Texto lírico", "correct": true},
-      {"text": "Texto periodístico", "correct": false},
-      {"text": "Texto argumentativo", "correct": false},
-      {"text": "Texto científico", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Texto lírico", "correct": true },
+      { "text": "Texto periodístico", "correct": false },
+      { "text": "Texto argumentativo", "correct": false },
+      { "text": "Texto científico", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Expresión subjetiva",
     "explanation": "La lírica utiliza recursos como métrica, rimas y figuras retóricas para comunicar sentimientos."
   },
   {
+    "id": "CEPCOL1qZ",
     "question": "¿Qué elemento es esencial en un texto narrativo?",
     "options": [
-      {"text": "Personajes", "correct": true},
-      {"text": "Gráficos estadísticos", "correct": false},
-      {"text": "Lista de materiales", "correct": false},
-      {"text": "Fórmulas matemáticas", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Personajes", "correct": true },
+      { "text": "Gráficos estadísticos", "correct": false },
+      { "text": "Lista de materiales", "correct": false },
+      { "text": "Fórmulas matemáticas", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Actores de la historia",
     "explanation": "Toda narración requiere personajes (humanos, animales o personificados) que realicen acciones."
   },
   {
+    "id": "CEPCOL5wG",
     "question": "¿Qué tipo de narrador cuenta la historia desde su participación limitada?",
     "options": [
-      {"text": "Narrador testigo", "correct": true},
-      {"text": "Narrador omnisciente", "correct": false},
-      {"text": "Narrador protagonista", "correct": false},
-      {"text": "Narrador editor", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Narrador testigo", "correct": true },
+      { "text": "Narrador omnisciente", "correct": false },
+      { "text": "Narrador protagonista", "correct": false },
+      { "text": "Narrador editor", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Espectador participante",
     "explanation": "Este narrador (ej: Dr. Watson en Sherlock Holmes) relata eventos que presenció pero sin ser el personaje principal."
   },
   {
+    "id": "CEPCOL3bJ",
     "question": "¿Qué caracteriza a los textos dramáticos?",
     "options": [
-      {"text": "Diálogos directos y acotaciones escénicas", "correct": true},
-      {"text": "Descripciones paisajísticas detalladas", "correct": false},
-      {"text": "Argumentos científicos complejos", "correct": false},
-      {"text": "Instrucciones técnicas paso a paso", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Diálogos directos y acotaciones escénicas", "correct": true },
+      { "text": "Descripciones paisajísticas detalladas", "correct": false },
+      { "text": "Argumentos científicos complejos", "correct": false },
+      { "text": "Instrucciones técnicas paso a paso", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Teatro",
     "explanation": "Obras teatrales o guiones se escriben para ser representados, priorizando diálogos y notas de dirección escénica."
   },
   {
+    "id": "CEPCOL7eO",
     "question": "¿Qué tipo de texto combina características literarias y periodísticas?",
     "options": [
-      {"text": "Crónica", "correct": true},
-      {"text": "Ensayo", "correct": false},
-      {"text": "Manual", "correct": false},
-      {"text": "Soneto", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Crónica", "correct": true },
+      { "text": "Ensayo", "correct": false },
+      { "text": "Manual", "correct": false },
+      { "text": "Soneto", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Narrativa de hechos reales",
     "explanation": "La crónica relata eventos reales con técnicas narrativas como descripciones vívidas o desarrollo de personajes."
   },
   {
+    "id": "CEPCOL2tV",
     "question": "¿Qué elemento NO es propio de los textos periodísticos informativos?",
     "options": [
-      {"text": "Opiniones personales del autor", "correct": true},
-      {"text": "Hechos verificables", "correct": false},
-      {"text": "Estructura de pirámide invertida", "correct": false},
-      {"text": "Fuentes citadas", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Opiniones personales del autor", "correct": true },
+      { "text": "Hechos verificables", "correct": false },
+      { "text": "Estructura de pirámide invertida", "correct": false },
+      { "text": "Fuentes citadas", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Objetividad",
     "explanation": "Noticias o reportajes objetivos presentan datos sin juicios personales, reservando opiniones para artículos de opinión."
   },
   {
+    "id": "CEPCOL6pH",
     "question": "¿Qué tipo de narrador alterna entre primera y tercera persona?",
     "options": [
-      {"text": "Narrador equisciente", "correct": true},
-      {"text": "Narrador omnisciente", "correct": false},
-      {"text": "Narrador protagonista", "correct": false},
-      {"text": "Narrador testigo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Narrador equisciente", "correct": true },
+      { "text": "Narrador omnisciente", "correct": false },
+      { "text": "Narrador protagonista", "correct": false },
+      { "text": "Narrador testigo", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Perspectiva variable",
     "explanation": "Este narrador combina 'yo' para sus vivencias con 'él/ella' para eventos ajenos, mostrando conocimiento limitado."
   },
   {
+    "id": "CEPCOL8aB",
     "question": "¿Qué caracteriza a los textos epistolares?",
     "options": [
-      {"text": "Estructura en formato de cartas", "correct": true},
-      {"text": "Uso exclusivo de diálogos", "correct": false},
-      {"text": "Ausencia de personajes", "correct": false},
-      {"text": "Lenguaje técnico especializado", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Estructura en formato de cartas", "correct": true },
+      { "text": "Uso exclusivo de diálogos", "correct": false },
+      { "text": "Ausencia de personajes", "correct": false },
+      { "text": "Lenguaje técnico especializado", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Correspondencia",
     "explanation": "Novelas o relatos epistolares (como 'Drácula') se componen de cartas ficticias que avanzan la trama."
   },
   {
+    "id": "CEPCOL4oJ",
     "question": "¿Qué tipo de texto explica un proceso científico de manera accesible?",
     "options": [
-      {"text": "Texto divulgativo", "correct": true},
-      {"text": "Texto legal", "correct": false},
-      {"text": "Texto poético", "correct": false},
-      {"text": "Texto dramático", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Texto divulgativo", "correct": true },
+      { "text": "Texto legal", "correct": false },
+      { "text": "Texto poético", "correct": false },
+      { "text": "Texto dramático", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Ciencia para todos",
     "explanation": "La divulgación adapta contenidos especializados para público general usando ejemplos y lenguaje claro."
   },
   {
+    "id": "CEPCOL9hP",
     "question": "¿Qué elemento es clave en los textos publicitarios?",
     "options": [
-      {"text": "Persuasión mediante recursos retóricos", "correct": true},
-      {"text": "Exhaustividad de datos técnicos", "correct": false},
-      {"text": "Neutralidad informativa", "correct": false},
-      {"text": "Estructura narrativa compleja", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Persuasión mediante recursos retóricos", "correct": true },
+      { "text": "Exhaustividad de datos técnicos", "correct": false },
+      { "text": "Neutralidad informativa", "correct": false },
+      { "text": "Estructura narrativa compleja", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Vender ideas",
     "explanation": "La publicidad emplea eslóganes, imágenes sugerentes y argumentos emocionales para influir en el receptor."
   },
   {
+    "id": "CEPCOL1uE",
     "question": "¿Qué tipo de narrador habla directamente al lector como si lo guiara?",
     "options": [
-      {"text": "Narrador intruso", "correct": true},
-      {"text": "Narrador objetivo", "correct": false},
-      {"text": "Narrador testigo", "correct": false},
-      {"text": "Narrador protagonista", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Narrador intruso", "correct": true },
+      { "text": "Narrador objetivo", "correct": false },
+      { "text": "Narrador testigo", "correct": false },
+      { "text": "Narrador protagonista", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Rompe la cuarta pared",
     "explanation": "Este narrador (común en novelas del s.XIX) interpela al lector con comentarios o advertencias sobre la trama."
   },
   {
+    "id": "CEPCOL5vY",
     "question": "¿Qué caracteriza a los textos jurídicos?",
     "options": [
-      {"text": "Lenguaje preciso y términos técnicos legales", "correct": true},
-      {"text": "Uso de metáforas y símiles creativos", "correct": false},
-      {"text": "Estructura narrativa con personajes", "correct": false},
-      {"text": "Finalidad estética o emocional", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Lenguaje preciso y términos técnicos legales", "correct": true },
+      { "text": "Uso de metáforas y símiles creativos", "correct": false },
+      { "text": "Estructura narrativa con personajes", "correct": false },
+      { "text": "Finalidad estética o emocional", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Documentos legales",
     "explanation": "Leyes o contratos emplean lenguaje formal y específico para evitar ambigüedades en su interpretación."
   },
   {
+    "id": "CEPCOL3qS",
     "question": "¿Qué tipo de texto presenta una historia mediante viñetas e imágenes?",
     "options": [
-      {"text": "Cómic o novela gráfica", "correct": true},
-      {"text": "Ensayo filosófico", "correct": false},
-      {"text": "Poema épico", "correct": false},
-      {"text": "Artículo científico", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Cómic o novela gráfica", "correct": true },
+      { "text": "Ensayo filosófico", "correct": false },
+      { "text": "Poema épico", "correct": false },
+      { "text": "Artículo científico", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Narrativa visual",
     "explanation": "Este formato combina ilustraciones y texto (globos, onomatopeyas) para contar historias de manera secuencial."
   },
   {
+    "id": "CEPCOL7lC",
     "question": "¿Qué elemento es esencial en un texto biográfico?",
     "options": [
-      {"text": "Datos verificables sobre una persona real", "correct": true},
-      {"text": "Personajes y eventos ficticios", "correct": false},
-      {"text": "Lenguaje poético y metafórico", "correct": false},
-      {"text": "Estructura dramática con actos", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Datos verificables sobre una persona real", "correct": true },
+      { "text": "Personajes y eventos ficticios", "correct": false },
+      { "text": "Lenguaje poético y metafórico", "correct": false },
+      { "text": "Estructura dramática con actos", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Vida de alguien",
     "explanation": "Las biografías narran eventos significativos de una persona existente, basándose en fuentes documentales."
   },
   {
+    "id": "CEPCOL2jT",
     "question": "¿Qué tipo de narrador cuenta la historia desde fuera, sin participación?",
     "options": [
-      {"text": "Narrador externo", "correct": true},
-      {"text": "Narrador protagonista", "correct": false},
-      {"text": "Narrador testigo", "correct": false},
-      {"text": "Narrador en segunda persona", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Narrador externo", "correct": true },
+      { "text": "Narrador protagonista", "correct": false },
+      { "text": "Narrador testigo", "correct": false },
+      { "text": "Narrador en segunda persona", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Cámara imparcial",
     "explanation": "Este narrador relata en tercera persona sin ser parte de la historia ni conocer pensamientos internos."
   },
   {
+    "id": "CEPCOL6eL",
     "question": "¿Qué caracteriza a los textos digitales?",
     "options": [
-      {"text": "Hipervínculos y multimedia interactiva", "correct": true},
-      {"text": "Estructura lineal fija", "correct": false},
-      {"text": "Soporte exclusivo en papel", "correct": false},
-      {"text": "Ausencia de elementos visuales", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Hipervínculos y multimedia interactiva", "correct": true },
+      { "text": "Estructura lineal fija", "correct": false },
+      { "text": "Soporte exclusivo en papel", "correct": false },
+      { "text": "Ausencia de elementos visuales", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Tecnología",
     "explanation": "Páginas web o ebooks incluyen videos, enlaces y diseño adaptable, permitiendo navegación no secuencial."
   },
   {
+    "id": "CEPCOL8tZ",
     "question": "¿Qué tipo de texto registra experiencias personales con fechas?",
     "options": [
-      {"text": "Diario íntimo", "correct": true},
-      {"text": "Cuento fantástico", "correct": false},
-      {"text": "Artículo de opinión", "correct": false},
-      {"text": "Guión teatral", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Diario íntimo", "correct": true },
+      { "text": "Cuento fantástico", "correct": false },
+      { "text": "Artículo de opinión", "correct": false },
+      { "text": "Guión teatral", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Reflexiones cotidianas",
     "explanation": "Los diarios personales organizan entradas por fechas y expresan vivencias subjetivas del autor."
   },
   {
+    "id": "CEPCOL4vR",
     "question": "¿Qué elemento NO es propio de los mitos?",
     "options": [
-      {"text": "Explicaciones científicas actuales", "correct": true},
-      {"text": "Dioses o seres sobrenaturales", "correct": false},
-      {"text": "Orígenes del mundo o cultura", "correct": false},
-      {"text": "Enseñanzas morales o cosmovisiones", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Explicaciones científicas actuales", "correct": true },
+      { "text": "Dioses o seres sobrenaturales", "correct": false },
+      { "text": "Orígenes del mundo o cultura", "correct": false },
+      { "text": "Enseñanzas morales o cosmovisiones", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Tradición oral",
     "explanation": "Los mitos son relatos ancestrales que explican fenómenos mediante lo sagrado, no con métodos científicos modernos."
   },
   {
+    "id": "CEPCOL9mI",
     "question": "¿Qué tipo de narrador revela gradualmente información limitada?",
     "options": [
-      {"text": "Narrador de conocimiento parcial", "correct": true},
-      {"text": "Narrador omnisciente", "correct": false},
-      {"text": "Narrador protagonista", "correct": false},
-      {"text": "Narrador editorial", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Narrador de conocimiento parcial", "correct": true },
+      { "text": "Narrador omnisciente", "correct": false },
+      { "text": "Narrador protagonista", "correct": false },
+      { "text": "Narrador editorial", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Suspense",
     "explanation": "Este narrador (común en misterio) dosifica datos para generar intriga, mostrando solo lo que ciertos personajes saben."
   },
   {
+    "id": "CEPCOL1wF",
     "question": "¿Qué caracteriza a las fábulas?",
     "options": [
-      {"text": "Personajes animales con moraleja final", "correct": true},
-      {"text": "Hechos históricos documentados", "correct": false},
-      {"text": "Diálogos filosóficos complejos", "correct": false},
-      {"text": "Lenguaje técnico especializado", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Personajes animales con moraleja final", "correct": true },
+      { "text": "Hechos históricos documentados", "correct": false },
+      { "text": "Diálogos filosóficos complejos", "correct": false },
+      { "text": "Lenguaje técnico especializado", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Enseñanza moral",
     "explanation": "Fábulas como las de Esopo usan animales antropomórficos para ilustrar lecciones de vida con finales didácticos."
   },
   {
+    "id": "CEPCOL5oB",
     "question": "¿Qué tipo de texto mezcla narración y elementos visuales organizados en cuadros?",
     "options": [
-      {"text": "Historieta o cómic", "correct": true},
-      {"text": "Ensayo académico", "correct": false},
-      {"text": "Poema lírico", "correct": false},
-      {"text": "Reportaje investigativo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Historieta o cómic", "correct": true },
+      { "text": "Ensayo académico", "correct": false },
+      { "text": "Poema lírico", "correct": false },
+      { "text": "Reportaje investigativo", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Globos de diálogo",
     "explanation": "Este formato secuencial integra viñetas ilustradas con texto en globos para contar historias visualmente."
   },
   {
+    "id": "CEPCOL3qA",
     "question": "¿Qué estrategia permite inferir significados de palabras desconocidas mediante el contexto circundante?",
     "options": [
-      {"text": "Uso de claves contextuales", "correct": true},
-      {"text": "Análisis etimológico exhaustivo", "correct": false},
-      {"text": "Identificación de la estructura sintáctica principal en párrafos complejos", "correct": false},
-      {"text": "Búsqueda de antónimos en diccionarios especializados", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Uso de claves contextuales", "correct": true },
+      { "text": "Análisis etimológico exhaustivo", "correct": false },
+      { "text": "Identificación de la estructura sintáctica principal en párrafos complejos", "correct": false },
+      { "text": "Búsqueda de antónimos en diccionarios especializados", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Pistas en el entorno lingüístico",
     "explanation": "Las claves contextuales utilizan palabras vecinas y la coherencia textual para deducir significados sin fuentes externas."
   },
   {
+    "id": "CEPCOL7lT",
     "question": "En un texto argumentativo, ¿qué función cumple principalmente la concesión?",
     "options": [
-      {"text": "Reconocer parcialmente argumentos contrarios para fortalecer la propia postura", "correct": true},
-      {"text": "Introducir datos estadísticos irrelevantes", "correct": false},
-      {"text": "Descalificar completamente la oposición mediante afirmaciones categóricas sin fundamento", "correct": false},
-      {"text": "Establecer analogías literarias extensas", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Reconocer parcialmente argumentos contrarios para fortalecer la propia postura", "correct": true },
+      { "text": "Introducir datos estadísticos irrelevantes", "correct": false },
+      { "text": "Descalificar completamente la oposición mediante afirmaciones categóricas sin fundamento", "correct": false },
+      { "text": "Establecer analogías literarias extensas", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Diplomacia retórica",
     "explanation": "La concesión demuestra objetividad al admitir aspectos válidos de la contraargumentación, incrementando la credibilidad del autor."
   },
   {
+    "id": "CEPCOL2jT",
     "question": "Completa el principio: La ______ implica extraer la esencia del texto preservando las ideas ______ sin incluir ______ personales.",
     "options": [
-      {"text": "síntesis, fundamentales, interpretaciones", "correct": true},
-      {"text": "paráfrasis, secundarias, conclusiones", "correct": false},
-      {"text": "interpretación, primordiales, valoraciones subjetivas innecesarias", "correct": false},
-      {"text": "resumen, principales, opiniones", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "síntesis, fundamentales, interpretaciones", "correct": true },
+      { "text": "paráfrasis, secundarias, conclusiones", "correct": false },
+      { "text": "interpretación, primordiales, valoraciones subjetivas innecesarias", "correct": false },
+      { "text": "resumen, principales, opiniones", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Reducción textual objetiva",
     "explanation": "La síntesis requiere identificar y condensar únicamente las ideas centrales manteniendo neutralidad y fidelidad al contenido original."
   },
   {
+    "id": "CEPCOL6eZ",
     "question": "Relaciona los tipos de discurso con sus características: A) Descriptivo, B) Narrativo, C) Expositivo; I) Secuencia temporal de eventos, II) Presentación objetiva de conceptos, III) Atribución de cualidades sensoriales",
     "options": [
-      {"text": "A-III; B-I; C-II", "correct": true},
-      {"text": "A-II; B-III; C-I", "correct": false},
-      {"text": "A-I; B-II; C-III", "correct": false},
-      {"text": "A-III; B-II; C-I", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "A-III; B-I; C-II", "correct": true },
+      { "text": "A-II; B-III; C-I", "correct": false },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-III; B-II; C-I", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Finalidad comunicativa",
     "explanation": "El discurso descriptivo pinta rasgos sensoriales, el narrativo ordena acciones en el tiempo, y el expositivo explica ideas de manera impersonal."
   },
   {
+    "id": "CEPCOL8tH",
     "question": "¿Cuál es el propósito principal del uso de ironía en textos críticos?",
     "options": [
-      {"text": "Cuestionar realidades mediante contraste entre lo dicho y lo implícito", "correct": true},
-      {"text": "Simplificar vocabulario técnico para lectores noveles", "correct": false},
-      {"text": "Reforzar argumentos con apoyo emocional directo y explícito", "correct": false},
-      {"text": "Ampliar detalles descriptivos con fines humorísticos superficiales", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Cuestionar realidades mediante contraste entre lo dicho y lo implícito", "correct": true },
+      { "text": "Simplificar vocabulario técnico para lectores noveles", "correct": false },
+      { "text": "Reforzar argumentos con apoyo emocional directo y explícito", "correct": false },
+      { "text": "Ampliar detalles descriptivos con fines humorísticos superficiales", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Doble significado intencional",
     "explanation": "La ironía genera crítica social o conceptual a través de la discrepancia calculada entre el mensaje literal y la intención real."
   },
   {
+    "id": "CEPCOL4vS",
     "question": "Son indicadores de sesgo en un texto informativo:",
     "options": [
-      {"text": "Adjetivación valorativa, generalizaciones absolutas, omisión de perspectivas alternativas", "correct": true},
-      {"text": "Citas documentadas, estructura lógica, conclusión abierta", "correct": false},
-      {"text": "Notas al pie, bibliografía especializada, metodología transparente", "correct": false},
-      {"text": "Preguntas retóricas, metáforas, hipérboles evidentes", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Adjetivación valorativa, generalizaciones absolutas, omisión de perspectivas alternativas", "correct": true },
+      { "text": "Citas documentadas, estructura lógica, conclusión abierta", "correct": false },
+      { "text": "Notas al pie, bibliografía especializada, metodología transparente", "correct": false },
+      { "text": "Preguntas retóricas, metáforas, hipérboles evidentes", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Manipulación discursiva",
     "explanation": "El sesgo se manifiesta mediante lenguaje emocionalmente cargado, simplificaciones inexactas y exclusión deliberada de información relevante contraria."
   },
   {
+    "id": "CEPCOL9mQ",
     "question": "¿Qué elemento de cohesión textual permite establecer relaciones lógicas como causa-efecto o contraste?",
     "options": [
-      {"text": "Conectores discursivos", "correct": true},
-      {"text": "Campo semántico dominante", "correct": false},
-      {"text": "Referentes anafóricos", "correct": false},
-      {"text": "Variación léxica sistemática", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Conectores discursivos", "correct": true },
+      { "text": "Campo semántico dominante", "correct": false },
+      { "text": "Referentes anafóricos", "correct": false },
+      { "text": "Variación léxica sistemática", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Hiladores lógicos",
     "explanation": "Conectores como \"por tanto\", \"sin embargo\" o \"en consecuencia\" explicitan relaciones entre ideas para guiar la interpretación."
   },
   {
+    "id": "CEPCOL1wK",
     "question": "En análisis literario, ¿qué función cumple principalmente el símbolo?",
     "options": [
-      {"text": "Representar conceptos abstractos mediante elementos concretos cargados de significado", "correct": true},
-      {"text": "Describir escenarios con máximo realismo sensorial", "correct": false},
-      {"text": "Simplificar la trama para facilitar comprensión inmediata", "correct": false},
-      {"text": "Establecer comparaciones directas usando \"como\" o \"semejante a\"", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Representar conceptos abstractos mediante elementos concretos cargados de significado", "correct": true },
+      { "text": "Describir escenarios con máximo realismo sensorial", "correct": false },
+      { "text": "Simplificar la trama para facilitar comprensión inmediata", "correct": false },
+      { "text": "Establecer comparaciones directas usando \"como\" o \"semejante a\"", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Significado trascendente",
     "explanation": "El símbolo trasciende su significado literal para evocar ideas complejas (ej: paloma = paz) mediante asociaciones culturales o universales."
   },
   {
+    "id": "CEPCOL5oX",
     "question": "Completa el principio de coherencia: La ______ textual depende de la progresión ______ y la ______ entre ideas.",
     "options": [
-      {"text": "unidad, temática, conexión lógica", "correct": true},
-      {"text": "claridad, gramatical, diferenciación", "correct": false},
-      {"text": "complejidad, argumentativa, oposición sistemática", "correct": false},
-      {"text": "extensión, secuencial, separación", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "unidad, temática, conexión lógica", "correct": true },
+      { "text": "claridad, gramatical, diferenciación", "correct": false },
+      { "text": "complejidad, argumentativa, oposición sistemática", "correct": false },
+      { "text": "extensión, secuencial, separación", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Hilo conductor",
     "explanation": "La coherencia surge de desarrollar un tema central mediante relaciones lógicas claras que enlazan proposiciones de manera orgánica."
   },
   {
+    "id": "CEPCOL3qJ",
     "question": "¿Qué técnica permite identificar la postura del autor en textos persuasivos?",
     "options": [
-      {"text": "Análisis de modalización (verbos, adverbios y adjetivos valorativos)", "correct": true},
-      {"text": "Conteo de citas académicas por párrafo", "correct": false},
-      {"text": "Evaluación de complejidad sintáctica promedio", "correct": false},
-      {"text": "Identificación exhaustiva de campos semánticos neutros", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Análisis de modalización (verbos, adverbios y adjetivos valorativos)", "correct": true },
+      { "text": "Conteo de citas académicas por párrafo", "correct": false },
+      { "text": "Evaluación de complejidad sintáctica promedio", "correct": false },
+      { "text": "Identificación exhaustiva de campos semánticos neutros", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Marcas subjetivas",
     "explanation": "La modalización revela actitudes mediante recursos como verbos de opinión (\"creer\", \"necesitar\"), intensificadores (\"totalmente\") o léxico connotativo."
   },
   {
+    "id": "CEPCOL7eU",
     "question": "Relaciona figuras retóricas con su función: A) Metáfora, B) Hipérbole, C) Anáfora; I) Énfasis por repetición inicial, II) Exageración con fines expresivos, III) Identificación sugestiva entre conceptos",
     "options": [
-      {"text": "A-III; B-II; C-I", "correct": true},
-      {"text": "A-II; B-I; C-III", "correct": false},
-      {"text": "A-I; B-III; C-II", "correct": false},
-      {"text": "A-III; B-I; C-II", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "A-III; B-II; C-I", "correct": true },
+      { "text": "A-II; B-I; C-III", "correct": false },
+      { "text": "A-I; B-III; C-II", "correct": false },
+      { "text": "A-III; B-I; C-II", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Recursos estilísticos",
     "explanation": "La metáfora establece relaciones analógicas implícitas, la hipérbole amplifica rasgos para impacto emocional, y la anáfora repite estructuras para ritmo y énfasis."
   },
   {
+    "id": "CEPCOL2tW",
     "question": "En comprensión crítica, ¿qué caracteriza principalmente un argumento ad hominem?",
     "options": [
-      {"text": "Desviar el debate atacando a la persona en lugar de sus ideas", "correct": true},
-      {"text": "Apelar a emociones mediante lenguaje conmovedor pero irrelevante", "correct": false},
-      {"text": "Generalizar a partir de casos insuficientes o no representativos", "correct": false},
-      {"text": "Presentar solo dos alternativas excluyentes cuando existen más opciones posibles", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Desviar el debate atacando a la persona en lugar de sus ideas", "correct": true },
+      { "text": "Apelar a emociones mediante lenguaje conmovedor pero irrelevante", "correct": false },
+      { "text": "Generalizar a partir de casos insuficientes o no representativos", "correct": false },
+      { "text": "Presentar solo dos alternativas excluyentes cuando existen más opciones posibles", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Falacia personalista",
     "explanation": "Esta falacia evade la discusión de los argumentos mediante críticas irrelevantes al oponente (ej: \"no puedes opinar de economía porque no tienes título\")."
   },
   {
+    "id": "CEPCOL6tP",
     "question": "¿Qué elemento permite diferenciar hecho de opinión en textos periodísticos?",
     "options": [
-      {"text": "Verificabilidad objetiva versus juicios subjetivos", "correct": true},
-      {"text": "Extensión de los párrafos y complejidad léxica", "correct": false},
-      {"text": "Uso predominante de conectores causales o consecutivos", "correct": false},
-      {"text": "Presencia de citas textuales entrecomilladas o referencias bibliográficas", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Verificabilidad objetiva versus juicios subjetivos", "correct": true },
+      { "text": "Extensión de los párrafos y complejidad léxica", "correct": false },
+      { "text": "Uso predominante de conectores causales o consecutivos", "correct": false },
+      { "text": "Presencia de citas textuales entrecomilladas o referencias bibliográficas", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Criterio de comprobación",
     "explanation": "Los hechos son comprobables con evidencia empírica o datos, mientras las opiniones expresan valoraciones, creencias o interpretaciones personales."
   },
   {
-    "question": "Completa el principio: La ______ eficaz requiere distinguir entre ideas ______ y detalles ______.",
+    "id": "CEPCOL8aB",
+    "question": "Completa el principio: La ______ eficaz exige distinguir entre ideas ______ y detalles ______.",
     "options": [
-      {"text": "jerarquización, principales, secundarios", "correct": true},
-      {"text": "sistematización, abstractas, concretos", "correct": false},
-      {"text": "clasificación, fundamentales, irrelevantes complementarios", "correct": false},
-      {"text": "organización, primarias, accesorios", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "jerarquización, principales, secundarios", "correct": true },
+      { "text": "sistematización, abstractas, concretos", "correct": false },
+      { "text": "clasificación, fundamentales, irrelevantes complementarios", "correct": false },
+      { "text": "organización, primarias, accesorios", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Pirámide informativa",
     "explanation": "La comprensión profunda exige identificar la importancia relativa de cada información, priorizando tesis sobre ejemplos o datos complementarios."
   },
   {
+    "id": "CEPCOL4mE",
     "question": "Son características de textos expositivos complejos:",
     "options": [
-      {"text": "Estructura deductiva/inductiva, tecnicismos precisos, función informativa", "correct": true},
-      {"text": "Lenguaje connotativo, finalidad estética, desarrollo narrativo", "correct": false},
-      {"text": "Argumentación polémica, persuasión emocional, conclusiones cerradas", "correct": false},
-      {"text": "Dialogismo marcado, subjetividad explícita, recursos poéticos", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Estructura deductiva/inductiva, tecnicismos precisos, función informativa", "correct": true },
+      { "text": "Lenguaje connotativo, finalidad estética, desarrollo narrativo", "correct": false },
+      { "text": "Argumentación polémica, persuasión emocional, conclusiones cerradas", "correct": false },
+      { "text": "Dialogismo marcado, subjetividad explícita, recursos poéticos", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Rigor conceptual",
     "explanation": "Estos textos priorizan la transmisión objetiva de conocimiento mediante terminología especializada y organización lógica de contenidos."
   },
   {
+    "id": "CEPCOL9nJ",
     "question": "¿Qué estrategia facilita la comprensión de textos con alta densidad conceptual?",
     "options": [
-      {"text": "Elaborar mapas conceptuales jerarquizando ideas", "correct": true},
-      {"text": "Memorizar definiciones técnicas de forma aislada", "correct": false},
-      {"text": "Releer rápidamente buscando palabras clave subrayadas", "correct": false},
-      {"text": "Buscar resúmenes externos omitiendo la lectura completa", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Elaborar mapas conceptuales jerarquizando ideas", "correct": true },
+      { "text": "Memorizar definiciones técnicas de forma aislada", "correct": false },
+      { "text": "Releer rápidamente buscando palabras clave subrayadas", "correct": false },
+      { "text": "Buscar resúmenes externos omitiendo la lectura completa", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Visualización relacional",
     "explanation": "Los organizadores gráficos explicitan relaciones entre conceptos (causales, de jerarquía, contraste) facilitando la integración de información compleja."
   },
   {
+    "id": "CEPCOL1wR",
     "question": "En interpretación literaria, ¿qué denota principalmente el tono de un texto?",
     "options": [
-      {"text": "Actitud emocional del autor hacia el tema o audiencia", "correct": true},
-      {"text": "Cantidad de figuras retóricas por unidad textual", "correct": false},
-      {"text": "Complejidad métrica en composiciones poéticas", "correct": false},
-      {"text": "Variedad de registros lingüísticos empleados simultáneamente", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Actitud emocional del autor hacia el tema o audiencia", "correct": true },
+      { "text": "Cantidad de figuras retóricas por unidad textual", "correct": false },
+      { "text": "Complejidad métrica en composiciones poéticas", "correct": false },
+      { "text": "Variedad de registros lingüísticos empleados simultáneamente", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Carga afectiva",
     "explanation": "El tono refleja la posición emocional (irónico, solemne, nostálgico) a través de elecciones léxicas, puntuación y estructuras sintácticas."
   },
   {
+    "id": "CEPCOL5hL",
     "question": "Relaciona tipos de párrafos con su función: A) Introductorio, B) De desarrollo, C) Conclusivo; I) Presentar tesis u objetivo central, II) Argumentar o ejemplificar, III) Sintetizar y proyectar implicaciones",
     "options": [
-      {"text": "A-I; B-II; C-III", "correct": true},
-      {"text": "A-II; B-III; C-I", "correct": false},
-      {"text": "A-III; B-I; C-II", "correct": false},
-      {"text": "A-I; B-III; C-II", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "A-I; B-II; C-III", "correct": true },
+      { "text": "A-II; B-III; C-I", "correct": false },
+      { "text": "A-III; B-I; C-II", "correct": false },
+      { "text": "A-I; B-III; C-II", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Progresión discursiva",
     "explanation": "La introducción establece el enfoque, el desarrollo amplía con evidencias, y la conclusión consolida significados derivados."
   },
   {
+    "id": "CEPCOL3sP",
     "question": "¿Qué caracteriza la ambigüedad deliberada en poesía?",
     "options": [
-      {"text": "Polisemia controlada que enriquece interpretaciones posibles", "correct": true},
-      {"text": "Falta de claridad por errores sintácticos no intencionales", "correct": false},
-      {"text": "Uso exclusivo de lenguaje denotativo para precisión descriptiva", "correct": false},
-      {"text": "Explicación exhaustiva de símbolos en notas al calce", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Polisemia controlada que enriquece interpretaciones posibles", "correct": true },
+      { "text": "Falta de claridad por errores sintácticos no intencionales", "correct": false },
+      { "text": "Uso exclusivo de lenguaje denotativo para precisión descriptiva", "correct": false },
+      { "text": "Explicación exhaustiva de símbolos en notas al calce", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Apertura semántica",
     "explanation": "La ambigüedad poética busca multiplicar sentidos mediante palabras o construcciones que permiten lecturas válidas simultáneas."
   },
   {
+    "id": "CEPCOL7kE",
     "question": "Completa el principio: La ______ efectiva exige ______ preguntas antes, durante y después de la ______.",
     "options": [
-      {"text": "comprensión, formular, lectura", "correct": true},
-      {"text": "redacción, evitar, escritura", "correct": false},
-      {"text": "investigación, recopilar, síntesis", "correct": false},
-      {"text": "argumentación, memorizar, exposición", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "comprensión, formular, lectura", "correct": true },
+      { "text": "redacción, evitar, escritura", "correct": false },
+      { "text": "investigación, recopilar, síntesis", "correct": false },
+      { "text": "argumentación, memorizar, exposición", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Diálogo con el texto",
     "explanation": "Cuestionar activamente el material (propósito, consistencia, implicaciones) profundiza el compromiso cognitivo y la metacomprensión."
   },
   {
+    "id": "CEPCOL2rQ",
     "question": "Son funciones del esquema en la comprensión lectora:",
     "options": [
-      {"text": "Organizar información visualmente, identificar jerarquías, facilitar revisión", "correct": true},
-      {"text": "Reemplazar la lectura completa, reducir vocabulario, simplificar contenido", "correct": false},
-      {"text": "Decodificar palabras técnicas, traducir textos, evaluar fuentes", "correct": false},
-      {"text": "Mejorar velocidad lectora, memorizar automáticamente, generar citas", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Organizar información visualmente, identificar jerarquías, facilitar revisión", "correct": true },
+      { "text": "Reemplazar la lectura completa, reducir vocabulario, simplificar contenido", "correct": false },
+      { "text": "Decodificar palabras técnicas, traducir textos, evaluar fuentes", "correct": false },
+      { "text": "Mejorar velocidad lectora, memorizar automáticamente, generar citas", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Andamiaje cognitivo",
     "explanation": "Los esquemas representan relaciones conceptuales mediante estructuras gráficas que potencian el procesamiento y retención de información compleja."
   },
   {
+    "id": "CEPCOL6eM",
     "question": "¿Qué indica la presencia de deícticos en un texto narrativo?",
     "options": [
-      {"text": "Dependencia del contexto situacional para su interpretación precisa", "correct": true},
-      {"text": "Uso exclusivo de lenguaje técnico especializado", "correct": false},
-      {"text": "Predominio de descripciones objetivas sin focalización", "correct": false},
-      {"text": "Ausencia de elementos contextuales relevantes para la comprensión", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Dependencia del contexto situacional para su interpretación precisa", "correct": true },
+      { "text": "Uso exclusivo de lenguaje técnico especializado", "correct": false },
+      { "text": "Predominio de descripciones objetivas sin focalización", "correct": false },
+      { "text": "Ausencia de elementos contextuales relevantes para la comprensión", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Referencia contextual",
     "explanation": "Deícticos (\"aquí\", \"ahora\", \"yo\") requieren conocimiento del contexto espaciotemporal o personal para asignar referentes concretos."
   },
   {
+    "id": "CEPCOL8aT",
     "question": "En análisis discursivo, ¿qué revela principalmente la polifonía?",
     "options": [
-      {"text": "Coexistencia de múltiples voces o perspectivas en el texto", "correct": true},
-      {"text": "Uniformidad ideológica del autor en todas las secciones", "correct": false},
-      {"text": "Dominio exclusivo de registro formal sin variaciones", "correct": false},
-      {"text": "Repetición monótona de estructuras sintácticas idénticas", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Coexistencia de múltiples voces o perspectivas en el texto", "correct": true },
+      { "text": "Uniformidad ideológica del autor en todas las secciones", "correct": false },
+      { "text": "Dominio exclusivo de registro formal sin variaciones", "correct": false },
+      { "text": "Repetición monótona de estructuras sintácticas idénticas", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Orquestación de voces",
     "explanation": "La polifonía evidencia la inclusión de discursos sociales diversos (citas, puntos de vista alternos) que interactúan dialécticamente."
   },
   {
+    "id": "CEPCOL4xU",
     "question": "Relaciona conceptos de teoría literaria: A) Motivo, B) Tema, C) Tópico; I) Idea central recurrente, II) Expresión convencionalizada (ej: locus amoenus), III) Elemento concreto recurrente (ej: el agua)",
     "options": [
-      {"text": "A-III; B-I; C-II", "correct": true},
-      {"text": "A-II; B-III; C-I", "correct": false},
-      {"text": "A-I; B-II; C-III", "correct": false},
-      {"text": "A-III; B-II; C-I", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "A-III; B-I; C-II", "correct": true },
+      { "text": "A-II; B-III; C-I", "correct": false },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-III; B-II; C-I", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Capas de significado",
     "explanation": "El motivo es una imagen recurrente, el tema es la idea abstracta dominante, y el tópico es un modelo temático culturalmente codificado."
   },
   {
+    "id": "CEPCOL9jZ",
     "question": "¿Qué caracteriza la intertextualidad en textos académicos?",
     "options": [
-      {"text": "Diálogo explícito o implícito con obras o autores precedentes", "correct": true},
-      {"text": "Originalidad absoluta sin referencias a fuentes externas", "correct": false},
-      {"text": "Uso exclusivo de fuentes primarias no citadas formalmente", "correct": false},
-      {"text": "Simplificación de teorías complejas para lectores no especializados", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Diálogo explícito o implícito con obras o autores precedentes", "correct": true },
+      { "text": "Originalidad absoluta sin referencias a fuentes externas", "correct": false },
+      { "text": "Uso exclusivo de fuentes primarias no citadas formalmente", "correct": false },
+      { "text": "Simplificación de teorías complejas para lectores no especializados", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Conversación disciplinar",
     "explanation": "La intertextualidad construye significado mediante alusiones, citas o réplicas que vinculan el texto con tradiciones intelectuales anteriores."
   },
   {
+    "id": "CEPCOL1qI",
     "question": "Completa el principio: La ______ profunda implica ______ supuestos no explícitos y ______ implicaciones.",
     "options": [
-      {"text": "crítica, develar, proyectar", "correct": true},
-      {"text": "lectura, ignorar, evitar", "correct": false},
-      {"text": "escritura, enumerar, omitir", "correct": false},
-      {"text": "investigación, verificar, limitar", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "crítica, develar, proyectar", "correct": true },
+      { "text": "lectura, ignorar, evitar", "correct": false },
+      { "text": "escritura, enumerar, omitir", "correct": false },
+      { "text": "investigación, verificar, limitar", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Niveles no superficiales",
     "explanation": "La lectura crítica exige identificar premisas ocultas, ideologías subyacentes y consecuencias no declaradas del discurso."
   },
   {
+    "id": "CEPCOL5wA",
     "question": "Son errores frecuentes en la interpretación de metáforas complejas:",
     "options": [
-      {"text": "Literalización del sentido, reduccionismo simplista, ignorar contexto cultural", "correct": true},
-      {"text": "Búsqueda excesiva de significados ocultos, análisis etimológico riguroso, contextualización histórica", "correct": false},
-      {"text": "Sobredimensión del valor estético, identificación precisa de campos semánticos, comparación con símiles", "correct": false},
-      {"text": "Priorización del significado denotativo, rechazo de connotaciones, uso de diccionarios especializados", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Literalización del sentido, reduccionismo simplista, ignorar contexto cultural", "correct": true },
+      { "text": "Búsqueda excesiva de significados ocultos, análisis etimológico riguroso, contextualización histórica", "correct": false },
+      { "text": "Sobredimensión del valor estético, identificación precisa de campos semánticos, comparación con símiles", "correct": false },
+      { "text": "Priorización del significado denotativo, rechazo de connotaciones, uso de diccionarios especializados", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Rigidez interpretativa",
     "explanation": "Las metáforas requieren pensamiento analógico flexible, evitando lecturas literales o desconexión del sistema simbólico referencial."
   },
   {
+    "id": "CEPCOL3bT",
     "question": "¿Qué función cumple el encabalgamiento en poesía?",
     "options": [
-      {"text": "Crear tensión rítmica y continuidad semántica entre versos", "correct": true},
-      {"text": "Separar estrofas mediante espacios tipográficos", "correct": false},
-      {"text": "Aislar imágenes poéticas en unidades métricas autónomas", "correct": false},
-      {"text": "Simplificar la comprensión mediante pausas versales sistemáticas", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Crear tensión rítmica y continuidad semántica entre versos", "correct": true },
+      { "text": "Separar estrofas mediante espacios tipográficos", "correct": false },
+      { "text": "Aislar imágenes poéticas en unidades métricas autónomas", "correct": false },
+      { "text": "Simplificar la comprensión mediante pausas versales sistemáticas", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Fluidez métrica",
     "explanation": "El encabalgamiento rompe la coincidencia entre pausa métrica y unidad sintáctica, generando dinamismo y unidad conceptual entre versos."
   },
   {
+    "id": "CEPCOL7rO",
     "question": "En textos filosóficos, ¿qué indica la presencia de aporías?",
     "options": [
-      {"text": "Paradojas lógicas que cuestionan soluciones aparentes", "correct": true},
-      {"text": "Conclusiones definitivas respaldadas por evidencia empírica", "correct": false},
-      {"text": "Explicaciones pedagógicas con ejemplos cotidianos", "correct": false},
-      {"text": "Argumentos circulares sin valor demostrativo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Paradojas lógicas que cuestionan soluciones aparentes", "correct": true },
+      { "text": "Conclusiones definitivas respaldadas por evidencia empírica", "correct": false },
+      { "text": "Explicaciones pedagógicas con ejemplos cotidianos", "correct": false },
+      { "text": "Argumentos circulares sin valor demostrativo", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Nudos conceptuales",
     "explanation": "Las aporías son dificultades lógicas insuperables dentro de un sistema conceptual, que estimulan replanteamientos profundos."
   },
   {
+    "id": "CEPCOL2dD",
     "question": "Relaciona conceptos narratológicos: A) Focalización, B) Voz narrativa, C) Diégesis; I) Modo de presentación de la historia (muestra/relato), II) Perspectiva cognitiva (quién ve), III) Acto narrativo (quién habla)",
     "options": [
-      {"text": "A-II; B-III; C-I", "correct": true},
-      {"text": "A-I; B-II; C-III", "correct": false},
-      {"text": "A-III; B-I; C-II", "correct": false},
-      {"text": "A-II; B-I; C-III", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "A-II; B-III; C-I", "correct": true },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-III; B-I; C-II", "correct": false },
+      { "text": "A-II; B-I; C-III", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Componentes del relato",
     "explanation": "La focalización es el ángulo de visión (interno/externo), la voz es la instancia narrativa (narrador), y la diégesis es el modo de representación (telling/showing)."
   },
   {
+    "id": "CEPCOL6pH",
     "question": "¿Qué estrategia es esencial para comprender textos con alta carga ideológica?",
     "options": [
-      {"text": "Identificar presupuestos y cosmovisión subyacente", "correct": true},
-      {"text": "Memorizar fechas y nombres clave sin contextualización", "correct": false},
-      {"text": "Aislar oraciones para análisis gramatical individual", "correct": false},
-      {"text": "Buscar definiciones literales de términos políticos", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Identificar presupuestos y cosmovisión subyacente", "correct": true },
+      { "text": "Memorizar fechas y nombres clave sin contextualización", "correct": false },
+      { "text": "Aislar oraciones para análisis gramatical individual", "correct": false },
+      { "text": "Buscar definiciones literales de términos políticos", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Desnaturalización",
     "explanation": "Los textos ideológicos naturalizan creencias; deconstruirlos exige hacer explícitos los supuestos invisibles que estructuran el discurso."
   },
   {
+    "id": "CEPCOL8aK",
     "question": "Completa el principio: La ______ retórica analiza cómo los ______ lingüísticos influyen en la ______.",
     "options": [
-      {"text": "persuasión, recursos, audiencia", "correct": true},
-      {"text": "gramática, errores, comprensión", "correct": false},
-      {"text": "sintaxis, componentes, estructura", "correct": false},
-      {"text": "semántica, significados, decodificación", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "persuasión, recursos, audiencia", "correct": true },
+      { "text": "gramática, errores, comprensión", "correct": false },
+      { "text": "sintaxis, componentes, estructura", "correct": false },
+      { "text": "semántica, significados, decodificación", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Efecto discursivo",
     "explanation": "La retórica estudia el uso estratégico del lenguaje (ethos, pathos, logos) para modificar percepciones o conductas del receptor."
   },
   {
+    "id": "CEPCOL4xZ",
     "question": "Son características del ensayo argumentativo académico:",
     "options": [
-      {"text": "Tesis clara, sustentación con evidencias, refutación de contraargumentos", "correct": true},
-      {"text": "Lenguaje coloquial, estructura libre sin apartados, subjetividad explícita", "correct": false},
-      {"text": "Finalidad estética predominante, desarrollo narrativo, desenlace cerrado", "correct": false},
-      {"text": "Descriptción impersonal de procesos, ausencia de postura autoral, listado de datos", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Tesis clara, sustentación con evidencias, refutación de contraargumentos", "correct": true },
+      { "text": "Lenguaje coloquial, estructura libre sin apartados, subjetividad explícita", "correct": false },
+      { "text": "Finalidad estética predominante, desarrollo narrativo, desenlace cerrado", "correct": false },
+      { "text": "Descriptción impersonal de procesos, ausencia de postura autoral, listado de datos", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Rigor persuasivo",
     "explanation": "Este género exige presentar una posición fundamentada con razones válidas y anticipar críticas mediante contraargumentación sólida."
   },
   {
+    "id": "CEPCOL9jA",
     "question": "¿Qué denota el uso recurrente de hipérbatos en un texto lírico?",
     "options": [
-      {"text": "Alteración sintáctica para efectos rítmicos o énfasis expresivo", "correct": true},
-      {"text": "Precisión técnica en textos científicos especializados", "correct": false},
-      {"text": "Claridad expositiva en manuales didácticos", "correct": false},
-      {"text": "Sencillez comunicativa en lenguaje coloquial", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Alteración sintáctica para efectos rítmicos o énfasis expresivo", "correct": true },
+      { "text": "Precisión técnica en textos científicos especializados", "correct": false },
+      { "text": "Claridad expositiva en manuales didácticos", "correct": false },
+      { "text": "Sencillez comunicativa en lenguaje coloquial", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Distorsión expresiva",
     "explanation": "El hipérbato invierte el orden sintáctico natural (ej: \"del monte en la ladera\" por \"en la ladera del monte\") para crear efectos poéticos."
   },
   {
+    "id": "CEPCOL1qZ",
     "question": "En semiótica, ¿qué expresa principalmente el signo icónico?",
     "options": [
-      {"text": "Relación de semejanza perceptiva con su referente", "correct": true},
-      {"text": "Vínculo arbitrario y convencional con el objeto", "correct": false},
-      {"text": "Conexión causal o indicativa con la realidad", "correct": false},
-      {"text": "Correspondencia abstracta mediante símbolos culturales", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Relación de semejanza perceptiva con su referente", "correct": true },
+      { "text": "Vínculo arbitrario y convencional con el objeto", "correct": false },
+      { "text": "Conexión causal o indicativa con la realidad", "correct": false },
+      { "text": "Correspondencia abstracta mediante símbolos culturales", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Representación analógica",
     "explanation": "El ícono (ej: fotografía, mapa) mantiene rasgos de similitud sensorial con lo representado, a diferencia del símbolo arbitrario (ej: palabras)."
   },
   {
+    "id": "CEPCOL5wG",
     "question": "Relaciona conceptos de pragmática: A) Acto ilocutivo, B) Presuposición, C) Implicatura; I) Información asumida como compartida, II) Fuerza comunicativa de un enunciado, III) Significado inferido no dicho explícitamente",
     "options": [
-      {"text": "A-II; B-I; C-III", "correct": true},
-      {"text": "A-I; B-III; C-II", "correct": false},
-      {"text": "A-III; B-II; C-I", "correct": false},
-      {"text": "A-II; B-III; C-I", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "A-II; B-I; C-III", "correct": true },
+      { "text": "A-I; B-III; C-II", "correct": false },
+      { "text": "A-III; B-II; C-I", "correct": false },
+      { "text": "A-II; B-III; C-I", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Capas de significado comunicativo",
     "explanation": "El acto ilocutivo es la intención (prometer, preguntar), las presuposiciones son suposiciones previas, y las implicaturas son mensajes indirectos deducibles."
   },
   {
+    "id": "CEPCOL3bJ",
     "question": "¿Qué caracteriza el discurso paratextual en obras literarias?",
     "options": [
-      {"text": "Elementos periféricos que orientan la interpretación (prólogos, notas, epígrafes)", "correct": true},
-      {"text": "Diálogos principales entre personajes protagónicos", "correct": false},
-      {"text": "Descripciones ambientales con función atmosférica", "correct": false},
-      {"text": "Monólogos interiores con flujo de conciencia", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Elementos periféricos que orientan la interpretación (prólogos, notas, epígrafes)", "correct": true },
+      { "text": "Diálogos principales entre personajes protagónicos", "correct": false },
+      { "text": "Descripciones ambientales con función atmosférica", "correct": false },
+      { "text": "Monólogos interiores con flujo de conciencia", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Umbrales textuales",
     "explanation": "Los paratextos (títulos, dedicatorias, índices) median entre texto y lector, ofreciendo claves contextuales o interpretativas."
   },
   {
+    "id": "CEPCOL7eO",
     "question": "Completa el principio: La ______ eficiente requiere ______ objetivos de lectura y ______ estrategias adecuadas.",
     "options": [
-      {"text": "comprensión, definir, seleccionar", "correct": true},
-      {"text": "memorización, evitar, descartar", "correct": false},
-      {"text": "traducción, enumerar, repetir", "correct": false},
-      {"text": "redacción, postergar, simplificar", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "comprensión, definir, seleccionar", "correct": true },
+      { "text": "memorización, evitar, descartar", "correct": false },
+      { "text": "traducción, enumerar, repetir", "correct": false },
+      { "text": "redacción, postergar, simplificar", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Planificación metacognitiva",
     "explanation": "Adaptar técnicas (skimming, scanning, lectura profunda) a propósitos específicos (buscar datos, analizar argumentos) optimiza el proceso lector."
   },
   {
+    "id": "CEPCOL2tV",
     "question": "Son indicadores de confiabilidad en fuentes digitales:",
     "options": [
-      {"text": "Autoría identificable, institución respaldante, actualización reciente, referencias verificables", "correct": true},
-      {"text": "Diseño estético atractivo, cantidad de visitas, presencia en redes sociales", "correct": false},
-      {"text": "Extensión del texto, complejidad sintáctica, uso de tecnicismos", "correct": false},
-      {"text": "Alineamiento con opiniones populares, ausencia de posturas críticas, simplificación extrema", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Autoría identificable, institución respaldante, actualización reciente, referencias verificables", "correct": true },
+      { "text": "Diseño estético atractivo, cantidad de visitas, presencia en redes sociales", "correct": false },
+      { "text": "Extensión del texto, complejidad sintáctica, uso de tecnicismos", "correct": false },
+      { "text": "Alineamiento con opiniones populares, ausencia de posturas críticas, simplificación extrema", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Evaluación crítica de fuentes",
     "explanation": "La credibilidad depende de transparencia (autor/institución), rigurosidad (citas, actualización), y ausencia de conflictos de interés."
   },
   {
+    "id": "CEPCOL6pH",
     "question": "¿Qué función cumple la elipsis en narrativa?",
     "options": [
-      {"text": "Omitir información para generar tensión o activar inferencias", "correct": true},
-      {"text": "Ampliar descripciones con detalles redundantes", "correct": false},
-      {"text": "Explicitar relaciones causales mediante conectores", "correct": false},
-      {"text": "Simplificar vocabulario para lectores infantiles", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Omitir información para generar tensión o activar inferencias", "correct": true },
+      { "text": "Ampliar descripciones con detalles redundantes", "correct": false },
+      { "text": "Explicitar relaciones causales mediante conectores", "correct": false },
+      { "text": "Simplificar vocabulario para lectores infantiles", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Economía narrativa",
     "explanation": "La elipsis suprime datos clave que el lector debe reconstruir, aumentando engagement mediante participación interpretativa."
   },
   {
+    "id": "CEPCOL8aB",
     "question": "En teoría de la recepción, ¿qué define principalmente el horizonte de expectativas?",
     "options": [
-      {"text": "Conjunto de anticipaciones culturales y literarias que el lector aplica al texto", "correct": true},
-      {"text": "Predicciones exactas sobre el desenlace argumental", "correct": false},
-      {"text": "Rechazo automático de obras que desafían convenciones", "correct": false},
-      {"text": "Capacidad individual para memorizar detalles textuales", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Conjunto de anticipaciones culturales y literarias que el lector aplica al texto", "correct": true },
+      { "text": "Predicciones exactas sobre el desenlace argumental", "correct": false },
+      { "text": "Rechazo automático de obras que desafían convenciones", "correct": false },
+      { "text": "Capacidad individual para memorizar detalles textuales", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Contexto interpretativo",
     "explanation": "Este concepto alude a normas genéricas, conocimientos previos y valores culturales que median la comprensión y valoración estética."
   },
   {
+    "id": "CEPCOL4oJ",
     "question": "Relaciona niveles de significado: A) Denotativo, B) Connotativo, C) Polisémico; I) Sentido literal y objetivo, II) Significados subjetivos o asociativos, III) Pluralidad de acepciones contextuales",
     "options": [
-      {"text": "A-I; B-II; C-III", "correct": true},
-      {"text": "A-II; B-III; C-I", "correct": false},
-      {"text": "A-III; B-I; C-II", "correct": false},
-      {"text": "A-I; B-III; C-II", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "A-I; B-II; C-III", "correct": true },
+      { "text": "A-II; B-III; C-I", "correct": false },
+      { "text": "A-III; B-I; C-II", "correct": false },
+      { "text": "A-I; B-III; C-II", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Capas semánticas",
     "explanation": "La denotación es el significado referencial básico, la connotación incluye valores afectivos/culturales, y la polisemia permite múltiples interpretaciones válidas."
   },
   {
+    "id": "CEPCOL9hP",
     "question": "¿Qué caracteriza el narrador no fiable en ficción contemporánea?",
     "options": [
-      {"text": "Distorsión intencional o inconsciente de la historia narrada", "correct": true},
-      {"text": "Omnisciencia total sobre eventos y pensamientos", "correct": false},
-      {"text": "Neutralidad absoluta sin juicios valorativos", "correct": false},
-      {"text": "Transparencia autobiográfica verificable", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Distorsión intencional o inconsciente de la historia narrada", "correct": true },
+      { "text": "Omnisciencia total sobre eventos y pensamientos", "correct": false },
+      { "text": "Neutralidad absoluta sin juicios valorativos", "correct": false },
+      { "text": "Transparencia autobiográfica verificable", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Fiabilidad cuestionada",
     "explanation": "Este narrador (por ignorancia, sesgo o mala fe) presenta versiones inexactas, obligando al lector a descifrar la verdad textual."
   },
   {
+    "id": "CEPCOL1uE",
     "question": "Completa el principio: La ______ interdisciplinar exige ______ marcos conceptuales diversos y ______ conexiones ______.",
     "options": [
-      {"text": "comprensión, integrar, establecer, transversales", "correct": true},
-      {"text": "memorización, aislar, evitar, complejas", "correct": false},
-      {"text": "traducción, simplificar, limitar, lingüísticas", "correct": false},
-      {"text": "evaluación, jerarquizar, descartar, irrelevantes", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "comprensión, integrar, establecer, transversales", "correct": true },
+      { "text": "memorización, aislar, evitar, complejas", "correct": false },
+      { "text": "traducción, simplificar, limitar, lingüísticas", "correct": false },
+      { "text": "evaluación, jerarquizar, descartar, irrelevantes", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Síntesis cognitiva",
     "explanation": "Textos interdisciplinares requieren articular conocimientos de múltiples campos para construir significados holísticos no reducibles a una sola disciplina."
   },
   {
+    "id": "CEPCOL5vY",
     "question": "Son funciones de la metaficción:",
     "options": [
-      {"text": "Reflexionar sobre el proceso creativo, desnaturalizar convenciones narrativas, cuestionar la ilusión realista", "correct": true},
-      {"text": "Simplificar tramas para consumo masivo, ocultar recursos técnicos, imitar modelos clásicos", "correct": false},
-      {"text": "Documentar hechos históricos con precisión, evitar elementos fantásticos, priorizar didactismo", "correct": false},
-      {"text": "Desarrollar personajes psicológicamente planos, usar escenarios cotidianos, finales predecibles", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Reflexionar sobre el proceso creativo, desnaturalizar convenciones narrativas, cuestionar la ilusión realista", "correct": true },
+      { "text": "Simplificar tramas para consumo masivo, ocultar recursos técnicos, imitar modelos clásicos", "correct": false },
+      { "text": "Documentar hechos históricos con precisión, evitar elementos fantásticos, priorizar didactismo", "correct": false },
+      { "text": "Desarrollar personajes psicológicamente planos, usar escenarios cotidianos, finales predecibles", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Autorreflexividad literaria",
     "explanation": "La metaficción expone su artificialidad mediante técnicas como narradores autoconscientes, comentarios sobre la escritura o rupturas del ilusionismo."
   },
   {
+    "id": "CEPCOL3qS",
     "question": "¿Qué denota la presencia de discurso indirecto libre en narrativa?",
     "options": [
-      {"text": "Fusión de voces del narrador y personaje sin marcadores explícitos", "correct": true},
-      {"text": "Citas textuales con verbos declarativos (\"dijo\")", "correct": false},
-      {"text": "Monólogos interiores con puntuación caótica", "correct": false},
-      {"text": "Diálogos teatrales con guiones y acotaciones", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Fusión de voces del narrador y personaje sin marcadores explícitos", "correct": true },
+      { "text": "Citas textuales con verbos declarativos (\"dijo\")", "correct": false },
+      { "text": "Monólogos interiores con puntuación caótica", "correct": false },
+      { "text": "Diálogos teatrales con guiones y acotaciones", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Hibridación discursiva",
     "explanation": "Esta técnica mezcla estilo narrativo y pensamiento del personaje, creando ambigüedad sobre quién controla el discurso y mayor profundidad psicológica."
   },
   {
+    "id": "CEPCOL7lC",
     "question": "En hermenéutica, ¿qué implica principalmente el círculo comprensivo?",
     "options": [
-      {"text": "Interdependencia entre comprensión de partes y totalidad del texto", "correct": true},
-      {"text": "Secuencia lineal de interpretación de principio a fin", "correct": false},
-      {"text": "Repetición mecánica de lectura sin progresión", "correct": false},
-      {"text": "Análisis exclusivo de unidades aisladas sin contexto", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Interdependencia entre comprensión de partes y totalidad del texto", "correct": true },
+      { "text": "Secuencia lineal de interpretación de principio a fin", "correct": false },
+      { "text": "Repetición mecánica de lectura sin progresión", "correct": false },
+      { "text": "Análisis exclusivo de unidades aisladas sin contexto", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Dialéctica textual",
     "explanation": "La comprensión se da en espiral: las partes iluminan el todo y viceversa, en un proceso recursivo que refina continuamente la interpretación."
   },
   {
+    "id": "CEPCOL2jT",
     "question": "Relaciona falacias lógicas: A) Post hoc, B) Hombre de paja, C) Falso dilema; I) Atribución causal incorrecta, II) Reducción simplista de opciones, III) Distorsión del argumento opuesto",
     "options": [
-      {"text": "A-I; B-III; C-II", "correct": true},
-      {"text": "A-II; B-I; C-III", "correct": false},
-      {"text": "A-III; B-II; C-I", "correct": false},
-      {"text": "A-I; B-II; C-III", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "A-I; B-III; C-II", "correct": true },
+      { "text": "A-II; B-I; C-III", "correct": false },
+      { "text": "A-III; B-II; C-I", "correct": false },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Errores argumentativos",
     "explanation": "Post hoc confunde correlación con causalidad, hombre de paja caricaturiza al oponente, y falso dilema presenta opciones excluyentes artificiales."
   },
   {
+    "id": "CEPCOL6eL",
     "question": "¿Qué caracteriza la intermedialidad en textos contemporáneos?",
     "options": [
-      {"text": "Integración de lenguajes artísticos diversos (visual, sonoro, verbal)", "correct": true},
-      {"text": "Uso exclusivo de recursos verbales tradicionales", "correct": false},
-      {"text": "Separación rígida entre géneros literarios canónicos", "correct": false},
-      {"text": "Priorización del contenido sobre la forma expresiva", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Integración de lenguajes artísticos diversos (visual, sonoro, verbal)", "correct": true },
+      { "text": "Uso exclusivo de recursos verbales tradicionales", "correct": false },
+      { "text": "Separación rígida entre géneros literarios canónicos", "correct": false },
+      { "text": "Priorización del contenido sobre la forma expresiva", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Fusión de medios",
     "explanation": "La intermedialidad borra fronteras entre soportes (literatura, cine, música), creando experiencias estéticas híbridas y multisensoriales."
   },
   {
+    "id": "CEPCOL8tZ",
     "question": "Completa el principio: La ______ literaria exige ______ tradiciones culturales y ______ códigos ______.",
     "options": [
-      {"text": "interpretación, conocer, descifrar, simbólicos", "correct": true},
-      {"text": "simplificación, ignorar, rechazar, complejos", "correct": false},
-      {"text": "creación, imitar, repetir, convencionales", "correct": false},
-      {"text": "evaluación, cuantificar, estandarizar, métricos", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "interpretación, conocer, descifrar, simbólicos", "correct": true },
+      { "text": "simplificación, ignorar, rechazar, complejos", "correct": false },
+      { "text": "creación, imitar, repetir, convencionales", "correct": false },
+      { "text": "evaluación, cuantificar, estandarizar, métricos", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Competencia cultural",
     "explanation": "La comprensión de textos literarios complejos requiere familiaridad con mitos, símbolos y convenciones genéricas de tradiciones específicas."
   },
   {
+    "id": "CEPCOL4vR",
     "question": "Son criterios para evaluar la solidez argumental:",
     "options": [
-      {"text": "Relevancia de premisas, validez lógica, solidez empírica, reconocimiento de límites", "correct": true},
-      {"text": "Cantidad de adjetivos, longitud de oraciones, complejidad sintáctica", "correct": false},
-      {"text": "Originalidad absoluta, ausencia de referentes, innovación disruptiva", "correct": false},
-      {"text": "Consenso popular, adaptación a tendencias, ausencia de crítica", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Relevancia de premisas, validez lógica, solidez empírica, reconocimiento de límites", "correct": true },
+      { "text": "Cantidad de adjetivos, longitud de oraciones, complejidad sintáctica", "correct": false },
+      { "text": "Originalidad absoluta, ausencia de referentes, innovación disruptiva", "correct": false },
+      { "text": "Consenso popular, adaptación a tendencias, ausencia de crítica", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Calidad argumentativa",
     "explanation": "Un argumento sólido requiere premisas pertinentes, inferencias válidas, apoyo fáctico y conciencia de sus propias limitaciones."
   },
   {
+    "id": "CEPCOL9mI",
     "question": "¿Qué función cumple el espacio en la novela realista?",
     "options": [
-      {"text": "Contextualizar social/históricamente a personajes y acciones", "correct": true},
-      {"text": "Servir como fondo decorativo sin relevancia temática", "correct": false},
-      {"text": "Limitarse a descripciones objetivas sin carga simbólica", "correct": false},
-      {"text": "Generar ambientes fantásticos irreales", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Contextualizar social/históricamente a personajes y acciones", "correct": true },
+      { "text": "Servir como fondo decorativo sin relevancia temática", "correct": false },
+      { "text": "Limitarse a descripciones objetivas sin carga simbólica", "correct": false },
+      { "text": "Generar ambientes fantásticos irreales", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Determinismo ambiental",
     "explanation": "El espacio realista (urbano/rural) condiciona conductas y valores, reflejando estructuras socioeconómicas de la época representada."
   },
   {
+    "id": "CEPCOL1wF",
     "question": "En lingüística textual, ¿qué define la isotopía?",
     "options": [
-      {"text": "Red de repeticiones semánticas que aseguran coherencia temática", "correct": true},
-      {"text": "Variación léxica constante para evitar redundancias", "correct": false},
-      {"text": "Uso exclusivo de términos monosémicos sin ambigüedad", "correct": false},
-      {"text": "Cambios abruptos de tema sin transición", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Red de repeticiones semánticas que aseguran coherencia temática", "correct": true },
+      { "text": "Variación léxica constante para evitar redundancias", "correct": false },
+      { "text": "Uso exclusivo de términos monosémicos sin ambigüedad", "correct": false },
+      { "text": "Cambios abruptos de tema sin transición", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Hilos temáticos",
     "explanation": "Las isotopías son cadenas de sentido (ej: campo semántico de \"enfermedad\") que entretejen coherencia mediante recurrencias asociativas."
   },
   {
+    "id": "CEPCOL5oB",
     "question": "Relaciona géneros discursivos: A) Leyenda, B) Ensayo, C) Parábola; I) Reflexión crítica personal, II) Narrativa tradicional con base histórica, III) Relato breve con enseñanza moral",
     "options": [
-      {"text": "A-II; B-I; C-III", "correct": true},
-      {"text": "A-III; B-II; C-I", "correct": false},
-      {"text": "A-I; B-III; C-II", "correct": false},
-      {"text": "A-II; B-III; C-I", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "A-II; B-I; C-III", "correct": true },
+      { "text": "A-III; B-II; C-I", "correct": false },
+      { "text": "A-I; B-III; C-II", "correct": false },
+      { "text": "A-II; B-III; C-I", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Finalidad comunicativa",
     "explanation": "La leyenda mezcla historia y ficción, el ensayo explora ideas desde perspectiva autoral, y la parábola ilustra lecciones éticas mediante analogías."
   },
   {
+    "id": "CEPCOL3qA",
     "question": "¿Qué caracteriza el dialogismo en la novela polifónica?",
     "options": [
-      {"text": "Coexistencia de voces independientes sin jerarquía autoritaria", "correct": true},
-      {"text": "Monólogo central dominante sin perspectivas alternas", "correct": false},
-      {"text": "Diálogos realistas con función decorativa", "correct": false},
-      {"text": "Narrador omnisciente que controla todas las conciencias", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Coexistencia de voces independientes sin jerarquía autoritaria", "correct": true },
+      { "text": "Monólogo central dominante sin perspectivas alternas", "correct": false },
+      { "text": "Diálogos realistas con función decorativa", "correct": false },
+      { "text": "Narrador omnisciente que controla todas las conciencias", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Democracia de voces",
     "explanation": "Según Bajtín, la polifonía presenta múltiples conciencias con igual peso ideológico, donde el autor no impone una visión única."
   },
   {
+    "id": "CEPCOL7lT",
     "question": "Completa el principio: La ______ histórica contextualiza obras en su ______ cultural, ______ y ______ de producción.",
     "options": [
-      {"text": "interpretación, marco, circunstancias", "correct": true},
-      {"text": "descontextualización, vacío, ignorando", "correct": false},
-      {"text": "simplificación, reducción, aislando", "correct": false},
-      {"text": "actualización, presente, modificando", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "interpretación, marco, circunstancias", "correct": true },
+      { "text": "descontextualización, vacío, ignorando", "correct": false },
+      { "text": "simplificación, reducción, aislando", "correct": false },
+      { "text": "actualización, presente, modificando", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Reconstrucción del contexto",
     "explanation": "La comprensión profunda de textos antiguos exige reconstruir su entorno intelectual, valores epocales y condiciones materiales de creación."
   },
   {
+    "id": "CEPCOL2jT",
     "question": "Son funciones del epíteto en textos poéticos:",
     "options": [
-      {"text": "Intensificar rasgos esenciales, crear ritmo, evocar emociones", "correct": true},
-      {"text": "Limitar adjetivación, asegurar precisión denotativa, evitar ambigüedad", "correct": false},
-      {"text": "Redundancia informativa, alargamiento innecesario, énfasis superfluo", "correct": false},
-      {"text": "Neutralidad descriptiva, objetividad absoluta, simplificación léxica", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+      { "text": "Intensificar rasgos esenciales, crear ritmo, evocar emociones", "correct": true },
+      { "text": "Limitar adjetivación, asegurar precisión denotativa, evitar ambigüedad", "correct": false },
+      { "text": "Redundancia informativa, alargamiento innecesario, énfasis superfluo", "correct": false },
+      { "text": "Neutralidad descriptiva, objetividad absoluta, simplificación léxica", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL"],
+    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
     "hint": "Adjetivación expresiva",
     "explanation": "El epíteto (ej: \"nieve blanca\") subraya cualidades constitutivas con fines rítmicos, estéticos o connotativos, más que informativos."
   }
