@@ -728,7 +728,7 @@
     "explanation": "Este narrador se limita a registrar acciones y diálogos sin acceder a pensamientos o sentimientos internos."
   },
   {
-    "id": "CEPCOL6pH",
+    "id": "CEPCOL6dC",
     "question": "¿Qué elemento NO es propio de los textos descriptivos?",
     "options": [
       { "text": "Secuencia temporal", "correct": true },
@@ -798,7 +798,7 @@
     "explanation": "Toda narración requiere personajes (humanos, animales o personificados) que realicen acciones."
   },
   {
-    "id": "CEPCOL5wG",
+    "id": "CEPCOL5wZ",
     "question": "¿Qué tipo de narrador cuenta la historia desde su participación limitada?",
     "options": [
       { "text": "Narrador testigo", "correct": true },
@@ -854,7 +854,7 @@
     "explanation": "Noticias o reportajes objetivos presentan datos sin juicios personales, reservando opiniones para artículos de opinión."
   },
   {
-    "id": "CEPCOL6pH",
+    "id": "CEPCOL6vC",
     "question": "¿Qué tipo de narrador alterna entre primera y tercera persona?",
     "options": [
       { "text": "Narrador equisciente", "correct": true },
@@ -868,7 +868,7 @@
     "explanation": "Este narrador combina 'yo' para sus vivencias con 'él/ella' para eventos ajenos, mostrando conocimiento limitado."
   },
   {
-    "id": "CEPCOL8aB",
+    "id": "CEPCOL8aR",
     "question": "¿Qué caracteriza a los textos epistolares?",
     "options": [
       { "text": "Estructura en formato de cartas", "correct": true },
@@ -980,7 +980,7 @@
     "explanation": "Este narrador relata en tercera persona sin ser parte de la historia ni conocer pensamientos internos."
   },
   {
-    "id": "CEPCOL6eL",
+    "id": "CEPCOL6eX",
     "question": "¿Qué caracteriza a los textos digitales?",
     "options": [
       { "text": "Hipervínculos y multimedia interactiva", "correct": true },
@@ -1078,7 +1078,7 @@
     "explanation": "Las claves contextuales utilizan palabras vecinas y la coherencia textual para deducir significados sin fuentes externas."
   },
   {
-    "id": "CEPCOL7lT",
+    "id": "CEPCOL7lB",
     "question": "En un texto argumentativo, ¿qué función cumple principalmente la concesión?",
     "options": [
       { "text": "Reconocer parcialmente argumentos contrarios para fortalecer la propia postura", "correct": true },
@@ -1092,7 +1092,7 @@
     "explanation": "La concesión demuestra objetividad al admitir aspectos válidos de la contraargumentación, incrementando la credibilidad del autor."
   },
   {
-    "id": "CEPCOL2jT",
+    "id": "CEPCOL2jU",
     "question": "Completa el principio: La ______ implica extraer la esencia del texto preservando las ideas ______ sin incluir ______ personales.",
     "options": [
       { "text": "síntesis, fundamentales, interpretaciones", "correct": true },
@@ -1484,7 +1484,7 @@
     "explanation": "La focalización es el ángulo de visión (interno/externo), la voz es la instancia narrativa (narrador), y la diégesis es el modo de representación (telling/showing)."
   },
   {
-    "id": "CEPCOL6pH",
+    "id": "CEPCOL6vD",
     "question": "¿Qué estrategia es esencial para comprender textos con alta carga ideológica?",
     "options": [
       { "text": "Identificar presupuestos y cosmovisión subyacente", "correct": true },
@@ -1554,7 +1554,7 @@
     "explanation": "El ícono (ej: fotografía, mapa) mantiene rasgos de similitud sensorial con lo representado, a diferencia del símbolo arbitrario (ej: palabras)."
   },
   {
-    "id": "CEPCOL5wG",
+    "id": "CEPCOL5wZ",
     "question": "Relaciona conceptos de pragmática: A) Acto ilocutivo, B) Presuposición, C) Implicatura; I) Información asumida como compartida, II) Fuerza comunicativa de un enunciado, III) Significado inferido no dicho explícitamente",
     "options": [
       { "text": "A-II; B-I; C-III", "correct": true },
@@ -1610,7 +1610,7 @@
     "explanation": "La credibilidad depende de transparencia (autor/institución), rigurosidad (citas, actualización), y ausencia de conflictos de interés."
   },
   {
-    "id": "CEPCOL6pH",
+    "id": "CEPCOL6vE",
     "question": "¿Qué función cumple la elipsis en narrativa?",
     "options": [
       { "text": "Omitir información para generar tensión o activar inferencias", "correct": true },
@@ -1722,7 +1722,7 @@
     "explanation": "La comprensión se da en espiral: las partes iluminan el todo y viceversa, en un proceso recursivo que refina continuamente la interpretación."
   },
   {
-    "id": "CEPCOL2jT",
+    "id": "CEPCOL2jV",
     "question": "Relaciona falacias lógicas: A) Post hoc, B) Hombre de paja, C) Falso dilema; I) Atribución causal incorrecta, II) Reducción simplista de opciones, III) Distorsión del argumento opuesto",
     "options": [
       { "text": "A-I; B-III; C-II", "correct": true },
@@ -1807,17 +1807,17 @@
   },
   {
     "id": "CEPCOL5oB",
-    "question": "Relaciona géneros discursivos: A) Leyenda, B) Ensayo, C) Parábola; I) Reflexión crítica personal, II) Narrativa tradicional con base histórica, III) Relato breve con enseñanza moral",
+    "question": "¿Qué tipo de texto mezcla narración y elementos visuales organizados en cuadros?",
     "options": [
-      { "text": "A-II; B-I; C-III", "correct": true },
-      { "text": "A-III; B-II; C-I", "correct": false },
-      { "text": "A-I; B-III; C-II", "correct": false },
-      { "text": "A-II; B-III; C-I", "correct": false },
+      { "text": "Historieta o cómic", "correct": true },
+      { "text": "Ensayo académico", "correct": false },
+      { "text": "Poema lírico", "correct": false },
+      { "text": "Reportaje investigativo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
     "tags": ["GENERAL"],
-    "hint": "Finalidad comunicativa",
-    "explanation": "La leyenda mezcla historia y ficción, el ensayo explora ideas desde perspectiva autoral, y la parábola ilustra lecciones éticas mediante analogías."
+    "hint": "Globos de diálogo",
+    "explanation": "Este formato secuencial integra viñetas ilustradas con texto en globos para contar historias visualmente."
   },
   {
     "id": "CEPCOL3qA",
