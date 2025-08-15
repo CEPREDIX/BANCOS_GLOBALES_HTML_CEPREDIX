@@ -9,7 +9,7 @@
       { "text": "Texto publicitario", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Cuentos y mitos",
     "explanation": "Los textos narrativos incluyen cuentos, novelas y crónicas que presentan una secuencia de eventos con personajes."
   },
@@ -23,7 +23,7 @@
       { "text": "Estructura en versos", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Ámbito judicial",
     "explanation": "Los textos jurídicos emplean términos precisos y arcaísmos para evitar ambigüedades en documentos legales."
   },
@@ -37,7 +37,7 @@
       { "text": "Texto histórico", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Anuncios",
     "explanation": "La publicidad utiliza estrategias persuasivas para influir en el comportamiento de consumo."
   },
@@ -51,7 +51,7 @@
       { "text": "Describir paisajes detalladamente", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Neutralidad",
     "explanation": "Los textos expositivos presentan información de manera objetiva, como en enciclopedias o manuales."
   },
@@ -65,7 +65,7 @@
       { "text": "Texto normativo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Expresividad",
     "explanation": "La literatura emplea recursos estilísticos para transmitir emociones y crear belleza artística."
   },
@@ -79,7 +79,7 @@
       { "text": "Uso exclusivo de papel", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Medios electrónicos",
     "explanation": "Los textos digitales (blogs, revistas online) permiten interactividad y actualización constante."
   },
@@ -93,7 +93,7 @@
       { "text": "Texto descriptivo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Teatro",
     "explanation": "Las obras dramáticas (tragedias, comedias) se basan en conversaciones entre personajes y acotaciones."
   },
@@ -107,7 +107,7 @@
       { "text": "Analizar datos científicos", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Guías o manuales",
     "explanation": "Los textos directivos (recetas, instructivos) explican pasos para lograr un objetivo práctico."
   },
@@ -121,7 +121,7 @@
       { "text": "Texto técnico", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Ciencias sociales",
     "explanation": "Los textos humanísticos reflexionan sobre el ser humano, su cultura y relaciones sociales."
   },
@@ -135,7 +135,7 @@
       { "text": "Finalidad instructiva", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Poesía",
     "explanation": "La lírica expresa emociones mediante versos o prosa poética con recursos como metáforas y rimas."
   },
@@ -149,7 +149,7 @@
       { "text": "Texto histórico", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Noticias",
     "explanation": "El periodismo informa con objetividad sobre eventos relevantes, aunque puede incluir secciones de opinión."
   },
@@ -163,7 +163,7 @@
       { "text": "Finalidad recreativa", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Documentos oficiales",
     "explanation": "Certificados o memorandos son ejemplos de textos que gestionan información en organizaciones."
   },
@@ -177,7 +177,7 @@
       { "text": "Texto lírico", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Revistas especializadas",
     "explanation": "Los textos científicos comunican hallazgos con metodología rigurosa y terminología específica."
   },
@@ -191,7 +191,7 @@
       { "text": "Instruir sobre un procedimiento", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Debates",
     "explanation": "Este tipo de texto defiende una postura con argumentos lógicos y evidencias."
   },
@@ -205,7 +205,7 @@
       { "text": "Entremés", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Héroes antiguos",
     "explanation": "La epopeya (ej: 'La Ilíada') exalta acciones grandiosas de personajes legendarios."
   },
@@ -219,7 +219,7 @@
       { "text": "Sainete", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Lamento poético",
     "explanation": "La elegía refleja tristeza ante la muerte o desgracias, con un tono melancólico."
   },
@@ -233,7 +233,7 @@
       { "text": "Entremés", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Equilibrio emocional",
     "explanation": "El drama presenta conflictos humanos con momentos serios y otros más livianos."
   },
@@ -247,7 +247,7 @@
       { "text": "Discurso", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Conversación filosófica",
     "explanation": "Platón usó este formato para explorar conceptos a través de preguntas y respuestas entre personajes."
   },
@@ -261,7 +261,7 @@
       { "text": "Lenguaje jurídico especializado", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Esopo",
     "explanation": "Las fábulas usan animales antropomórficos para enseñar lecciones morales de manera sencilla."
   },
@@ -275,7 +275,7 @@
       { "text": "Texto descriptivo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Reglamentos",
     "explanation": "Leyes o manuales de convivencia son ejemplos de textos que definen conductas permitidas o prohibidas."
   },
@@ -289,7 +289,7 @@
       { "text": "Publicidad de productos nuevos", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Estudio del pasado",
     "explanation": "Estos textos interpretan sucesos históricos basándose en documentos y evidencias verificables."
   },
@@ -303,7 +303,7 @@
       { "text": "Texto normativo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Entretenimiento",
     "explanation": "Chistes, cómics o novelas ligeras buscan principalmente el disfrute del público."
   },
@@ -317,7 +317,7 @@
       { "text": "Madrigal", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Alabanza poética",
     "explanation": "Las odas (ej: 'Oda a la alegría') exaltan personas, ideas o elementos naturales con tono elevado."
   },
@@ -331,7 +331,7 @@
       { "text": "Comedia", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Teatro corto",
     "explanation": "El sainete retrata situaciones cotidianas con personajes caricaturescos y final feliz."
   },
@@ -345,7 +345,7 @@
       { "text": "Descripción objetiva sin análisis", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Libertad de estilo",
     "explanation": "El ensayo explora ideas desde una perspectiva subjetiva, sin requerir exhaustividad académica."
   },
@@ -359,7 +359,7 @@
       { "text": "Texto recreativo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Investigaciones universitarias",
     "explanation": "Tesis o artículos académicos siguen metodologías específicas y citan fuentes especializadas."
   },
@@ -373,7 +373,7 @@
       { "text": "Epigrama", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Desarrollo de tramas",
     "explanation": "Las novelas exploran múltiples personajes y subtramas en una estructura narrativa amplia."
   },
@@ -387,7 +387,7 @@
       { "text": "Oda", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Crítica social",
     "explanation": "La sátira expone vicios humanos o sociales mediante la burla o exageración cómica."
   },
@@ -401,7 +401,7 @@
       { "text": "Diálogos cotidianos", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Destino trágico",
     "explanation": "La tragedia (ej: 'Edipo Rey') muestra personajes nobles que enfrentan un destino inevitablemente doloroso."
   },
@@ -415,7 +415,7 @@
       { "text": "Texto histórico", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Uso cotidiano",
     "explanation": "Recetas, horarios o formularios son textos diseñados para resolver situaciones concretas."
   },
@@ -429,7 +429,7 @@
       { "text": "Diálogo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Reflexión abierta",
     "explanation": "El ensayo permite explorar temas sin estructura rígida, combinando análisis y estilo personal."
   },
@@ -443,7 +443,7 @@
       { "text": "Lenguaje jurídico", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Risas garantizadas",
     "explanation": "La comedia retrata conflictos cotidianos con situaciones absurdas o diálogos ingeniosos que provocan risa."
   },
@@ -457,7 +457,7 @@
       { "text": "Texto publicitario", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Neutralidad",
     "explanation": "Noticias o enciclopedias priorizan datos verificables sobre interpretaciones subjetivas."
   },
@@ -471,7 +471,7 @@
       { "text": "Oda", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Campo y pastores",
     "explanation": "La égloga idealiza la vida rural con diálogos entre pastores que expresan amor o melancolía."
   },
@@ -485,7 +485,7 @@
       { "text": "Instruye sobre normas", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Héroes en versos",
     "explanation": "La épica (ej: 'La Odisea') glorifica acciones de guerreros o fundadores de naciones con estilo grandilocuente."
   },
@@ -499,7 +499,7 @@
       { "text": "Texto dramático", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Pintar con palabras",
     "explanation": "La descripción enfatiza rasgos físicos, sensoriales o funcionales de objetos, personas o lugares."
   },
@@ -513,7 +513,7 @@
       { "text": "Ensayo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Tradición oral",
     "explanation": "Las leyendas (ej: 'El Cid') exageran eventos históricos añadiendo componentes mágicos o sobrenaturales."
   },
@@ -527,7 +527,7 @@
       { "text": "Descripción objetiva", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Oratoria",
     "explanation": "Los discursos (políticos, académicos) estructuran ideas para impactar a una audiencia mediante recursos retóricos."
   },
@@ -541,7 +541,7 @@
       { "text": "Texto recreativo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Manuales",
     "explanation": "Los textos técnicos explican funcionamiento de dispositivos o procesos con precisión y claridad."
   },
@@ -555,7 +555,7 @@
       { "text": "Drama", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Interludio cómico",
     "explanation": "El entremés (siglo de Oro español) aligeraba obras largas con sketches humorísticos independientes."
   },
@@ -569,7 +569,7 @@
       { "text": "Critica sociales", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Vida de personajes",
     "explanation": "Las biografías documentan eventos significativos y logros de individuos, basándose en evidencias."
   },
@@ -583,7 +583,7 @@
       { "text": "Texto recreativo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Leyes y decretos",
     "explanation": "Estos textos formalizan regulaciones sociales con lenguaje preciso para su aplicación legal."
   },
@@ -597,7 +597,7 @@
       { "text": "Oda", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Poesía cantada",
     "explanation": "El madrigal (Renacimiento) combina versos cortos con temática amorosa, diseñados para ser musicalizados."
   },
@@ -611,7 +611,7 @@
       { "text": "Persuade para comprar productos", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Rigor académico",
     "explanation": "Estos artículos comunican hallazgos mediante secciones estandarizadas (resumen, metodología, resultados)."
   },
@@ -625,7 +625,7 @@
       { "text": "Texto lírico", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Estudio de eventos",
     "explanation": "La historiografía interpreta causas y consecuencias de hechos pasados usando fuentes documentales."
   },
@@ -639,7 +639,7 @@
       { "text": "Texto informativo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Persuasión",
     "explanation": "Los textos argumentativos presentan razones para defender una postura e influir en la opinión del lector."
   },
@@ -653,7 +653,7 @@
       { "text": "Narrador objetivo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Yo",
     "explanation": "El narrador protagonista cuenta la historia desde su perspectiva usando pronombres como 'yo' o 'mi'."
   },
@@ -667,7 +667,7 @@
       { "text": "Texto poético", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Secuencia de eventos",
     "explanation": "La narrativa organiza acciones en el tiempo, ya sean ficticias (cuentos) o basadas en hechos reales (crónicas)."
   },
@@ -681,7 +681,7 @@
       { "text": "Desenlace", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Partes fundamentales",
     "explanation": "La bibliografía es propia de textos académicos, no de cuentos que siguen la estructura: introducción-nudo-desenlace."
   },
@@ -695,7 +695,7 @@
       { "text": "Equisciente", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Todo lo sabe",
     "explanation": "El narrador omnisciente tiene conocimiento total de la historia y la psicología de los personajes."
   },
@@ -709,7 +709,7 @@
       { "text": "Convencer al lector con argumentos persuasivos", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Finalidad informativa",
     "explanation": "Los textos expositivos (artículos científicos, enciclopedias) priorizan la transmisión neutral de conocimientos."
   },
@@ -723,7 +723,7 @@
       { "text": "Narrador en segunda persona", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Cámara de video",
     "explanation": "Este narrador se limita a registrar acciones y diálogos sin acceder a pensamientos o sentimientos internos."
   },
@@ -737,7 +737,7 @@
       { "text": "Detalles físicos", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Pintar con palabras",
     "explanation": "La descripción se centra en características espaciales o sensoriales, no en el desarrollo temporal de eventos."
   },
@@ -751,7 +751,7 @@
       { "text": "Texto narrativo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Pasos a seguir",
     "explanation": "Manuales, recetas o guías son ejemplos de textos que explican procedimientos paso a paso."
   },
@@ -765,7 +765,7 @@
       { "text": "Nosotros", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Dirigiéndose al lector",
     "explanation": "Este narrador involucra directamente al lector usando 'tú' o 'usted', común en guías o algunos textos experimentales."
   },
@@ -779,7 +779,7 @@
       { "text": "Texto científico", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Expresión subjetiva",
     "explanation": "La lírica utiliza recursos como métrica, rimas y figuras retóricas para comunicar sentimientos."
   },
@@ -793,7 +793,7 @@
       { "text": "Fórmulas matemáticas", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Actores de la historia",
     "explanation": "Toda narración requiere personajes (humanos, animales o personificados) que realicen acciones."
   },
@@ -807,7 +807,7 @@
       { "text": "Narrador editor", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Espectador participante",
     "explanation": "Este narrador (ej: Dr. Watson en Sherlock Holmes) relata eventos que presenció pero sin ser el personaje principal."
   },
@@ -821,7 +821,7 @@
       { "text": "Instrucciones técnicas paso a paso", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Teatro",
     "explanation": "Obras teatrales o guiones se escriben para ser representados, priorizando diálogos y notas de dirección escénica."
   },
@@ -835,7 +835,7 @@
       { "text": "Soneto", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Narrativa de hechos reales",
     "explanation": "La crónica relata eventos reales con técnicas narrativas como descripciones vívidas o desarrollo de personajes."
   },
@@ -849,7 +849,7 @@
       { "text": "Fuentes citadas", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Objetividad",
     "explanation": "Noticias o reportajes objetivos presentan datos sin juicios personales, reservando opiniones para artículos de opinión."
   },
@@ -863,7 +863,7 @@
       { "text": "Narrador testigo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Perspectiva variable",
     "explanation": "Este narrador combina 'yo' para sus vivencias con 'él/ella' para eventos ajenos, mostrando conocimiento limitado."
   },
@@ -877,7 +877,7 @@
       { "text": "Lenguaje técnico especializado", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Correspondencia",
     "explanation": "Novelas o relatos epistolares (como 'Drácula') se componen de cartas ficticias que avanzan la trama."
   },
@@ -891,7 +891,7 @@
       { "text": "Texto dramático", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Ciencia para todos",
     "explanation": "La divulgación adapta contenidos especializados para público general usando ejemplos y lenguaje claro."
   },
@@ -905,7 +905,7 @@
       { "text": "Estructura narrativa compleja", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Vender ideas",
     "explanation": "La publicidad emplea eslóganes, imágenes sugerentes y argumentos emocionales para influir en el receptor."
   },
@@ -919,7 +919,7 @@
       { "text": "Narrador protagonista", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Rompe la cuarta pared",
     "explanation": "Este narrador (común en novelas del s.XIX) interpela al lector con comentarios o advertencias sobre la trama."
   },
@@ -933,7 +933,7 @@
       { "text": "Finalidad estética o emocional", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Documentos legales",
     "explanation": "Leyes o contratos emplean lenguaje formal y específico para evitar ambigüedades en su interpretación."
   },
@@ -947,7 +947,7 @@
       { "text": "Artículo científico", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Narrativa visual",
     "explanation": "Este formato combina ilustraciones y texto (globos, onomatopeyas) para contar historias de manera secuencial."
   },
@@ -961,7 +961,7 @@
       { "text": "Estructura dramática con actos", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Vida de alguien",
     "explanation": "Las biografías narran eventos significativos de una persona existente, basándose en fuentes documentales."
   },
@@ -975,7 +975,7 @@
       { "text": "Narrador en segunda persona", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Cámara imparcial",
     "explanation": "Este narrador relata en tercera persona sin ser parte de la historia ni conocer pensamientos internos."
   },
@@ -989,7 +989,7 @@
       { "text": "Ausencia de elementos visuales", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Tecnología",
     "explanation": "Páginas web o ebooks incluyen videos, enlaces y diseño adaptable, permitiendo navegación no secuencial."
   },
@@ -1003,7 +1003,7 @@
       { "text": "Guión teatral", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Reflexiones cotidianas",
     "explanation": "Los diarios personales organizan entradas por fechas y expresan vivencias subjetivas del autor."
   },
@@ -1017,7 +1017,7 @@
       { "text": "Enseñanzas morales o cosmovisiones", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Tradición oral",
     "explanation": "Los mitos son relatos ancestrales que explican fenómenos mediante lo sagrado, no con métodos científicos modernos."
   },
@@ -1031,7 +1031,7 @@
       { "text": "Narrador editorial", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Suspense",
     "explanation": "Este narrador (común en misterio) dosifica datos para generar intriga, mostrando solo lo que ciertos personajes saben."
   },
@@ -1045,7 +1045,7 @@
       { "text": "Lenguaje técnico especializado", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Enseñanza moral",
     "explanation": "Fábulas como las de Esopo usan animales antropomórficos para ilustrar lecciones de vida con finales didácticos."
   },
@@ -1059,7 +1059,7 @@
       { "text": "Reportaje investigativo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Globos de diálogo",
     "explanation": "Este formato secuencial integra viñetas ilustradas con texto en globos para contar historias visualmente."
   },
@@ -1073,7 +1073,7 @@
       { "text": "Búsqueda de antónimos en diccionarios especializados", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Pistas en el entorno lingüístico",
     "explanation": "Las claves contextuales utilizan palabras vecinas y la coherencia textual para deducir significados sin fuentes externas."
   },
@@ -1087,7 +1087,7 @@
       { "text": "Establecer analogías literarias extensas", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Diplomacia retórica",
     "explanation": "La concesión demuestra objetividad al admitir aspectos válidos de la contraargumentación, incrementando la credibilidad del autor."
   },
@@ -1101,7 +1101,7 @@
       { "text": "resumen, principales, opiniones", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Reducción textual objetiva",
     "explanation": "La síntesis requiere identificar y condensar únicamente las ideas centrales manteniendo neutralidad y fidelidad al contenido original."
   },
@@ -1115,7 +1115,7 @@
       { "text": "A-III; B-II; C-I", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Finalidad comunicativa",
     "explanation": "El discurso descriptivo pinta rasgos sensoriales, el narrativo ordena acciones en el tiempo, y el expositivo explica ideas de manera impersonal."
   },
@@ -1129,7 +1129,7 @@
       { "text": "Ampliar detalles descriptivos con fines humorísticos superficiales", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Doble significado intencional",
     "explanation": "La ironía genera crítica social o conceptual a través de la discrepancia calculada entre el mensaje literal y la intención real."
   },
@@ -1143,7 +1143,7 @@
       { "text": "Preguntas retóricas, metáforas, hipérboles evidentes", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Manipulación discursiva",
     "explanation": "El sesgo se manifiesta mediante lenguaje emocionalmente cargado, simplificaciones inexactas y exclusión deliberada de información relevante contraria."
   },
@@ -1157,7 +1157,7 @@
       { "text": "Variación léxica sistemática", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Hiladores lógicos",
     "explanation": "Conectores como \"por tanto\", \"sin embargo\" o \"en consecuencia\" explicitan relaciones entre ideas para guiar la interpretación."
   },
@@ -1171,7 +1171,7 @@
       { "text": "Establecer comparaciones directas usando \"como\" o \"semejante a\"", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Significado trascendente",
     "explanation": "El símbolo trasciende su significado literal para evocar ideas complejas (ej: paloma = paz) mediante asociaciones culturales o universales."
   },
@@ -1185,7 +1185,7 @@
       { "text": "extensión, secuencial, separación", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Hilo conductor",
     "explanation": "La coherencia surge de desarrollar un tema central mediante relaciones lógicas claras que enlazan proposiciones de manera orgánica."
   },
@@ -1199,7 +1199,7 @@
       { "text": "Identificación exhaustiva de campos semánticos neutros", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Marcas subjetivas",
     "explanation": "La modalización revela actitudes mediante recursos como verbos de opinión (\"creer\", \"necesitar\"), intensificadores (\"totalmente\") o léxico connotativo."
   },
@@ -1213,7 +1213,7 @@
       { "text": "A-III; B-I; C-II", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Recursos estilísticos",
     "explanation": "La metáfora establece relaciones analógicas implícitas, la hipérbole amplifica rasgos para impacto emocional, y la anáfora repite estructuras para ritmo y énfasis."
   },
@@ -1227,7 +1227,7 @@
       { "text": "Presentar solo dos alternativas excluyentes cuando existen más opciones posibles", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Falacia personalista",
     "explanation": "Esta falacia evade la discusión de los argumentos mediante críticas irrelevantes al oponente (ej: \"no puedes opinar de economía porque no tienes título\")."
   },
@@ -1241,7 +1241,7 @@
       { "text": "Presencia de citas textuales entrecomilladas o referencias bibliográficas", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Criterio de comprobación",
     "explanation": "Los hechos son comprobables con evidencia empírica o datos, mientras las opiniones expresan valoraciones, creencias o interpretaciones personales."
   },
@@ -1255,7 +1255,7 @@
       { "text": "organización, primarias, accesorios", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Pirámide informativa",
     "explanation": "La comprensión profunda exige identificar la importancia relativa de cada información, priorizando tesis sobre ejemplos o datos complementarios."
   },
@@ -1269,7 +1269,7 @@
       { "text": "Dialogismo marcado, subjetividad explícita, recursos poéticos", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Rigor conceptual",
     "explanation": "Estos textos priorizan la transmisión objetiva de conocimiento mediante terminología especializada y organización lógica de contenidos."
   },
@@ -1283,7 +1283,7 @@
       { "text": "Buscar resúmenes externos omitiendo la lectura completa", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Visualización relacional",
     "explanation": "Los organizadores gráficos explicitan relaciones entre conceptos (causales, de jerarquía, contraste) facilitando la integración de información compleja."
   },
@@ -1297,7 +1297,7 @@
       { "text": "Variedad de registros lingüísticos empleados simultáneamente", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Carga afectiva",
     "explanation": "El tono refleja la posición emocional (irónico, solemne, nostálgico) a través de elecciones léxicas, puntuación y estructuras sintácticas."
   },
@@ -1311,7 +1311,7 @@
       { "text": "A-I; B-III; C-II", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Progresión discursiva",
     "explanation": "La introducción establece el enfoque, el desarrollo amplía con evidencias, y la conclusión consolida significados derivados."
   },
@@ -1325,7 +1325,7 @@
       { "text": "Explicación exhaustiva de símbolos en notas al calce", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Apertura semántica",
     "explanation": "La ambigüedad poética busca multiplicar sentidos mediante palabras o construcciones que permiten lecturas válidas simultáneas."
   },
@@ -1339,7 +1339,7 @@
       { "text": "argumentación, memorizar, exposición", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Diálogo con el texto",
     "explanation": "Cuestionar activamente el material (propósito, consistencia, implicaciones) profundiza el compromiso cognitivo y la metacomprensión."
   },
@@ -1353,7 +1353,7 @@
       { "text": "Mejorar velocidad lectora, memorizar automáticamente, generar citas", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Andamiaje cognitivo",
     "explanation": "Los esquemas representan relaciones conceptuales mediante estructuras gráficas que potencian el procesamiento y retención de información compleja."
   },
@@ -1367,7 +1367,7 @@
       { "text": "Ausencia de elementos contextuales relevantes para la comprensión", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Referencia contextual",
     "explanation": "Deícticos (\"aquí\", \"ahora\", \"yo\") requieren conocimiento del contexto espaciotemporal o personal para asignar referentes concretos."
   },
@@ -1381,7 +1381,7 @@
       { "text": "Repetición monótona de estructuras sintácticas idénticas", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Orquestación de voces",
     "explanation": "La polifonía evidencia la inclusión de discursos sociales diversos (citas, puntos de vista alternos) que interactúan dialécticamente."
   },
@@ -1395,7 +1395,7 @@
       { "text": "A-III; B-II; C-I", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Capas de significado",
     "explanation": "El motivo es una imagen recurrente, el tema es la idea abstracta dominante, y el tópico es un modelo temático culturalmente codificado."
   },
@@ -1409,7 +1409,7 @@
       { "text": "Simplificación de teorías complejas para lectores no especializados", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Conversación disciplinar",
     "explanation": "La intertextualidad construye significado mediante alusiones, citas o réplicas que vinculan el texto con tradiciones intelectuales anteriores."
   },
@@ -1423,7 +1423,7 @@
       { "text": "investigación, verificar, limitar", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Niveles no superficiales",
     "explanation": "La lectura crítica exige identificar premisas ocultas, ideologías subyacentes y consecuencias no declaradas del discurso."
   },
@@ -1437,7 +1437,7 @@
       { "text": "Priorización del significado denotativo, rechazo de connotaciones, uso de diccionarios especializados", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Rigidez interpretativa",
     "explanation": "Las metáforas requieren pensamiento analógico flexible, evitando lecturas literales o desconexión del sistema simbólico referencial."
   },
@@ -1451,7 +1451,7 @@
       { "text": "Simplificar la comprensión mediante pausas versales sistemáticas", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Fluidez métrica",
     "explanation": "El encabalgamiento rompe la coincidencia entre pausa métrica y unidad sintáctica, generando dinamismo y unidad conceptual entre versos."
   },
@@ -1465,7 +1465,7 @@
       { "text": "Argumentos circulares sin valor demostrativo", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Nudos conceptuales",
     "explanation": "Las aporías son dificultades lógicas insuperables dentro de un sistema conceptual, que estimulan replanteamientos profundos."
   },
@@ -1479,7 +1479,7 @@
       { "text": "A-II; B-I; C-III", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Componentes del relato",
     "explanation": "La focalización es el ángulo de visión (interno/externo), la voz es la instancia narrativa (narrador), y la diégesis es el modo de representación (telling/showing)."
   },
@@ -1493,7 +1493,7 @@
       { "text": "Buscar definiciones literales de términos políticos", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Desnaturalización",
     "explanation": "Los textos ideológicos naturalizan creencias; deconstruirlos exige hacer explícitos los supuestos invisibles que estructuran el discurso."
   },
@@ -1507,7 +1507,7 @@
       { "text": "semántica, significados, decodificación", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Efecto discursivo",
     "explanation": "La retórica estudia el uso estratégico del lenguaje (ethos, pathos, logos) para modificar percepciones o conductas del receptor."
   },
@@ -1521,7 +1521,7 @@
       { "text": "Descriptción impersonal de procesos, ausencia de postura autoral, listado de datos", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Rigor persuasivo",
     "explanation": "Este género exige presentar una posición fundamentada con razones válidas y anticipar críticas mediante contraargumentación sólida."
   },
@@ -1535,7 +1535,7 @@
       { "text": "Sencillez comunicativa en lenguaje coloquial", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Distorsión expresiva",
     "explanation": "El hipérbato invierte el orden sintáctico natural (ej: \"del monte en la ladera\" por \"en la ladera del monte\") para crear efectos poéticos."
   },
@@ -1549,7 +1549,7 @@
       { "text": "Correspondencia abstracta mediante símbolos culturales", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Representación analógica",
     "explanation": "El ícono (ej: fotografía, mapa) mantiene rasgos de similitud sensorial con lo representado, a diferencia del símbolo arbitrario (ej: palabras)."
   },
@@ -1563,7 +1563,7 @@
       { "text": "A-II; B-III; C-I", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Capas de significado comunicativo",
     "explanation": "El acto ilocutivo es la intención (prometer, preguntar), las presuposiciones son suposiciones previas, y las implicaturas son mensajes indirectos deducibles."
   },
@@ -1577,7 +1577,7 @@
       { "text": "Monólogos interiores con flujo de conciencia", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Umbrales textuales",
     "explanation": "Los paratextos (títulos, dedicatorias, índices) median entre texto y lector, ofreciendo claves contextuales o interpretativas."
   },
@@ -1591,7 +1591,7 @@
       { "text": "redacción, postergar, simplificar", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Planificación metacognitiva",
     "explanation": "Adaptar técnicas (skimming, scanning, lectura profunda) a propósitos específicos (buscar datos, analizar argumentos) optimiza el proceso lector."
   },
@@ -1605,7 +1605,7 @@
       { "text": "Alineamiento con opiniones populares, ausencia de posturas críticas, simplificación extrema", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Evaluación crítica de fuentes",
     "explanation": "La credibilidad depende de transparencia (autor/institución), rigurosidad (citas, actualización), y ausencia de conflictos de interés."
   },
@@ -1619,7 +1619,7 @@
       { "text": "Simplificar vocabulario para lectores infantiles", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Economía narrativa",
     "explanation": "La elipsis suprime datos clave que el lector debe reconstruir, aumentando engagement mediante participación interpretativa."
   },
@@ -1633,7 +1633,7 @@
       { "text": "Capacidad individual para memorizar detalles textuales", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Contexto interpretativo",
     "explanation": "Este concepto alude a normas genéricas, conocimientos previos y valores culturales que median la comprensión y valoración estética."
   },
@@ -1647,7 +1647,7 @@
       { "text": "A-I; B-III; C-II", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Capas semánticas",
     "explanation": "La denotación es el significado referencial básico, la connotación incluye valores afectivos/culturales, y la polisemia permite múltiples interpretaciones válidas."
   },
@@ -1661,7 +1661,7 @@
       { "text": "Transparencia autobiográfica verificable", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Fiabilidad cuestionada",
     "explanation": "Este narrador (por ignorancia, sesgo o mala fe) presenta versiones inexactas, obligando al lector a descifrar la verdad textual."
   },
@@ -1675,7 +1675,7 @@
       { "text": "evaluación, jerarquizar, descartar, irrelevantes", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Síntesis cognitiva",
     "explanation": "Textos interdisciplinares requieren articular conocimientos de múltiples campos para construir significados holísticos no reducibles a una sola disciplina."
   },
@@ -1689,7 +1689,7 @@
       { "text": "Desarrollar personajes psicológicamente planos, usar escenarios cotidianos, finales predecibles", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Autorreflexividad literaria",
     "explanation": "La metaficción expone su artificialidad mediante técnicas como narradores autoconscientes, comentarios sobre la escritura o rupturas del ilusionismo."
   },
@@ -1703,7 +1703,7 @@
       { "text": "Diálogos teatrales con guiones y acotaciones", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Hibridación discursiva",
     "explanation": "Esta técnica mezcla estilo narrativo y pensamiento del personaje, creando ambigüedad sobre quién controla el discurso y mayor profundidad psicológica."
   },
@@ -1717,7 +1717,7 @@
       { "text": "Análisis exclusivo de unidades aisladas sin contexto", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Dialéctica textual",
     "explanation": "La comprensión se da en espiral: las partes iluminan el todo y viceversa, en un proceso recursivo que refina continuamente la interpretación."
   },
@@ -1731,7 +1731,7 @@
       { "text": "A-I; B-II; C-III", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Errores argumentativos",
     "explanation": "Post hoc confunde correlación con causalidad, hombre de paja caricaturiza al oponente, y falso dilema presenta opciones excluyentes artificiales."
   },
@@ -1745,7 +1745,7 @@
       { "text": "Priorización del contenido sobre la forma expresiva", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Fusión de medios",
     "explanation": "La intermedialidad borra fronteras entre soportes (literatura, cine, música), creando experiencias estéticas híbridas y multisensoriales."
   },
@@ -1759,7 +1759,7 @@
       { "text": "evaluación, cuantificar, estandarizar, métricos", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Competencia cultural",
     "explanation": "La comprensión de textos literarios complejos requiere familiaridad con mitos, símbolos y convenciones genéricas de tradiciones específicas."
   },
@@ -1773,7 +1773,7 @@
       { "text": "Consenso popular, adaptación a tendencias, ausencia de crítica", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Calidad argumentativa",
     "explanation": "Un argumento sólido requiere premisas pertinentes, inferencias válidas, apoyo fáctico y conciencia de sus propias limitaciones."
   },
@@ -1787,7 +1787,7 @@
       { "text": "Generar ambientes fantásticos irreales", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Determinismo ambiental",
     "explanation": "El espacio realista (urbano/rural) condiciona conductas y valores, reflejando estructuras socioeconómicas de la época representada."
   },
@@ -1801,7 +1801,7 @@
       { "text": "Cambios abruptos de tema sin transición", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Hilos temáticos",
     "explanation": "Las isotopías son cadenas de sentido (ej: campo semántico de \"enfermedad\") que entretejen coherencia mediante recurrencias asociativas."
   },
@@ -1815,7 +1815,7 @@
       { "text": "A-II; B-III; C-I", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Finalidad comunicativa",
     "explanation": "La leyenda mezcla historia y ficción, el ensayo explora ideas desde perspectiva autoral, y la parábola ilustra lecciones éticas mediante analogías."
   },
@@ -1829,7 +1829,7 @@
       { "text": "Narrador omnisciente que controla todas las conciencias", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Democracia de voces",
     "explanation": "Según Bajtín, la polifonía presenta múltiples conciencias con igual peso ideológico, donde el autor no impone una visión única."
   },
@@ -1843,7 +1843,7 @@
       { "text": "actualización, presente, modificando", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Reconstrucción del contexto",
     "explanation": "La comprensión profunda de textos antiguos exige reconstruir su entorno intelectual, valores epocales y condiciones materiales de creación."
   },
@@ -1857,7 +1857,7 @@
       { "text": "Neutralidad descriptiva, objetividad absoluta, simplificación léxica", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
     ],
-    "tags": ["GENERAL", "UNAM", "IPN", "EXANI II", "UAM", "BUAP"],
+    "tags": ["GENERAL"],
     "hint": "Adjetivación expresiva",
     "explanation": "El epíteto (ej: \"nieve blanca\") subraya cualidades constitutivas con fines rítmicos, estéticos o connotativos, más que informativos."
   }
