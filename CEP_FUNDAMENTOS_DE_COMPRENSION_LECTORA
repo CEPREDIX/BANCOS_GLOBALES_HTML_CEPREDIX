@@ -480,7 +480,7 @@
     "question": "¿Qué caracteriza a un poema épico?",
     "options": [
       { "text": "Narra hazañas heroicas en verso", "correct": true },
-      { "text": "Critica sociales con ironía", "correct": false },
+      { "text": "Critica sociales com ironía", "correct": false },
       { "text": "Describe paisajes emotivos", "correct": false },
       { "text": "Instruye sobre normas", "correct": false },
       { "text": "No puedo identificar la respuesta 😥", "correct": false }
