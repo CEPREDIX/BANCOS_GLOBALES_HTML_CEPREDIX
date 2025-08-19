@@ -1559,8 +1559,8 @@
     "options": [
       { "text": "tuviera, haría", "correct": true },
       { "text": "tendría, haría", "correct": false },
-      { "text": "tuviera, haría", "correct": true },
-      { "text": "tuviese, haría", "correct": true }
+      { "text": "tuviera, haría", "correct": false },
+      { "text": "tuviese, haría", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
     "level_tag": ["INTERMEDIO"],
@@ -2576,4 +2576,5 @@
     "explanation": "Es una palabra compuesta formada por la unión de la forma verbal 'rompe' y el sustantivo 'olas'."
   }
 ]
+
 
