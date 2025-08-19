@@ -1,12 +1,3 @@
-A continuación te proporcionaré varios bancos de preguntas de distintos temas de la materia de REDACCIÓN INDIRECTA Y GRAMÁTICA. Requiero que revises las preguntas, corrijas errores, elimines preguntas duplicadas y generes un único banco de preguntas con el nuevo formato JSON.
-
-Los identificadores para estos ejercicios tendrán el prefijo: CEPRIG
-Empezarás con el prefijo CEPRIG0aa
-Asignarás el grado de dificultad: ["BÁSICO"], ["INTERMEDIO"], ["AVANZADO"]
-Todas estás preguntas tendrán las etiquetas de proceso "uni_tags": ["GENERAL"]
-
-
-
 [
   {
     "id": "CEPRIG0aa",
@@ -2585,3 +2576,4 @@ Todas estás preguntas tendrán las etiquetas de proceso "uni_tags": ["GENERAL"]
     "explanation": "Es una palabra compuesta formada por la unión de la forma verbal 'rompe' y el sustantivo 'olas'."
   }
 ]
+
